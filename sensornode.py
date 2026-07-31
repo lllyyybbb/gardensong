@@ -2,6 +2,7 @@
 # MicroPython runs this automatically on power-up. It joins WiFi, reads the
 # DHT11, POSTs the reading to the Pi, waits, and repeats.
 #Feather HUZZAH flashed with MicroPython(ESP8266) via Thonny
+# Code generated with Claude
 #
 # LED status (onboard blue LED, next to the antenna):
 #   1 blink  = reading posted OK

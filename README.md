@@ -57,3 +57,5 @@ to read and share.
 
 A sensor + adafruit feather huzzah at the plants, a Raspberry Pi inside running a Markov chain. A new poem is generated
 and published on the hour.
+
+Assisted by Claude Code and the Adafruit docs. 

@@ -5,12 +5,16 @@ poems from my urban garden in baltimore city.
 
 *Poems generated from data from a sensor that Markov-writes a poem every hour, in the voices of Black poets from the public domain.*
 
+<img width="535.5" height="714" alt="sensor" src="https://github.com/user-attachments/assets/60b6fcf8-92ca-46c8-b924-4b942af81a1e" />
+
+
 A small dht11 sensor attached to an adafruit feather huzzah sits out among the plants. Every hour it reads the air around it —
 temperature and humidity — and turns those two numbers into a poem, published here.
+The garden's environment is transliterated into poetry. 
 
-Nothing is written new. Each poem is assembled, word by word, by a Markov chain
+Each poem is assembled, word by word, by a Markov chain (order of 2)
 drawing only on public-domain poetry by Black poets of the late nineteenth and
-early twentieth centuries. My garden is a Black person's garden, and so speaks in their remembered and recombined words.
+early twentieth centuries.
 
 ## How the sensor readings shape the poem
 
@@ -35,8 +39,8 @@ All text is drawn from two public-domain volumes, digitized by
 
 - ***The Book of American Negro Poetry***, chosen and edited by James Weldon
   Johnson (1922) — the first anthology of its kind, gathering thirty-one poets.
-- ***The Complete Poems of Paul Laurence Dunbar***.
-
+-***Harlem Shadows*** by Claude McKay
+-***Poems*** by Francis E. W. Harper
 ### The poets
 
 From Johnson's anthology: Paul Laurence Dunbar · James Edwin Campbell ·
@@ -53,9 +57,13 @@ Joshua Henry Jones Jr.
 All source poems are in the U.S. public domain; the poems generated here are free
 to read and share.
 
+## Note: 
+While period-specific uses of the n-word may be in the corpus, they are not pushed to the public site (a choice made by me.)
+Period-specific uses of the word "Negro" are included. 
+
 ## How it's made
 
-A sensor + adafruit feather huzzah at the plants, a Raspberry Pi inside running a Markov chain. A new poem is generated
-and published on the hour.
+A dht11 sensor + adafruit feather huzzah + 3.7v LiPo battery at the plants, a Raspberry Pi inside running a Markov chain and connecting to 
+a Grafana dash. A new poem is generated and published on the hour.
 
 Assisted by Claude Code and the Adafruit docs. 

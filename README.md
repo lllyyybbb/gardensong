@@ -5,7 +5,7 @@ poems from my urban garden in baltimore city.
 
 *Poems generated from data from a sensor that Markov-writes a poem every hour, in the voices of Black poets from the public domain.*
 
-<img width="2142" height="2856" alt="sensor" src="https://github.com/user-attachments/assets/60b6fcf8-92ca-46c8-b924-4b942af81a1e" />
+<img width="1071" height="1428" alt="sensor" src="https://github.com/user-attachments/assets/60b6fcf8-92ca-46c8-b924-4b942af81a1e" />
 
 
 A small dht11 sensor attached to an adafruit feather huzzah sits out among the plants. Every hour it reads the air around it —

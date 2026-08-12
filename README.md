@@ -8,8 +8,9 @@ poems from my urban garden in baltimore city.
 <img width="535.5" height="714" alt="sensor" src="https://github.com/user-attachments/assets/60b6fcf8-92ca-46c8-b924-4b942af81a1e" />
 
 
-A small dht11 sensor attached to an adafruit feather huzzah sits out among the plants. Every hour it reads the air around it —
+A small dht11 sensor attached to an adafruit feather huzzah sits out among the plants, running on a solar-charged battery. It wakes with the light and, at the top of each hour through the day, reads the air around it —
 temperature and humidity — and turns those two numbers into a poem, published here.
+After dark, on its spent battery, it sleeps until morning.
 The garden's environment is transliterated into poetry. 
 
 Each poem is assembled, word by word, by a Markov chain (order of 2)
@@ -40,7 +41,7 @@ All text is drawn from two public-domain volumes, digitized by
 - ***The Book of American Negro Poetry***, chosen and edited by James Weldon
   Johnson (1922) — the first anthology of its kind, gathering thirty-one poets.
 -***Harlem Shadows*** by Claude McKay
--***Poems*** by Francis E. W. Harper
+-***Poems*** by Frances E. W. Harper
 ### The poets
 
 From Johnson's anthology: Paul Laurence Dunbar · James Edwin Campbell ·
@@ -63,7 +64,7 @@ Period-specific uses of the word "Negro" are included.
 
 ## How it's made
 
-A dht11 sensor + adafruit feather huzzah + 3.7v LiPo battery at the plants, a Raspberry Pi inside running a Markov chain and connecting to 
-a Grafana dash. A new poem is generated and published on the hour.
+A dht11 sensor + adafruit feather huzzah + 3.7v LiPo battery + solar panel at the plants, a Raspberry Pi inside running a Markov chain and connecting to 
+a Grafana dash. A new poem is generated and published on the hour when the board is awake.
 
 Assisted by Claude Code and the Adafruit docs. 

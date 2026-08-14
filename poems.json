@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-30 19:13",
-  "temp_c": 26.7,
-  "temp_f": 80,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Dat ol' mare o' mine.\nBut the Angel, calm and great is life,\nI scorn men's curses, but I pray the\nLord God of Heaven.\nFrom the Gulf and the peach and the\nyellow"
- },
- {
   "time": "2026-07-30 19:21",
   "temp_c": 26.8,
   "temp_f": 80,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Before they come to break and drink,\nHulky flesh nor fleshly spirit!\nI, thy King, teach you and I am\nconvinced\nThe Dawn's awake!\nWhispers of pent-up harmonies,"
+ },
+ {
+  "time": "2026-08-13 22:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Wisht you could stay jes' a little\nsigh,\nAnd pressed your heart exulting into\nmine.\nAnd vowed in that lovely city,\nWhen man was closer to the Oceans'"
  }
 ]

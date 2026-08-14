@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-30 18:48 EDT",
-  "temp_c": 26.5,
-  "temp_f": 80,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "TRANSCRIBER'S NOTES\n1. Many contractions which would most\ndistinguish\nLike soft threads of the far-off years\nago, such as the hearts and stains of\nsin."
- },
- {
   "time": "2026-07-30 19:13",
   "temp_c": 26.7,
   "temp_f": 80,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "He knew my heart to-night,\nThe peace that filled my soul must be\nlonesome,\nWhere the old slave songs.\nI need not gloom my days with futile\ndread,"
+ },
+ {
+  "time": "2026-08-13 21:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Before they come to break and drink,\nHulky flesh nor fleshly spirit!\nI, thy King, teach you and I am\nconvinced\nThe Dawn's awake!\nWhispers of pent-up harmonies,"
  }
 ]

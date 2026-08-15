@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-30 22:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "When the wind grew fierce in his\nco'n;\nI see you, boy?\"\nWen de gal do love me so.\nDoctah Hyar tuk out he wan'ed to\nketch\nWhose ghost we prayed that I can't\ngit"
- },
- {
   "time": "2026-07-31 00:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "The blinking stars in endless space,\nA spark of passion uncorrupt,\nAt the creation, ever heard a voice,\nBringing surcease to her sorrow,\nBidding all her dreadful plight?"
+ },
+ {
+  "time": "2026-08-15 15:00",
+  "temp_c": 38.0,
+  "temp_f": 100,
+  "humidity": 45,
+  "lines": 4,
+  "poem": "At dawn, behold! the pall of night was gone,\nSave me, Jesus, save me.\nHear me as they fall on the reception of the\ntender"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 09:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "And He spat out the still watch,\nlone\nphonetics with those of the Spanish\ngrand\nI shall go by paths, mayhap,\nOn the dusty streets and lanes,\nWhere the plains are bare and wild\nAnd stillness like the ass, must"
- },
- {
   "time": "2026-07-31 10:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "Loud the whistles blew and the hallow of\nold\nFor in her glance there is a fancied\nthing\nI am, and am not."
+ },
+ {
+  "time": "2026-08-15 23:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "The black must serve the white.\nTo greet the coming day.\nThere is a block-head,\nEvery ravine is a fancied thing\nNow for a moment, to look into a pool,"
  }
 ]

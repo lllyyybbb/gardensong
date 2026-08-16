@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 10:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Out in the shadow of death their\nbaleful\nRefute our wilding minstrelsy.\nAlas! that in our house da other\nnight\nWith gold unfading, Washington! be\nthine.\"\nHeredia. Then, too, his birth, his"
- },
- {
   "time": "2026-07-31 11:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "The black must serve the white.\nTo greet the coming day.\nThere is a block-head,\nEvery ravine is a fancied thing\nNow for a moment, to look into a pool,"
+ },
+ {
+  "time": "2026-08-16 09:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "And rape their souls for the clashing\nsabres\nAll the world shall have its sway.\nWhen peace descends like gentle dew\nThey chided him for telling his\naffairs,"
  }
 ]

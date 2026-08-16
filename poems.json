@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 07:40",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Sweeping round each war-crushed\nheart;\nHis eyes bulge wildly out,\nSearching around in vain you die.\nThen from the French. Georgia\nDouglas\nMen warred against their fiercest\nfoes,"
- },
- {
   "time": "2026-07-31 08:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 49,
   "lines": 5,
   "poem": "Ere time has brushed cold fingers thru my\nhair!\nThe dream is lovelier than a hundred\nmidnights\nI think of my skin,"
+ },
+ {
+  "time": "2026-08-15 21:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 50,
+  "lines": 5,
+  "poem": "Ten thousand cords of light.\nToo stormy is the special, startling\nseason\nRed blood to save one child from forests\nwild"
  }
 ]

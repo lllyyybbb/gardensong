@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 14:27",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "And the tethered cow is lowing, lowing,\nAnd laughs away the mystery reveals,--\nManhood's conquest of man\nwho learned to read and pray;\nThe custom of her ode to General\nWashington,\nAnd tangerines and mangoes and grape"
- },
- {
   "time": "2026-07-31 14:52",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Could be starving, but not control,\nI seek is passing, passing?\nSummah night an' sighin' breeze,\nThe faint one at his plow!\nIn mercy, love and life.\nHad dared to raise its head;\nI'm longing to clasp her words"
+ },
+ {
+  "time": "2026-08-17 10:00",
+  "temp_c": 35.0,
+  "temp_f": 95,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "Neber dreamin' of his wasted life.\nLife was trembling, faintly trembling\nOn roads that wind around the throne,\nA boy came running up with dust and grim\nWith butterflies and bees close to his feet!\nDah, now, I t'ought dat you'd hug me up close."
  }
 ]

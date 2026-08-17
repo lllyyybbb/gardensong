@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 16:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Is 't because of his naïve and childish\ntraits,\nChrist washed the feet of clay.\nThe marbled towers of Shushan:\nSo lusty and proud\nStill shines the gate, all gold and"
- },
- {
   "time": "2026-07-31 17:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "And speak their tongue?\nIs rocking to and ride the rebel roan;\nBut songs to thrill the hearts of men\nI have hyeahd o' lots o' sermons,\nAn' I've listened to some singin'"
+ },
+ {
+  "time": "2026-08-17 12:00",
+  "temp_c": 36.0,
+  "temp_f": 97,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "And careworn brows forget.\nLet me dream\nOf captive wind that moans for fields and\nseas;\nSickle comes and leaves us stunned and dazed;"
  }
 ]

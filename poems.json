@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 17:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "Of severed hearts again made one,\nKnowing man is a snare,\nAnd life is greater far\nThan this gray calm!\nIs a place of wonder."
- },
- {
   "time": "2026-07-31 18:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "And careworn brows forget.\nLet me dream\nOf captive wind that moans for fields and\nseas;\nSickle comes and leaves us stunned and dazed;"
+ },
+ {
+  "time": "2026-08-17 13:00",
+  "temp_c": 36.0,
+  "temp_f": 97,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "The cosmic brotherhood\nOf Trampled rights, of caste, it matters not,\nWhen God shall enter,\nAnd bids us run with willing feet\nGo work in my eyes!"
  }
 ]

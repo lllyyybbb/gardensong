@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 22:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "And Lincoln, our martyred President,\nWho is it all de time.\nThere I should never hear the\nQueen's\nCount 'em two, you make 'em three:\nPluck the stars to the fair white\narch\nThe Negro bound with servile bands,"
- },
- {
   "time": "2026-08-01 00:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "The bell is sounding and the yellow yam,\nFor God's great cause to die--\nA twitching body quivering in space,\nAnd there the great life line of the island of\nthe lips of men grown tender"
+ },
+ {
+  "time": "2026-08-17 18:00",
+  "temp_c": 35.0,
+  "temp_f": 95,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "And bow in rev'rence at the noon-hour from the\nrains\nButchered for a holiday.\nFrom his grave his mangled body\nDid he against their fiercest foes,"
  }
 ]

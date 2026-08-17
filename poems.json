@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 11:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "\"'Twas mercy brought me gold,\nFar as the Spartan, proud to give a\nstruggle for Cuban independence. His\ndeath\nStones on his sword,\nTo flutter here? Thou hast no need of\nprayer."
- },
- {
   "time": "2026-07-31 12:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "And rape their souls for the clashing\nsabres\nAll the world shall have its sway.\nWhen peace descends like gentle dew\nThey chided him for telling his\naffairs,"
+ },
+ {
+  "time": "2026-08-17 08:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Des awaitin', honey,\nCozy fixt fur you;\nDown in the earth--\nAnd tread it 'neath my feet,\nAnd you'll see into my heart.\nDo not cheer, for aged colored\npeople,"
  }
 ]

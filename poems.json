@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 19:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "Demands forgiveness. Bruised with blow\non account his rheumatis',\nAn' de profit it could bring,\nA'ter all de call;\nSugar sell fe two-an'-six!\nSo we held a secret meetin', whah de\nwhite"
- },
- {
   "time": "2026-07-31 20:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "And speak their tongue?\nIs rocking to and ride the rebel roan;\nBut songs to thrill the hearts of men\nI have hyeahd o' lots o' sermons,\nAn' I've listened to some singin'"
+ },
+ {
+  "time": "2026-08-17 15:00",
+  "temp_c": 38.0,
+  "temp_f": 100,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "Into the quiet bosom of the endless fight,\nSo Ah got scared an' sent for you.--\nNow, a'ter de toilin' hard,\nAnd speak their tongue?\nIs 't because of loss of pain?"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 00:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "The long-drawn dreary day, the\nnight's\nBy night they stealthily had stol’n\naway.\nMy brows men laureled and my\nsisters,\nOf agony, hatred and fear?\nMen whose hearts"
- },
- {
   "time": "2026-08-01 01:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "And bow in rev'rence at the noon-hour from the\nrains\nButchered for a holiday.\nFrom his grave his mangled body\nDid he against their fiercest foes,"
+ },
+ {
+  "time": "2026-08-17 19:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-07-31 20:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "Sour-sop, and Gub'nor cane.\nCous' Sun sits in hired dray,\nDrivin' 'long de market way;\nI know which race develops most,\nI can't hahdly 'fo'd a toothpick an' a"
- },
- {
   "time": "2026-07-31 21:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "Into the quiet bosom of the endless fight,\nSo Ah got scared an' sent for you.--\nNow, a'ter de toilin' hard,\nAnd speak their tongue?\nIs 't because of loss of pain?"
+ },
+ {
+  "time": "2026-08-17 16:00",
+  "temp_c": 38.0,
+  "temp_f": 100,
+  "humidity": 50,
+  "lines": 5,
+  "poem": "What for my heart his hand,\nStruck off our bonds and made us men.\nTo-night my heart\nI plucked my soul I cry to Thee;\nKeep me, Jesus, save me."
  }
 ]

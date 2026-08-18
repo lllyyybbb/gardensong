@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 01:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "LET THE LIGHT ENTER.\nThe white man\nand held our leaping hands, but\nthey--did\nWith each strong deed,\n\"The sword of right,\nWith the light in His own image;\nThen the hearts of fearless valor"
- },
- {
   "time": "2026-08-01 02:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
+ },
+ {
+  "time": "2026-08-17 20:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "For the cock which crows at the feet\nGo prowling through the trees\nAnd strife and carnage--\nFrom out its misty veil will swing aloft!\nBe not deceived, for every deed you do\n'Dout a lovah's lane."
  }
 ]

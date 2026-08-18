@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 19:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "years of strife,\nAnd asked to enter in;\nBut you have gentle compassion;\nYour hate of vice a sham,\nWhen she saw her birth;"
- },
- {
   "time": "2026-08-01 20:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Tekin' out de lee amount,\nHim stomp him foot urpon de groun';\nDe moon am bright, O you'll be seen,\nRing, my bawnjer, ring!\nDe corn is sweetly growin',\n'Weh down Souf"
+ },
+ {
+  "time": "2026-08-18 19:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "For the cock which crows at the feet\nGo prowling through the trees\nAnd strife and carnage--\nFrom out its misty veil will swing aloft!\nBe not deceived, for every deed you do\n'Dout a lovah's lane."
  }
 ]

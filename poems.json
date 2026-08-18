@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 15:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "Within your homes you press the hand of\nDeath.\nto-day associate editor of _The\nLiberator_, _The Messenger_, and _The\nCambridge\nTHE NIGHT FIRE"
- },
- {
   "time": "2026-08-01 17:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "And leave his laurels at his people's feet.\nAnd she watched in lonely grief and sin\nStill must one succor those who love honest\nmusic.\nThey branded him \"the bard of the Spring,\nIn sculptured worship now he lives,"
+ },
+ {
+  "time": "2026-08-18 16:00",
+  "temp_c": 35.0,
+  "temp_f": 95,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "I paused because I hate.\nLovely dainty Spanish needle,\nSource to me I jes can't he'p but sigh,\nSeems lak to me I don't wake the town to sing\nand\nWith beauty, miracle and mirth."
  }
 ]

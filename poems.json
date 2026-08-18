@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 10:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Behold this maimed and murdered, his\nwife\ntold how some one said another did--one\nwhom\nAnd every bosom glows as she inspires!\nAlready thousands of your words,\nThe dear Redeemer's grave."
- },
- {
   "time": "2026-08-01 11:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "From a vision fair and a musty\npage,\nBurn on! and on! and on! It seems\nWe shall smile who loved him so--\nThey heard the wail of warriors,\ndusk\nSent her forth the wild sweet\nflowers."
+ },
+ {
+  "time": "2026-08-18 08:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Smile beacon answers to their plea,\nOut in the hills we heard a theme\nNobler than \"Go down, Moses.\" Mark\nits\nLast Chance Saloon, drink a gallon or\ntwo\nLay the victims of the faint breeze,\n'Long de lovah's lane."
  }
 ]

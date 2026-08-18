@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 12:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "To match the praise of Godlike Washington.\nThrice happy Chief in whom the virtues join,\nAnd the lions' dreadful roar.\nOn which the great books\nwritten in celebration of the clouds glow"
- },
- {
   "time": "2026-08-01 13:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Loud an' clear, sweet an' gentle heart:\n\"Dear one o' my heart, mother,\nWas entering in at his side.\nSee! There he stands; not brave, but with\nan\nLooked over heads to empty air,\nAs they bore him from the sale of my Lord"
+ },
+ {
+  "time": "2026-08-18 10:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "A guiltless victim's pains.\nI wouldn' be s'prised ef we had tried to\nsave;\nThe Negro bound with you in your darkness,\ndid\nSo long but outlives a smile and"
  }
 ]

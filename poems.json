@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 03:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 90,
-  "lines": 8,
-  "poem": "And your brown burning body was a\ngran\nMaker-of-Sevens in the eye!\nIf I's layin' 'mong de t'ings I's\nallus\nSomething in me a true and grand,\nIn mercy, love and truth;\nAnd friends have placed on it,"
- },
- {
   "time": "2026-08-01 05:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "And set him fast in jail:\nOh, some I know! I have no tinted thoughts\nto dance for us,\" the rough men said;\nKnowing man is a snare,\nAnd works the droning bee.\nAnd lay down with a smile,"
+ },
+ {
+  "time": "2026-08-17 22:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "That stretches to the calm earth seeking\npeace\nAnd for our need,\nBut not the whole.\nContemplating the strange, I’m comforted\nBy angel fingers strung."
  }
 ]

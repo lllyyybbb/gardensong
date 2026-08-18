@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 11:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "I WANT TO DIE\nIf envious hate roots out the people,\nSongs for the years;\nStill thoughts are stirred to wakefulness;\nbecause they are sung.\nNot as soldiers, but as men."
- },
- {
   "time": "2026-08-01 12:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "Smile beacon answers to their plea,\nOut in the hills we heard a theme\nNobler than \"Go down, Moses.\" Mark\nits\nLast Chance Saloon, drink a gallon or\ntwo\nLay the victims of the faint breeze,\n'Long de lovah's lane."
+ },
+ {
+  "time": "2026-08-18 09:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Loud an' clear, sweet an' gentle heart:\n\"Dear one o' my heart, mother,\nWas entering in at his side.\nSee! There he stands; not brave, but with\nan\nLooked over heads to empty air,\nAs they bore him from the sale of my Lord"
  }
 ]

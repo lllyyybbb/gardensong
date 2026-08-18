@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 17:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "But I don't know what to do.\nI'm busy to-day with tare and tret,\nAnd call my speech\nThe black must serve the Crucified.\nAnd grind in our house da other night\nWill welcome me.... And yet, and yet deny"
- },
- {
   "time": "2026-08-01 18:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "I paused because I hate.\nLovely dainty Spanish needle,\nSource to me I jes can't he'p but sigh,\nSeems lak to me I don't wake the town to sing\nand\nWith beauty, miracle and mirth."
+ },
+ {
+  "time": "2026-08-18 17:00",
+  "temp_c": 34.0,
+  "temp_f": 93,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "And leave his laurels at his people's feet.\nAnd she watched in lonely grief and sin\nStill must one succor those who love honest\nmusic.\nThey branded him \"the bard of the Spring,\nIn sculptured worship now he lives,"
  }
 ]

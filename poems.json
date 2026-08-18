@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 18:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 43,
-  "lines": 4,
-  "poem": "Barrier, The\nWhy does not constitute the greatest\nromancer\nThe weight of him whom the virtues join,"
- },
- {
   "time": "2026-08-01 19:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "And leave his laurels at his people's feet.\nAnd she watched in lonely grief and sin\nStill must one succor those who love honest\nmusic.\nThey branded him \"the bard of the Spring,\nIn sculptured worship now he lives,"
+ },
+ {
+  "time": "2026-08-18 18:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "Tekin' out de lee amount,\nHim stomp him foot urpon de groun';\nDe moon am bright, O you'll be seen,\nRing, my bawnjer, ring!\nDe corn is sweetly growin',\n'Weh down Souf"
  }
 ]

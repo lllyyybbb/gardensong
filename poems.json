@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 14:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "His journeying was o'er,\nThe gaze you send the crowd,\nThe Feet of Judas, The\nSandy Star come home.\nAnd, brother, what shall you say?\nIS IT BECAUSE I AM BLACK?"
- },
- {
   "time": "2026-08-01 15:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "He feel dee pu's' den he look mighty blue,\nSeems lak to me the fearful fires of lust,\nLit long ago, by other hands than mine.\nYour eyes are dawning day;\nOnly the swallow-twittering eaves.\nWhat despair was in the night."
+ },
+ {
+  "time": "2026-08-18 15:00",
+  "temp_c": 34.0,
+  "temp_f": 93,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "And leave his laurels at his people's feet.\nAnd she watched in lonely grief and sin\nStill must one succor those who love honest\nmusic.\nThey branded him \"the bard of the Spring,\nIn sculptured worship now he lives,"
  }
 ]

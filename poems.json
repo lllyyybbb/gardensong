@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 05:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 91,
-  "lines": 8,
-  "poem": "It was something to her who dares\nTo where a thousand fold,\nFor in her methods. Her lines are\ntaken\nIn the Book of Georgian Verse, The\nBook of Restoration Verse_ and a\nbounding\nAnd whether the learned sisters"
- },
- {
   "time": "2026-08-01 06:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "That stretches to the calm earth seeking\npeace\nAnd for our need,\nBut not the whole.\nContemplating the strange, I’m comforted\nBy angel fingers strung."
+ },
+ {
+  "time": "2026-08-17 23:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "It is nothing to me, the beauty said,\nAnd every little baby\nBrings a message from the sun's bright\nsheen.\nAnd yet, and yet to-day\nThe sacred brown feet of clay."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 13:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "SHIPS THAT PASS IN THE U.S.A. BY\nFRANCES E. W. HARPER\nWhereas thou hast been forsaken and hated,\nso\nLift your heavy-lidded eyes, Ethiopia!\nawake!"
- },
- {
   "time": "2026-08-01 14:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "A guiltless victim's pains.\nI wouldn' be s'prised ef we had tried to\nsave;\nThe Negro bound with you in your darkness,\ndid\nSo long but outlives a smile and"
+ },
+ {
+  "time": "2026-08-18 11:00",
+  "temp_c": 35.0,
+  "temp_f": 95,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "He feel dee pu's' den he look mighty blue,\nSeems lak to me the fearful fires of lust,\nLit long ago, by other hands than mine.\nYour eyes are dawning day;\nOnly the swallow-twittering eaves.\nWhat despair was in the night."
  }
 ]

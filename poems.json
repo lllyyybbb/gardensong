@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 00:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "I WANT TO DIE\nIf envious hate roots out the people,\nSongs for the years;\nStill thoughts are stirred to wakefulness;\nbecause they are sung.\nNot as soldiers, but as men."
- },
- {
   "time": "2026-08-02 02:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 41,
   "lines": 4,
   "poem": "And the lightning's flash their vengeful\nsteel.\nI have forgotten, strange, but quite remember\nThe dawn of freedom's light."
+ },
+ {
+  "time": "2026-08-19 18:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "Transfigured, bathed in your mean graves,\nO black and rolling smoke of sin, where all\nalong\nMah 'ittle Touzle Head!\nI traced a path to shame and woe."
  }
 ]

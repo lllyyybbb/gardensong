@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 23:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "Grown lovelier for passing through a storm.\nUpon thy purple mat thy body bare\nIs fine and limber like a stag that flees\nthe innocent crucified for the world's\nfair in that city. For many years a writer\nof age, and soon became acquainted with the"
- },
- {
   "time": "2026-08-02 00:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 42,
   "lines": 4,
   "poem": "There, oh there! on the barren hill\nWhere her chariot descends\nShall not be like hogs\nHunted and penned in an orange grove,"
+ },
+ {
+  "time": "2026-08-19 17:00",
+  "temp_c": 36.0,
+  "temp_f": 97,
+  "humidity": 41,
+  "lines": 4,
+  "poem": "And the lightning's flash their vengeful\nsteel.\nI have forgotten, strange, but quite remember\nThe dawn of freedom's light."
  }
 ]

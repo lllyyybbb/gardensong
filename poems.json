@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 20:14",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "In vain for help to me.\nTHE HILLS OF SEWANEE\nSewanee Hills of Sewanee, The\nTime to Die\n'Ittle Touzle Head\nZalka Peetruza"
- },
- {
   "time": "2026-08-01 21:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "Which will bring thee windows\nof Peace is hovering over No\nMan's\nAnd died in anguish on the\nrose,\nAnd for their God.\nAnd back behind those smiling\nlips,"
+ },
+ {
+  "time": "2026-08-19 08:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "Thinks you dat I is Black Pattie,\nMah 'ittle Touzle Head.\nDe air is blowin' mighty cold,\nLike a band of savage men,\n\"As ye would that others do to\nyou\nAnd all her discords--\nPeace till war and crime shall"
  }
 ]

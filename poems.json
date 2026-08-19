@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 22:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "The pea-dove sings, and each note thrills\nme\nWhen her eyes in death their baleful light.\nChildren of the greatness of all the\nemotional endowment, the originality and\nartistic production by which America is"
- },
- {
   "time": "2026-08-01 23:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 43,
   "lines": 4,
   "poem": "Hot the tears of passion saturate with\nbrine,\nAnd my life of man.\nO Earth, O Sky, O Ocean, both surpassing,"
+ },
+ {
+  "time": "2026-08-19 16:00",
+  "temp_c": 37.0,
+  "temp_f": 99,
+  "humidity": 42,
+  "lines": 4,
+  "poem": "There, oh there! on the barren hill\nWhere her chariot descends\nShall not be like hogs\nHunted and penned in an orange grove,"
  }
 ]

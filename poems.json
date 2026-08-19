@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-01 21:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "black and unknown bards of long\nsentences are the Cakewalk and ragtime.\nWe rooted them out of the long ago;\nOr with new worlds amaze the unbounded\nsoul.\"\nAnd the void consumes me,--all"
- },
- {
   "time": "2026-08-01 22:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "Thinks you dat I is Black Pattie,\nMah 'ittle Touzle Head.\nDe air is blowin' mighty cold,\nLike a band of savage men,\n\"As ye would that others do to\nyou\nAnd all her discords--\nPeace till war and crime shall"
+ },
+ {
+  "time": "2026-08-19 15:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 43,
+  "lines": 4,
+  "poem": "Hot the tears of passion saturate with\nbrine,\nAnd my life of man.\nO Earth, O Sky, O Ocean, both surpassing,"
  }
 ]

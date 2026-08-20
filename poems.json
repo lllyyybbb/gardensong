@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 03:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "BURIAL OF SARAH.\nHe stood before the advent of\nthe north. Since then he went to the\nshining\nThrow the windows widely open:\nLight! more light! for Death is weaving"
- },
- {
   "time": "2026-08-02 05:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "Yielding at length the last reluctant\nbreath.\nThe full supreme surrendering of me.\nOh, some I know! Ah, Friend, I know! I have\nlived."
+ },
+ {
+  "time": "2026-08-20 16:00",
+  "temp_c": 31.0,
+  "temp_f": 88,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "Could be starving, but not control,\nI seek is passing, passing?\nSummah night an' sighin' breeze,\nThe faint one at his plow!\nIn mercy, love and life.\nHad dared to raise its head;\nI'm longing to clasp her words"
  }
 ]

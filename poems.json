@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 05:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "She clasped the ancient rock around,\nDing, Dong, Ding.\nOle massa said he could take a\nperspective\nFrom their distant homes in pain;\nAnd wide-mouthed orchids smile."
- },
- {
   "time": "2026-08-02 06:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Could be starving, but not control,\nI seek is passing, passing?\nSummah night an' sighin' breeze,\nThe faint one at his plow!\nIn mercy, love and life.\nHad dared to raise its head;\nI'm longing to clasp her words"
+ },
+ {
+  "time": "2026-08-20 17:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "I'll make me a world.\"_\nAnd trampled on his sword,\nTo buy drops fe las'y son,\nFor fear that they might mark me for a\nmoment,\nTill our world, so worn and weary eyes\nWatches the mad world with peace."
  }
 ]

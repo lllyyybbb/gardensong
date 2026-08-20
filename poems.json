@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 06:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Is 't because of his naïve and childish\ntraits,\nChrist washed the feet of clay.\nThe marbled towers of Shushan:\nSo lusty and proud\nStill shines the gate, all gold and"
- },
- {
   "time": "2026-08-02 07:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "I'll make me a world.\"_\nAnd trampled on his sword,\nTo buy drops fe las'y son,\nFor fear that they might mark me for a\nmoment,\nTill our world, so worn and weary eyes\nWatches the mad world with peace."
+ },
+ {
+  "time": "2026-08-20 18:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Upon your hearts this vow record\nThat Vashti lay aside her crown,\nOr braver hero died,\nThan the brightest sun or setting of the\nusual\n'Long de lovah's lane,\nTry'n' to hyeah me whut I say"
  }
 ]

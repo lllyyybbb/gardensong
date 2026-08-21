@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 21:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "\"Build me a world.\"_\nAnd fear our heritage to claim?\nNo! stand erect and without fear,\nAnd myself answer: Till the prefect\ngave\ncolored poet of superior talent and to\nvoice\nIndignation Dinner, An"
- },
- {
   "time": "2026-08-02 22:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 50,
   "lines": 5,
   "poem": "Each one stretchin' out him han',\nLookin' to de big buggah-man;\nI almost think the angels,\nAnd smiled and uttered peace.\nSlight was the gallant faith, I trow,"
+ },
+ {
+  "time": "2026-08-21 14:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 48,
+  "lines": 5,
+  "poem": "And sound! ye with harp and flute ne'er\nessay\nWhen I declare I am black?\nThe great white witch rides out to-night.\nO, de light-bugs glimmer down de lane,"
  }
 ]

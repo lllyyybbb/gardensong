@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 08:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Shall be changed to a composer, must be\nhappening\nit from many different angles. In Whitman\nwe\nWho march to war with visions in their\ninsatiate\nI stand and gaze"
- },
- {
   "time": "2026-08-02 09:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "Lay by your soft vermilion robe,\nAmorous of sweets, for but one perfect\nhour!\nFrom the cities in the night lets fall\nIts weariness and care\nFor Time's deft fingers scroll my brow\nThe man is greater than the first."
+ },
+ {
+  "time": "2026-08-20 20:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Cheery, clean an' bright,\nAnd sounded is the charge they\nmake),\nShould stop, e'en for a master's\nnose\nEvery well man is a lovely noise\nabout"
  }
 ]

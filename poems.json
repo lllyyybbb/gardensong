@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 22:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "Like white moths trembling on the far\nPacific\nFor the sturdy oaks and the thunder of\ncannon\nDarlin' treasure of his idioms and\nthe poetry club,\nIt was not fate which overtook me,"
- },
- {
   "time": "2026-08-03 00:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "And sound! ye with harp and flute ne'er\nessay\nWhen I declare I am black?\nThe great white witch rides out to-night.\nO, de light-bugs glimmer down de lane,"
+ },
+ {
+  "time": "2026-08-21 15:00",
+  "temp_c": 34.0,
+  "temp_f": 93,
+  "humidity": 44,
+  "lines": 4,
+  "poem": "His blood and tears are shed,\nThat was never spoken,\nBut when you’re filled and sated with the\ndrape"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 13:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "The dream is lovelier than a hundred crimes\nwhile\nPrinted in the public schools of his loss\nMust the pathway unto freedom\nEver and anon she cried;\nBut when the night from street to street."
- },
- {
   "time": "2026-08-02 14:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 83,
   "lines": 8,
   "poem": "mocked and murdered people;\nstraining\nTo Jamie it seemed more clear;\nGrandma, he said, \"to buy a\nlittle\n\"I bled to free all men,\" you\nsay\nAnd I am not fiend and savage"
+ },
+ {
+  "time": "2026-08-21 09:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "They may not ask me e'er to prove\nThe thunder's roll is their trump's\npeal,\nAs with thumbs unbent they glared,\nTill her footsteps cease to be.\nWould still be brave,\nAnd the light around in vain you"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 09:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "But seated on the Spring.\nHis lonely agonizing pain,\nAnd schoolboys, from Bridge-tunnel going\nhome,\n_(En La Capilla)_\nSi la suerte fatal que me ha cabido,\nY el triste fin de mi sangrienta historia,"
- },
- {
   "time": "2026-08-02 11:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Cheery, clean an' bright,\nAnd sounded is the charge they\nmake),\nShould stop, e'en for a master's\nnose\nEvery well man is a lovely noise\nabout"
+ },
+ {
+  "time": "2026-08-20 21:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "Of healthy children you have torn a\nnerve\nThe lady riding at thy command;\nAgainst the plea thy grief hath\nmade\nAn' stops dis ha't f'um sighin'!\nO my good Lamb,"
  }
 ]

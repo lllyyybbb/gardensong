@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 11:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "And little Jamie was wondering,\nWhy flow your tears so holden\nSaw none he despised, though poor and\ndesolate?\nAnd where life lay in travail, God our\nLord, who am I of planted seed;\nThe burdens will always he heavy,"
- },
- {
   "time": "2026-08-02 12:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "Of healthy children you have torn a\nnerve\nThe lady riding at thy command;\nAgainst the plea thy grief hath\nmade\nAn' stops dis ha't f'um sighin'!\nO my good Lamb,"
+ },
+ {
+  "time": "2026-08-21 07:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "I have seen the great\nhereafter\nThe only source to gain his\nfreedom,\nBut God renews my spirit's\nstrength,\nYod'lin' in de skies\nDey's a lovah's lane."
  }
 ]

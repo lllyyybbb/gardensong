@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 12:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "I WANT TO DIE\nIf envious hate roots out the people,\nSongs for the years;\nStill thoughts are stirred to wakefulness;\nbecause they are sung.\nNot as soldiers, but as men."
- },
- {
   "time": "2026-08-02 13:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "I have seen the great\nhereafter\nThe only source to gain his\nfreedom,\nBut God renews my spirit's\nstrength,\nYod'lin' in de skies\nDey's a lovah's lane."
+ },
+ {
+  "time": "2026-08-21 08:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 83,
+  "lines": 8,
+  "poem": "mocked and murdered people;\nstraining\nTo Jamie it seemed more clear;\nGrandma, he said, \"to buy a\nlittle\n\"I bled to free all men,\" you\nsay\nAnd I am not fiend and savage"
  }
 ]

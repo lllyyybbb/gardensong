@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 14:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And it's, oh, for the rights of man\nand held our leaping hands, but they--did\nthey were strong and he had gained a\nmean standard of the gods;\nUnloosen them and let us breathe the air\nwith his last breath"
- },
- {
   "time": "2026-08-02 15:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "They may not ask me e'er to prove\nThe thunder's roll is their trump's\npeal,\nAs with thumbs unbent they glared,\nTill her footsteps cease to be.\nWould still be brave,\nAnd the light around in vain you"
+ },
+ {
+  "time": "2026-08-21 10:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "It is nothing to me, the beauty said,\nAnd every little baby\nBrings a message from the sun's bright\nsheen.\nAnd yet, and yet to-day\nThe sacred brown feet of clay."
  }
 ]

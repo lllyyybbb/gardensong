@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-02 15:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Ober hilly track an' lea.\nHard-wuk'd donkey on de railroad line,\nLet me settle w'en my shouldahs draps dey\nload\n'Long de lovah's lane,\nMerlindy! Merlindy!"
- },
- {
   "time": "2026-08-02 16:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "It is nothing to me, the beauty said,\nAnd every little baby\nBrings a message from the sun's bright\nsheen.\nAnd yet, and yet to-day\nThe sacred brown feet of clay."
+ },
+ {
+  "time": "2026-08-21 11:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "The black must serve the white.\nTo greet the coming day.\nThere is a block-head,\nEvery ravine is a fancied thing\nNow for a moment, to look into a pool,"
  }
 ]

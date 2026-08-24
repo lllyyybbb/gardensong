@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-03 14:00",
-  "temp_c": 39.0,
-  "temp_f": 102,
-  "humidity": 43,
-  "lines": 4,
-  "poem": "Will mingle with the Southern colored soldiers\nin Thy nostrils, O God? How long shall\nthe lesser trees’\nBare hands to me."
- },
- {
   "time": "2026-08-03 15:00",
   "temp_c": 37.0,
   "temp_f": 99,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "And the lightning's flash their\nvengeful\n* * * * * * * * * *\nI never again shall feel your\nhead\nHow it stirs yo' blood!\nEver'body list'nin',\nIn that hour of rest."
+ },
+ {
+  "time": "2026-08-24 02:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Cut an' carve, an' carve an'\ncut,\nMaking brighter life's highway\nDewdrops and the yellow yam,\nFor all the mighty hour\nThat Vashti lay aside her\ncrown,\nDouble notes crying,"
  }
 ]

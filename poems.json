@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-04 17:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "But with the Evening Star,\nAnd lured her from her bosom\nTo dreamy languors and the widest scope of\ntreatment.\nWith love's constraint he drew me on,"
- },
- {
   "time": "2026-08-04 19:33",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "Unto the God of peace and rest.\nTo us the Plan; give us undisturbed and\nfriendly\nAs he blessed his better part\nFor I would never penetrate the prayers"
+ },
+ {
+  "time": "2026-08-24 17:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "His spirit must have nightly floated\nfree,\n\"The sword of the rose-apple.\nI hold my head and wept.\nTurn me to linger here, alas,"
  }
 ]

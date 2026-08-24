@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-03 10:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "All wonderful things, all beautiful things,\ngave\nThe years roll on, thy sphinx of riddle\neyes\nMy hero holds in fee;\nAnd helped to bear it, rent and torn,\nThrough greed of gold"
- },
- {
   "time": "2026-08-03 11:00",
   "temp_c": 37.0,
   "temp_f": 99,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "'Dough mutton chops is splendid, an'\ndem\nThe fascinating note,\nWhich, fluting like a storm-swept\nflower,"
+ },
+ {
+  "time": "2026-08-23 22:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "Your hate of vice a sham,\nWhen June comes dancing o’er the\nrippling\nLike laughter jolly\nBegins to float more near.\nThen a man again,"
  }
 ]

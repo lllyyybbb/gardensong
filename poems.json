@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-03 11:00",
-  "temp_c": 37.0,
-  "temp_f": 99,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Cous' Sun sits in silent pride.\nAnd some called it the resurrection flower;\nAnd sinks into my heart.\nDo not cheer: once joyous maidens,\nMen grasped the writing;\n\"I hear them call,\" cried the dying man,"
- },
- {
   "time": "2026-08-03 12:00",
   "temp_c": 42.0,
   "temp_f": 108,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "Your hate of vice a sham,\nWhen June comes dancing o’er the\nrippling\nLike laughter jolly\nBegins to float more near.\nThen a man again,"
+ },
+ {
+  "time": "2026-08-23 23:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "It was something to him in my\nhumbled\nTo make our age the fairest one\nOf children for their bartered\nmothers'\nTo dwell with beautiful angels,"
  }
 ]

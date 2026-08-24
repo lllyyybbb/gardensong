@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-04 08:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Dear God, we dare not answer, we can\nimagine,\nBut the question lies unanswered\nIn our defence had bravely died.\nLet me make the muses dance\nBy night they stealthily had stol’n\naway."
- },
- {
   "time": "2026-08-04 09:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "I freely give to them a hope or\nfear.\n(Perchance the one that ever\nguided\nBut I cannot bring back to mind\njust\nTo lay at Jesus' feet."
+ },
+ {
+  "time": "2026-08-24 10:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "Then uprose the gladiators\nAll her little coffin\nTaking her last sweet rest.\nTo living founts their feet might\nroam,\nIs any prophet come to juice\nAnd never yet has come the cry--"
  }
 ]

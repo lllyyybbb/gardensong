@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-03 12:00",
-  "temp_c": 42.0,
-  "temp_f": 108,
-  "humidity": 38,
-  "lines": 4,
-  "poem": "And they knew that his first line will put the\ngeneral average would have done greater work.\nAs a man, Dunbar was kind and true;\nThey shall see"
- },
- {
   "time": "2026-08-03 13:00",
   "temp_c": 40.0,
   "temp_f": 104,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "It was something to him in my\nhumbled\nTo make our age the fairest one\nOf children for their bartered\nmothers'\nTo dwell with beautiful angels,"
+ },
+ {
+  "time": "2026-08-24 00:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Why must this horror be\nFor fainting France, for faithful\nFrance,\nAnd in this mansion\nFrom this uplifted, mighty\nmountain-seat:\nFor this my race"
  }
 ]

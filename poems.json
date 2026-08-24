@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-03 19:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "Arms locked, our warm flesh pulsing with\nlove’s\n* * *\nHave sheltered for the beauty-shorn earth.\nAll his hope of life sold to me ma th'oat"
- },
- {
   "time": "2026-08-03 20:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 91,
   "lines": 8,
   "poem": "And quicker than God could\ndrop\nShe plied her hands to life's\nhomely\nAnd God walked, and where He\ntrod\nOn which the sages tell;\nOn that Roman holiday."
+ },
+ {
+  "time": "2026-08-24 06:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 92,
+  "lines": 8,
+  "poem": "When she saw her cheek had\nfled.\nThey were only brothers then,\nJoining in the copse?\nOh, I have forgot\nWhat time of year the ground\ndoves\nShe pressed it on my brow."
  }
 ]

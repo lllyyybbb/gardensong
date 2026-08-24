@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-04 12:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "To cleanse my body to the\nmilitant love of Freedom sprung,\nWhence flow these wishes for the night,\nOver the sea sings low.\nAnd nestle close to light divine?"
- },
- {
   "time": "2026-08-04 13:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "Of wis-wis twisted round the dreadful\nroar\nAnd the hearts of men\nWith grandeur could adorn each tomb,\nFor Christless men, with reckless"
+ },
+ {
+  "time": "2026-08-24 14:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "Lay the victims of the Nazarene,\nChildren of the long ago;\nOr dawn dews heavy in some neglected\nspot\nSeen only on a thousand fold,"
  }
 ]

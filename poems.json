@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-04 20:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "There is a committee foh to tote de goodies\nhere.\"\nLet peace at last when all is done.\nThe cosmic brotherhood\nOf our purely native songs the jammas"
- },
- {
   "time": "2026-08-04 21:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 47,
   "lines": 5,
   "poem": "Their sweet imagining;\nNot in vain had been an Afric\nchieftain,\nIs a prayer or a tear,\nFor Freedom--when their own dear"
+ },
+ {
+  "time": "2026-08-24 19:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "For weary centuries despised,\noppressed,\nImpatient people jammed in line for\nfood,\nStood, and let his feet hang down"
  }
 ]

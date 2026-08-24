@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-03 21:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "And all its sorrow,\nTill all the wandering world would gain.\nGO WORK IN MY VINEYARD.\nGo work in prose\nthan the changeless southern isles,"
- },
- {
   "time": "2026-08-03 22:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 83,
   "lines": 8,
   "poem": "Knelt by that badge in prayer.\nSewanee Hills of dear delight,\nAnd God walked, and where He\ncould\nOr do you moan,\nWhat is a sick man,\nEvery man has got a hobby,\nEvery sweet contains its"
+ },
+ {
+  "time": "2026-08-24 08:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Of you. Nor you of the old\ndraft-horse\nApplauding youths laughed with\nyoung\nTo an idle age and a musty page,\nTo be a man again,\nAnd praying I may soon forget"
  }
 ]

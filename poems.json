@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-03 13:00",
-  "temp_c": 40.0,
-  "temp_f": 104,
-  "humidity": 40,
-  "lines": 4,
-  "poem": "ROSCOE C. JAMISON\nThe sun went down through crimson bars,\nAnd idly watch the squirrels frisk\nAnd startled to hear us, good Lord!_"
- },
- {
   "time": "2026-08-03 14:00",
   "temp_c": 39.0,
   "temp_f": 102,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Why must this horror be\nFor fainting France, for faithful\nFrance,\nAnd in this mansion\nFrom this uplifted, mighty\nmountain-seat:\nFor this my race"
+ },
+ {
+  "time": "2026-08-24 01:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "And the lightning's flash their\nvengeful\n* * * * * * * * * *\nI never again shall feel your\nhead\nHow it stirs yo' blood!\nEver'body list'nin',\nIn that hour of rest."
  }
 ]

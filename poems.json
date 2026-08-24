@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-04 14:00",
-  "temp_c": 37.0,
-  "temp_f": 99,
-  "humidity": 42,
-  "lines": 4,
-  "poem": "\"I will not take it as a Negro of\nmodern times, dressed this Negro up in night,\nWe'll turn our faces southward, love,\nToward the summer isle"
- },
- {
   "time": "2026-08-04 17:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 49,
   "lines": 5,
   "poem": "The older folk are at their peaceful\ntoil,\nOur swaying forms and steals our hearts\nwith\nKneeled down in my grain,"
+ },
+ {
+  "time": "2026-08-24 16:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 48,
+  "lines": 5,
+  "poem": "Unto the God of peace and rest.\nTo us the Plan; give us undisturbed and\nfriendly\nAs he blessed his better part\nFor I would never penetrate the prayers"
  }
 ]

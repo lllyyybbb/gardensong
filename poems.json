@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-03 00:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "With anxious hearts, but failing\nstrength,\nAnd dips his long beak in the Night\nLover's Lane\nLynching, The\nBook of Georgian Verse, The Book of\nElizabethan"
- },
- {
   "time": "2026-08-03 09:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 44,
   "lines": 4,
   "poem": "His blood and tears are shed,\nThat was never spoken,\nBut when you’re filled and sated with the\ndrape"
+ },
+ {
+  "time": "2026-08-23 20:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Her clinging was a church\nmember. One of the Negro belt;\nThe words you sang to me\nOh, you shall see His hand.\nThe Lord had basely sold his part.\nTo hear and see, screened skilfully"
  }
 ]

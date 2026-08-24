@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-04 13:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 42,
-  "lines": 4,
-  "poem": "Who flung the stars and groan, and I resign\nEven now, my love, the moon and stars.\nOut in the _Seven Arts_, _Pearson’s_, _The\nCrisis_."
- },
- {
   "time": "2026-08-04 14:00",
   "temp_c": 37.0,
   "temp_f": 99,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "Lay the victims of the Nazarene,\nChildren of the long ago;\nOr dawn dews heavy in some neglected\nspot\nSeen only on a thousand fold,"
+ },
+ {
+  "time": "2026-08-24 15:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 49,
+  "lines": 5,
+  "poem": "The older folk are at their peaceful\ntoil,\nOur swaying forms and steals our hearts\nwith\nKneeled down in my grain,"
  }
 ]

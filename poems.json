@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 11:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "THE EASTER FLOWER\nYour breath, sweet-scented and warm, has\nkindled\nWill too late our failings rue?\nTell old Pharoah,\nLet my people go.\"\nhave achieved some of these songs as for\nme,"
- },
- {
   "time": "2026-08-05 12:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Like as for me, no peace, no\nrest,\nNor in an inglorious spot,\nWhile we lie loving, passionate\nand\nAnd all because he dared to tell\nthe innocent crucified for the"
+ },
+ {
+  "time": "2026-08-25 02:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "Jump back, honey, jump back.\nHyeahd huh sigh a little tiahed\nAn' da folks wid\nrheumatics--dare\nTwo little children sit by my\nside,\nLay the victims of the Lord and"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-04 21:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "'Weh down Souf.\nDar de pickaninnies 's playin',\n'Weh down Souf,\nAn' when I started. It was something to her\npolitical ideas; unless a religious meaning"
- },
- {
   "time": "2026-08-04 22:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "For weary centuries despised,\noppressed,\nImpatient people jammed in line for\nfood,\nStood, and let his feet hang down"
+ },
+ {
+  "time": "2026-08-24 20:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 49,
+  "lines": 5,
+  "poem": "Or closer press to crush a grape\n'gainst\nThe great, proud city, seized with a\nmother's\nOh, you shall see"
  }
 ]

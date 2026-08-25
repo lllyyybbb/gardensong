@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 12:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Every river is a lot o' Washington, an'\nWashington the phrase, \"First in peace.\" The\nphrase\nhave kindled a fire that slept in his hand the\ncaptive's\nHe wrote many of the color of a soft murmured"
- },
- {
   "time": "2026-08-06 15:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 49,
   "lines": 5,
   "poem": "The older folk are at their peaceful\ntoil,\nOur swaying forms and steals our hearts\nwith\nKneeled down in my grain,"
+ },
+ {
+  "time": "2026-08-25 19:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "We laid tired bodies 'gainst\nThe fascinating note,\nWhich, fluting like a child at heart.\nTo mourn your vivid memory alone\nSuffices. In this sin-dimmed world of"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 13:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "Rising sun!\nWeaving Southern destiny,\nWaiting for the development of this age of\nroar\nLay by your soft vermilion robe,\nAmorous of sweets, for but one perfect\nhour!"
- },
- {
   "time": "2026-08-05 16:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Along, above, and God is God!\n(_To Robert Gould Shaw_)\nFlushed with the new era of\nyour\nThe sea-king's dying bed,\nE'er the dimly lighted valley\nI marveled at the Queen's"
+ },
+ {
+  "time": "2026-08-25 05:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "from us, tempt us not beyond\nour\nAs the hours away you wile?\nHas learned to think in the\nmoonlight\nKeep me, Jesus, keep me.\nHear me as they fall on the"
  }
 ]

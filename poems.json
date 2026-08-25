@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 21:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "there is only one of these writers fill in\nthe writing of the uneducated Negroes\nof the ratification of the Manger-King,\nOr Hope's red pylons, in their councils,\nAnd against the darkness,\nNot many of the cabin and the colored"
- },
- {
   "time": "2026-08-06 06:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "To-day, but I--\nAh, heart of the men of both races.\nStarvation danced with careless,\nbrutal\nO kinsmen! we must die--oh, let us\nstill"
+ },
+ {
+  "time": "2026-08-25 12:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "I wear the brand of shame;\nWhilst he amid the malodorous\nMechanics of this perfect day\nA shifting shadow goes.\nThe pine tree pointed his finger to\nthe home for aged colored people,"
  }
 ]

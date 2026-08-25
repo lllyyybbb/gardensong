@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 08:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "But seated on the Spring.\nHis lonely agonizing pain,\nAnd schoolboys, from Bridge-tunnel going\nhome,\n_(En La Capilla)_\nSi la suerte fatal que me ha cabido,\nY el triste fin de mi sangrienta historia,"
- },
- {
   "time": "2026-08-06 09:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "Lay the victims of the Nazarene,\nChildren of the long ago;\nOr dawn dews heavy in some neglected\nspot\nSeen only on a thousand fold,"
+ },
+ {
+  "time": "2026-08-25 15:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 50,
+  "lines": 5,
+  "poem": "That blew hot for awhile\nAnd mamma has gone with the hope of\nlife\nDo you not their way?\n'Tis but a little mad;"
  }
 ]

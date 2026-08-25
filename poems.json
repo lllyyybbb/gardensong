@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 16:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "When I lay dis body down.\nShe'd jes' croon above de babies, she'd\njes'\nIronic: LL.D.\nIs fine and strong,\nBorne on the raging tide.\nThe sacred brown feet of Judas.\nWilliam H.A. Moore"
- },
- {
   "time": "2026-08-05 17:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "from us, tempt us not beyond\nour\nAs the hours away you wile?\nHas learned to think in the\nmoonlight\nKeep me, Jesus, keep me.\nHear me as they fall on the"
+ },
+ {
+  "time": "2026-08-25 06:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "Long nights, long nights and\nthe lips of health,\nBreath the olive-pink of\nsandaled\nThe hungry heart was glad and\nfree;\nWith fell relentless art--\nI'm longing to see"
  }
 ]

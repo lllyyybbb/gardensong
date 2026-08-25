@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 20:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "Charles Bertram Johnson and Waverley\nCarmichael;\nWith Val against me languid by the fixing\neffects\nShe moves with subtle grace and air,\nThe gaze you send the crowd,"
- },
- {
   "time": "2026-08-05 21:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "My bruthah jus' sent word to me, the\nweary,\nBut when you’re filled and sated\nwith\nThese seven links the _Law_\ncompelled"
+ },
+ {
+  "time": "2026-08-25 11:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "To-day, but I--\nAh, heart of the men of both races.\nStarvation danced with careless,\nbrutal\nO kinsmen! we must die--oh, let us\nstill"
  }
 ]

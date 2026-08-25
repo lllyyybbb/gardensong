@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 06:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 93,
-  "lines": 8,
-  "poem": "And how the herald angels sang\nThe choral song of angels\nHeard upon Judea's plain\nOf healthy children you shall never\ntread\nI will come rather to those hills at\nClarendon\nJONES, JOSHUA HENRY, JR. He is"
- },
- {
   "time": "2026-08-06 07:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "I wear the brand of shame;\nWhilst he amid the malodorous\nMechanics of this perfect day\nA shifting shadow goes.\nThe pine tree pointed his finger to\nthe home for aged colored people,"
+ },
+ {
+  "time": "2026-08-25 13:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "Kep' a-lookin' fo \"de char'et,\" kep'\n\"a-waitin'\nBack to Nirvanic peace shall grope\ntheir hands again\nHis home a'near them made."
  }
 ]

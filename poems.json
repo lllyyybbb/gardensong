@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 11:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "But dar'll be a man of African descent?\nThe gray train rushing bears the same\nstatement\nDancing to the Oceans' banks--\nLord God of Heaven.\nFrom playhouse, cabaret and inn"
- },
- {
   "time": "2026-08-06 12:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "With the links and cords of love.\nHow some lady's go'nter\nBoss dat little hall;\nDes you take my heart,\nTo a dead man's brow;"
+ },
+ {
+  "time": "2026-08-25 18:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 49,
+  "lines": 5,
+  "poem": "The older folk are at their peaceful\ntoil,\nOur swaying forms and steals our hearts\nwith\nKneeled down in my grain,"
  }
 ]

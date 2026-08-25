@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-04 23:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Ragtime, dismiss it with a bare word of\njeer.\nOr underneath a spell of heat and light\nThe fact is attested by no less\nauthority than Vincente Blasco Ibañez in\nhis repeal of the color of a race;"
- },
- {
   "time": "2026-08-05 08:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Your faun-like form, your fond\nface;\nBeheld that little sparrow's fall.\n’Tis dawn, dawn in New York.\nAnd bows and pins, and perfumed\npapers"
+ },
+ {
+  "time": "2026-08-24 22:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "Where the cocks are crowing,\ncrowing,\nKnows yore evah A, B, C,\nPlum on down to the magnet of a\nlowly\nThe agony and terror in his heart,\nI often try to save one child from"
  }
 ]

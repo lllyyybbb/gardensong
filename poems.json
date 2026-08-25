@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 12:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Fathers! torn and bleeding fell the\nhermit,\nOf de dear ones lef behin',\nOf larger latent power.\nSometimes upon his development in every\nbranch\nDown in lovah's lane;"
- },
- {
   "time": "2026-08-05 13:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "Jump back, honey, jump back.\nHyeahd huh sigh a little tiahed\nAn' da folks wid\nrheumatics--dare\nTwo little children sit by my\nside,\nLay the victims of the Lord and"
+ },
+ {
+  "time": "2026-08-25 03:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Along, above, and God is God!\n(_To Robert Gould Shaw_)\nFlushed with the new era of\nyour\nThe sea-king's dying bed,\nE'er the dimly lighted valley\nI marveled at the Queen's"
  }
 ]

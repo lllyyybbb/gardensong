@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 18:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "education here by a sense of wrong and\ninjustice.\nBut above the waves' wild surging\nHe will go naked in--for thus ’tis sweet--\nThe Negro Soldiers\nJESSIE FAUSET"
- },
- {
   "time": "2026-08-05 19:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "And Mary with the drape\nOf you. Nor you of the tear\nThat I ask that in the trenches\nof Peace hovering over No Man's\nLand,\nFor the sturdy oaks and the\nLakes"
+ },
+ {
+  "time": "2026-08-25 09:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "Where the cocks are crowing,\ncrowing,\nKnows yore evah A, B, C,\nPlum on down to the magnet of a\nlowly\nThe agony and terror in his heart,\nI often try to save one child from"
  }
 ]

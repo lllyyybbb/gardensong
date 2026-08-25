@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 09:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "While the swee-swees sing above me,\nDing, Dong, Ding.\nBut hark! from our Father's loving care.\nTHE MARTYR OF ALABAMA.\n\"Tim Thompson, a little tiahed\nAn' yo' cup o' joy was full;\nDough' ol' Satan tried to shake huh f'om"
- },
- {
   "time": "2026-08-06 10:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 50,
   "lines": 5,
   "poem": "That blew hot for awhile\nAnd mamma has gone with the hope of\nlife\nDo you not their way?\n'Tis but a little mad;"
+ },
+ {
+  "time": "2026-08-25 16:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "His spirit must have nightly floated\nfree,\n\"The sword of the rose-apple.\nI hold my head and wept.\nTurn me to linger here, alas,"
  }
 ]

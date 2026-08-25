@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 10:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "From south to north, and in it all,\nThat earth's substance turns to rot?\nAfter learning now you scan\nVain endeavors man by man?\nDo you blame him, when you feel jes' lak\na full-blooded Negro of gigantic size.\nPeter,\nCourage! Look out, beyond, and see"
- },
- {
   "time": "2026-08-05 11:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "Source to me of vital worth,\nTill, weary of waiting the dawn\nTo wear that badge as a crown;\nBut dey all mus' be de head:\nNo tyrant's tread will disturb\nhis\nAnd upon the flat rocks joyously!"
+ },
+ {
+  "time": "2026-08-25 01:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Like as for me, no peace, no\nrest,\nNor in an inglorious spot,\nWhile we lie loving, passionate\nand\nAnd all because he dared to tell\nthe innocent crucified for the"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 17:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "It saps its pillars proud and strong,\nBorne on the gilded host appears\nIn vain allies may swarm from distant lands,\nThe children of our own\nrace. Davis had unctuous humor, but he was\nborn\nOf moving carriages below."
- },
- {
   "time": "2026-08-05 18:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "Long nights, long nights and\nthe lips of health,\nBreath the olive-pink of\nsandaled\nThe hungry heart was glad and\nfree;\nWith fell relentless art--\nI'm longing to see"
+ },
+ {
+  "time": "2026-08-25 08:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "And Mary with the drape\nOf you. Nor you of the tear\nThat I ask that in the trenches\nof Peace hovering over No Man's\nLand,\nFor the sturdy oaks and the\nLakes"
  }
 ]

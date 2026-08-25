@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 10:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "there is only one of these writers fill in\nthe writing of the uneducated Negroes\nof the ratification of the Manger-King,\nOr Hope's red pylons, in their councils,\nAnd against the darkness,\nNot many of the cabin and the colored"
- },
- {
   "time": "2026-08-06 11:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "His spirit must have nightly floated\nfree,\n\"The sword of the rose-apple.\nI hold my head and wept.\nTurn me to linger here, alas,"
+ },
+ {
+  "time": "2026-08-25 17:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 48,
+  "lines": 5,
+  "poem": "With the links and cords of love.\nHow some lady's go'nter\nBoss dat little hall;\nDes you take my heart,\nTo a dead man's brow;"
  }
 ]

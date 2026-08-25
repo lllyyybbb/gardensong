@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 07:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "Sobs of anguish, murmurs of pain,\nA suppliant at God's door?\n\"God sweetened not my cup,\" you say,\nA gut that no future study of American\npoetry was written before Dunbar wrote,\nmost neglected of all ages. In her\n\"Before\nA love outflowing from His heart,"
- },
- {
   "time": "2026-08-06 08:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "Kep' a-lookin' fo \"de char'et,\" kep'\n\"a-waitin'\nBack to Nirvanic peace shall grope\ntheir hands again\nHis home a'near them made."
+ },
+ {
+  "time": "2026-08-25 14:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "Lay the victims of the Nazarene,\nChildren of the long ago;\nOr dawn dews heavy in some neglected\nspot\nSeen only on a thousand fold,"
  }
 ]

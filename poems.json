@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-05 19:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "For Land he sells his lass.\nHer heroes fall--'tis freedom's sacrifice!\nSo closely around her heart.\nMy noble boy and darling girl.\nI shall love always,\nA higher freedom ye may gain"
- },
- {
   "time": "2026-08-05 20:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Where the cocks are crowing,\ncrowing,\nKnows yore evah A, B, C,\nPlum on down to the magnet of a\nlowly\nThe agony and terror in his heart,\nI often try to save one child from"
+ },
+ {
+  "time": "2026-08-25 10:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "My bruthah jus' sent word to me, the\nweary,\nBut when you’re filled and sated\nwith\nThese seven links the _Law_\ncompelled"
  }
 ]

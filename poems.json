@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 00:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "been delivered through treachery:\n\"O Shepa'd, dese, dy po' los' sheep!\"\nWhen she knew her faithful children\nDisinherited from their shelter and grow\nThan he who worldly honor spurned\nTo comfort hearts that sigh and break,"
- },
- {
   "time": "2026-08-08 09:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "His bosom to the winds' invisible\nshape;\nThere, oh there! on the raging tide.\nThe dew is on de spot,\nWhile one with true madonna grace\nTo strengthen, crown and bless the"
+ },
+ {
+  "time": "2026-08-26 13:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
  }
 ]

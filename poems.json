@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 13:00",
-  "temp_c": 36.0,
-  "temp_f": 97,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "These truly are the Free,\nThese truly are the Free,\nThese men who originated\nthese races in a brighter day.\nBut he awoke one morn to feel that he sell to\nme"
- },
- {
   "time": "2026-08-08 14:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "Loud the whistles blew and the hallow of\nold\nFor in her glance there is a fancied\nthing\nI am, and am not."
+ },
+ {
+  "time": "2026-08-26 18:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "For one brief golden moment rare like\nwine,\nAnd worried waiters, some in ugly mood,\nAnd this is peace, this dead and leaden\nthing,"
  }
 ]

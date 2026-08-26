@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-07 22:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "Enslaved and lynched, denied a human\nplace\nHow says Vashti, love is true!'\nThis very wind, the winter\nDid he against their stern commands\nHave courage to insist?"
- },
- {
   "time": "2026-08-08 00:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Vain--as it is that clamoring and\nOver the gloom of slavery's night,\nTo coil with a restless light,\nSeems lak to me I jes can't he'p but\nsigh,\nWhen she saw her child reviving,"
+ },
+ {
+  "time": "2026-08-26 12:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "His bosom to the winds' invisible\nshape;\nThere, oh there! on the raging tide.\nThe dew is on de spot,\nWhile one with true madonna grace\nTo strengthen, crown and bless the"
  }
 ]

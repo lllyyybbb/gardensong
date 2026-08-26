@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-07 01:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "Your hair disheveled, eyes aglow with\nlight.\nIn sunlit water where the star gleams\nshine,\nDEL CASCAR\nDel Cascar"
- },
- {
   "time": "2026-08-07 02:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "For gallant France, for praying\nFrance,\nAn' I'm hongry, O, so berry,\nFur my hom' I am glad that the\nship\nAlas! that in our hands, it has\nbeen\nStand back of new-come foreign"
+ },
+ {
+  "time": "2026-08-26 05:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 92,
+  "lines": 8,
+  "poem": "'Long de lovah's lane.\nAn' de chillen waded on dey way\nto dance for us,\" the rough men\nsaid;\nAnd o'er the hopeful slave,\nRose with words of \"Home, Sweet\nHome.\"\nHad gone to seed,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-07 04:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "And your brown burning body was a song\nMeans flowering lanes and leas and spaces\ndry,\nFlitted one sweet smile of peace.\nLET THE LIGHT ENTER.\nThe moaning, groaning cars,\nAnd then, as the thoughts"
- },
- {
   "time": "2026-08-07 11:00",
   "temp_c": 36.0,
   "temp_f": 97,
@@ -1598,5 +1590,13 @@
   "humidity": 94,
   "lines": 8,
   "poem": "He goes seekin' his reward,\nWhile the cohorts of death\nTo nobler, grander things\naspire;\nSlid slowly, silently, the\nwraith-like\nAnd its lovely glow.\nI plucked my soul must be"
+ },
+ {
+  "time": "2026-08-26 08:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "Her voice was gone,\nSave where a few asleep,\nSome withered women desolate and\nmean,\nWeep not, oh my well-sheltered\nsisters,\nHis lonely agonizing pain,\nA ruined body and lust of power"
  }
 ]

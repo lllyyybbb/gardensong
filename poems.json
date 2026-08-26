@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 09:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "the shoulders which you see me pleased,\nFur biled wid beans tiz gor'jus, or\nmade without reference to Braithwaite.\nTwo Points of View\nTo build the kingdom of God.\nAnd feel the rope they bear is long.\"\nThey flap their hideous wings in grim\ndelight,"
- },
- {
   "time": "2026-08-08 10:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
+ },
+ {
+  "time": "2026-08-26 14:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "The black must serve the white.\nTo greet the coming day.\nThere is a block-head,\nEvery ravine is a fancied thing\nNow for a moment, to look into a pool,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-07 20:08",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "Once was held by mystic sway;\nHer cause divine with generous ardor\nfires,\nAn' we eat a full an' plenty, big an'\nlittle,"
- },
- {
   "time": "2026-08-07 21:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "When she knew her self was not in\nthat no wrong this side the gate\nof fortune that came at length;\nBut what shall you say?\nWhy quit the open spaces I could\nnot\nFur 'weh down Souf;\nAn' half a century sweeps our ken,"
+ },
+ {
+  "time": "2026-08-26 10:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "In vain; then even the girls, they\nwin\nGod of nations,\nHaste! oh, haste the glorious day\nHis chosen seed should tread,\nThe sea is crossed, the longed-for\nport"
  }
 ]

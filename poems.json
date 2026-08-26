@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 23:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "My stars; da weather's pow'ful warm--\nI am as welcome as the music of the\nsubject-matter\nOr on parchéd flowers dew,\nEre time has brushed cold fingers thru my\nhair!"
- },
- {
   "time": "2026-08-07 00:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 88,
   "lines": 8,
   "poem": "Heard they aright? Did that\nbrave\nThe far horizon's beckoning\nspan!\nGives song a nightless day,\nYour eyes are too sadly kind\nTo us the Plan; give us\nundisturbed"
+ },
+ {
+  "time": "2026-08-26 03:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "So weary of waiting the dawn of\nday!\nKnowing by the mighty city\nthrough\nHunted and penned in an earthly\nurn,\nAnd said, \"Oh, Prince, amid our\ngrief"
  }
 ]

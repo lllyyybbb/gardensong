@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 17:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "beauty, but a little tiahed\nAn' by the dark and deep.\nMoaning I turned aside and bowed his sorrowing\nhead;\nIn vain allies may swarm from distant lands,\nThe barrier that loomed between to prove or"
- },
- {
   "time": "2026-08-06 18:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Mammy an' pappy do' want stragglers\na-layin'\nBut oh, your scent is in the Night.\nO kinsmen! we must perish,\nPerish just in sight of clotted\nblood.\nSum one mus' be led,"
+ },
+ {
+  "time": "2026-08-25 22:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "He counted not the age is hard and\ncold--\nGrant me a nation,\" said the\nanxious\nOh may she ever stand\nWhere towers the cotton tree,\nWhere haughty tyrants once bore"
  }
 ]

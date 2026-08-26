@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-07 02:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "We said that no wrong this side of a very\nsuccessful\nHad often bathed his brow\nWith scarlet roses tinting her green\nbreast,\nDes a little quietly and softly, in"
- },
- {
   "time": "2026-08-07 04:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "'Long de lovah's lane.\nAn' de chillen waded on dey way\nto dance for us,\" the rough men\nsaid;\nAnd o'er the hopeful slave,\nRose with words of \"Home, Sweet\nHome.\"\nHad gone to seed,"
+ },
+ {
+  "time": "2026-08-26 06:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 94,
+  "lines": 8,
+  "poem": "He goes seekin' his reward,\nWhile the cohorts of death\nTo nobler, grander things\naspire;\nSlid slowly, silently, the\nwraith-like\nAnd its lovely glow.\nI plucked my soul must be"
  }
 ]

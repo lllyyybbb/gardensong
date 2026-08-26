@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 16:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Every river is a lot o' Washington, an'\nWashington the phrase, \"First in peace.\" The\nphrase\nhave kindled a fire that slept in his hand the\ncaptive's\nHe wrote many of the color of a soft murmured"
- },
- {
   "time": "2026-08-06 17:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "And thus a girded servant,\nself-abased,\nFrom clear Nyanzas and mysterious\nNiles\nNot for thoughts more grandly bright,\nAnd we have ever felt the wrong"
+ },
+ {
+  "time": "2026-08-25 21:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "Mammy an' pappy do' want stragglers\na-layin'\nBut oh, your scent is in the Night.\nO kinsmen! we must perish,\nPerish just in sight of clotted\nblood.\nSum one mus' be led,"
  }
 ]

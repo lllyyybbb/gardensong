@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 19:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "happy-go-lucky, singing, shuffling,\nbanjo-picking\nOh some I know! Ah, Friend, I know!\nImpotent atom with desolate gaze\nAt the creation, ever heard a faint bell\nringing;"
- },
- {
   "time": "2026-08-06 20:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "And slavery, with its morning\nlay;\nThey had met in deadly strife;\nMen to say \"Dis is yo' las'\"--\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling throat;\nI have forgot\nThe people will not quiver in the"
+ },
+ {
+  "time": "2026-08-26 00:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 83,
+  "lines": 8,
+  "poem": "The heart grown faint from wounds\nand\nUpon life's stormy tide.\nThe choral song of angels\nJoin us in our gloomy night.\nI know how much he miss,\nEf he ain't got no niece lak dis;\nFro yore Unkel one mo' kiss,"
  }
 ]

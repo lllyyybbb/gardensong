@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-07 11:00",
-  "temp_c": 36.0,
-  "temp_f": 97,
-  "humidity": 47,
-  "lines": 5,
-  "poem": "author of two that were to be,\nKnows yore evah A, B, C,\nPlum on down to the city.\nOUTCAST\nFor mothers who dwell 'neath the touch,"
- },
- {
   "time": "2026-08-07 20:08",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 89,
   "lines": 8,
   "poem": "Her voice was gone,\nSave where a few asleep,\nSome withered women desolate and\nmean,\nWeep not, oh my well-sheltered\nsisters,\nHis lonely agonizing pain,\nA ruined body and lust of power"
+ },
+ {
+  "time": "2026-08-26 09:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "When she knew her self was not in\nthat no wrong this side the gate\nof fortune that came at length;\nBut what shall you say?\nWhy quit the open spaces I could\nnot\nFur 'weh down Souf;\nAn' half a century sweeps our ken,"
  }
 ]

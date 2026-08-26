@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 10:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 85,
-  "lines": 8,
-  "poem": "And browse about our ancient place,\nWhen between the whites\nand the sharing cares,\nWe do' want stragglers a-layin' 'roun'\nhyeah;\nThat made it classic; Dunbar\nwas able to transcribe\nthe vast forgotten African Empires of"
- },
- {
   "time": "2026-08-08 11:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "The black must serve the white.\nTo greet the coming day.\nThere is a block-head,\nEvery ravine is a fancied thing\nNow for a moment, to look into a pool,"
+ },
+ {
+  "time": "2026-08-26 15:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 49,
+  "lines": 5,
+  "poem": "And we will sing\nDream-songs of carefree men and women\ncrowned\nRed blood to save one child from death.\"\n\"Which one?\" said the Master,"
  }
 ]

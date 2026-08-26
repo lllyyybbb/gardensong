@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 12:00",
-  "temp_c": 36.0,
-  "temp_f": 97,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "because they are able to transcribe\nthe following is from Phillis' poem entitled\n\"Imagination\":\nSadly I turned from the man and I.\nOur mother, so loved and white\nAnd wild ambition, ever prone to wrong!"
- },
- {
   "time": "2026-08-08 13:00",
   "temp_c": 36.0,
   "temp_f": 97,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "These children of the cabin and the white.\nAnd sought the quiet hill\nWhere winter still did tread.\nNo; I must walk the blood-stained pave\nOf course I soak the booze once in a word"
+ },
+ {
+  "time": "2026-08-26 17:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "Loud the whistles blew and the hallow of\nold\nFor in her glance there is a fancied\nthing\nI am, and am not."
  }
 ]

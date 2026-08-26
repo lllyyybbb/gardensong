@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 20:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "OTTO LEYLAND BOHANAN\nThe Valkyrs are gathering round my path\nBy unbelief and sin.\nI offer this collection without making\napology\nThat his life a ghost"
- },
- {
   "time": "2026-08-06 22:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 83,
   "lines": 8,
   "poem": "The heart grown faint from wounds\nand\nUpon life's stormy tide.\nThe choral song of angels\nJoin us in our gloomy night.\nI know how much he miss,\nEf he ain't got no niece lak dis;\nFro yore Unkel one mo' kiss,"
+ },
+ {
+  "time": "2026-08-26 01:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 86,
+  "lines": 8,
+  "poem": "And split the air with chimes\nSweet with the dawn,\nAs they halt my trunk beside.\nOh, heart! this one thing should\nnot\nThe golden lyre's delights bring\nlittle\nFor you were sweet and brief"
  }
 ]

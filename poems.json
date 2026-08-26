@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-06 18:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Like sheep from the limb,\nOf victory on field and cave\nI know! I have striven to achieve directness,\ntruthfulness and naturalness of expression I\ndo\nAs Samson in the depths"
- },
- {
   "time": "2026-08-06 19:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "He counted not the age is hard and\ncold--\nGrant me a nation,\" said the\nanxious\nOh may she ever stand\nWhere towers the cotton tree,\nWhere haughty tyrants once bore"
+ },
+ {
+  "time": "2026-08-25 23:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "And slavery, with its morning\nlay;\nThey had met in deadly strife;\nMen to say \"Dis is yo' las'\"--\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling throat;\nI have forgot\nThe people will not quiver in the"
  }
 ]

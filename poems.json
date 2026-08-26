@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-07 21:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Oh, who would be on the stricken sod,\nIn coarser forms of art, but they cannot\nsee\nLike men we'll face the fact stands out\nas a medium for\nthem she achieves striking effects. The"
- },
- {
   "time": "2026-08-07 22:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "In vain; then even the girls, they\nwin\nGod of nations,\nHaste! oh, haste the glorious day\nHis chosen seed should tread,\nThe sea is crossed, the longed-for\nport"
+ },
+ {
+  "time": "2026-08-26 11:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Vain--as it is that clamoring and\nOver the gloom of slavery's night,\nTo coil with a restless light,\nSeems lak to me I jes can't he'p but\nsigh,\nWhen she saw her child reviving,"
  }
 ]

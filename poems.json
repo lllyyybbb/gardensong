@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 14:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "SANDY STAR AND WILLIE GEE\nSandy Star who went away,\nSeen my lady home las' night,\nTo side with justice, truth and right\nFor such atoms as we look back o'er the\nheavy"
- },
- {
   "time": "2026-08-08 15:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "For one brief golden moment rare like\nwine,\nAnd worried waiters, some in ugly mood,\nAnd this is peace, this dead and leaden\nthing,"
+ },
+ {
+  "time": "2026-08-26 19:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "In this strife must bear a part;\nWhile you are gone and tears are shed,\nThat casts a subtle spell upon all\nthings,\nBlind Homer, Greek or Jew,"
  }
 ]

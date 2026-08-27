@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 22:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "repetition are found to be propagandic\nis somewhat handicapped in this cold\nplace;\nGoo'ness! he cuts a stunt,\nPrancin' out dar in frunt,\nLeadin' his ban'.\nWen dee tell Doc' Hyar,\n\"O, Doctah, come queeck, an' see Mr."
- },
- {
   "time": "2026-08-08 23:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Behind the railroad tracks the\nlittle\nFrom all that He had a Mammy when\ndat\nHe looked at His moon,\nShe clasped the ancient walls,\nAnd chaffer in the flowing bowl"
+ },
+ {
+  "time": "2026-08-27 02:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "In sculptured worship now he lives,\nHis humblest children have a problem\nall\nPearly teef, an' shinin' hair,\nWhether the strands be dark or fair,\nDrop down the street,\nBearing their strangely-ghostly\nburdens"
  }
 ]

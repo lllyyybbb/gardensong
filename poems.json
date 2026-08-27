@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 21:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "I follow the light\nAwhile to burn on the Night\nO God, crying:\n_We beseech Thee to hear us, good Lord;\nwe\nconfess I am a failure. Last night a\nbright\nhip. The boy is dead; his murderer is"
- },
- {
   "time": "2026-08-08 22:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Merry voices chatterin',\nNimble feet dem patterin',\nBig an' little, faces gay,\nFor men to do, for men are dying\nFrom the curse of a common country,\nThey heard the joy of feeling safe\non"
+ },
+ {
+  "time": "2026-08-27 01:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Behind the railroad tracks the\nlittle\nFrom all that He had a Mammy when\ndat\nHe looked at His moon,\nShe clasped the ancient walls,\nAnd chaffer in the flowing bowl"
  }
 ]

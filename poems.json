@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 19:15",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "The fire, lest it should be myself as\nonce see this grain of sand\nLying in an hour men well may hush\nTheir discord and their strife,\nThough thorns may often pierce my feet,\nWho march to war with visions in their\nmusic\nTHE CASTAWAYS"
- },
- {
   "time": "2026-08-08 20:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "And from her cheek grow deathly pale,\nAnd nestled soft against the earth’s\nwhite\nIs this composition.\n(Alas! for the House of Fame!\nThey shall see Him when the fields of\ngolden"
+ },
+ {
+  "time": "2026-08-26 23:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "From the Gulf and the world-end\nthings\nTo me she has seen your strong young\nlimbs,\nAnd sinks into my blood,\n'Till darkness shrinks from light;\n\"Now bring me here my warrior robes,"
  }
 ]

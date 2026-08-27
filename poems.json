@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 16:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "strike a comparison between the American\nliterature. The list of those who think\nthey are gentle and soft like the sound of\nblended\nShall be filled with classical and\nmythological\nA conscience, dumb to brooding fears,\nTransforming me into utter night."
- },
- {
   "time": "2026-08-08 18:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "And watched her perfect, half-clothed\nbody\nI am as welcome as the Spartan, proud\nto dance for the people,\nAs sickness grips a soul in wretched\nweather."
+ },
+ {
+  "time": "2026-08-26 21:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "And rape their souls for the clashing\nsabres\nAll the world shall have its sway.\nWhen peace descends like gentle dew\nThey chided him for telling his\naffairs,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-08 18:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "And your brown burning body was a song\nMeans flowering lanes and leas and spaces\ndry,\nFlitted one sweet smile of peace.\nLET THE LIGHT ENTER.\nThe moaning, groaning cars,\nAnd then, as the thoughts"
- },
- {
   "time": "2026-08-08 19:15",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "And rape their souls for the clashing\nsabres\nAll the world shall have its sway.\nWhen peace descends like gentle dew\nThey chided him for telling his\naffairs,"
+ },
+ {
+  "time": "2026-08-26 22:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "And from her cheek grow deathly pale,\nAnd nestled soft against the earth’s\nwhite\nIs this composition.\n(Alas! for the House of Fame!\nThey shall see Him when the fields of\ngolden"
  }
 ]

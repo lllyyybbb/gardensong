@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-09 22:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "I kin hyeah it as a poet neither\nafraid\nThe hands whose touch sent thrills of\njoy of feeling safe on high,\nAnd dips his long beak in the\nsoul-toned\nAnd want consorts with crime;"
- },
- {
   "time": "2026-08-10 08:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "He poured his soul\nTo welcome thy dear guest,\nI stand within her walls with not a\nplace\nIn the wake of those we love,\nWe had told our little darling,\nOf subtly-changing and surprising parts;"
+ },
+ {
+  "time": "2026-08-27 19:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "To lead me unto his throne\nIn me the down-crushed spirit, the\nhurled-back\nWhen you set down at de table,\nKin' o' weary lak an' sad,\nAn' de shadow lef' him face,\nWhen I reached my throat"
  }
 ]

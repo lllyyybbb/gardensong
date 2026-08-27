@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-09 17:00",
-  "temp_c": 36.0,
-  "temp_f": 97,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "I KNOW MY SOUL\nI offer this collection without making apology\nor rewards, either directly or indirectly, on\naccount\nBlack Mammies\nLESLIE PINCKNEY HILL"
- },
- {
   "time": "2026-08-09 18:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Darkness covered everything,\nBlacker than a day!\nYour peace takes hold upon my brow\nThe birds a gladder music have begun,\nOut of the farmer's barn,\nFor my mood.\nHere and there a growing note"
+ },
+ {
+  "time": "2026-08-27 14:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "He clapped His hands,\nFor truth and justice stand.\n\"I pray thee let me rest\nMore calm than its mother's downy breast\nOh, restless heart, learn thou to trust\nWhen fields are fresh and free."
  }
 ]

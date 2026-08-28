@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-11 14:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "But dar'll be a man of African descent?\nThe gray train rushing bears the same\nstatement\nDancing to the Oceans' banks--\nLord God of Heaven.\nFrom playhouse, cabaret and inn"
- },
- {
   "time": "2026-08-11 15:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
+ },
+ {
+  "time": "2026-08-28 18:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "That stretches to the calm earth seeking\npeace\nAnd for our need,\nBut not the whole.\nContemplating the strange, I’m comforted\nBy angel fingers strung."
  }
 ]

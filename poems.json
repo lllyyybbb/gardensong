@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 18:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "Why this agony and strife?\nWith hands uplifted in despair.\nCourage! Look out, beyond, and see\nDarkness covered everything,\nBlacker than a Negro in a boarding-house\nkitchen to dining-car service on the side"
- },
- {
   "time": "2026-08-10 19:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "And in her heart;\nSwift swallows sailing from the\nground;\nDon't yo' love a co'n song?\nThe strident trains that speed the\ngoaded\nAnd hard and cold--\nI shall lie"
+ },
+ {
+  "time": "2026-08-28 05:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "This Negro singer, come to juice\nAnd walk with Him in the valley,\nEvery mountain has a hill,\nHe lib so long dat he dawnce ur\njeeg;\nTo de pastur whe' de harse\nFeed along wid de jackass,\nAn' Ah wush dat you would marry me!"
  }
 ]

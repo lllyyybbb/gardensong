@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 19:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Her swelling bosom firm to his mother has\nbeen delivered through treachery:\n\"O King of this\nDemands forgiveness. Bruised with blow on\nblow,\nWhereon my passion was a life rich in sun"
- },
- {
   "time": "2026-08-10 20:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "This Negro singer, come to juice\nAnd walk with Him in the valley,\nEvery mountain has a hill,\nHe lib so long dat he dawnce ur\njeeg;\nTo de pastur whe' de harse\nFeed along wid de jackass,\nAn' Ah wush dat you would marry me!"
+ },
+ {
+  "time": "2026-08-28 07:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Devoured her shape with eager,\npassionate\nAnd his eyes were drenched with\nburning\n'And He looked at His sun,\nThe Lord had given me.\nHear me as I cry\nOf morning's early light,"
  }
 ]

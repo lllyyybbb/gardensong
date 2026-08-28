@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 12:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "They shall see\nThe big bell's tollin' up in soldier clothes,\nchristened\nDey will be de head:\nNo rubies can compare.\n\"Adorn'd and crown'd I'd have her come,\nWith the crying blood of these who has a"
- },
- {
   "time": "2026-08-10 13:00",
   "temp_c": 38.0,
   "temp_f": 100,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "I wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah how)\nYou danced and sang a race to wonder\nand\nBut ye can not render\nMy heart, my heart beat glad and free,\nWhen pestilence clasps hands with"
+ },
+ {
+  "time": "2026-08-27 22:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Sprung up and found in me a true\nrelease--\nAnd she has marked you for the fevered\nnight\nHe found me weary, faint and worn,\nOn which lay the mother's kiss;\n'Mid the dreadful roar of wind and\nwaters"
  }
 ]

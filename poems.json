@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-11 11:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "And the lions' dreadful roar.\nOn deir wants he thinks alone,\nNeber mind how hard be it.\nWithout a single instant give to them\nall Plácido's poems. It will be the\nbest.\"\nHe had no dear old chimes,\nAnd dips his long beak in the strength"
- },
- {
   "time": "2026-08-11 12:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "I wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah how)\nYou danced and sang a race to wonder\nand\nBut ye can not render\nMy heart, my heart beat glad and free,\nWhen pestilence clasps hands with"
+ },
+ {
+  "time": "2026-08-28 14:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "When you are waiting me still to-night\nBy whom our wills are caught.\nWho have borne life's burdens long,\nSeems lak to me the down-crushed\nspirit,\nThe gorse and heather bloom for me, is\nshod"
  }
 ]

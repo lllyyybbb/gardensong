@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-11 08:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Where lofty fanes in grandeur rose,\nUpon his ear there fell\nNo golden weights can turn the\nmills,\nI, thy master, drink, and red wine,\nplenty,\nEver'body list'nin',\nIn all the Pities!_"
- },
- {
   "time": "2026-08-11 10:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "And in her heart;\nSwift swallows sailing from the\nground;\nDon't yo' love a co'n song?\nThe strident trains that speed the\ngoaded\nAnd hard and cold--\nI shall lie"
+ },
+ {
+  "time": "2026-08-28 11:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Smile beacon answers to their plea,\nOut in the hills we heard a theme\nNobler than \"Go down, Moses.\" Mark\nits\nLast Chance Saloon, drink a gallon or\ntwo\nLay the victims of the faint breeze,\n'Long de lovah's lane."
  }
 ]

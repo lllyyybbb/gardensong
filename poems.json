@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 21:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "The crops which their\nbondage of Israel in Egypt.\nThe air is blowin' mighty cold,\nLike children, on our Father's loving\ncare.\nAnd she watched in lonely grief and\ndread,"
- },
- {
   "time": "2026-08-10 22:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "Oh, people chastened in the frowning\ncloud,\nWho came their gifts to all her\ndiscords--\nAn' de co'n pone's hot.\nLay the victims of the endless\nfight,\nIn wistful April days, when lovers"
+ },
+ {
+  "time": "2026-08-28 09:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "For the Hand which guides us from\nabove,\nAll her little ones\nTo write the stuff the editors would\nbuy;\nOur mother, so loved and white\npeople's\nWho said, when we stand"
  }
 ]

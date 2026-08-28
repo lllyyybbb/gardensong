@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 16:00",
-  "temp_c": 37.0,
-  "temp_f": 99,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "creates the atmosphere and mood of mirth,\nUnnumbered centuries are hers,\nThe Harlem Dancer\nHarlem Shadows\nAfter Eden, all terrace, pool, and flower\nrecollect"
- },
- {
   "time": "2026-08-10 17:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Swift in thought and swift in\naction,\nDark melodist, immortal, though the\nfountain\nAs when those solemn chants and\nthrills\nAnd apples set on his bed of death,"
+ },
+ {
+  "time": "2026-08-28 03:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "In sculptured worship now he lives,\nHis humblest children have a problem\nall\nPearly teef, an' shinin' hair,\nWhether the strands be dark or fair,\nDrop down the street,\nBearing their strangely-ghostly\nburdens"
  }
 ]

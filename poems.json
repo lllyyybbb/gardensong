@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 13:00",
-  "temp_c": 38.0,
-  "temp_f": 100,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "\"The sword of the many versions of the tender\nmoon.\nThat Vashti doth not heed thy will\nyet be covered. It is regrettable that two of\ngin,\nWen dee tell Doc' Hyar, he des scratch he\nhaid:"
- },
- {
   "time": "2026-08-10 14:00",
   "temp_c": 38.0,
   "temp_f": 100,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Sprung up and found in me a true\nrelease--\nAnd she has marked you for the fevered\nnight\nHe found me weary, faint and worn,\nOn which lay the mother's kiss;\n'Mid the dreadful roar of wind and\nwaters"
+ },
+ {
+  "time": "2026-08-27 23:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Each black cloud\nIs there no way\nTo give to them a dance.\n\"Come dance for us,\" the rough men\nsaid;\nYour hate of vice a sham,\nWhen Angelus was sung"
  }
 ]

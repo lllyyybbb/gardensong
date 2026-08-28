@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 14:00",
-  "temp_c": 38.0,
-  "temp_f": 100,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "I would go back into the ocean's foam\nTo ease my mind had taken flight,\nAnd ferns that never ceased,\nA tribute unto a host of others\nThe sea's quiet as a poet neither afraid nor\nashamed"
- },
- {
   "time": "2026-08-10 15:00",
   "temp_c": 38.0,
   "temp_f": 100,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Each black cloud\nIs there no way\nTo give to them a dance.\n\"Come dance for us,\" the rough men\nsaid;\nYour hate of vice a sham,\nWhen Angelus was sung"
+ },
+ {
+  "time": "2026-08-28 00:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Fierce and fearful was the debt I pay\nJust a will of God's retribution\nWill see the shapes of girls who pass\nfrom the West,\nFrom the fields at play,\nThere is a snare,\nAnd never again shall feel your glad"
  }
 ]

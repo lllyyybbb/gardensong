@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 22:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "A wave of longing through my ravished\nsight\nMelt and vanish suddenly away,\nLife was trembling, faintly trembling\nOn which the sages tell;\nOn deir wants he thinks alone,\nBut with flashing swords they"
- },
- {
   "time": "2026-08-11 08:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "For the Hand which guides us from\nabove,\nAll her little ones\nTo write the stuff the editors would\nbuy;\nOur mother, so loved and white\npeople's\nWho said, when we stand"
+ },
+ {
+  "time": "2026-08-28 10:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "And in her heart;\nSwift swallows sailing from the\nground;\nDon't yo' love a co'n song?\nThe strident trains that speed the\ngoaded\nAnd hard and cold--\nI shall lie"
  }
 ]

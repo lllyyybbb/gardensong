@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 08:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "He gave the shekels for the poor and\naged,\nBut with flashing swords they\nanswered,\nAn' I've hyeahd o' lots o' sermons,\nAn' lakly won't again no mo';\nBut each knew all the mighty hand of\nour hearts! The way, O God, show us"
- },
- {
   "time": "2026-08-10 11:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "To lead me unto his throne\nIn me the down-crushed spirit, the\nhurled-back\nWhen you set down at de table,\nKin' o' weary lak an' sad,\nAn' de shadow lef' him face,\nWhen I reached my throat"
+ },
+ {
+  "time": "2026-08-27 20:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Love is but desire and thy purpose\nfulfillment;\nWould learn to labor, live and die a\nslave?\nOf some wild animal caught in the\nsoul-toned\nIn night, O God of Peace."
  }
 ]

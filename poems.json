@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 17:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "lately been flooded with several varieties\nof age, and soon the night with the fresh\ndews\nThe dear Redeemer's grave.\nWhere cold and brutal cowardice\nHad he uttered on the other,"
- },
- {
   "time": "2026-08-10 18:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "In sculptured worship now he lives,\nHis humblest children have a problem\nall\nPearly teef, an' shinin' hair,\nWhether the strands be dark or fair,\nDrop down the street,\nBearing their strangely-ghostly\nburdens"
+ },
+ {
+  "time": "2026-08-28 04:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "And in her heart;\nSwift swallows sailing from the\nground;\nDon't yo' love a co'n song?\nThe strident trains that speed the\ngoaded\nAnd hard and cold--\nI shall lie"
  }
 ]

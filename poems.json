@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-10 20:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "As when those solemn chants and thrills\nOur mother, so loved and lost shall\ngreet,\nAnd many thought it was impossible to\nsell\nAnd died in anguish on the benches\ndaubed"
- },
- {
   "time": "2026-08-10 21:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "Devoured her shape with eager,\npassionate\nAnd his eyes were drenched with\nburning\n'And He looked at His sun,\nThe Lord had given me.\nHear me as I cry\nOf morning's early light,"
+ },
+ {
+  "time": "2026-08-28 08:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "Oh, people chastened in the frowning\ncloud,\nWho came their gifts to all her\ndiscords--\nAn' de co'n pone's hot.\nLay the victims of the endless\nfight,\nIn wistful April days, when lovers"
  }
 ]

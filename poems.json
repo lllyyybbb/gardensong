@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-11 18:12",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "My stars; da weather's pow'ful warm--\nI am as welcome as the music of the\nsubject-matter\nOr on parchéd flowers dew,\nEre time has brushed cold fingers thru my\nhair!"
- },
- {
   "time": "2026-08-11 19:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "Mix' up wid a lilly ice.\nBig ernuff fur two.\nDes a little cabin\nBig ernuff fur two.\nDes you listen, Honey,\nWhile the Negro tills the same."
+ },
+ {
+  "time": "2026-08-28 22:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "A covert found, but Christ, the Lord,\nHad left its evil trace.\nIt saps its pillars proud and strong,\nTo greet the coming day.\nAnd they knew that men have sung\nIn agony searching for their thousand\nblows"
  }
 ]

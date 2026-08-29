@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-12 15:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 44,
-  "lines": 4,
-  "poem": "And two more yet of coddling size,\nNatalie pondering all that's said,\nWhen Christ was in her cup.\nHe crushed the portals of that steamer"
- },
- {
   "time": "2026-08-12 16:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Mates wid dem toddlin', velvet\nfeet,\nWen I's strollin' by de way,\nAn' pyu'ced Mistah B'ar he\ngroaned,\nTo me would never penetrate the\nprayers\nNo, I would be a light"
+ },
+ {
+  "time": "2026-08-29 06:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "In you, the dark and deep.\nNo doubt, de centipede\nHas dropped from heaven upon the\nair.\nHis blood and tears\nThe vivid grass with visible\ndelight"
  }
 ]

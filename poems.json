@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-11 18:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "If we must die, O let me rest!\nWeary my veins, my brain, my life,--have\npity!\nBut thou, grief-smitten, cease thy mortal\nweeping\nAlas! we work but beauty's wrong!"
- },
- {
   "time": "2026-08-11 18:12",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "It is nothing to me, the beauty said,\nAnd every little baby\nBrings a message from the sun's bright\nsheen.\nAnd yet, and yet to-day\nThe sacred brown feet of clay."
+ },
+ {
+  "time": "2026-08-28 21:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "Mix' up wid a lilly ice.\nBig ernuff fur two.\nDes a little cabin\nBig ernuff fur two.\nDes you listen, Honey,\nWhile the Negro tills the same."
  }
 ]

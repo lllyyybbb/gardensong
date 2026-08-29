@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-13 13:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "Too wonderful the April night,\nTill reason from my soul.\nAmen. Amen.\nO you jolly black boy,\nSingin' in de skies ar' fair;"
- },
- {
   "time": "2026-08-13 14:00",
   "temp_c": 36.0,
   "temp_f": 97,
@@ -1598,5 +1590,13 @@
   "humidity": 44,
   "lines": 4,
   "poem": "Will give us undisturbed and friendly\nrest.\n\"I'se been suff'rin' lots wid pains in\nmy songs of the truth,"
+ },
+ {
+  "time": "2026-08-29 17:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "He went away to Jesus\"? On its strains\nHis father, by the will,\nKept dancing while a heart stood still:\nAnd garish lights, and mincing little\nfops"
  }
 ]

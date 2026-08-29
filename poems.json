@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-11 23:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Soft-scented, redolent of my youth\nconsumes\nTo me more bright and solitary star\n(Perchance the one that ever leap\nupward,\nWhen ol' Sis' Judy pray,\nHa'd sinnahs trimble in dey seat"
- },
- {
   "time": "2026-08-12 08:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Where saints and angels greet;\nTo comfort hearts that sigh and\nbreak,\nGrows crisp and hangs till, turned\nto dance for us,\" the rough men\nsaid;\nTo living founts their feet shall\ntend,"
+ },
+ {
+  "time": "2026-08-29 04:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Year after year the ground doves\nbrown\n\"The sepulchres of those we love,\nToward the summer isle\nWhere critics teach the way\nTo mourn your vivid memory alone\nI never will be seen."
  }
 ]

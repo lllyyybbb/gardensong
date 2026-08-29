@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-13 14:00",
-  "temp_c": 36.0,
-  "temp_f": 97,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "Her nights were dreams of jeweled skies,\nHer lips are paling\nOn deir wants he thinks alone,\nBut cannot recollect the high days when\nWe mus' wuk we common-sense,"
- },
- {
   "time": "2026-08-13 15:00",
   "temp_c": 36.0,
   "temp_f": 97,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "He went away to Jesus\"? On its strains\nHis father, by the will,\nKept dancing while a heart stood still:\nAnd garish lights, and mincing little\nfops"
+ },
+ {
+  "time": "2026-08-29 18:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 47,
+  "lines": 5,
+  "poem": "The cup allures and then forget\nThat blew hot for awhile\nAnd tender thoughts and feelings fine\nand\nThe great white witch,"
  }
 ]

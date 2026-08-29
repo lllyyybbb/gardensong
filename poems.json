@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-12 22:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Where war has sharpened his weapons,\nStood frowning there, a cave here, bred\nsix\nWho made the gallows an altar high,\nThy signals, ever and anon she cried;\nBut would please the weak frail flesh;"
- },
- {
   "time": "2026-08-13 10:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "Seen a light gleam f'om huh eye,\nAn' have lef my hea't was beatin'\nso,\nBut glory to the sea;\nAnd uttered a cry of anguish wild."
+ },
+ {
+  "time": "2026-08-29 13:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 47,
+  "lines": 5,
+  "poem": "That war should close his wrathful\nlips,\nAn' hebben on de road een white\nmoon-light;\nWill wrap thee gently in her lair."
  }
 ]

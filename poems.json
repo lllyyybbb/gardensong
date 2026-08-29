@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-13 12:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "May win in battles yet unfought;\nI am--just what I am............\nThe magic numbness of autumnal frost.\nHis spirit's depths was stirred.\n\"I cannot for the season’s birth,"
- },
- {
   "time": "2026-08-13 13:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 45,
   "lines": 4,
   "poem": "Dat's not yo' name, but it is a snare,\nAnd act a noble part.\nMy soul so leapt that my mind\nMight safely nurse its brood of"
+ },
+ {
+  "time": "2026-08-29 16:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 44,
+  "lines": 4,
+  "poem": "Will give us undisturbed and friendly\nrest.\n\"I'se been suff'rin' lots wid pains in\nmy songs of the truth,"
  }
 ]

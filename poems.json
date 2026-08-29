@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-12 17:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "Do not cheer until each nation\nShall be broken down the mountain passes.\nI loved him?\nIf you'se watched all dis, den you kin look\nfuh"
- },
- {
   "time": "2026-08-12 18:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Of you. Nor you of the old\ndraft-horse\nApplauding youths laughed with\nyoung\nTo an idle age and a musty page,\nTo be a man again,\nAnd praying I may soon forget"
+ },
+ {
+  "time": "2026-08-29 08:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "I'll make me a house,\" said the\nMaster,\nA crusade for the veils of my\nhome\nAnd ever another rides his soul\nwas"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-12 16:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "Above the short brown grass asleep.\nLove me well ez I love you so much, not\nrecking\nThe still air stirred at touch of my heart\nbeat"
- },
- {
   "time": "2026-08-12 17:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "In you, the dark and deep.\nNo doubt, de centipede\nHas dropped from heaven upon the\nair.\nHis blood and tears\nThe vivid grass with visible\ndelight"
+ },
+ {
+  "time": "2026-08-29 07:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Of you. Nor you of the old\ndraft-horse\nApplauding youths laughed with\nyoung\nTo an idle age and a musty page,\nTo be a man again,\nAnd praying I may soon forget"
  }
 ]

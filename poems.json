@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-13 11:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "While laughter lies upon my brow\nThe joy in your frame;\nMy four walls shield me from the couch of\nnight.\nStaccato! Staccato!\nLeggier agitato!"
- },
- {
   "time": "2026-08-13 12:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "Through greed of gold is borne.\nThe sad fortunes of his loss\nMust bear and bear alone.\nThey'd charged him with a mother's\npride,"
+ },
+ {
+  "time": "2026-08-29 15:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 45,
+  "lines": 4,
+  "poem": "Dat's not yo' name, but it is a snare,\nAnd act a noble part.\nMy soul so leapt that my mind\nMight safely nurse its brood of"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-12 20:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
- },
- {
   "time": "2026-08-12 21:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "And if I, a thing not new, I am\nglad\nPain was my portion though I could\nno\nA prize bunch of bananas on his"
+ },
+ {
+  "time": "2026-08-29 11:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 49,
+  "lines": 5,
+  "poem": "With three brown beauties to\nsupport\nOn deir wants he thinks alone,\nAll his hope of high desire,\nVain--as it is wrong!"
  }
 ]

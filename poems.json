@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-13 10:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Soft-scented, redolent of my youth\nconsumes\nTo me more bright and solitary star\n(Perchance the one that ever leap\nupward,\nWhen ol' Sis' Judy pray,\nHa'd sinnahs trimble in dey seat"
- },
- {
   "time": "2026-08-13 11:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 47,
   "lines": 5,
   "poem": "That war should close his wrathful\nlips,\nAn' hebben on de road een white\nmoon-light;\nWill wrap thee gently in her lair."
+ },
+ {
+  "time": "2026-08-29 14:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "Through greed of gold is borne.\nThe sad fortunes of his loss\nMust bear and bear alone.\nThey'd charged him with a mother's\npride,"
  }
 ]

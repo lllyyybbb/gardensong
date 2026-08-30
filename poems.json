@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-16 09:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "And rape their souls for the clashing\nsabres\nAll the world shall have its sway.\nWhen peace descends like gentle dew\nThey chided him for telling his\naffairs,"
- },
- {
   "time": "2026-08-17 08:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "I turned from the arms of night,\nBut sometimes they are sung.\nNot many steps ahead, but this we know--\nIf he failed us we must die, let it\nslowly\nWill wrap thee gently in her eye:\n\"Go, tell the way"
+ },
+ {
+  "time": "2026-08-30 14:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "Theme ringing prominent,\nBass still repeating its one monotone,\nDouble notes crying,\nUp from the West,\nAnd wonder came and filled our night of\nterror"
  }
 ]

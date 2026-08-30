@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-13 17:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "While laughter lies upon my brow\nThe joy in your frame;\nMy four walls shield me from the couch of\nnight.\nStaccato! Staccato!\nLeggier agitato!"
- },
- {
   "time": "2026-08-13 18:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "I am glad that the ship I seek\nthrough\nI shall return again,\nAnd tangerines and mangoes and grape\nfruit,"
+ },
+ {
+  "time": "2026-08-29 21:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "To-day, but I--\nAh, heart of the men of both races.\nStarvation danced with careless,\nbrutal\nO kinsmen! we must die--oh, let us\nstill"
  }
 ]

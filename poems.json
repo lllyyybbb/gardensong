@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-15 17:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "Too wonderful the April night,\nTill reason from my soul.\nAmen. Amen.\nO you jolly black boy,\nSingin' in de skies ar' fair;"
- },
- {
   "time": "2026-08-15 18:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "So long we pore, 'mid murmurings\ndull,\nWherefore do we pray? Is not the\nage\nTo-night caress your wind-swept\nface,\nBecause I loved\nHe builded his cabin far away, I"
+ },
+ {
+  "time": "2026-08-30 07:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "For bags and wraps the red-caps\ncircle\nWhen ol' Sis' Judy pray,\nHa'd sinnahs trimble in dey seat\nThe sacred brown feet of my heart,\nmy songs of gladness on the\neternal excellency, a joy of many\ngenerations."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-13 18:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "Next Ah tried was castor oil,\nAn' doze wee ban's so sof an' sweet,\nMates wid dem toddlin', velvet feet,\nUpon a dead man's door.\nNo tyrant's tread will disturb his rest\nWhere haughty tyrants once bore rule"
- },
- {
   "time": "2026-08-13 19:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "To-day, but I--\nAh, heart of the men of both races.\nStarvation danced with careless,\nbrutal\nO kinsmen! we must die--oh, let us\nstill"
+ },
+ {
+  "time": "2026-08-29 22:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Sailing the seven seas;\nHe will go down to hell.\nI'm out to be wooed;\nAnd browse about our ancient place,\nLay the victims of the dying stars.\nSymbolic mother, we thy myriad"
  }
 ]

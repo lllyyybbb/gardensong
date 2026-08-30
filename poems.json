@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 10:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Neber dreamin' of his wasted life.\nLife was trembling, faintly trembling\nOn roads that wind around the throne,\nA boy came running up with dust and grim\nWith butterflies and bees close to his feet!\nDah, now, I t'ought dat you'd hug me up close."
- },
- {
   "time": "2026-08-17 11:00",
   "temp_c": 37.0,
   "temp_f": 99,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "O word I love you?\nBe our watchwords evermore.\nThey may not be forgot:\nChrist washed the feet of clay.\nThe forest trees have shed their leaves\nAnd far as the lightning ere the"
+ },
+ {
+  "time": "2026-08-30 17:00",
+  "temp_c": 31.0,
+  "temp_f": 88,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Thy blood of Thy Throne, we\nraise our shackled hands and aching feet.\n\"Tim Thompson, a little scrap of blue\nIs waning into evening--whisper soft!\nPeace, O my good Lamb,\nO heart of gold,"
  }
 ]

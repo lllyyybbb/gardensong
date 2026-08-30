@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 08:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Des awaitin', honey,\nCozy fixt fur you;\nDown in the earth--\nAnd tread it 'neath my feet,\nAnd you'll see into my heart.\nDo not cheer, for aged colored\npeople,"
- },
- {
   "time": "2026-08-17 09:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "Theme ringing prominent,\nBass still repeating its one monotone,\nDouble notes crying,\nUp from the West,\nAnd wonder came and filled our night of\nterror"
+ },
+ {
+  "time": "2026-08-30 15:00",
+  "temp_c": 31.0,
+  "temp_f": 88,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "He hunner yurs ol' an' nebber wuz ill;\nHe hurled the world;\nAnd Georgie--none could ever dive like\nhim--\nBut when the cyclone\nBreathes terror through the eternity of"
  }
 ]

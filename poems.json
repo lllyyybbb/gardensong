@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 09:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Could be starving, but not control,\nI seek is passing, passing?\nSummah night an' sighin' breeze,\nThe faint one at his plow!\nIn mercy, love and life.\nHad dared to raise its head;\nI'm longing to clasp her words"
- },
- {
   "time": "2026-08-17 10:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "He hunner yurs ol' an' nebber wuz ill;\nHe hurled the world;\nAnd Georgie--none could ever dive like\nhim--\nBut when the cyclone\nBreathes terror through the eternity of"
+ },
+ {
+  "time": "2026-08-30 16:00",
+  "temp_c": 31.0,
+  "temp_f": 88,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "O word I love you?\nBe our watchwords evermore.\nThey may not be forgot:\nChrist washed the feet of clay.\nThe forest trees have shed their leaves\nAnd far as the lightning ere the"
  }
 ]

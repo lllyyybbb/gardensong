@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-15 22:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "Loud the whistles blew and the hallow of\nold\nFor in her glance there is a fancied\nthing\nI am, and am not."
- },
- {
   "time": "2026-08-15 23:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "Nor bring me back departed joys;\nBut glory to the winds' invisible\nshape;\nThe motif of his avocation.\nI want to jump an' hollah,\nDough de saw is sharp an' greasy,\nDough you know the hour of woe.\nDo not cheer until the nation"
+ },
+ {
+  "time": "2026-08-30 12:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
  }
 ]

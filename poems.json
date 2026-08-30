@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-15 23:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "The black must serve the white.\nTo greet the coming day.\nThere is a block-head,\nEvery ravine is a fancied thing\nNow for a moment, to look into a pool,"
- },
- {
   "time": "2026-08-16 09:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
+ },
+ {
+  "time": "2026-08-30 13:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "I turned from the arms of night,\nBut sometimes they are sung.\nNot many steps ahead, but this we know--\nIf he failed us we must die, let it\nslowly\nWill wrap thee gently in her eye:\n\"Go, tell the way"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-15 21:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "Ten thousand cords of light.\nToo stormy is the special, startling\nseason\nRed blood to save one child from forests\nwild"
- },
- {
   "time": "2026-08-15 22:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 82,
   "lines": 8,
   "poem": "My four walls shield me from the\ndeep,\nThoo de hazy air,\nAnd seek to hide my tortured soul\nfrom the blaze of the\neucharis\nBefore their footsteps stray,\nSweet with the glory of your body"
+ },
+ {
+  "time": "2026-08-30 11:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "Nor bring me back departed joys;\nBut glory to the winds' invisible\nshape;\nThe motif of his avocation.\nI want to jump an' hollah,\nDough de saw is sharp an' greasy,\nDough you know the hour of woe.\nDo not cheer until the nation"
  }
 ]

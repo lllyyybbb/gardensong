@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-15 18:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 45,
-  "lines": 4,
-  "poem": "He sowed in his dream\nOf Peace through Brotherhood, lifting glad\nsongs,\nAnd when the night"
- },
- {
   "time": "2026-08-15 19:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 89,
   "lines": 8,
   "poem": "For bags and wraps the red-caps\ncircle\nWhen ol' Sis' Judy pray,\nHa'd sinnahs trimble in dey seat\nThe sacred brown feet of my heart,\nmy songs of gladness on the\neternal excellency, a joy of many\ngenerations."
+ },
+ {
+  "time": "2026-08-30 08:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "But ye can try to think\nOf agony, hatred and fear?\nMen who knew not mercy's sway,\nLike it done in days of the sea,\nOur hour of strife;\nGaining in his heart,\nTender measure of doubt in a manger\nlaid,"
  }
 ]

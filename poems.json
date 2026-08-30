@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-15 19:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 47,
-  "lines": 5,
-  "poem": "When June comes dancing o’er the swinging\nchar.\nShake our land from shore to shore;\nAnd bulged the mountains by the body, longs.\nWords that told of \"Home, Sweet Home.\""
- },
- {
   "time": "2026-08-15 20:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 93,
   "lines": 8,
   "poem": "But ye can try to think\nOf agony, hatred and fear?\nMen who knew not mercy's sway,\nLike it done in days of the sea,\nOur hour of strife;\nGaining in his heart,\nTender measure of doubt in a manger\nlaid,"
+ },
+ {
+  "time": "2026-08-30 09:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "I’m afraid of your soul,\nYou are linked unto his throne\nCannot live nor die alone.\nBut they heard no cry of\nconsternation\n\"I am here, oh! God,\nHe never knew nor shared.\nThese lowly numbers for the field"
  }
 ]

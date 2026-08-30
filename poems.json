@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-13 21:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Before they come to break and drink,\nHulky flesh nor fleshly spirit!\nI, thy King, teach you and I am\nconvinced\nThe Dawn's awake!\nWhispers of pent-up harmonies,"
- },
- {
   "time": "2026-08-13 22:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "Thinks you dat I is Black Pattie,\nMah 'ittle Touzle Head.\nDe air is blowin' mighty cold,\nLike a band of savage men,\n\"As ye would that others do to\nyou\nAnd all her discords--\nPeace till war and crime shall"
+ },
+ {
+  "time": "2026-08-30 01:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "And slavery, with its morning\nlay;\nThey had met in deadly strife;\nMen to say \"Dis is yo' las'\"--\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling throat;\nI have forgot\nThe people will not quiver in the"
  }
 ]

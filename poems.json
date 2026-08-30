@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-15 13:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Could be starving, but not control,\nI seek is passing, passing?\nSummah night an' sighin' breeze,\nThe faint one at his plow!\nIn mercy, love and life.\nHad dared to raise its head;\nI'm longing to clasp her words"
- },
- {
   "time": "2026-08-15 14:00",
   "temp_c": 39.0,
   "temp_f": 102,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "The yellow by-road mazing from\nthe innocent crucified for the\ngift\nI wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah\nhow)\nStop! to each heart!\nBrown bees that murmur sounds of"
+ },
+ {
+  "time": "2026-08-30 03:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 82,
+  "lines": 8,
+  "poem": "You say it is a-sighin',\nWhil' de win' up here's\na-blowin',\nTo noble friends of darker days;\nTo Lundy, whose heart was early\nwon,\nWhen ol' Sis' Judy pray,\nDe whole house hit des rock an'"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 17:00",
-  "temp_c": 37.0,
-  "temp_f": 99,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "The bell is sounding and the yellow yam,\nFor God's great cause to die--\nA twitching body quivering in space,\nAnd there the great life line of the island of\nthe lips of men grown tender"
- },
- {
   "time": "2026-08-17 18:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Applauding youths laughed with young\nprostitutes\nThere was not in that prayer for light,\nmore\nTheir laugh is swallowed in the sky,\nThe tribute paid by passersby to tombs\nof fortune that I loved it for the\nweary,"
+ },
+ {
+  "time": "2026-08-31 00:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Each black cloud\nIs there no way\nTo give to them a dance.\n\"Come dance for us,\" the rough men\nsaid;\nYour hate of vice a sham,\nWhen Angelus was sung"
  }
 ]

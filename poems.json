@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 22:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "That stretches to the calm earth seeking\npeace\nAnd for our need,\nBut not the whole.\nContemplating the strange, I’m comforted\nBy angel fingers strung."
- },
- {
   "time": "2026-08-17 23:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "Veil not thine eyes, nor close thy\nlips,\nTell yet what range in color wakes\nthe home for aged fathers\nBend above their staves and weep,\nWhile it breaks, breaks, breaks on\nthe lips of the Lord and Gideon.\"\nOn the floors of golden grain,"
+ },
+ {
+  "time": "2026-08-31 05:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 88,
+  "lines": 8,
+  "poem": "Watches the mad world with immobile\nlids.\nAnd by his blood,\n'Till war shall be the\npresence-chamber\nburdened with\nThe Brahmin from his heart Eternity.\nThe yawning oven spits forth fiery"
  }
 ]

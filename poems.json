@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-19 07:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "Which will bring thee windows\nof Peace is hovering over No\nMan's\nAnd died in anguish on the\nrose,\nAnd for their God.\nAnd back behind those smiling\nlips,"
- },
- {
   "time": "2026-08-19 08:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Hello dar, Miss Melerlee!\nDat's de deed to us would come\nA longing to clasp her words\nUntil my latest breath.\n\"Ave Caesar, morituri,\nTe, salutant,\" rose the cry"
+ },
+ {
+  "time": "2026-08-31 17:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "Chirping and dancing for the footsteps of\na\nI must think\nYour lips are paled in death.\nThese seven links the _Law_ compelled\nFor each man no more could go."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-19 15:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 43,
-  "lines": 4,
-  "poem": "Hot the tears of passion saturate with\nbrine,\nAnd my life of man.\nO Earth, O Sky, O Ocean, both surpassing,"
- },
- {
   "time": "2026-08-19 16:00",
   "temp_c": 37.0,
   "temp_f": 99,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Of the mysterious sea-line far away,\nRome had gathered beasts of prey.\nShe stirred again my mother's kiss,\nMah 'ittle Touzle Head.\nAn' da far off hills seems to be forever\nthere."
+ },
+ {
+  "time": "2026-08-31 19:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "As deserves our sweetest song.\nO, Honey Lam'! dem sparklin' eyes,\nWould you blame me that the Prince of\nPeace till war and crime shall cease;\nAnd many thought it was a lute\nWhereon my passion was a mighty flame,"
  }
 ]

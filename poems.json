@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-18 09:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Loud an' clear, sweet an' gentle heart:\n\"Dear one o' my heart, mother,\nWas entering in at his side.\nSee! There he stands; not brave, but with\nan\nLooked over heads to empty air,\nAs they bore him from the sale of my Lord"
- },
- {
   "time": "2026-08-18 10:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 86,
   "lines": 8,
   "poem": "A brooding mother over chaos lay.\nAnd he felt de blow,\nBetrayed, like him whose woe dimmed\neyes\nBut what steals out the old man went\nthrough\nI shall say--\n\"Lord, I do not shame to turn its"
+ },
+ {
+  "time": "2026-08-31 09:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "An' da moon ain't nevah been\ndiscovahed,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! Lord God, what evil have we\ndone?\nOf love; and sing, nor one kind act\nwithhold."
  }
 ]

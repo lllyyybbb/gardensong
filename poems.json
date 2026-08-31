@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 18:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "And bow in rev'rence at the noon-hour from the\nrains\nButchered for a holiday.\nFrom his grave his mangled body\nDid he against their fiercest foes,"
- },
- {
   "time": "2026-08-17 19:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Each black cloud\nIs there no way\nTo give to them a dance.\n\"Come dance for us,\" the rough men\nsaid;\nYour hate of vice a sham,\nWhen Angelus was sung"
+ },
+ {
+  "time": "2026-08-31 01:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Is for the amusement of some white\nThe dawn departs, the morning air\nThat futilely bring torture to dead\nand\n(While all de laigs he need,\nWere nailed unto the Lord and King.\nAnd God looked around and said,\nClose to the sky,"
  }
 ]

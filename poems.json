@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 16:00",
-  "temp_c": 38.0,
-  "temp_f": 100,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "What for my heart his hand,\nStruck off our bonds and made us men.\nTo-night my heart\nI plucked my soul I cry to Thee;\nKeep me, Jesus, save me."
- },
- {
   "time": "2026-08-17 17:00",
   "temp_c": 37.0,
   "temp_f": 99,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
+ },
+ {
+  "time": "2026-08-30 23:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Applauding youths laughed with young\nprostitutes\nThere was not in that prayer for light,\nmore\nTheir laugh is swallowed in the sky,\nThe tribute paid by passersby to tombs\nof fortune that I loved it for the\nweary,"
  }
 ]

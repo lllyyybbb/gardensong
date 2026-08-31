@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-18 15:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "And leave his laurels at his people's feet.\nAnd she watched in lonely grief and sin\nStill must one succor those who love honest\nmusic.\nThey branded him \"the bard of the Spring,\nIn sculptured worship now he lives,"
- },
- {
   "time": "2026-08-18 16:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Seen my lady home las' night,\nJump back, honey, jump back.\nMockin'-bird was singin' fine,\nTo dat res'less, wretchit fevah evah\nSprin'.\nAnd I'm a grown man now.\nIt's lain there in the hollow of his"
+ },
+ {
+  "time": "2026-08-31 12:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "Whither? To life? But not the slightest\nurge\nWhen ol' Sis' Judy pray.\nO, de moon\nThat weakness stalks in pride;\nI have forgot\nWhat seemed before a heaven-fed"
  }
 ]

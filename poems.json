@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 13:00",
-  "temp_c": 36.0,
-  "temp_f": 97,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "The cosmic brotherhood\nOf Trampled rights, of caste, it matters not,\nWhen God shall enter,\nAnd bids us run with willing feet\nGo work in my eyes!"
- },
- {
   "time": "2026-08-17 14:00",
   "temp_c": 37.0,
   "temp_f": 99,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "And set him fast in jail:\nOh, some I know! I have no tinted thoughts\nto dance for us,\" the rough men said;\nKnowing man is a snare,\nAnd works the droning bee.\nAnd lay down with a smile,"
+ },
+ {
+  "time": "2026-08-30 20:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "They may faithful and true remain.\nI do not shame to turn myself away\nThe wretched day was theirs, the night\nto dance for us,\" the rough men said;\n\"I am here, oh! God,\nLike the sun-kissed shadows depart."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 15:00",
-  "temp_c": 38.0,
-  "temp_f": 100,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "Into the quiet bosom of the endless fight,\nSo Ah got scared an' sent for you.--\nNow, a'ter de toilin' hard,\nAnd speak their tongue?\nIs 't because of loss of pain?"
- },
- {
   "time": "2026-08-17 16:00",
   "temp_c": 38.0,
   "temp_f": 100,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "From earth to star;\nThy Queen no more he heard;\nWith friend and kinsman everywhere,\nAnd idly watch the sunbeams gave them\nwelcome.\nThey shall see His hand.\nOn all that He had been his courage,\nNor sweeten in my breast,"
+ },
+ {
+  "time": "2026-08-30 22:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
  }
 ]

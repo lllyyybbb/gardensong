@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-19 08:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "Thinks you dat I is Black Pattie,\nMah 'ittle Touzle Head.\nDe air is blowin' mighty cold,\nLike a band of savage men,\n\"As ye would that others do to\nyou\nAnd all her discords--\nPeace till war and crime shall"
- },
- {
   "time": "2026-08-19 15:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "Chirping and dancing for the footsteps of\na\nI must think\nYour lips are paled in death.\nThese seven links the _Law_ compelled\nFor each man no more could go."
+ },
+ {
+  "time": "2026-08-31 18:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Of the mysterious sea-line far away,\nRome had gathered beasts of prey.\nShe stirred again my mother's kiss,\nMah 'ittle Touzle Head.\nAn' da far off hills seems to be forever\nthere."
  }
 ]

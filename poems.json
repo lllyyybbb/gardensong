@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 14:00",
-  "temp_c": 37.0,
-  "temp_f": 99,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "And speak their tongue?\nIs rocking to and ride the rebel roan;\nBut songs to thrill the hearts of men\nI have hyeahd o' lots o' sermons,\nAn' I've listened to some singin'"
- },
- {
   "time": "2026-08-17 15:00",
   "temp_c": 38.0,
   "temp_f": 100,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "They may faithful and true remain.\nI do not shame to turn myself away\nThe wretched day was theirs, the night\nto dance for us,\" the rough men said;\n\"I am here, oh! God,\nLike the sun-kissed shadows depart."
+ },
+ {
+  "time": "2026-08-30 21:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "From earth to star;\nThy Queen no more he heard;\nWith friend and kinsman everywhere,\nAnd idly watch the sunbeams gave them\nwelcome.\nThey shall see His hand.\nOn all that He had been his courage,\nNor sweeten in my breast,"
  }
 ]

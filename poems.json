@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-18 11:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "He feel dee pu's' den he look mighty blue,\nSeems lak to me the fearful fires of lust,\nLit long ago, by other hands than mine.\nYour eyes are dawning day;\nOnly the swallow-twittering eaves.\nWhat despair was in the night."
- },
- {
   "time": "2026-08-18 15:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Is for the amusement of some white\nThe dawn departs, the morning air\nThat futilely bring torture to dead\nand\n(While all de laigs he need,\nWere nailed unto the Lord and King.\nAnd God looked around and said,\nClose to the sky,"
+ },
+ {
+  "time": "2026-08-31 11:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Seen my lady home las' night,\nJump back, honey, jump back.\nMockin'-bird was singin' fine,\nTo dat res'less, wretchit fevah evah\nSprin'.\nAnd I'm a grown man now.\nIt's lain there in the hollow of his"
  }
 ]

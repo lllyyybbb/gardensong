@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 21:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And set him fast in jail:\nOh, some I know! I have no tinted thoughts\nto dance for us,\" the rough men said;\nKnowing man is a snare,\nAnd works the droning bee.\nAnd lay down with a smile,"
- },
- {
   "time": "2026-08-17 22:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "And a lover's regret.\nTender listening for wind-songs in\nthe lips of men who cast aside\nAnd with a leaden sigh thou wilt ask\nno\nO dawn! O let us show us brave,\nAnd grandma sits in hired dray,\nDrivin' 'long de candy-shop"
+ },
+ {
+  "time": "2026-08-31 04:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 84,
+  "lines": 8,
+  "poem": "Veil not thine eyes, nor close thy\nlips,\nTell yet what range in color wakes\nthe home for aged fathers\nBend above their staves and weep,\nWhile it breaks, breaks, breaks on\nthe lips of the Lord and Gideon.\"\nOn the floors of golden grain,"
  }
 ]

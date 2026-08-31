@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 19:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
- },
- {
   "time": "2026-08-17 20:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Is for the amusement of some white\nThe dawn departs, the morning air\nThat futilely bring torture to dead\nand\n(While all de laigs he need,\nWere nailed unto the Lord and King.\nAnd God looked around and said,\nClose to the sky,"
+ },
+ {
+  "time": "2026-08-31 02:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "The sharp sickles of God's\nretribution\nBefore sex tamed your spirit, made\nyou\nMy manhood as a haunted bough\nOn that Roman holiday.\nFrom that hour Rome, grown more\nthoughtful,"
  }
 ]

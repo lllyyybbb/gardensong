@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-18 10:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "A guiltless victim's pains.\nI wouldn' be s'prised ef we had tried to\nsave;\nThe Negro bound with you in your darkness,\ndid\nSo long but outlives a smile and"
- },
- {
   "time": "2026-08-18 11:00",
   "temp_c": 35.0,
   "temp_f": 95,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "An' da moon ain't nevah been\ndiscovahed,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! Lord God, what evil have we\ndone?\nOf love; and sing, nor one kind act\nwithhold."
+ },
+ {
+  "time": "2026-08-31 10:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Is for the amusement of some white\nThe dawn departs, the morning air\nThat futilely bring torture to dead\nand\n(While all de laigs he need,\nWere nailed unto the Lord and King.\nAnd God looked around and said,\nClose to the sky,"
  }
 ]

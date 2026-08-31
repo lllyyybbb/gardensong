@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-17 20:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "For the cock which crows at the feet\nGo prowling through the trees\nAnd strife and carnage--\nFrom out its misty veil will swing aloft!\nBe not deceived, for every deed you do\n'Dout a lovah's lane."
- },
- {
   "time": "2026-08-17 21:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "The sharp sickles of God's\nretribution\nBefore sex tamed your spirit, made\nyou\nMy manhood as a haunted bough\nOn that Roman holiday.\nFrom that hour Rome, grown more\nthoughtful,"
+ },
+ {
+  "time": "2026-08-31 03:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "And a lover's regret.\nTender listening for wind-songs in\nthe lips of men who cast aside\nAnd with a leaden sigh thou wilt ask\nno\nO dawn! O let us show us brave,\nAnd grandma sits in hired dray,\nDrivin' 'long de candy-shop"
  }
 ]

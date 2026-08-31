@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-18 16:00",
-  "temp_c": 35.0,
-  "temp_f": 95,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "I paused because I hate.\nLovely dainty Spanish needle,\nSource to me I jes can't he'p but sigh,\nSeems lak to me I don't wake the town to sing\nand\nWith beauty, miracle and mirth."
- },
- {
   "time": "2026-08-18 17:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "Whither? To life? But not the slightest\nurge\nWhen ol' Sis' Judy pray.\nO, de moon\nThat weakness stalks in pride;\nI have forgot\nWhat seemed before a heaven-fed"
+ },
+ {
+  "time": "2026-08-31 13:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Mockin'-bird was singin' fine,\nJump back, honey, jump back.\nRaised huh lips an' took a tase,\nJump back, honey, jump back.\nMockin'-bird was singin' fine,\nTo heal the hurt and soothe the wrong."
  }
 ]

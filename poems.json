@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-18 08:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 79,
-  "lines": 8,
-  "poem": "Smile beacon answers to their plea,\nOut in the hills we heard a theme\nNobler than \"Go down, Moses.\" Mark\nits\nLast Chance Saloon, drink a gallon or\ntwo\nLay the victims of the faint breeze,\n'Long de lovah's lane."
- },
- {
   "time": "2026-08-18 09:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "Want de sweatin' higgler fe\nRam de pan an' pile i' up,\nYet the garden is very quiet\nto-night,\nAnd makes me music-drunk, are yours,\nall\nWhere winter still did tread.\nIs waning into evening, whisper"
+ },
+ {
+  "time": "2026-08-31 08:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 86,
+  "lines": 8,
+  "poem": "A brooding mother over chaos lay.\nAnd he felt de blow,\nBetrayed, like him whose woe dimmed\neyes\nBut what steals out the old man went\nthrough\nI shall say--\n\"Lord, I do not shame to turn its"
  }
 ]

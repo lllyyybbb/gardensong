@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-21 08:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "mocked and murdered people;\nstraining\nTo Jamie it seemed more clear;\nGrandma, he said, \"to buy a\nlittle\n\"I bled to free all men,\" you\nsay\nAnd I am not fiend and savage"
- },
- {
   "time": "2026-08-21 09:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "Want de sweatin' higgler fe\nRam de pan an' pile i' up,\nYet the garden is very quiet\nto-night,\nAnd makes me music-drunk, are yours,\nall\nWhere winter still did tread.\nIs waning into evening, whisper"
+ },
+ {
+  "time": "2026-09-01 08:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 91,
+  "lines": 8,
+  "poem": "Azaleas gently swing their yellow\ncups.\nOnward and onward, up! away!\nThough far outnumbered let us nobly\ndie,\nThe world is swallowed up in him\nback,\n'Tis meet that we, like you,"
  }
 ]

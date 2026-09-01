@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-23 22:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Your hate of vice a sham,\nWhen June comes dancing o’er the\nrippling\nLike laughter jolly\nBegins to float more near.\nThen a man again,"
- },
- {
   "time": "2026-08-23 23:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "Could he save us?\nAll these shall give you sweet content\nAnd winds are balmy, blue brooks ever sheen,\nTo gather the young pregnant year at\nEastertime;"
+ },
+ {
+  "time": "2026-09-01 18:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "The blood. Such are the notes that men\nthough\nBack to Nirvanic peace shall grope their\nway.\nTo fill the noonday with their stealthy"
  }
 ]

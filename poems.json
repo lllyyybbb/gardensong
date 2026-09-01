@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-23 20:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Her clinging was a church\nmember. One of the Negro belt;\nThe words you sang to me\nOh, you shall see His hand.\nThe Lord had basely sold his part.\nTo hear and see, screened skilfully"
- },
- {
   "time": "2026-08-23 21:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "And there the great dynamic beat\nUpon life's stormy tide.\nThe moaning, groaning cars,\nAnd bid our weary, saddened earth\nAgain does the dog howl all night long,\nSeems lak to me ma th'oat keeps gittin' dry,"
+ },
+ {
+  "time": "2026-09-01 16:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
  }
 ]

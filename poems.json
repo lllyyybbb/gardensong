@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-20 19:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "Lay by your soft vermilion robe,\nAmorous of sweets, for but one perfect\nhour!\nFrom the cities in the night lets fall\nIts weariness and care\nFor Time's deft fingers scroll my brow\nThe man is greater than the first."
- },
- {
   "time": "2026-08-20 20:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "There was a restless world.\nWe laid tired bodies 'gainst\nThe dawn now breaks on the earth,\nEven the sacred truths lay deep\nimbedded,\nLike men we'll face the fact and say,\nDat dare ain't a-gwine to be here\nAnd ever another rides his soul was"
+ },
+ {
+  "time": "2026-09-01 03:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 86,
+  "lines": 8,
+  "poem": "With your sun-crowned golden hair,\nWith many colored hues and shapely\nwing?\nSee dem comin' ebery man,\nEvery valley has a hill,\nWhere lofty fanes in grandeur rose,\nAnd God said, _\"I'm lonely still.\"_\nThen tenderly the sons of Heth"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-23 23:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "It was something to him in my\nhumbled\nTo make our age the fairest one\nOf children for their bartered\nmothers'\nTo dwell with beautiful angels,"
- },
- {
   "time": "2026-08-24 00:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "The blood. Such are the notes that men\nthough\nBack to Nirvanic peace shall grope their\nway.\nTo fill the noonday with their stealthy"
+ },
+ {
+  "time": "2026-09-01 19:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
  }
 ]

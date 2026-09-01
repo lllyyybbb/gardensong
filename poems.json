@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-20 17:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "I'll make me a world.\"_\nAnd trampled on his sword,\nTo buy drops fe las'y son,\nFor fear that they might mark me for a\nmoment,\nTill our world, so worn and weary eyes\nWatches the mad world with peace."
- },
- {
   "time": "2026-08-20 18:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "When she's ready to go.\n\"Softly let the pillars of my skin,\nForgetting that I could not scorn.\nWhen ol' Sis' Judy pray,\nDe man doan know how much he miss,\nAnd thought of fear,\nAnd held it to determine why\nThis was the faith that taught"
+ },
+ {
+  "time": "2026-09-01 01:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 82,
+  "lines": 8,
+  "poem": "My four walls shield me from the\ndeep,\nThoo de hazy air,\nAnd seek to hide my tortured soul\nfrom the blaze of the\neucharis\nBefore their footsteps stray,\nSweet with the glory of your body"
  }
 ]

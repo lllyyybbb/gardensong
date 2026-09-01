@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-19 18:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "Transfigured, bathed in your mean graves,\nO black and rolling smoke of sin, where all\nalong\nMah 'ittle Touzle Head!\nI traced a path to shame and woe."
- },
- {
   "time": "2026-08-19 19:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "Every well man is a blight.\nEternities before the crowd!--\nUpon the exit of a gaze, dusky,\nLike the pool when but the forms I have\nno\nWho made the gallows an altar high,\nAnd seek to hide my tortured soul from"
+ },
+ {
+  "time": "2026-08-31 22:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "Nor bring me back departed joys;\nBut glory to the winds' invisible\nshape;\nThe motif of his avocation.\nI want to jump an' hollah,\nDough de saw is sharp an' greasy,\nDough you know the hour of woe.\nDo not cheer until the nation"
  }
 ]

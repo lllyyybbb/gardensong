@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-20 21:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "Of healthy children you have torn a\nnerve\nThe lady riding at thy command;\nAgainst the plea thy grief hath\nmade\nAn' stops dis ha't f'um sighin'!\nO my good Lamb,"
- },
- {
   "time": "2026-08-21 07:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 88,
   "lines": 8,
   "poem": "And the earth was under His feet.\n\"Tim Thompson, a little cake\nAnd kingdoms fell and empires rose,\nUpon life's stormy tide.\nThe blush is on the island of the\neucharis\nBefore these star-noted birds\nescaped"
+ },
+ {
+  "time": "2026-09-01 05:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 91,
+  "lines": 8,
+  "poem": "Will grind out the old Antaean\nstrength\nGirdle the world of tears,\nAnd the light stood shining on my\nthrone,\nThe long-drawn dreary day, the\nnight's\nAnd nowhere seen and nowhere heard"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-20 20:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Cheery, clean an' bright,\nAnd sounded is the charge they\nmake),\nShould stop, e'en for a master's\nnose\nEvery well man is a lovely noise\nabout"
- },
- {
   "time": "2026-08-20 21:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 86,
   "lines": 8,
   "poem": "With your sun-crowned golden hair,\nWith many colored hues and shapely\nwing?\nSee dem comin' ebery man,\nEvery valley has a hill,\nWhere lofty fanes in grandeur rose,\nAnd God said, _\"I'm lonely still.\"_\nThen tenderly the sons of Heth"
+ },
+ {
+  "time": "2026-09-01 04:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 88,
+  "lines": 8,
+  "poem": "And the earth was under His feet.\n\"Tim Thompson, a little cake\nAnd kingdoms fell and empires rose,\nUpon life's stormy tide.\nThe blush is on the island of the\neucharis\nBefore these star-noted birds\nescaped"
  }
 ]

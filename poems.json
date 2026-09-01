@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-21 14:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "And sound! ye with harp and flute ne'er\nessay\nWhen I declare I am black?\nThe great white witch rides out to-night.\nO, de light-bugs glimmer down de lane,"
- },
- {
   "time": "2026-08-21 15:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "My father worked for Mr. Pullman and white\nhaired\nLove me, honey, love me\nWith many colored hues and shapely wing?\nWhy we were wed;\nWhere the sea sings low."
+ },
+ {
+  "time": "2026-09-01 14:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "What merely living clod, what captive\nthing,\nThe change to a song\nMeans flowering lanes and leas and spaces\ndry,\n\"That I would rather die.\""
  }
 ]

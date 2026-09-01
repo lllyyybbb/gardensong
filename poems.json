@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-21 13:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "Each one stretchin' out him han',\nLookin' to de big buggah-man;\nI almost think the angels,\nAnd smiled and uttered peace.\nSlight was the gallant faith, I trow,"
- },
- {
   "time": "2026-08-21 14:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "And others breaking up the sun-baked soil.\nO chillen, run, de Cunjah trick.\nHim hide it un' de kitchen sta'r,\nMam Jude huh pars urlong dat way,\nHow yo' gloom tu'ns into gladness,\nThe night is done,"
+ },
+ {
+  "time": "2026-09-01 13:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "My father worked for Mr. Pullman and white\nhaired\nLove me, honey, love me\nWith many colored hues and shapely wing?\nWhy we were wed;\nWhere the sea sings low."
  }
 ]

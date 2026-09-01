@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-21 09:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "They may not ask me e'er to prove\nThe thunder's roll is their trump's\npeal,\nAs with thumbs unbent they glared,\nTill her footsteps cease to be.\nWould still be brave,\nAnd the light around in vain you"
- },
- {
   "time": "2026-08-21 10:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 91,
   "lines": 8,
   "poem": "Azaleas gently swing their yellow\ncups.\nOnward and onward, up! away!\nThough far outnumbered let us nobly\ndie,\nThe world is swallowed up in him\nback,\n'Tis meet that we, like you,"
+ },
+ {
+  "time": "2026-09-01 09:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 82,
+  "lines": 8,
+  "poem": "Who flung the stars\nWhile Danny liked the sheltering bars.\nThe eagle had an eyrie home,\nDare's nothin' to fear--my ole\n'ooman's\nHow faint they flicker and how low\nsweet\nThink you their work can be undone?"
  }
 ]

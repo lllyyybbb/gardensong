@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-19 16:00",
-  "temp_c": 37.0,
-  "temp_f": 99,
-  "humidity": 42,
-  "lines": 4,
-  "poem": "There, oh there! on the barren hill\nWhere her chariot descends\nShall not be like hogs\nHunted and penned in an orange grove,"
- },
- {
   "time": "2026-08-19 17:00",
   "temp_c": 36.0,
   "temp_f": 97,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "As deserves our sweetest song.\nO, Honey Lam'! dem sparklin' eyes,\nWould you blame me that the Prince of\nPeace till war and crime shall cease;\nAnd many thought it was a lute\nWhereon my passion was a mighty flame,"
+ },
+ {
+  "time": "2026-08-31 20:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Searching me through, reading my\nthoughts,\nAround their heartstrings and brains.\nYou take that bone, and you this tooth;\nthe home for aged colored people, from\nthe men knocked him\nFor fear that my soul out of its mood"
  }
 ]

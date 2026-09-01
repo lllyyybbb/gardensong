@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-23 21:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "'Dough mutton chops is splendid, an'\ndem\nThe fascinating note,\nWhich, fluting like a storm-swept\nflower,"
- },
- {
   "time": "2026-08-23 22:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
+ },
+ {
+  "time": "2026-09-01 17:00",
+  "temp_c": 34.0,
+  "temp_f": 93,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "Could he save us?\nAll these shall give you sweet content\nAnd winds are balmy, blue brooks ever sheen,\nTo gather the young pregnant year at\nEastertime;"
  }
 ]

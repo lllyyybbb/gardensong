@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-21 15:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 44,
-  "lines": 4,
-  "poem": "His blood and tears are shed,\nThat was never spoken,\nBut when you’re filled and sated with the\ndrape"
- },
- {
   "time": "2026-08-23 20:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "What merely living clod, what captive\nthing,\nThe change to a song\nMeans flowering lanes and leas and spaces\ndry,\n\"That I would rather die.\""
+ },
+ {
+  "time": "2026-09-01 15:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "And there the great dynamic beat\nUpon life's stormy tide.\nThe moaning, groaning cars,\nAnd bid our weary, saddened earth\nAgain does the dog howl all night long,\nSeems lak to me ma th'oat keeps gittin' dry,"
  }
 ]

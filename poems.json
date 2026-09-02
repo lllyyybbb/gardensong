@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 15:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "The older folk are at their peaceful\ntoil,\nOur swaying forms and steals our hearts\nwith\nKneeled down in my grain,"
- },
- {
   "time": "2026-08-24 16:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 85,
   "lines": 8,
   "poem": "Dat has tuck me up close.\nGo on, hoot yo' Mou'nful tune,\nYou are sea-foam, pure with the\nEvening\nAbout me young and thoughtless in,\n'Cause I knows down in de do',\nAn' drew back deir han's wid shame!\n\"Go back!\" she cried, and waved her"
+ },
+ {
+  "time": "2026-09-02 11:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "Whose meaning, charlatan history,\ntells!\nGhosts are turned flesh, throwing off\nthe lips of the eucharis\nBefore my ravished sight\nThe spell of half tears,\nAnd bound me with tales\nof Peace hovering over No Man's Land"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 12:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "His bosom to the winds' invisible\nshape;\nThere, oh there! on the raging tide.\nThe dew is on de spot,\nWhile one with true madonna grace\nTo strengthen, crown and bless the"
- },
- {
   "time": "2026-08-24 13:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 91,
   "lines": 8,
   "poem": "My eyes grew full of light,\nBut yo' sweet smile will follow me\nWhen he grasped the writing;\n\"I can't,\" the child\nTheir warm, heart-melting motions to\nbe\nHave stretched out upward, seeking\nthe home for aged colored people,"
+ },
+ {
+  "time": "2026-09-02 08:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "Before these star-noted birds\nescaped\nWe took the light of God around us,\nAnd lit with many a hot-breath'd\nbattle\nFor ancient hag and snaggle-tooth;\nBut before I reach my country,\nMy leaves were green as the eye"
  }
 ]

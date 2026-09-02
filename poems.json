@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 11:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "\"Go, tell the King,\" she sadly said,\n\"Must die to get us out of the\nrose-apple:\nNot these, not these did I stray\nfrom us, tempt us not beyond our\nstrength,"
- },
- {
   "time": "2026-08-24 12:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 89,
   "lines": 8,
   "poem": "I’m afraid of your soul,\nYou are linked unto his throne\nCannot live nor die alone.\nBut they heard no cry of\nconsternation\n\"I am here, oh! God,\nHe never knew nor shared.\nThese lowly numbers for the field"
+ },
+ {
+  "time": "2026-09-02 07:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 91,
+  "lines": 8,
+  "poem": "My eyes grew full of light,\nBut yo' sweet smile will follow me\nWhen he grasped the writing;\n\"I can't,\" the child\nTheir warm, heart-melting motions to\nbe\nHave stretched out upward, seeking\nthe home for aged colored people,"
  }
 ]

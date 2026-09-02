@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 06:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 92,
-  "lines": 8,
-  "poem": "When she saw her cheek had\nfled.\nThey were only brothers then,\nJoining in the copse?\nOh, I have forgot\nWhat time of year the ground\ndoves\nShe pressed it on my brow."
- },
- {
   "time": "2026-08-24 07:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "And enrobed in spotless white.\nAnd browse about our ancient place,\nThe keenest eye would hardly heed--\nFell early on the tempest's wild\nalarms,\nSmile beacon answers to their plea,\nOut on the bay a lone ship light\nAwhile to burn on the quiet hill"
+ },
+ {
+  "time": "2026-09-02 02:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "The sluggish blood in the sweet old\nchorus,\nFor the sun is hot,\nAn' I ain't a-gwine to heed desire's\ninsistent\nTheir laugh is swallowed in the\nflowing"
  }
 ]

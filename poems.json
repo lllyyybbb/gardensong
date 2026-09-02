@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 10:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "Then uprose the gladiators\nAll her little coffin\nTaking her last sweet rest.\nTo living founts their feet might\nroam,\nIs any prophet come to juice\nAnd never yet has come the cry--"
- },
- {
   "time": "2026-08-24 11:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 85,
   "lines": 8,
   "poem": "He squirms! He groans! His eyes\nbulge\nCame with swift and silent tread,\nThe garden is very quiet to-night,\nAnd you, glory-clad, reach down.\nHe was seeking Odin's hall.\n\"Bear me unto my noblest ship,\nLight up a funeral pyre--"
+ },
+ {
+  "time": "2026-09-02 06:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "I’m afraid of your soul,\nYou are linked unto his throne\nCannot live nor die alone.\nBut they heard no cry of\nconsternation\n\"I am here, oh! God,\nHe never knew nor shared.\nThese lowly numbers for the field"
  }
 ]

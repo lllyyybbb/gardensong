@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 04:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Ub all yer fancy eatin's, jes\ngib\nDat am da time fuh rain.\nDo you think of me is lost,\nforever\nWhut I keer ef day is long,\nHas pushed the timid little\nfeet"
- },
- {
   "time": "2026-08-24 05:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "But I'm gittin' mighty werry,\nAn' de light shine from de moon\nThat I who fell, and he who sinned,\nShall leave me to spend the evening\nhours,\nWhen her keel had touched the ground."
+ },
+ {
+  "time": "2026-09-02 00:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "When he grasped the boat,\nAnd you know to the edge of the soft\nsunset,\nLet peace at last to Fate's wild whim)\nHung pitifully o’er the death of May,\nWith all her queenly grace,\nAnd, far away,"
  }
 ]

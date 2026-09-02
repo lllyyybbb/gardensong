@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 02:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 79,
-  "lines": 8,
-  "poem": "Cut an' carve, an' carve an'\ncut,\nMaking brighter life's highway\nDewdrops and the yellow yam,\nFor all the mighty hour\nThat Vashti lay aside her\ncrown,\nDouble notes crying,"
- },
- {
   "time": "2026-08-24 03:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "Next Ah tried was castor oil,\nAn' doze wee ban's so sof an' sweet,\nMates wid dem toddlin', velvet feet,\nUpon a dead man's door.\nNo tyrant's tread will disturb his rest\nWhere haughty tyrants once bore rule"
+ },
+ {
+  "time": "2026-09-01 22:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Desire naked, linked with Passion,\nGoes strutting by in brazen fashion;\nFrom the shelter of their sight.\nMen sought for broader, freer life,\nBring surcease to her in after years,\nSure and strong,"
  }
 ]

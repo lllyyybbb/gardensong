@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 17:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "His spirit must have nightly floated\nfree,\n\"The sword of the rose-apple.\nI hold my head and wept.\nTurn me to linger here, alas,"
- },
- {
   "time": "2026-08-24 18:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "I wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah how)\nYou danced and sang a race to wonder\nand\nBut ye can not render\nMy heart, my heart beat glad and free,\nWhen pestilence clasps hands with"
+ },
+ {
+  "time": "2026-09-02 13:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "As though you know to me the precious\ntoken,\nThe curse that writhed and died as\nslaves.\nOur eyes with tears were blind,\nThe poorest, humblest child;\nTo stay the floods of sin and strife,"
  }
 ]

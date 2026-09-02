@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 00:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Why must this horror be\nFor fainting France, for faithful\nFrance,\nAnd in this mansion\nFrom this uplifted, mighty\nmountain-seat:\nFor this my race"
- },
- {
   "time": "2026-08-24 01:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
+ },
+ {
+  "time": "2026-09-01 20:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "While laughter lies upon my brow\nThe joy in your frame;\nMy four walls shield me from the couch of\nnight.\nStaccato! Staccato!\nLeggier agitato!"
  }
 ]

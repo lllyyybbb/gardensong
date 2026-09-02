@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 07:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "Knelt by that badge in prayer.\nSewanee Hills of dear delight,\nAnd God walked, and where He\ncould\nOr do you moan,\nWhat is a sick man,\nEvery man has got a hobby,\nEvery sweet contains its"
- },
- {
   "time": "2026-08-24 08:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "The sluggish blood in the sweet old\nchorus,\nFor the sun is hot,\nAn' I ain't a-gwine to heed desire's\ninsistent\nTheir laugh is swallowed in the\nflowing"
+ },
+ {
+  "time": "2026-09-02 03:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "An' da moon ain't nevah been\ndiscovahed,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! Lord God, what evil have we\ndone?\nOf love; and sing, nor one kind act\nwithhold."
  }
 ]

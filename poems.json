@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 14:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "Lay the victims of the Nazarene,\nChildren of the long ago;\nOr dawn dews heavy in some neglected\nspot\nSeen only on a thousand fold,"
- },
- {
   "time": "2026-08-24 15:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "There was a restless world.\nWe laid tired bodies 'gainst\nThe dawn now breaks on the earth,\nEven the sacred truths lay deep\nimbedded,\nLike men we'll face the fact and say,\nDat dare ain't a-gwine to be here\nAnd ever another rides his soul was"
+ },
+ {
+  "time": "2026-09-02 10:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 85,
+  "lines": 8,
+  "poem": "Dat has tuck me up close.\nGo on, hoot yo' Mou'nful tune,\nYou are sea-foam, pure with the\nEvening\nAbout me young and thoughtless in,\n'Cause I knows down in de do',\nAn' drew back deir han's wid shame!\n\"Go back!\" she cried, and waved her"
  }
 ]

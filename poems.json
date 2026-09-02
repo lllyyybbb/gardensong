@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 20:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "Or closer press to crush a grape\n'gainst\nThe great, proud city, seized with a\nmother's\nOh, you shall see"
- },
- {
   "time": "2026-08-24 21:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Sprung up and found in me a true\nrelease--\nAnd she has marked you for the fevered\nnight\nHe found me weary, faint and worn,\nOn which lay the mother's kiss;\n'Mid the dreadful roar of wind and\nwaters"
+ },
+ {
+  "time": "2026-09-02 17:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
  }
 ]

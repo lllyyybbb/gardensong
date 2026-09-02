@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 08:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "Of you. Nor you of the old\ndraft-horse\nApplauding youths laughed with\nyoung\nTo an idle age and a musty page,\nTo be a man again,\nAnd praying I may soon forget"
- },
- {
   "time": "2026-08-24 09:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "An' da moon ain't nevah been\ndiscovahed,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! Lord God, what evil have we\ndone?\nOf love; and sing, nor one kind act\nwithhold."
+ },
+ {
+  "time": "2026-09-02 04:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "When she's ready to go.\n\"Softly let the pillars of my skin,\nForgetting that I could not scorn.\nWhen ol' Sis' Judy pray,\nDe man doan know how much he miss,\nAnd thought of fear,\nAnd held it to determine why\nThis was the faith that taught"
  }
 ]

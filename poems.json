@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 09:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "I freely give to them a hope or\nfear.\n(Perchance the one that ever\nguided\nBut I cannot bring back to mind\njust\nTo lay at Jesus' feet."
- },
- {
   "time": "2026-08-24 10:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "When she's ready to go.\n\"Softly let the pillars of my skin,\nForgetting that I could not scorn.\nWhen ol' Sis' Judy pray,\nDe man doan know how much he miss,\nAnd thought of fear,\nAnd held it to determine why\nThis was the faith that taught"
+ },
+ {
+  "time": "2026-09-02 05:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 85,
+  "lines": 8,
+  "poem": "He squirms! He groans! His eyes\nbulge\nCame with swift and silent tread,\nThe garden is very quiet to-night,\nAnd you, glory-clad, reach down.\nHe was seeking Odin's hall.\n\"Bear me unto my noblest ship,\nLight up a funeral pyre--"
  }
 ]

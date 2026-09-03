@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-25 16:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "His spirit must have nightly floated\nfree,\n\"The sword of the rose-apple.\nI hold my head and wept.\nTurn me to linger here, alas,"
- },
- {
   "time": "2026-08-25 17:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Never more their paths to tread.\nAnd bows and pins, and perfumed papers\nfine;\nA rock, for ages, stern and high,\nBeating their heavy wings of dark\ndisturbance.\nA wild and fitful life"
+ },
+ {
+  "time": "2026-09-03 19:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "Can it be you fear the grave\nEnough to live and fight\nOn to the most far corner of the clouds\ndrop\nWith weary feet\nOf day the little one and all?\nThe thought of violets of late,"
  }
 ]

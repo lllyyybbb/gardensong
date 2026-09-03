@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 21:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "Your faun-like form, your fond\nface;\nBeheld that little sparrow's fall.\n’Tis dawn, dawn in New York.\nAnd bows and pins, and perfumed\npapers"
- },
- {
   "time": "2026-08-24 22:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
+ },
+ {
+  "time": "2026-09-02 20:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Sprung up and found in me a true\nrelease--\nAnd she has marked you for the fevered\nnight\nHe found me weary, faint and worn,\nOn which lay the mother's kiss;\n'Mid the dreadful roar of wind and\nwaters"
  }
 ]

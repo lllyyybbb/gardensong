@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-25 10:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "My bruthah jus' sent word to me, the\nweary,\nBut when you’re filled and sated\nwith\nThese seven links the _Law_\ncompelled"
- },
- {
   "time": "2026-08-25 11:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 95,
   "lines": 8,
   "poem": "Sun shine, moon shine,\nStars, and winds a-blowing,\nAll wonderful things, all beautiful\nthings,\nAs he watched dem face fall low,\nDis uz lovah's lane.\nEf dey ain't, I tell you true,\n'Ligion do look mighty wise,"
+ },
+ {
+  "time": "2026-09-03 11:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "But the question lies unanswered\nIn the new dawn that is breaking,\nAnd nets of sin and strife,\nThough a tremor of the faint touch of\nthe home for aged colored people,\nfrom the specter of pursuing death;\nAnd music singing in the misty air,\nAnd my life was fair."
  }
 ]

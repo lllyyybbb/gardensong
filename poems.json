@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-25 12:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "I wear the brand of shame;\nWhilst he amid the malodorous\nMechanics of this perfect day\nA shifting shadow goes.\nThe pine tree pointed his finger to\nthe home for aged colored people,"
- },
- {
   "time": "2026-08-25 13:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 86,
   "lines": 8,
   "poem": "Oh little, lovely Christ--you smile!\nWhat days our wine-thrilled bodies\npulsed\nSinks dead, and 'round us everywhere\nHangs stifling darkness, and we grope\nWith black-ribbed blue-bells blowing\nnear,\nDo not cheer, while little children"
+ },
+ {
+  "time": "2026-09-03 14:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 82,
+  "lines": 8,
+  "poem": "When de oven do' is opened,\nAn' pyu'ced Mistah B'ar he growled,\nW'ile de ol' Miss B'ar an' de chillen\nwaded\nYet sell i' fe so-so tup.\nCousin Sun is lookin' sad,\nAn' w'en I's a-layin' low,\nI thirst. Eat meat, and full, when I"
  }
 ]

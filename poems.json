@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 23:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Of healthy children you shall\nnever\nTo an idle age and a face\nWith gifts to bring,\nA'ter all de laigs he need,\nWere its mountains 'gainst me"
- },
- {
   "time": "2026-08-25 00:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 83,
   "lines": 8,
   "poem": "The Bhuddist breaking bonds of caste\nDivides mankind no more.\nThe wonder is that a man (?) arose,\nAnd dewy dawns, and mystical blue\nskies\nA longing to depart;\nTo wear that badge in prayer.\nAnd you know that we, like you, we"
+ },
+ {
+  "time": "2026-09-02 22:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "With the mingled fragrance of the\ngolden\nWe won't mind de haul an' pull,\nWhile the humbled hearts o'erflow!\nWell I know he's hidin' erroun'\nhyeah\nThese seven links the _Law_\ncompelled"
  }
 ]

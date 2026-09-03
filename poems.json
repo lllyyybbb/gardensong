@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-25 01:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Like as for me, no peace, no\nrest,\nNor in an inglorious spot,\nWhile we lie loving, passionate\nand\nAnd all because he dared to tell\nthe innocent crucified for the"
- },
- {
   "time": "2026-08-25 02:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 88,
   "lines": 8,
   "poem": "And the earth was under His feet.\n\"Tim Thompson, a little cake\nAnd kingdoms fell and empires rose,\nUpon life's stormy tide.\nThe blush is on the island of the\neucharis\nBefore these star-noted birds\nescaped"
+ },
+ {
+  "time": "2026-09-03 00:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "Before these star-noted birds\nescaped\nWe took the light of God around us,\nAnd lit with many a hot-breath'd\nbattle\nFor ancient hag and snaggle-tooth;\nBut before I reach my country,\nMy leaves were green as the eye"
  }
 ]

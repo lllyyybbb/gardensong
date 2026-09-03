@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-25 03:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "Along, above, and God is God!\n(_To Robert Gould Shaw_)\nFlushed with the new era of\nyour\nThe sea-king's dying bed,\nE'er the dimly lighted valley\nI marveled at the Queen's"
- },
- {
   "time": "2026-08-25 05:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 91,
   "lines": 8,
   "poem": "Will grind out the old Antaean\nstrength\nGirdle the world of tears,\nAnd the light stood shining on my\nthrone,\nThe long-drawn dreary day, the\nnight's\nAnd nowhere seen and nowhere heard"
+ },
+ {
+  "time": "2026-09-03 02:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "There will be the best.\"\nThe modern kings will throttle you\nto dance for the player who hasn't\nthe lips of men ill-fated,\nDoomed to suffer and to die while\nyou\nIgnites the East.\nWithin your homes you press the hand"
  }
 ]

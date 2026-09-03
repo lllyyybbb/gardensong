@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-24 22:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Where the cocks are crowing,\ncrowing,\nKnows yore evah A, B, C,\nPlum on down to the magnet of a\nlowly\nThe agony and terror in his heart,\nI often try to save one child from"
- },
- {
   "time": "2026-08-24 23:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Sprung up and found in me a true\nrelease--\nAnd she has marked you for the fevered\nnight\nHe found me weary, faint and worn,\nOn which lay the mother's kiss;\n'Mid the dreadful roar of wind and\nwaters"
+ },
+ {
+  "time": "2026-09-02 21:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 83,
+  "lines": 8,
+  "poem": "The Bhuddist breaking bonds of caste\nDivides mankind no more.\nThe wonder is that a man (?) arose,\nAnd dewy dawns, and mystical blue\nskies\nA longing to depart;\nTo wear that badge in prayer.\nAnd you know that we, like you, we"
  }
 ]

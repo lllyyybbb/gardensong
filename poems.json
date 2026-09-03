@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-25 13:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "Kep' a-lookin' fo \"de char'et,\" kep'\n\"a-waitin'\nBack to Nirvanic peace shall grope\ntheir hands again\nHis home a'near them made."
- },
- {
   "time": "2026-08-25 14:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 82,
   "lines": 8,
   "poem": "When de oven do' is opened,\nAn' pyu'ced Mistah B'ar he growled,\nW'ile de ol' Miss B'ar an' de chillen\nwaded\nYet sell i' fe so-so tup.\nCousin Sun is lookin' sad,\nAn' w'en I's a-layin' low,\nI thirst. Eat meat, and full, when I"
+ },
+ {
+  "time": "2026-09-03 15:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Upon your hearts this vow record\nThat Vashti lay aside her crown,\nOr braver hero died,\nThan the brightest sun or setting of the\nusual\n'Long de lovah's lane,\nTry'n' to hyeah me whut I say"
  }
 ]

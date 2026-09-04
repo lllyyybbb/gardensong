@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 06:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 94,
-  "lines": 8,
-  "poem": "He goes seekin' his reward,\nWhile the cohorts of death\nTo nobler, grander things\naspire;\nSlid slowly, silently, the\nwraith-like\nAnd its lovely glow.\nI plucked my soul must be"
- },
- {
   "time": "2026-08-26 08:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "Fair and lovely are your cheeks,\nWith your yellow flower and white,\nAnd seeks his cab or tram-car\nhomeward\nDown in the trenches of Mars.\nI hold them as a sleeping bird.\nNow a louder strain.\nSlender, silvery drumsticks,"
+ },
+ {
+  "time": "2026-09-04 10:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "Nor bring me back departed joys;\nBut glory to the winds' invisible\nshape;\nThe motif of his avocation.\nI want to jump an' hollah,\nDough de saw is sharp an' greasy,\nDough you know the hour of woe.\nDo not cheer until the nation"
  }
 ]

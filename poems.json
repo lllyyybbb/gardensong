@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 02:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Heard they aright? Did that\nbrave\nThe far horizon's beckoning\nspan!\nGives song a nightless day,\nYour eyes are too sadly kind\nTo us the Plan; give us\nundisturbed"
- },
- {
   "time": "2026-08-26 03:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 86,
   "lines": 8,
   "poem": "Trust not your prowess nor your\nstrength,\nIn his eye was a flash of scorn and\npride;\nNaiad of the Manger-King,\nOr glitters on my back;\nThere will be swallowed up in Zion,\nDing, Dong, Ding."
+ },
+ {
+  "time": "2026-09-04 06:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "Oh little Christ, why do you sigh\nAs the hours in toil this day.\nThe rasping noise of cars together\nknocking,\nNigh enough to hyeah de noises in de\nco'n,\nGrant me a place\nWhere sleep our kindred dead,"
  }
 ]

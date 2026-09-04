@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 03:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "So weary of waiting the dawn of\nday!\nKnowing by the mighty city\nthrough\nHunted and penned in an earthly\nurn,\nAnd said, \"Oh, Prince, amid our\ngrief"
- },
- {
   "time": "2026-08-26 04:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "Oh little Christ, why do you sigh\nAs the hours in toil this day.\nThe rasping noise of cars together\nknocking,\nNigh enough to hyeah de noises in de\nco'n,\nGrant me a place\nWhere sleep our kindred dead,"
+ },
+ {
+  "time": "2026-09-04 07:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "And left the palace of the poor and\npale\nWhen I declare I am dark.\nYour kisses turbulent, unspent\nTo strengthen, crown and bless the\nsinger\nAre sweet like early love.\n\"Thou shalt build with fadeless"
  }
 ]

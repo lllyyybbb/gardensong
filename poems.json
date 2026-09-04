@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 13:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
- },
- {
   "time": "2026-08-26 14:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "She came from the couch of night.\nIn agony I turn to thee for truth and\njustice\nMerlindy! Merlindy!\nI'll never show the lead and the coal from"
+ },
+ {
+  "time": "2026-09-04 16:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "The cooling waters came down.\nHe was free among the slain.\nOn which the great dark clouds are massing;\nI had seen,\nWhere fields lie idle in the East."
  }
 ]

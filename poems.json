@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 10:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "In vain; then even the girls, they\nwin\nGod of nations,\nHaste! oh, haste the glorious day\nHis chosen seed should tread,\nThe sea is crossed, the longed-for\nport"
- },
- {
   "time": "2026-08-26 11:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "As deserves our sweetest song.\nO, Honey Lam'! dem sparklin' eyes,\nWould you blame me that the Prince of\nPeace till war and crime shall cease;\nAnd many thought it was a lute\nWhereon my passion was a mighty flame,"
+ },
+ {
+  "time": "2026-09-04 13:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Of the mysterious sea-line far away,\nRome had gathered beasts of prey.\nShe stirred again my mother's kiss,\nMah 'ittle Touzle Head.\nAn' da far off hills seems to be forever\nthere."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-25 21:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Mammy an' pappy do' want stragglers\na-layin'\nBut oh, your scent is in the Night.\nO kinsmen! we must perish,\nPerish just in sight of clotted\nblood.\nSum one mus' be led,"
- },
- {
   "time": "2026-08-25 22:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "The band of Gideon yet will come out,\nback\nThat stretches to the King;\nDark was the loan at best--\nGod! but the least of you.\nWe'll light a log of generous girth\nFor with me stood a rescued throng\nThe gloomy sea grew bright,"
+ },
+ {
+  "time": "2026-09-04 01:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "Oh something just now must be\nlonesome,\nAforetime, while they front the firing\nline.\nThe yellow by-road mazing from the\neyes,\nRising from two hostile camps.\nOne will call, he cannot see;"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 00:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "The heart grown faint from wounds\nand\nUpon life's stormy tide.\nThe choral song of angels\nJoin us in our gloomy night.\nI know how much he miss,\nEf he ain't got no niece lak dis;\nFro yore Unkel one mo' kiss,"
- },
- {
   "time": "2026-08-26 01:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 83,
   "lines": 8,
   "poem": "The cabin changed to rapture--\nWe are the Free,\nThese simple children of the color\nof fortune that I\nheard the bells he wrought\nWith more abundant life.\nGod thought and swift in action,\nShe calmly met her fate,"
+ },
+ {
+  "time": "2026-09-04 04:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 84,
+  "lines": 8,
+  "poem": "Only le' me see:\nFirs',--horhound drops an' catnip\ntea;\nWith each strong deed,\n\"The sepulchres of those echoes the\nheart\nin March; there is a block-head,\nEvery wise man is weak if he found"
  }
 ]

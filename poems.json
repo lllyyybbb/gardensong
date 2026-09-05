@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 00:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Merry voices chatterin',\nNimble feet dem patterin',\nBig an' little, faces gay,\nFor men to do, for men are dying\nFrom the curse of a common country,\nThey heard the joy of feeling safe\non"
- },
- {
   "time": "2026-08-27 01:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 89,
   "lines": 8,
   "poem": "The fascinating note,\nWhich, fluting like a groan.\nWithout the street is wet and weird\nA youth of heaven's element,\nThe benediction fell;\nAnd clearer light touched golden\nharps\nThe shivering birds beneath the"
+ },
+ {
+  "time": "2026-09-05 03:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "Before these star-noted birds\nescaped\nWe took the light of God around us,\nAnd lit with many a hot-breath'd\nbattle\nFor ancient hag and snaggle-tooth;\nBut before I reach my country,\nMy leaves were green as the eye"
  }
 ]

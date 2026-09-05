@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 15:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Have sheltered for the field of battle\nHow precious was the gallant faith, I trow,\nOf day the little space\nI knows mo' dan dey do, all 'bout whut made\nAdam nevuh had da right kind uf a wife.\nMy hands were weak, but I know the way of"
- },
- {
   "time": "2026-08-27 16:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "And let us breathe the air is blowin'\nmighty\nLook farther back! Three centuries!\nTo me would never penetrate the prayers\nand"
+ },
+ {
+  "time": "2026-09-05 18:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "For truth and right\nAn' she answe'd, \"Cose I do\"--\nJump back, honey, jump back.\nLittle children, blow your trumpets!\nFrom our world henceforth depart."
  }
 ]

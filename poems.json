@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 10:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "Nor bring me back departed joys;\nBut glory to the winds' invisible\nshape;\nThe motif of his avocation.\nI want to jump an' hollah,\nDough de saw is sharp an' greasy,\nDough you know the hour of woe.\nDo not cheer until the nation"
- },
- {
   "time": "2026-08-27 12:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "And rape their souls for the clashing\nsabres\nAll the world shall have its sway.\nWhen peace descends like gentle dew\nThey chided him for telling his\naffairs,"
+ },
+ {
+  "time": "2026-09-05 11:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "And watched her perfect, half-clothed\nbody\nI am as welcome as the Spartan, proud\nto dance for the people,\nAs sickness grips a soul in wretched\nweather."
  }
 ]

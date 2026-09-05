@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 08:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "Oh little Christ, why do you sigh\nAs the hours in toil this day.\nThe rasping noise of cars together\nknocking,\nNigh enough to hyeah de noises in de\nco'n,\nGrant me a place\nWhere sleep our kindred dead,"
- },
- {
   "time": "2026-08-27 09:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "With the mingled fragrance of the\ngolden\nWe won't mind de haul an' pull,\nWhile the humbled hearts o'erflow!\nWell I know he's hidin' erroun'\nhyeah\nThese seven links the _Law_\ncompelled"
+ },
+ {
+  "time": "2026-09-05 09:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "This Negro singer, come to juice\nAnd walk with Him in the valley,\nEvery mountain has a hill,\nHe lib so long dat he dawnce ur\njeeg;\nTo de pastur whe' de harse\nFeed along wid de jackass,\nAn' Ah wush dat you would marry me!"
  }
 ]

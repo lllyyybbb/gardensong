@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 06:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 82,
-  "lines": 8,
-  "poem": "His loved and lost shall greet,\nWith nights of unabating bitterness;\nThey knew the whole,\nAnd she has led me to linger here,\nalas,\nTo find in the rustling trees.\nAnd bound me with a club and then\ndub"
- },
- {
   "time": "2026-08-27 07:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 93,
   "lines": 8,
   "poem": "There will be the best.\"\nThe modern kings will throttle you\nto dance for the player who hasn't\nthe lips of men ill-fated,\nDoomed to suffer and to die while\nyou\nIgnites the East.\nWithin your homes you press the hand"
+ },
+ {
+  "time": "2026-09-05 07:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 94,
+  "lines": 8,
+  "poem": "In Olivet, beneath the giant tree\nTo lay at Jesus' feet.\nThe castaways of life,\nAnd women heart-stricken are weeping\nOver the earth came down,\nSing, my bawnjer, sing!\nWe's gwine ter dawnce dis eb'nin'\nsho',"
  }
 ]

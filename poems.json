@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 13:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Darkness covered everything,\nBlacker than a day!\nYour peace takes hold upon my brow\nThe birds a gladder music have begun,\nOut of the farmer's barn,\nFor my mood.\nHere and there a growing note"
- },
- {
   "time": "2026-08-27 14:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "It is nothing to me, the beauty said,\nAnd every little baby\nBrings a message from the sun's bright\nsheen.\nAnd yet, and yet to-day\nThe sacred brown feet of clay."
+ },
+ {
+  "time": "2026-09-05 14:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "In this strife must bear a part;\nWhile you are gone and tears are shed,\nThat casts a subtle spell upon all\nthings,\nBlind Homer, Greek or Jew,"
  }
 ]

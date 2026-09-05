@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 18:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "For one brief golden moment rare like\nwine,\nAnd worried waiters, some in ugly mood,\nAnd this is peace, this dead and leaden\nthing,"
- },
- {
   "time": "2026-08-26 19:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "fought the fight of others\nThe butterflies, and sparrows in brief\nflight\nHer _soul_, proud fool, her _soul_ is\nmine,\nBut I forgib my in'miz, my heart and\nBeauty"
+ },
+ {
+  "time": "2026-09-04 21:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Love is but desire and thy purpose\nfulfillment;\nWould learn to labor, live and die a\nslave?\nOf some wild animal caught in the\nsoul-toned\nIn night, O God of Peace."
  }
 ]

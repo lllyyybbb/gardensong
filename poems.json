@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 12:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "That shall always be for us,\nAnd from her hiding-place,\nThe Dawn! The crimson-tinted, comes\nOut in the window, bringing memories\nRound many a storm\nThe deadly adder hiss?\nCan it be said that our precious blood\nmay"
- },
- {
   "time": "2026-08-27 13:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "And watched her perfect, half-clothed\nbody\nI am as welcome as the Spartan, proud\nto dance for the people,\nAs sickness grips a soul in wretched\nweather."
+ },
+ {
+  "time": "2026-09-05 13:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "It is nothing to me, the beauty said,\nAnd every little baby\nBrings a message from the sun's bright\nsheen.\nAnd yet, and yet to-day\nThe sacred brown feet of clay."
  }
 ]

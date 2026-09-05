@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 14:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "He clapped His hands,\nFor truth and justice stand.\n\"I pray thee let me rest\nMore calm than its mother's downy breast\nOh, restless heart, learn thou to trust\nWhen fields are fresh and free."
- },
- {
   "time": "2026-08-27 15:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "In this strife must bear a part;\nWhile you are gone and tears are shed,\nThat casts a subtle spell upon all\nthings,\nBlind Homer, Greek or Jew,"
+ },
+ {
+  "time": "2026-09-05 16:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "And let us breathe the air is blowin'\nmighty\nLook farther back! Three centuries!\nTo me would never penetrate the prayers\nand"
  }
 ]

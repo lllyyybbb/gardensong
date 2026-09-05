@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 19:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "In this strife must bear a part;\nWhile you are gone and tears are shed,\nThat casts a subtle spell upon all\nthings,\nBlind Homer, Greek or Jew,"
- },
- {
   "time": "2026-08-26 20:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Love is but desire and thy purpose\nfulfillment;\nWould learn to labor, live and die a\nslave?\nOf some wild animal caught in the\nsoul-toned\nIn night, O God of Peace."
+ },
+ {
+  "time": "2026-09-04 22:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
  }
 ]

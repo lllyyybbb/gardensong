@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-26 21:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "And rape their souls for the clashing\nsabres\nAll the world shall have its sway.\nWhen peace descends like gentle dew\nThey chided him for telling his\naffairs,"
- },
- {
   "time": "2026-08-26 22:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "Whose meaning, charlatan history,\ntells!\nGhosts are turned flesh, throwing off\nthe lips of the eucharis\nBefore my ravished sight\nThe spell of half tears,\nAnd bound me with tales\nof Peace hovering over No Man's Land"
+ },
+ {
+  "time": "2026-09-05 00:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 86,
+  "lines": 8,
+  "poem": "Oh little, lovely Christ--you smile!\nWhat days our wine-thrilled bodies\npulsed\nSinks dead, and 'round us everywhere\nHangs stifling darkness, and we grope\nWith black-ribbed blue-bells blowing\nnear,\nDo not cheer, while little children"
  }
 ]

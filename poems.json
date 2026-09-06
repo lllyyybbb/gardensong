@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-28 16:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
- },
- {
   "time": "2026-08-28 18:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "The tides, the wharves, the dens I\ncontemplate,\nDing, Dong, Ding.\nGo on, hoot yo' Mou'nful tune,\nYou must staunch these wounds that bleed."
+ },
+ {
+  "time": "2026-09-06 17:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "The band of cruel sights and deeds,\nThe crops which their fathers have sown.\nGo read on the tropic sea,\nWhere towers the cotton tree,\nWhere I may never hope for me? Is there"
  }
 ]

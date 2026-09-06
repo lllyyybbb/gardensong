@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-28 09:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "For the Hand which guides us from\nabove,\nAll her little ones\nTo write the stuff the editors would\nbuy;\nOur mother, so loved and white\npeople's\nWho said, when we stand"
- },
- {
   "time": "2026-08-28 10:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "\"Go, tell the King,\" she sadly said,\n\"Must die to get us out of the\nrose-apple:\nNot these, not these did I stray\nfrom us, tempt us not beyond our\nstrength,"
+ },
+ {
+  "time": "2026-09-06 11:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "But with it across the line;\nOblivious of the people.\nI ask for my dear boy?\nThe hungry heart was all but weaned\naway\nOf you. Nor you of her. 'Tis said"
  }
 ]

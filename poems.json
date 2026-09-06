@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-28 14:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "When you are waiting me still to-night\nBy whom our wills are caught.\nWho have borne life's burdens long,\nSeems lak to me the down-crushed\nspirit,\nThe gorse and heather bloom for me, is\nshod"
- },
- {
   "time": "2026-08-28 15:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "And the moon\nThat storm and burning brand.\nEach black cloud\nIs it because I am dried and dead,\nChoose thou her resting-place."
+ },
+ {
+  "time": "2026-09-06 15:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 48,
+  "lines": 5,
+  "poem": "By the Unika Range of Tennessee.\nThe long, vain waiting through the trees\nAnd stillness like the sound of blended\nflutes\nOur mother, so loved and precious,"
  }
 ]

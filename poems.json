@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 21:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "I wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah how)\nYou danced and sang a race to wonder\nand\nBut ye can not render\nMy heart, my heart beat glad and free,\nWhen pestilence clasps hands with"
- },
- {
   "time": "2026-08-27 22:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Your faun-like form, your fond\nface;\nBeheld that little sparrow's fall.\n’Tis dawn, dawn in New York.\nAnd bows and pins, and perfumed\npapers"
+ },
+ {
+  "time": "2026-09-06 01:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "To be merciful and just.\nWhere Science trains the fledgling\nbard\nYet de people hab de heart\nEach one nestling in her lair.\nOh, the judge, he wore a mask of"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-28 11:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 79,
-  "lines": 8,
-  "poem": "Smile beacon answers to their plea,\nOut in the hills we heard a theme\nNobler than \"Go down, Moses.\" Mark\nits\nLast Chance Saloon, drink a gallon or\ntwo\nLay the victims of the faint breeze,\n'Long de lovah's lane."
- },
- {
   "time": "2026-08-28 13:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Where war has sharpened his weapons,\nStood frowning there, a cave here, bred\nsix\nWho made the gallows an altar high,\nThy signals, ever and anon she cried;\nBut would please the weak frail flesh;"
+ },
+ {
+  "time": "2026-09-06 13:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "As, greed-impelled, they circle\nthreateningly,\nVainly waiting for the white man’s world\nof Peace is hovering over No Man's Land.\nLoud the clashing sabres rang;"
  }
 ]

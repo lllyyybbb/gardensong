@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-28 15:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "They may faithful and true remain.\nI do not shame to turn myself away\nThe wretched day was theirs, the night\nto dance for us,\" the rough men said;\n\"I am here, oh! God,\nLike the sun-kissed shadows depart."
- },
- {
   "time": "2026-08-28 16:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "By the Unika Range of Tennessee.\nThe long, vain waiting through the trees\nAnd stillness like the sound of blended\nflutes\nOur mother, so loved and precious,"
+ },
+ {
+  "time": "2026-09-06 16:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "The tides, the wharves, the dens I\ncontemplate,\nDing, Dong, Ding.\nGo on, hoot yo' Mou'nful tune,\nYou must staunch these wounds that bleed."
  }
 ]

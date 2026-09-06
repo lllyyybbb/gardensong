@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 17:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "The dawn now breaks on you, the great God\nAlmighty\nThe child of throbbing Life is she,\nTwin sister to the sea gave up its dead\nShe sang and danced on gracefully and\ncalm,\nThe treacherous sands had caught our"
- },
- {
   "time": "2026-08-27 18:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "Renews it day by day,\nOr waters of my skin,\nForgetting that I could n't ba' to\ngo--\nIs a place"
+ },
+ {
+  "time": "2026-09-05 21:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "Bring surcease to her heart,\nFor loving hearts to usher in\nThe agony and terror in his eye!\nIf we must die--oh, let us nobly die,\nAnd He looked on His ears,\nWho in his fields of strife,"
  }
 ]

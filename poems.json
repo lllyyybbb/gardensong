@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 18:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "He poured his soul\nTo welcome thy dear guest,\nI stand within her walls with not a\nplace\nIn the wake of those we love,\nWe had told our little darling,\nOf subtly-changing and surprising parts;"
- },
- {
   "time": "2026-08-27 19:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Bring surcease to her heart,\nFor loving hearts to usher in\nThe agony and terror in his eye!\nIf we must die--oh, let us nobly die,\nAnd He looked on His ears,\nWho in his fields of strife,"
+ },
+ {
+  "time": "2026-09-05 22:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "All night a bright and joyous troop\nFrom all that was dear to part,\nAre kindly meant in their design.\nSometimes I tremble like a\nstorm-swept\nLieth, like shadow on the brown twig"
  }
 ]

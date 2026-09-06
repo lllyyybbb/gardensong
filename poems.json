@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 19:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "To lead me unto his throne\nIn me the down-crushed spirit, the\nhurled-back\nWhen you set down at de table,\nKin' o' weary lak an' sad,\nAn' de shadow lef' him face,\nWhen I reached my throat"
- },
- {
   "time": "2026-08-27 20:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "All night a bright and joyous troop\nFrom all that was dear to part,\nAre kindly meant in their design.\nSometimes I tremble like a\nstorm-swept\nLieth, like shadow on the brown twig"
+ },
+ {
+  "time": "2026-09-05 23:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "I am bound with you resting in my\nheart\nFor with me yet.\nI love to sing! thou art too tender,\nI love this cultured hell that tests\nmy songs of sorrow, love and soulful"
  }
 ]

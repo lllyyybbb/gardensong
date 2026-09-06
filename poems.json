@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-28 10:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 79,
-  "lines": 8,
-  "poem": "And in her heart;\nSwift swallows sailing from the\nground;\nDon't yo' love a co'n song?\nThe strident trains that speed the\ngoaded\nAnd hard and cold--\nI shall lie"
- },
- {
   "time": "2026-08-28 11:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "But with it across the line;\nOblivious of the people.\nI ask for my dear boy?\nThe hungry heart was all but weaned\naway\nOf you. Nor you of her. 'Tis said"
+ },
+ {
+  "time": "2026-09-06 12:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "Where war has sharpened his weapons,\nStood frowning there, a cave here, bred\nsix\nWho made the gallows an altar high,\nThy signals, ever and anon she cried;\nBut would please the weak frail flesh;"
  }
 ]

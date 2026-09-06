@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 20:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Love is but desire and thy purpose\nfulfillment;\nWould learn to labor, live and die a\nslave?\nOf some wild animal caught in the\nsoul-toned\nIn night, O God of Peace."
- },
- {
   "time": "2026-08-27 21:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "I am bound with you resting in my\nheart\nFor with me yet.\nI love to sing! thou art too tender,\nI love this cultured hell that tests\nmy songs of sorrow, love and soulful"
+ },
+ {
+  "time": "2026-09-06 00:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Your faun-like form, your fond\nface;\nBeheld that little sparrow's fall.\n’Tis dawn, dawn in New York.\nAnd bows and pins, and perfumed\npapers"
  }
 ]

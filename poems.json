@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-28 04:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 79,
-  "lines": 8,
-  "poem": "And in her heart;\nSwift swallows sailing from the\nground;\nDon't yo' love a co'n song?\nThe strident trains that speed the\ngoaded\nAnd hard and cold--\nI shall lie"
- },
- {
   "time": "2026-08-28 05:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "The fairy phantoms of my far away\nyouth,\nThe forest trees have shed their\nleaves,\nHim hab him roots, him wu'k him\ntrick,\nCame the words that brought them"
+ },
+ {
+  "time": "2026-09-06 07:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "Source to me of vital worth,\nTill, weary of waiting the dawn\nTo wear that badge as a crown;\nBut dey all mus' be de head:\nNo tyrant's tread will disturb\nhis\nAnd upon the flat rocks joyously!"
  }
 ]

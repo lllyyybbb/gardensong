@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 22:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "Sprung up and found in me a true\nrelease--\nAnd she has marked you for the fevered\nnight\nHe found me weary, faint and worn,\nOn which lay the mother's kiss;\n'Mid the dreadful roar of wind and\nwaters"
- },
- {
   "time": "2026-08-27 23:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "To be merciful and just.\nWhere Science trains the fledgling\nbard\nYet de people hab de heart\nEach one nestling in her lair.\nOh, the judge, he wore a mask of"
+ },
+ {
+  "time": "2026-09-06 02:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "There is no part of the minstrel's\nlyre?\nHas come, has come!\nA love so fugitive and so fair.\nAgain, I feel your glad\nChiding from the blaze of the"
  }
 ]

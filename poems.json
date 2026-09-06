@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-27 23:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Each black cloud\nIs there no way\nTo give to them a dance.\n\"Come dance for us,\" the rough men\nsaid;\nYour hate of vice a sham,\nWhen Angelus was sung"
- },
- {
   "time": "2026-08-28 00:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "There is no part of the minstrel's\nlyre?\nHas come, has come!\nA love so fugitive and so fair.\nAgain, I feel your glad\nChiding from the blaze of the"
+ },
+ {
+  "time": "2026-09-06 03:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "It was something to him in my\nhumbled\nTo make our age the fairest one\nOf children for their bartered\nmothers'\nTo dwell with beautiful angels,"
  }
 ]

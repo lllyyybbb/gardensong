@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-28 22:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "A covert found, but Christ, the Lord,\nHad left its evil trace.\nIt saps its pillars proud and strong,\nTo greet the coming day.\nAnd they knew that men have sung\nIn agony searching for their thousand\nblows"
- },
- {
   "time": "2026-08-28 23:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "Soft-scented in the white world’s\nhell,\nSo dey kissed an' kissed again,\nTo bless the singer of a mortal\nfear."
+ },
+ {
+  "time": "2026-09-06 22:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Christ washed the feet of clay.\nFor the corn and beans and the\nyellow\n'Long de lovah's lane.\nGo spread the glad release,\nO'er the nations holds its sway,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-29 11:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "With three brown beauties to\nsupport\nOn deir wants he thinks alone,\nAll his hope of high desire,\nVain--as it is wrong!"
- },
- {
   "time": "2026-08-29 12:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "My bruthah jus' sent word to me, the\nweary,\nBut when you’re filled and sated\nwith\nThese seven links the _Law_\ncompelled"
+ },
+ {
+  "time": "2026-09-07 11:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "And drink our share of ardent love\nand\nBut me whom radiant beauty could not\nscorn.\nThe golden powder clustered round\nyour"
  }
 ]

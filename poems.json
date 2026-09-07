@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-29 17:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "He went away to Jesus\"? On its strains\nHis father, by the will,\nKept dancing while a heart stood still:\nAnd garish lights, and mincing little\nfops"
- },
- {
   "time": "2026-08-29 18:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 40,
   "lines": 4,
   "poem": "Enfolded in the meadow grass\nUnder the same dull stars.\nSymbolic mother, we thy myriad sons,\nPounding our stubborn hearts on Freedom's"
+ },
+ {
+  "time": "2026-09-07 17:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 39,
+  "lines": 4,
+  "poem": "A spark of passion shining on my\nbreas'--\nSadly I turned\nThe lingering blossoms tenderly"
  }
 ]

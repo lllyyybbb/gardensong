@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-29 15:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 45,
-  "lines": 4,
-  "poem": "Dat's not yo' name, but it is a snare,\nAnd act a noble part.\nMy soul so leapt that my mind\nMight safely nurse its brood of"
- },
- {
   "time": "2026-08-29 16:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 47,
   "lines": 5,
   "poem": "Their sweet imagining;\nNot in vain had been an Afric\nchieftain,\nIs a prayer or a tear,\nFor Freedom--when their own dear"
+ },
+ {
+  "time": "2026-09-07 15:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 44,
+  "lines": 4,
+  "poem": "A love so fugitive and so complete.\nThe flames around him bent;\nThey beat us to stand\nWhere I can feel and I am dark."
  }
 ]

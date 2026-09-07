@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-29 14:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "Through greed of gold is borne.\nThe sad fortunes of his loss\nMust bear and bear alone.\nThey'd charged him with a mother's\npride,"
- },
- {
   "time": "2026-08-29 15:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "For truth and right\nAn' she answe'd, \"Cose I do\"--\nJump back, honey, jump back.\nLittle children, blow your trumpets!\nFrom our world henceforth depart."
+ },
+ {
+  "time": "2026-09-07 14:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 47,
+  "lines": 5,
+  "poem": "Their sweet imagining;\nNot in vain had been an Afric\nchieftain,\nIs a prayer or a tear,\nFor Freedom--when their own dear"
  }
 ]

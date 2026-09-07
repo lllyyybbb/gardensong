@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-29 13:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 47,
-  "lines": 5,
-  "poem": "That war should close his wrathful\nlips,\nAn' hebben on de road een white\nmoon-light;\nWill wrap thee gently in her lair."
- },
- {
   "time": "2026-08-29 14:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Yes, blame me that the ship I seek is\npassing,\nUpon each lip my name!--\nWhy, de 'lectric light o' Heaven\nSeems lak to me of vital worth,\nMy bruthah jus' sent word to me,"
+ },
+ {
+  "time": "2026-09-07 13:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "For truth and right\nAn' she answe'd, \"Cose I do\"--\nJump back, honey, jump back.\nLittle children, blow your trumpets!\nFrom our world henceforth depart."
  }
 ]

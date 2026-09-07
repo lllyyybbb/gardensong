@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-29 19:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "Or closer press to crush a grape\n'gainst\nThe great, proud city, seized with a\nmother's\nOh, you shall see"
- },
- {
   "time": "2026-08-29 20:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 41,
   "lines": 4,
   "poem": "It's lain there in the holy glow of\nMotherhood,\nOwl a-settin' 'side de road,\nNot mortal, a flower, a fairy, too fair"
+ },
+ {
+  "time": "2026-09-07 19:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 42,
+  "lines": 4,
+  "poem": "Kneeled down in his fold.\nOh! how fleeting are his years\nFor me to see\nBeneath his burning kiss"
  }
 ]

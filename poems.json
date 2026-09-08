@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 02:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "The yellow by-road mazing from\nthe innocent crucified for the\ngift\nI wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah\nhow)\nStop! to each heart!\nBrown bees that murmur sounds of"
- },
- {
   "time": "2026-08-30 03:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "May the choral song of lark and\nhymn\nHeld in our bleeding flesh their\nclaws.\nForever, life-long.\nTo lose their glory in the sun is"
+ },
+ {
+  "time": "2026-09-08 02:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "It was something to her when that\nonly\nTo Garrison, valiant, true and\nstrong,\nWith looks of high desire,\nVain--as it is brief."
  }
 ]

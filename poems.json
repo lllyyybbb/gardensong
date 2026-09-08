@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 19:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And set him fast in jail:\nOh, some I know! I have no tinted thoughts\nto dance for us,\" the rough men said;\nKnowing man is a snare,\nAnd works the droning bee.\nAnd lay down with a smile,"
- },
- {
   "time": "2026-08-30 20:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "These children of the cabin and the white.\nAnd sought the quiet hill\nWhere winter still did tread.\nNo; I must walk the blood-stained pave\nOf course I soak the booze once in a word"
+ },
+ {
+  "time": "2026-09-08 19:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "Beneath his burning kiss\nThe storm-king harnessed his lightning\nsteeds,\nI'm busy to-day with tare and tret,\nAnd find holiness, love and pain."
  }
 ]

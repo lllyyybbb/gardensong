@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 10:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 82,
-  "lines": 8,
-  "poem": "My four walls shield me from the\ndeep,\nThoo de hazy air,\nAnd seek to hide my tortured soul\nfrom the blaze of the\neucharis\nBefore their footsteps stray,\nSweet with the glory of your body"
- },
- {
   "time": "2026-08-30 11:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "Oh, for the dawn’s great star\n(Perchance the one that ever\nspeaks\nImpotent atom with desolate gaze\nThreading the tumult of hazardous\nways--"
+ },
+ {
+  "time": "2026-09-08 10:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Dedication Poem on the hill or in\nlove.\nMaking their mock at our greeting\nI want to die while you love me?\nWho-ah!\nThese signs are still before me:"
  }
 ]

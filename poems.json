@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 18:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Hello dar, Miss Melerlee!\nDat's de deed to us would come\nA longing to clasp her words\nUntil my latest breath.\n\"Ave Caesar, morituri,\nTe, salutant,\" rose the cry"
- },
- {
   "time": "2026-08-30 19:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 50,
   "lines": 5,
   "poem": "And planted far across the foam,\nNo light is there; none, save the boys.\nTake from your trembling throat.\nI’m afraid of your words,\nThey shall see His hand."
+ },
+ {
+  "time": "2026-09-08 18:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "These children of the cabin and the white.\nAnd sought the quiet hill\nWhere winter still did tread.\nNo; I must walk the blood-stained pave\nOf course I soak the booze once in a word"
  }
 ]

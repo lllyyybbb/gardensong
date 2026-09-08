@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 12:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
- },
- {
   "time": "2026-08-30 13:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "And sounded is the night is yours for\nrevels;\nBut the brown toes in China the toes\nturned\nJust ten dark years of toil,\nAnd unawares a riddle is revealed,"
+ },
+ {
+  "time": "2026-09-08 12:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "For de lilly cash nea' done.\nThe bedded beauty of your haunting\nlays.\nNor her who dares\nTo give to thee\nMy friend and kinsman everywhere,"
  }
 ]

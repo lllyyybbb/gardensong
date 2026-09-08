@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-29 22:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Sailing the seven seas;\nHe will go down to hell.\nI'm out to be wooed;\nAnd browse about our ancient place,\nLay the victims of the dying stars.\nSymbolic mother, we thy myriad"
- },
- {
   "time": "2026-08-29 23:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 49,
   "lines": 5,
   "poem": "That note in music heard not with\nthe innocent crucified for the veils\nof Peace hovering over No Man's\nLand,\nAn angel smiled and gently said:"
+ },
+ {
+  "time": "2026-09-07 22:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "Peace came with sleep and sleep the\nrest\nThan to staunch a stream of sorrow\nOf arms-won triumphs; but your\nhumble"
  }
 ]

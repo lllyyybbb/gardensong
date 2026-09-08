@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 17:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Thy blood of Thy Throne, we\nraise our shackled hands and aching feet.\n\"Tim Thompson, a little scrap of blue\nIs waning into evening--whisper soft!\nPeace, O my good Lamb,\nO heart of gold,"
- },
- {
   "time": "2026-08-30 18:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 49,
   "lines": 5,
   "poem": "Ere time has brushed cold fingers thru my\nhair!\nThe dream is lovelier than a hundred\nmidnights\nI think of my skin,"
+ },
+ {
+  "time": "2026-09-08 17:00",
+  "temp_c": 31.0,
+  "temp_f": 88,
+  "humidity": 50,
+  "lines": 5,
+  "poem": "And planted far across the foam,\nNo light is there; none, save the boys.\nTake from your trembling throat.\nI’m afraid of your words,\nThey shall see His hand."
  }
 ]

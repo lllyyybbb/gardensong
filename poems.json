@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 11:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "Nor bring me back departed joys;\nBut glory to the winds' invisible\nshape;\nThe motif of his avocation.\nI want to jump an' hollah,\nDough de saw is sharp an' greasy,\nDough you know the hour of woe.\nDo not cheer until the nation"
- },
- {
   "time": "2026-08-30 12:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Dedication Poem on the hill or in\nlove.\nMaking their mock at our greeting\nI want to die while you love me?\nWho-ah!\nThese signs are still before me:"
+ },
+ {
+  "time": "2026-09-08 11:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "And sounded is the night is yours for\nrevels;\nBut the brown toes in China the toes\nturned\nJust ten dark years of toil,\nAnd unawares a riddle is revealed,"
  }
 ]

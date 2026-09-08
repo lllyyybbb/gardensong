@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 00:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "Thinks you dat I is Black Pattie,\nMah 'ittle Touzle Head.\nDe air is blowin' mighty cold,\nLike a band of savage men,\n\"As ye would that others do to\nyou\nAnd all her discords--\nPeace till war and crime shall"
- },
- {
   "time": "2026-08-30 01:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "Soon everywhere, with glory through\nand\nA ray of light,\nThe Loyal Legion\nWe shall have its sway."
+ },
+ {
+  "time": "2026-09-08 00:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Shall be constrained to honor us\nthough\nWelcome children of the pathway\nunto\nFor blood shed in vain?\nThat war should close his wrathful"
  }
 ]

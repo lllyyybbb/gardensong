@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-29 23:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Shall not be torn from her home in\nthe innocent crucified for the\npoor\nSnatched from their shelter and\ngrow\nBut de sick wife kissed his brow:\n\"Sun, don't get down-hearted now;"
- },
- {
   "time": "2026-08-30 00:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "Peace came with sleep and sleep the\nrest\nThan to staunch a stream of sorrow\nOf arms-won triumphs; but your\nhumble"
+ },
+ {
+  "time": "2026-09-07 23:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "Soon everywhere, with glory through\nand\nA ray of light,\nThe Loyal Legion\nWe shall have its sway."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 13:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "I turned from the arms of night,\nBut sometimes they are sung.\nNot many steps ahead, but this we know--\nIf he failed us we must die, let it\nslowly\nWill wrap thee gently in her eye:\n\"Go, tell the way"
- },
- {
   "time": "2026-08-30 14:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "For de lilly cash nea' done.\nThe bedded beauty of your haunting\nlays.\nNor her who dares\nTo give to thee\nMy friend and kinsman everywhere,"
+ },
+ {
+  "time": "2026-09-08 13:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "As, greed-impelled, they circle\nthreateningly,\nVainly waiting for the white man’s world\nof Peace is hovering over No Man's Land.\nLoud the clashing sabres rang;"
  }
 ]

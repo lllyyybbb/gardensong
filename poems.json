@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 08:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 93,
-  "lines": 8,
-  "poem": "But ye can try to think\nOf agony, hatred and fear?\nMen who knew not mercy's sway,\nLike it done in days of the sea,\nOur hour of strife;\nGaining in his heart,\nTender measure of doubt in a manger\nlaid,"
- },
- {
   "time": "2026-08-30 09:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Lessons in degradation, taught\nand\nAnd women heart-stricken are\nweeping\nMy tearful eyes my soul's\nforgotten"
+ },
+ {
+  "time": "2026-09-08 08:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
  }
 ]

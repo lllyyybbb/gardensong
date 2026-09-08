@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 03:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 82,
-  "lines": 8,
-  "poem": "You say it is a-sighin',\nWhil' de win' up here's\na-blowin',\nTo noble friends of darker days;\nTo Lundy, whose heart was early\nwon,\nWhen ol' Sis' Judy pray,\nDe whole house hit des rock an'"
- },
- {
   "time": "2026-08-30 04:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "It was something to her when that\nonly\nTo Garrison, valiant, true and\nstrong,\nWith looks of high desire,\nVain--as it is brief."
+ },
+ {
+  "time": "2026-09-08 03:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "To stir my fluent blood as never\nyour\nLinger along the garish street;\nAbove, a hundred shouting signs\nShed down their crowns\nIn the night for your listeners'"
  }
 ]

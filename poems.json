@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-30 22:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
- },
- {
   "time": "2026-08-30 23:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "And watched her perfect, half-clothed\nbody\nI am as welcome as the Spartan, proud\nto dance for the people,\nAs sickness grips a soul in wretched\nweather."
+ },
+ {
+  "time": "2026-09-08 22:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "No woman in all the early floral\ntrain,\nHis people's gift of song,\nBreaks on our Father's hand.\nThe tribute paid by passersby to\ntombs"
  }
 ]

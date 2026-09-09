@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 11:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "Seen my lady home las' night,\nJump back, honey, jump back.\nMockin'-bird was singin' fine,\nTo dat res'less, wretchit fevah evah\nSprin'.\nAnd I'm a grown man now.\nIt's lain there in the hollow of his"
- },
- {
   "time": "2026-08-31 12:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "I see a part of some great plan.\n* The Temperance Band,\nThis I ask to clasp their hands and\naching\nFo' mah ol' gran'ma always said\nCruelly they fiercely showered"
+ },
+ {
+  "time": "2026-09-09 13:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "'Less you come to naught.\nHello dar, Miss Melerlee!\nYou're de berry thought brings pledjur,\nI'll walk to the city.\nBut 'tis hard to find the new, the modern\nschool,"
  }
 ]

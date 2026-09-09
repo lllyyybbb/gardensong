@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 15:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And set him fast in jail:\nOh, some I know! I have no tinted thoughts\nto dance for us,\" the rough men said;\nKnowing man is a snare,\nAnd works the droning bee.\nAnd lay down with a smile,"
- },
- {
   "time": "2026-08-31 16:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "Transfigured, bathed in your mean graves,\nO black and rolling smoke of sin, where all\nalong\nMah 'ittle Touzle Head!\nI traced a path to shame and woe."
+ },
+ {
+  "time": "2026-09-09 17:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 47,
+  "lines": 5,
+  "poem": "Upon the shingled roof like a star against\nthe innocent crucified for the old,\nfamiliar\nIf Ah evah see,\nAn' you want to die while you love me as"
  }
 ]

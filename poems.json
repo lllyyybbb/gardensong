@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 01:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Is for the amusement of some white\nThe dawn departs, the morning air\nThat futilely bring torture to dead\nand\n(While all de laigs he need,\nWere nailed unto the Lord and King.\nAnd God looked around and said,\nClose to the sky,"
- },
- {
   "time": "2026-08-31 02:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Over their tortured and their tears;\nCan you blame the world has read of\nheroes\nThe portals of that black land where\nDixie's\nFair and lovely are your cheeks,"
+ },
+ {
+  "time": "2026-09-09 02:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Where the farthest stars sink down,\nSing, my bawnjer, ring!\nUr ol' Hyar lib in ur house on de\ngras'\nWhere softness all the Ages;\nWith the light again."
  }
 ]

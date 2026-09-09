@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 13:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Mockin'-bird was singin' fine,\nJump back, honey, jump back.\nRaised huh lips an' took a tase,\nJump back, honey, jump back.\nMockin'-bird was singin' fine,\nTo heal the hurt and soothe the wrong."
- },
- {
   "time": "2026-08-31 14:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "We were so happy, happy,--I remember\nThe peace that filled my soul I cry to\nThee;\nSuspended lay as an unuttered sigh.\nI kin hyeah it as a sleeping bird."
+ },
+ {
+  "time": "2026-09-09 15:00",
+  "temp_c": 31.0,
+  "temp_f": 88,
+  "humidity": 49,
+  "lines": 5,
+  "poem": "Ere time has brushed cold fingers thru my\nhair!\nThe dream is lovelier than a hundred\nmidnights\nI think of my skin,"
  }
 ]

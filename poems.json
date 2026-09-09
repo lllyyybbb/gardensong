@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 06:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "I’m afraid of your soul,\nYou are linked unto his throne\nCannot live nor die alone.\nBut they heard no cry of\nconsternation\n\"I am here, oh! God,\nHe never knew nor shared.\nThese lowly numbers for the field"
- },
- {
   "time": "2026-08-31 07:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "And death at our accursèd lot.\nIf we must perish,\nPerish just in sight of clotted\nblood.\nAnd you in your frame;\nMy lub fur you des dribe me wil'--\nMerlindy, O, Merlindy!"
+ },
+ {
+  "time": "2026-09-09 08:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "Just to bask beside a fountain\nMaking brighter life's highway\nDewdrops and the white.\nWe laid tired bodies 'gainst\nThe cheerless frozen spots begin to\nthaw,"
  }
 ]

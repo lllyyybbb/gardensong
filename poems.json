@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 05:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Watches the mad world with immobile\nlids.\nAnd by his blood,\n'Till war shall be the\npresence-chamber\nburdened with\nThe Brahmin from his heart Eternity.\nThe yawning oven spits forth fiery"
- },
- {
   "time": "2026-08-31 06:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "Behold the path-traced, peaceful\nwood,\nLike rivers of the Carnival-Tank!\nLittle Diver, Destiny for you,\nThough still about his hands\nTo serve the Crucified.\nAnd lay down with a mother's"
+ },
+ {
+  "time": "2026-09-09 06:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "And death at our accursèd lot.\nIf we must perish,\nPerish just in sight of clotted\nblood.\nAnd you in your frame;\nMy lub fur you des dribe me wil'--\nMerlindy, O, Merlindy!"
  }
 ]

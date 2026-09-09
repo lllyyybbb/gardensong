@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 17:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Chirping and dancing for the footsteps of\na\nI must think\nYour lips are paled in death.\nThese seven links the _Law_ compelled\nFor each man no more could go."
- },
- {
   "time": "2026-08-31 18:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "Yielding at length the last reluctant\nbreath.\nThe full supreme surrendering of me.\nOh, some I know! Ah, Friend, I know! I have\nlived."
+ },
+ {
+  "time": "2026-09-09 19:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 49,
+  "lines": 5,
+  "poem": "And we will sing\nDream-songs of carefree men and women\ncrowned\nRed blood to save one child from death.\"\n\"Which one?\" said the Master,"
  }
 ]

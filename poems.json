@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 23:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "Whose meaning, charlatan history,\ntells!\nGhosts are turned flesh, throwing off\nthe lips of the eucharis\nBefore my ravished sight\nThe spell of half tears,\nAnd bound me with tales\nof Peace hovering over No Man's Land"
- },
- {
   "time": "2026-09-01 00:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "To be a man grown old in life's\ndreaming\nThese men who have woven\nFrom Moslem hands did strive to clutch\nThe city’s hate, the city’s dirty\nbasement"
+ },
+ {
+  "time": "2026-09-10 01:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "Among the leaves of the world has\nread\nEagerly the crowd were waiting,\nLoud the clashing sabres rang;\nWhen \"Peace on earth, good will to\nthe innocent crucified for the heavy"
  }
 ]

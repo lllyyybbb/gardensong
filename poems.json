@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 07:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 92,
-  "lines": 8,
-  "poem": "Want de sweatin' higgler fe\nRam de pan an' pile i' up,\nYet the garden is very quiet\nto-night,\nAnd makes me music-drunk, are yours,\nall\nWhere winter still did tread.\nIs waning into evening, whisper"
- },
- {
   "time": "2026-09-01 08:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Over their tortured and their tears;\nCan you blame the world has read of\nheroes\nThe portals of that black land where\nDixie's\nFair and lovely are your cheeks,"
+ },
+ {
+  "time": "2026-09-10 08:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Where the farthest stars sink down,\nSing, my bawnjer, ring!\nUr ol' Hyar lib in ur house on de\ngras'\nWhere softness all the Ages;\nWith the light again."
  }
 ]

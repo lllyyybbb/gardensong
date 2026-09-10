@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 09:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 82,
-  "lines": 8,
-  "poem": "Who flung the stars\nWhile Danny liked the sheltering bars.\nThe eagle had an eyrie home,\nDare's nothin' to fear--my ole\n'ooman's\nHow faint they flicker and how low\nsweet\nThink you their work can be undone?"
- },
- {
   "time": "2026-09-01 10:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "\"Go, tell the King,\" she sadly said,\n\"Must die to get us out of the\nrose-apple:\nNot these, not these did I stray\nfrom us, tempt us not beyond our\nstrength,"
+ },
+ {
+  "time": "2026-09-10 10:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "I'm folding up my little dreams\nUntouched by bondage and its rod,\nBurn on! and on! It seems\nWe cheated school to have your wish.\nBut if we have more than this,\nAnd tickled his nose in Orion's hair."
  }
 ]

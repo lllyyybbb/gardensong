@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 05:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 91,
-  "lines": 8,
-  "poem": "Will grind out the old Antaean\nstrength\nGirdle the world of tears,\nAnd the light stood shining on my\nthrone,\nThe long-drawn dreary day, the\nnight's\nAnd nowhere seen and nowhere heard"
- },
- {
   "time": "2026-09-01 07:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "\"Go, tell the King,\" she sadly said,\n\"Must die to get us out of the\nrose-apple:\nNot these, not these did I stray\nfrom us, tempt us not beyond our\nstrength,"
+ },
+ {
+  "time": "2026-09-10 07:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Over their tortured and their tears;\nCan you blame the world has read of\nheroes\nThe portals of that black land where\nDixie's\nFair and lovely are your cheeks,"
  }
 ]

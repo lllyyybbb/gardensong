@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 00:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "When she's ready to go.\n\"Softly let the pillars of my skin,\nForgetting that I could not scorn.\nWhen ol' Sis' Judy pray,\nDe man doan know how much he miss,\nAnd thought of fear,\nAnd held it to determine why\nThis was the faith that taught"
- },
- {
   "time": "2026-09-01 01:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "Among the leaves of the world has\nread\nEagerly the crowd were waiting,\nLoud the clashing sabres rang;\nWhen \"Peace on earth, good will to\nthe innocent crucified for the heavy"
+ },
+ {
+  "time": "2026-09-10 02:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "But with it across the line;\nOblivious of the people.\nI ask for my dear boy?\nThe hungry heart was all but weaned\naway\nOf you. Nor you of her. 'Tis said"
  }
 ]

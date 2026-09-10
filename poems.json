@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 16:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
- },
- {
   "time": "2026-09-01 17:00",
   "temp_c": 34.0,
   "temp_f": 93,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "_On the Fiftieth Anniversary of the valley\npass.\nStill bears an honored name.\nCan set my spirit free;\n\"For the spirits of my own last pain."
+ },
+ {
+  "time": "2026-09-10 17:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "There I would rather like a mighty flame,\nWhen a voice rang sadly through my soul, by\nhis\nLife's heavy, wearisome burdens\nOf some wild animal caught in the dominant"
  }
 ]

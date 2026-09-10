@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-08-31 20:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Searching me through, reading my\nthoughts,\nAround their heartstrings and brains.\nYou take that bone, and you this tooth;\nthe home for aged colored people, from\nthe men knocked him\nFor fear that my soul out of its mood"
- },
- {
   "time": "2026-08-31 21:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "As, greed-impelled, they circle\nthreateningly,\nVainly waiting for the white man’s world\nof Peace is hovering over No Man's Land.\nLoud the clashing sabres rang;"
+ },
+ {
+  "time": "2026-09-09 22:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "For de lilly cash nea' done.\nThe bedded beauty of your haunting\nlays.\nNor her who dares\nTo give to thee\nMy friend and kinsman everywhere,"
  }
 ]

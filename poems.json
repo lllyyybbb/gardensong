@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 14:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "What merely living clod, what captive\nthing,\nThe change to a song\nMeans flowering lanes and leas and spaces\ndry,\n\"That I would rather die.\""
- },
- {
   "time": "2026-09-01 15:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "He hunner yurs ol' an' nebber wuz ill;\nHe hurled the world;\nAnd Georgie--none could ever dive like\nhim--\nBut when the cyclone\nBreathes terror through the eternity of"
+ },
+ {
+  "time": "2026-09-10 15:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "What for my boy? That he is Blameless\nKnight\nLaid on my back;\nAnd called Machpelah's cave.\n\"Entreat him that he bore,--"
  }
 ]

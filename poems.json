@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 15:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "And there the great dynamic beat\nUpon life's stormy tide.\nThe moaning, groaning cars,\nAnd bid our weary, saddened earth\nAgain does the dog howl all night long,\nSeems lak to me ma th'oat keeps gittin' dry,"
- },
- {
   "time": "2026-09-01 16:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "What for my boy? That he is Blameless\nKnight\nLaid on my back;\nAnd called Machpelah's cave.\n\"Entreat him that he bore,--"
+ },
+ {
+  "time": "2026-09-10 16:00",
+  "temp_c": 33.0,
+  "temp_f": 91,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "_On the Fiftieth Anniversary of the valley\npass.\nStill bears an honored name.\nCan set my spirit free;\n\"For the spirits of my own last pain."
  }
 ]

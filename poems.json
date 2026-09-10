@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 17:00",
-  "temp_c": 34.0,
-  "temp_f": 93,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "Could he save us?\nAll these shall give you sweet content\nAnd winds are balmy, blue brooks ever sheen,\nTo gather the young pregnant year at\nEastertime;"
- },
- {
   "time": "2026-09-01 18:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "There I would rather like a mighty flame,\nWhen a voice rang sadly through my soul, by\nhis\nLife's heavy, wearisome burdens\nOf some wild animal caught in the dominant"
+ },
+ {
+  "time": "2026-09-10 18:00",
+  "temp_c": 32.0,
+  "temp_f": 90,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "What for my boy? That he is Blameless\nKnight\nLaid on my back;\nAnd called Machpelah's cave.\n\"Entreat him that he bore,--"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 00:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "When he grasped the boat,\nAnd you know to the edge of the soft\nsunset,\nLet peace at last to Fate's wild whim)\nHung pitifully o’er the death of May,\nWith all her queenly grace,\nAnd, far away,"
- },
- {
   "time": "2026-09-02 01:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "As the hours in toil this day.\nSateday, de marnin' of deir life\nLike laughter jolly\nBegins the finale;\nAgain I stood beside the gate.\nMy friend and I."
+ },
+ {
+  "time": "2026-09-11 02:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "I'm folding up my little dreams\nUntouched by bondage and its rod,\nBurn on! and on! It seems\nWe cheated school to have your wish.\nBut if we have more than this,\nAnd tickled his nose in Orion's hair."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 11:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "Whose meaning, charlatan history,\ntells!\nGhosts are turned flesh, throwing off\nthe lips of the eucharis\nBefore my ravished sight\nThe spell of half tears,\nAnd bound me with tales\nof Peace hovering over No Man's Land"
- },
- {
   "time": "2026-09-02 12:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Unique proposition\nIs it because I am Persia's Queen,\nAnd drink our share of ardent love and\nwine,\nTo be merciful and just.\nWhere the Nile in kingly bounty"
+ },
+ {
+  "time": "2026-09-11 15:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
  }
 ]

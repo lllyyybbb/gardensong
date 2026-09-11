@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 09:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 84,
-  "lines": 8,
-  "poem": "There was a restless world.\nWe laid tired bodies 'gainst\nThe dawn now breaks on the earth,\nEven the sacred truths lay deep\nimbedded,\nLike men we'll face the fact and say,\nDat dare ain't a-gwine to be here\nAnd ever another rides his soul was"
- },
- {
   "time": "2026-09-02 10:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "Soft-scented, redolent of my youth\nconsumes\nTo me more bright and solitary star\n(Perchance the one that ever leap\nupward,\nWhen ol' Sis' Judy pray,\nHa'd sinnahs trimble in dey seat"
+ },
+ {
+  "time": "2026-09-11 13:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "My hungry body’s burning for a snob.\nThey'll call me poetry monger and then\nforget\nS' 'e: \"Dey's bought us, sold us, beat\nus;\nBut Adam nevuh had no map:"
  }
 ]

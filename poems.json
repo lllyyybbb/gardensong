@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 19:00",
-  "temp_c": 33.0,
-  "temp_f": 91,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Fur de time is hellish hot,\nThe memories of cruel demons\nFlames were closing 'round our way\nTo confuse Persia's lord--\nLove glorious in his friendly might,\nAnd over my dim and longing vision"
- },
- {
   "time": "2026-09-01 20:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "He hunner yurs ol' an' nebber wuz ill;\nHe hurled the world;\nAnd Georgie--none could ever dive like\nhim--\nBut when the cyclone\nBreathes terror through the eternity of"
+ },
+ {
+  "time": "2026-09-10 20:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "That bore me o’er the rippling stream,\nTell me, ghoulish, grinning skull,\nToothless, eyeless, hollow, dull,\nWhy your smirk and smile\nEre time has brushed cold fingers thru my\nhair!"
  }
 ]

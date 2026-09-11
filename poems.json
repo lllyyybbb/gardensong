@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 08:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "Before these star-noted birds\nescaped\nWe took the light of God around us,\nAnd lit with many a hot-breath'd\nbattle\nFor ancient hag and snaggle-tooth;\nBut before I reach my country,\nMy leaves were green as the eye"
- },
- {
   "time": "2026-09-02 09:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Des awaitin', honey,\nCozy fixt fur you;\nDown in the earth--\nAnd tread it 'neath my feet,\nAnd you'll see into my heart.\nDo not cheer, for aged colored\npeople,"
+ },
+ {
+  "time": "2026-09-11 12:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "Soft-scented, redolent of my youth\nconsumes\nTo me more bright and solitary star\n(Perchance the one that ever leap\nupward,\nWhen ol' Sis' Judy pray,\nHa'd sinnahs trimble in dey seat"
  }
 ]

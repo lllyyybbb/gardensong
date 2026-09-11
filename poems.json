@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 13:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "As though you know to me the precious\ntoken,\nThe curse that writhed and died as\nslaves.\nOur eyes with tears were blind,\nThe poorest, humblest child;\nTo stay the floods of sin and strife,"
- },
- {
   "time": "2026-09-02 14:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "Beneath his burning kiss\nThe storm-king harnessed his lightning\nsteeds,\nI'm busy to-day with tare and tret,\nAnd find holiness, love and pain."
+ },
+ {
+  "time": "2026-09-11 17:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "And held it to the pole;\nAnd down the poor and lowly,\nMay pass beyond the bar,\nOne will call, he cannot see;\nBut before I go."
  }
 ]

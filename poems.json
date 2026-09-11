@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 07:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 91,
-  "lines": 8,
-  "poem": "My eyes grew full of light,\nBut yo' sweet smile will follow me\nWhen he grasped the writing;\n\"I can't,\" the child\nTheir warm, heart-melting motions to\nbe\nHave stretched out upward, seeking\nthe home for aged colored people,"
- },
- {
   "time": "2026-09-02 08:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "The squirrel, full of mischief and of\nsin.\nThe Prophets told.\nSilence and love and watch his nimble\nflight\nAnd browse about our ancient place,\nAnd ev'ry lip was blanched with"
+ },
+ {
+  "time": "2026-09-11 11:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Des awaitin', honey,\nCozy fixt fur you;\nDown in the earth--\nAnd tread it 'neath my feet,\nAnd you'll see into my heart.\nDo not cheer, for aged colored\npeople,"
  }
 ]

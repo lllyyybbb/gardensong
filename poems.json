@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-01 23:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "But I'm gittin' mighty werry,\nAn' de light shine from de moon\nThat I who fell, and he who sinned,\nShall leave me to spend the evening\nhours,\nWhen her keel had touched the ground."
- },
- {
   "time": "2026-09-02 00:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "I marveled at the prison door,\n\"Ho, keeper, do not stay!\nWe lift up our hearts with anguish wild\nKneels and implores that her darling\nchild\nAnd the proud old \"turk\" of the men of"
+ },
+ {
+  "time": "2026-09-11 01:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "As the hours in toil this day.\nSateday, de marnin' of deir life\nLike laughter jolly\nBegins the finale;\nAgain I stood beside the gate.\nMy friend and I."
  }
 ]

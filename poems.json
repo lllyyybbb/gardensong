@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 15:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "Sprung up and found in me a true\nrelease--\nAnd she has marked you for the fevered\nnight\nHe found me weary, faint and worn,\nOn which lay the mother's kiss;\n'Mid the dreadful roar of wind and\nwaters"
- },
- {
   "time": "2026-09-02 17:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "As, greed-impelled, they circle\nthreateningly,\nVainly waiting for the white man’s world\nof Peace is hovering over No Man's Land.\nLoud the clashing sabres rang;"
+ },
+ {
+  "time": "2026-09-11 19:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "In this strife must bear a part;\nWhile you are gone and tears are shed,\nThat casts a subtle spell upon all\nthings,\nBlind Homer, Greek or Jew,"
  }
 ]

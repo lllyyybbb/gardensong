@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-03 05:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 96,
-  "lines": 8,
-  "poem": "As though in heaven there was a\nmighty\n\"When I told you God would help me\nthere, and the glossy pearl,\nLives like chaff were thrown away,\nLet me sing for little children,\nBright flowers by earth's wayside,\nThe city of my virtue I bowed my"
- },
- {
   "time": "2026-09-03 10:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "I freely give to them a hope or\nfear.\n(Perchance the one that ever\nguided\nBut I cannot bring back to mind\njust\nTo lay at Jesus' feet."
+ },
+ {
+  "time": "2026-09-12 06:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Why must this horror be\nFor fainting France, for faithful\nFrance,\nAnd in this mansion\nFrom this uplifted, mighty\nmountain-seat:\nFor this my race"
  }
 ]

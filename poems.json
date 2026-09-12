@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 20:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "Sprung up and found in me a true\nrelease--\nAnd she has marked you for the fevered\nnight\nHe found me weary, faint and worn,\nOn which lay the mother's kiss;\n'Mid the dreadful roar of wind and\nwaters"
- },
- {
   "time": "2026-09-02 21:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "Cut an' carve, an' carve an' cut,\nLeaving behind the vestige of a common\ncountry,\nOn the crumbling stones of hate.\nThe treasure house of thought.\nAgain, I feel it is that a man grown"
+ },
+ {
+  "time": "2026-09-11 21:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "And sounded is the night is yours for\nrevels;\nBut the brown toes in China the toes\nturned\nJust ten dark years of toil,\nAnd unawares a riddle is revealed,"
  }
 ]

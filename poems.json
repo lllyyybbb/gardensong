@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-03 11:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 90,
-  "lines": 8,
-  "poem": "But the question lies unanswered\nIn the new dawn that is breaking,\nAnd nets of sin and strife,\nThough a tremor of the faint touch of\nthe home for aged colored people,\nfrom the specter of pursuing death;\nAnd music singing in the misty air,\nAnd my life was fair."
- },
- {
   "time": "2026-09-03 12:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "Bar out the sunset,\nCome hyeah, Maria, an' wipe off\nhis\nThe air is blowin' mighty cold\nLike the words, wet with music,\nthat no man went through thee, I\nwill"
+ },
+ {
+  "time": "2026-09-12 08:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Like nursery children you shall\nnever\nOf the bright and solitary star\n(Perchance the one that ever\nspeaks\nUnknown to every urge,\nWith loud and long;\nBut for us his life."
  }
 ]

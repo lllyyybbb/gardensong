@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-03 18:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Never more their paths to tread.\nAnd bows and pins, and perfumed papers\nfine;\nA rock, for ages, stern and high,\nBeating their heavy wings of dark\ndisturbance.\nA wild and fitful life"
- },
- {
   "time": "2026-09-03 19:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "And watched her perfect, half-clothed\nbody\nI am as welcome as the Spartan, proud\nto dance for the people,\nAs sickness grips a soul in wretched\nweather."
+ },
+ {
+  "time": "2026-09-12 14:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "Where war has sharpened his weapons,\nStood frowning there, a cave here, bred\nsix\nWho made the gallows an altar high,\nThy signals, ever and anon she cried;\nBut would please the weak frail flesh;"
  }
 ]

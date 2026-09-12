@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 17:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
- },
- {
   "time": "2026-09-02 20:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "In this strife must bear a part;\nWhile you are gone and tears are shed,\nThat casts a subtle spell upon all\nthings,\nBlind Homer, Greek or Jew,"
+ },
+ {
+  "time": "2026-09-11 20:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Cut an' carve, an' carve an' cut,\nLeaving behind the vestige of a common\ncountry,\nOn the crumbling stones of hate.\nThe treasure house of thought.\nAgain, I feel it is that a man grown"
  }
 ]

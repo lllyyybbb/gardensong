@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-03 12:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 86,
-  "lines": 8,
-  "poem": "Oh little, lovely Christ--you smile!\nWhat days our wine-thrilled bodies\npulsed\nSinks dead, and 'round us everywhere\nHangs stifling darkness, and we grope\nWith black-ribbed blue-bells blowing\nnear,\nDo not cheer, while little children"
- },
- {
   "time": "2026-09-03 14:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Like nursery children you shall\nnever\nOf the bright and solitary star\n(Perchance the one that ever\nspeaks\nUnknown to every urge,\nWith loud and long;\nBut for us his life."
+ },
+ {
+  "time": "2026-09-12 10:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "In vain; then even the girls, they\nwin\nGod of nations,\nHaste! oh, haste the glorious day\nHis chosen seed should tread,\nThe sea is crossed, the longed-for\nport"
  }
 ]

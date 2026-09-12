@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-03 21:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Ready to spring whenever a bar is\nloosed;\nI knows down in de win'.\nKaint defy it, kaint deny it,\nFruit trees all aroun',\nHollyhawks a-bloomin'\nIn which he perished"
- },
- {
   "time": "2026-09-03 22:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "With a light gleam f'om huh eye,\nAnd but its ghost doth reach that vessel,\npassing,\nAnd she watched in lonely dread;\nVainly waiting for his soup or fish or\nmutton."
+ },
+ {
+  "time": "2026-09-12 17:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "They may faithful and true remain.\nI do not shame to turn myself away\nThe wretched day was theirs, the night\nto dance for us,\" the rough men said;\n\"I am here, oh! God,\nLike the sun-kissed shadows depart."
  }
 ]

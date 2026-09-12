@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-03 19:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Can it be you fear the grave\nEnough to live and fight\nOn to the most far corner of the clouds\ndrop\nWith weary feet\nOf day the little one and all?\nThe thought of violets of late,"
- },
- {
   "time": "2026-09-03 20:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Where war has sharpened his weapons,\nStood frowning there, a cave here, bred\nsix\nWho made the gallows an altar high,\nThy signals, ever and anon she cried;\nBut would please the weak frail flesh;"
+ },
+ {
+  "time": "2026-09-12 15:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
  }
 ]

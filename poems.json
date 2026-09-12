@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-02 23:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "And the earth was under His feet.\n\"Tim Thompson, a little cake\nAnd kingdoms fell and empires rose,\nUpon life's stormy tide.\nThe blush is on the island of the\neucharis\nBefore these star-noted birds\nescaped"
- },
- {
   "time": "2026-09-03 00:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "Or ere the first May flowers,\nThe long, vain waiting through the\nfields\nAnd Mary with the ears?\nHow dare I murmur at my lot,\nOr he may sit him down f'om his haid"
+ },
+ {
+  "time": "2026-09-12 00:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Sailing the seven seas;\nHe will go down to hell.\nI'm out to be wooed;\nAnd browse about our ancient place,\nLay the victims of the dying stars.\nSymbolic mother, we thy myriad"
  }
 ]

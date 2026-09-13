@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 10:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "Nor bring me back departed joys;\nBut glory to the winds' invisible\nshape;\nThe motif of his avocation.\nI want to jump an' hollah,\nDough de saw is sharp an' greasy,\nDough you know the hour of woe.\nDo not cheer until the nation"
- },
- {
   "time": "2026-09-04 11:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "Deze eatin' folks may tell me ub de\ngloriz\nHe sowed in his beauty,\nAnd but its ghost doth reach that\nvessel,\nWondah whethah in de road;\nFu' to be no more.\nThe poinsettia's red, blood-red in"
+ },
+ {
+  "time": "2026-09-13 05:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Devoured her shape with eager,\npassionate\nAnd his eyes were drenched with\nburning\n'And He looked at His sun,\nThe Lord had given me.\nHear me as I cry\nOf morning's early light,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 16:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "The cooling waters came down.\nHe was free among the slain.\nOn which the great dark clouds are massing;\nI had seen,\nWhere fields lie idle in the East."
- },
- {
   "time": "2026-09-04 17:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Hit fill de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nDo not cheer until each nation\nSheathes the sword and blunts the\nspear,\nLet's hear these motley pilgrims wile\naway\nGod bless our native land,"
+ },
+ {
+  "time": "2026-09-13 13:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "He poured his soul\nTo welcome thy dear guest,\nI stand within her walls with not a\nplace\nIn the wake of those we love,\nWe had told our little darling,\nOf subtly-changing and surprising parts;"
  }
 ]

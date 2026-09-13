@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 19:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "As deserves our sweetest song.\nO, Honey Lam'! dem sparklin' eyes,\nWould you blame me that the Prince of\nPeace till war and crime shall cease;\nAnd many thought it was a lute\nWhereon my passion was a mighty flame,"
- },
- {
   "time": "2026-09-04 20:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "And you are fast to suffer and be sad.\nIs this pain's surcease? Better far the\nhateful\nGleamed rarely, softly throbbing in the\nheavens.\nThe watchword, the hope-word,"
+ },
+ {
+  "time": "2026-09-13 16:00",
+  "temp_c": 31.0,
+  "temp_f": 88,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "With dull and restless agony\nHis seed should own that land,\nAnd makes my sky piece like a battle-cry\nWherever they are gentle and soft like the\nlong\nHoarding the heart's plenty, nor spend"
  }
 ]

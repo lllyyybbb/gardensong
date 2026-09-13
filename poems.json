@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 01:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "Oh something just now must be\nlonesome,\nAforetime, while they front the firing\nline.\nThe yellow by-road mazing from the\neyes,\nRising from two hostile camps.\nOne will call, he cannot see;"
- },
- {
   "time": "2026-09-04 02:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "Whither? To life? But not the slightest\nurge\nWhen ol' Sis' Judy pray.\nO, de moon\nThat weakness stalks in pride;\nI have forgot\nWhat seemed before a heaven-fed"
+ },
+ {
+  "time": "2026-09-12 20:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "Lay by your soft vermilion robe,\nAmorous of sweets, for but one perfect\nhour!\nFrom the cities in the night lets fall\nIts weariness and care\nFor Time's deft fingers scroll my brow\nThe man is greater than the first."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 09:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "Fair and lovely are your cheeks,\nWith your yellow flower and white,\nAnd seeks his cab or tram-car\nhomeward\nDown in the trenches of Mars.\nI hold them as a sleeping bird.\nNow a louder strain.\nSlender, silvery drumsticks,"
- },
- {
   "time": "2026-09-04 10:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "All gay without, all glad within;\nAs the tempest and the sharing\ncares,\n\"That I am black?\nThe tares which in madness they sow,\nSorrow without relief.\nPay it I will be lazy, conqueringly\nstill,"
+ },
+ {
+  "time": "2026-09-13 04:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "Deze eatin' folks may tell me ub de\ngloriz\nHe sowed in his beauty,\nAnd but its ghost doth reach that\nvessel,\nWondah whethah in de road;\nFu' to be no more.\nThe poinsettia's red, blood-red in"
  }
 ]

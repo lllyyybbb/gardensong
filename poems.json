@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 15:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "She came from the couch of night.\nIn agony I turn to thee for truth and\njustice\nMerlindy! Merlindy!\nI'll never show the lead and the coal from"
- },
- {
   "time": "2026-09-04 16:00",
   "temp_c": 32.0,
   "temp_f": 90,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "An' da moon ain't nevah been\ndiscovahed,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! Lord God, what evil have we\ndone?\nOf love; and sing, nor one kind act\nwithhold."
+ },
+ {
+  "time": "2026-09-13 12:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Hit fill de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nDo not cheer until each nation\nSheathes the sword and blunts the\nspear,\nLet's hear these motley pilgrims wile\naway\nGod bless our native land,"
  }
 ]

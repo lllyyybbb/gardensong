@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 06:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "Oh little Christ, why do you sigh\nAs the hours in toil this day.\nThe rasping noise of cars together\nknocking,\nNigh enough to hyeah de noises in de\nco'n,\nGrant me a place\nWhere sleep our kindred dead,"
- },
- {
   "time": "2026-09-04 07:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Behind the railroad tracks the\nlittle\nFrom all that He had a Mammy when\ndat\nHe looked at His moon,\nShe clasped the ancient walls,\nAnd chaffer in the flowing bowl"
+ },
+ {
+  "time": "2026-09-13 01:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Swift in thought and swift in\naction,\nDark melodist, immortal, though the\nfountain\nAs when those solemn chants and\nthrills\nAnd apples set on his bed of death,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 21:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Love is but desire and thy purpose\nfulfillment;\nWould learn to labor, live and die a\nslave?\nOf some wild animal caught in the\nsoul-toned\nIn night, O God of Peace."
- },
- {
   "time": "2026-09-04 22:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Among the leaves of the heat.\nI paused because I am so sunny,\n'Weh down Souf,\nAn' drew back deir han's wid shame!\nBut high o'er all the cark of time had\nflown,"
+ },
+ {
+  "time": "2026-09-13 18:00",
+  "temp_c": 30.0,
+  "temp_f": 86,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "And you are fast to suffer and be sad.\nIs this pain's surcease? Better far the\nhateful\nGleamed rarely, softly throbbing in the\nheavens.\nThe watchword, the hope-word,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-04 20:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "fought the fight of others\nThe butterflies, and sparrows in brief\nflight\nHer _soul_, proud fool, her _soul_ is\nmine,\nBut I forgib my in'miz, my heart and\nBeauty"
- },
- {
   "time": "2026-09-04 21:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "With dull and restless agony\nHis seed should own that land,\nAnd makes my sky piece like a battle-cry\nWherever they are gentle and soft like the\nlong\nHoarding the heart's plenty, nor spend"
+ },
+ {
+  "time": "2026-09-13 17:00",
+  "temp_c": 31.0,
+  "temp_f": 88,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Among the leaves of the heat.\nI paused because I am so sunny,\n'Weh down Souf,\nAn' drew back deir han's wid shame!\nBut high o'er all the cark of time had\nflown,"
  }
 ]

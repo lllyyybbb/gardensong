@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-05 03:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "Before these star-noted birds\nescaped\nWe took the light of God around us,\nAnd lit with many a hot-breath'd\nbattle\nFor ancient hag and snaggle-tooth;\nBut before I reach my country,\nMy leaves were green as the eye"
- },
- {
   "time": "2026-09-05 04:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Fierce and fearful was the debt I pay\nJust a will of God's retribution\nWill see the shapes of girls who pass\nfrom the West,\nFrom the fields at play,\nThere is a snare,\nAnd never again shall feel your glad"
+ },
+ {
+  "time": "2026-09-14 02:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Enfolded by your soft vermilion robe,\nAmorous of sweets, for but one\nperfect\nWaved so long dat he know ebbry tings\n'Bout Adam in da scripchuh long ago.\nDa lady folks all 'bused him, sed, he\nknowed\nAll yesterday it poured, and all its"
  }
 ]

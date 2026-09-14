@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-05 21:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "Bring surcease to her heart,\nFor loving hearts to usher in\nThe agony and terror in his eye!\nIf we must die--oh, let us nobly die,\nAnd He looked on His ears,\nWho in his fields of strife,"
- },
- {
   "time": "2026-09-05 22:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 37,
   "lines": 4,
   "poem": "And garish lights, and mincing little\nfops\nHis purposes to serve.\nThey may faithful and true remain."
+ },
+ {
+  "time": "2026-09-14 17:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 37,
+  "lines": 4,
+  "poem": "Its mission of song are mute;\nSo when the trembling earth\nAgain I stood beside the gates of\nlight,"
  }
 ]

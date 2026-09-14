@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-05 01:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Would you blame him, when you see\nthis\nIn stainless glory spreads its snowy\nblooms.\nI am not a place to fanes of prayer\nand\nWe are a part and not the whole.\nContemplating the strange, I’m"
- },
- {
   "time": "2026-09-05 02:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
+ },
+ {
+  "time": "2026-09-13 23:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Each black cloud\nIs there no way\nTo give to them a dance.\n\"Come dance for us,\" the rough men\nsaid;\nYour hate of vice a sham,\nWhen Angelus was sung"
  }
 ]

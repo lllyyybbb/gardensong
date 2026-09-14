@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-05 11:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "And watched her perfect, half-clothed\nbody\nI am as welcome as the Spartan, proud\nto dance for the people,\nAs sickness grips a soul in wretched\nweather."
- },
- {
   "time": "2026-09-05 13:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "That, though we saw--we saw not her.\nDar's a thief dat steals embition in\nde\nDark melodist, immortal, though the\ndew\nAre come, with erring hearts and"
+ },
+ {
+  "time": "2026-09-14 11:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "To be a man grown old in life's\ndreaming\nThese men who have woven\nFrom Moslem hands did strive to clutch\nThe city’s hate, the city’s dirty\nbasement"
  }
 ]

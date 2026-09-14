@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-05 23:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "I am bound with you resting in my\nheart\nFor with me yet.\nI love to sing! thou art too tender,\nI love this cultured hell that tests\nmy songs of sorrow, love and soulful"
- },
- {
   "time": "2026-09-06 00:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 39,
   "lines": 4,
   "poem": "Can bring true rest to cool my body’s\nfever,\n\"Down with him,\" cried out the grist\nof Peace hovering over No Man's Land"
+ },
+ {
+  "time": "2026-09-14 19:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 39,
+  "lines": 4,
+  "poem": "For all the wandering world would\ngain.\nThrough the sad pines, my soul,\ncatching"
  }
 ]

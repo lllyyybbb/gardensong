@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-05 07:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 94,
-  "lines": 8,
-  "poem": "In Olivet, beneath the giant tree\nTo lay at Jesus' feet.\nThe castaways of life,\nAnd women heart-stricken are weeping\nOver the earth came down,\nSing, my bawnjer, sing!\nWe's gwine ter dawnce dis eb'nin'\nsho',"
- },
- {
   "time": "2026-09-05 08:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Until it fell in the flame-heart's\nshade:\nHave courage to insist?\nThen the green bank of a tear.\nSad suffering face, from parting\ngrown\nBut nevermore the May!\nOh, with our love the immortal music"
+ },
+ {
+  "time": "2026-09-14 07:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "For the farmer reaping his whitened\nfields,\nThis thing they plainly see,\nAn' da folks wid rheumatics--dare\njints\nIf this dark Passion that fills my\nevery"
  }
 ]

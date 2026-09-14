@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-05 18:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "For truth and right\nAn' she answe'd, \"Cose I do\"--\nJump back, honey, jump back.\nLittle children, blow your trumpets!\nFrom our world henceforth depart."
- },
- {
   "time": "2026-09-05 20:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 45,
   "lines": 4,
   "poem": "Still Troilus hears a voice that\nwhispers,\nDown to the pearly gate;\nMy soul would sing forgotten jungle"
+ },
+ {
+  "time": "2026-09-14 15:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 41,
+  "lines": 4,
+  "poem": "Your body was a thing of dread;\nThen down between\nThe factory where they shape new feet\nand"
  }
 ]

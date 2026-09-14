@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-05 00:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 86,
-  "lines": 8,
-  "poem": "Oh little, lovely Christ--you smile!\nWhat days our wine-thrilled bodies\npulsed\nSinks dead, and 'round us everywhere\nHangs stifling darkness, and we grope\nWith black-ribbed blue-bells blowing\nnear,\nDo not cheer, while little children"
- },
- {
   "time": "2026-09-05 01:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "I wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah how)\nYou danced and sang a race to wonder\nand\nBut ye can not render\nMy heart, my heart beat glad and free,\nWhen pestilence clasps hands with"
+ },
+ {
+  "time": "2026-09-13 22:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
  }
 ]

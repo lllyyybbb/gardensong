@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 02:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "There is no part of the minstrel's\nlyre?\nHas come, has come!\nA love so fugitive and so fair.\nAgain, I feel your glad\nChiding from the blaze of the"
- },
- {
   "time": "2026-09-06 03:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 44,
   "lines": 4,
   "poem": "It makes my sky piece like a\nsphar-rib,\nThen tenderly the sons of far\nCathay"
+ },
+ {
+  "time": "2026-09-14 22:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 47,
+  "lines": 5,
+  "poem": "One works; one loafs and takes\ncommand;\nAnd every little baby\nBrings a message fraught\nThe boon of light we craved,"
  }
 ]

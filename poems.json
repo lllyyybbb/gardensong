@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 18:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "His spirit must have nightly floated\nfree,\n\"The sword of the rose-apple.\nI hold my head and wept.\nTurn me to linger here, alas,"
- },
- {
   "time": "2026-09-06 19:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 47,
   "lines": 5,
   "poem": "That war should close his wrathful\nlips,\nAn' hebben on de road een white\nmoon-light;\nWill wrap thee gently in her lair."
+ },
+ {
+  "time": "2026-09-15 14:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "While it breaks, breaks, breaks on\nthe men who would be free\nAnd calmly talked with death.\nThese truly are the ones I can rule\nmyself"
  }
 ]

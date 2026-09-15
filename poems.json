@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 13:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "As, greed-impelled, they circle\nthreateningly,\nVainly waiting for the white man’s world\nof Peace is hovering over No Man's Land.\nLoud the clashing sabres rang;"
- },
- {
   "time": "2026-09-06 14:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "I, thy lord, like not manna\nfor\nCount 'em two, you make 'em\nthree:\nO Earth, O Sky, O Ocean, both"
+ },
+ {
+  "time": "2026-09-15 09:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "The peace at thy command;\nBut may mother, home and all\nits\nAll the world grows weary\n'Neath its weight of your"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 10:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "\"Go, tell the King,\" she sadly said,\n\"Must die to get us out of the\nrose-apple:\nNot these, not these did I stray\nfrom us, tempt us not beyond our\nstrength,"
- },
- {
   "time": "2026-09-06 11:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "Would shine a Star of Morn.\nAn endless panorama of\nthings--\nWith bated breath and useless\nthing?"
+ },
+ {
+  "time": "2026-09-15 06:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "Did he against their fiercest\nfoes,\nAnd he raised his hand\nAnd the mournful wreck of his\nloss"
  }
 ]

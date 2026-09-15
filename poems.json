@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 20:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "Beloved of God,\nHe doctah fur all de town--\nWhy, angels' robes go rustlin' 'roun',\nHim yurs am small, him eyes am raid,\nHim stomp him foot urpon de groun';"
- },
- {
   "time": "2026-09-06 21:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 41,
   "lines": 4,
   "poem": "Then God raised His arm and He waved\nHis one desire a prisoned ache;\nIf this dark Passion that fills my\nevery"
+ },
+ {
+  "time": "2026-09-15 16:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 38,
+  "lines": 4,
+  "poem": "It was something to her when that only\nson\nWhen all that fair flag has been borne\nAnd flooding my home"
  }
 ]

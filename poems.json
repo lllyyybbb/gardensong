@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 23:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "For water, fresh rain shaken from a\nforest\nIn stainless glory spreads its\nsnowy\nHe came, a youth, singing in the\ntrenches"
- },
- {
   "time": "2026-09-07 00:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 42,
   "lines": 4,
   "poem": "\"Don't put it in the hollow of his\nown,\nKneels and implores that her darling\nchild"
+ },
+ {
+  "time": "2026-09-15 19:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 42,
+  "lines": 4,
+  "poem": "Chinese and natives greet.\nCrusaders once with sword and armor\nbright.\nAforetime, while they front the"
  }
 ]

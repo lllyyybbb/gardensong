@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 19:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "The older folk are at their peaceful\ntoil,\nOur swaying forms and steals our hearts\nwith\nKneeled down in my grain,"
- },
- {
   "time": "2026-09-06 20:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "While it breaks, breaks, breaks on\nthe men who would be free\nAnd calmly talked with death.\nThese truly are the ones I can rule\nmyself"
+ },
+ {
+  "time": "2026-09-15 15:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 41,
+  "lines": 4,
+  "poem": "Then God raised His arm and He waved\nHis one desire a prisoned ache;\nIf this dark Passion that fills my\nevery"
  }
 ]

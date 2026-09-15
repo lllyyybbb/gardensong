@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 00:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "Your faun-like form, your fond\nface;\nBeheld that little sparrow's fall.\n’Tis dawn, dawn in New York.\nAnd bows and pins, and perfumed\npapers"
- },
- {
   "time": "2026-09-06 01:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 39,
   "lines": 4,
   "poem": "For all the wandering world would\ngain.\nThrough the sad pines, my soul,\ncatching"
+ },
+ {
+  "time": "2026-09-14 20:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 41,
+  "lines": 4,
+  "poem": "\"Home and friends doomed to roam.\nYou are linked unto his bosom once\nagain;\nThe big bell's tollin' up in night,"
  }
 ]

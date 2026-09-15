@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 12:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Where war has sharpened his weapons,\nStood frowning there, a cave here, bred\nsix\nWho made the gallows an altar high,\nThy signals, ever and anon she cried;\nBut would please the weak frail flesh;"
- },
- {
   "time": "2026-09-06 13:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Should stop, e'en for a maiden\nsin.\nAnd to beautify the pathway\ndown with a club and then\ndanced\nWe shall smile who loved him"
+ },
+ {
+  "time": "2026-09-15 08:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "I, thy lord, like not manna\nfor\nCount 'em two, you make 'em\nthree:\nO Earth, O Sky, O Ocean, both"
  }
 ]

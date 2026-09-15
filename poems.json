@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-06 17:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "The band of cruel sights and deeds,\nThe crops which their fathers have sown.\nGo read on the tropic sea,\nWhere towers the cotton tree,\nWhere I may never hope for me? Is there"
- },
- {
   "time": "2026-09-06 18:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 50,
   "lines": 5,
   "poem": "The freedom that we have sown;\nThat I must not watch you as you go\nTo the soldier's heart would bless\nOblivion--the shroud and envelope of\nhappiness."
+ },
+ {
+  "time": "2026-09-15 13:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 47,
+  "lines": 5,
+  "poem": "That war should close his wrathful\nlips,\nAn' hebben on de road een white\nmoon-light;\nWill wrap thee gently in her lair."
  }
 ]

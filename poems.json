@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-07 20:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 45,
-  "lines": 4,
-  "poem": "Wrecked their homes and children\nsheltered\nMen warred against their stern\ncommands"
- },
- {
   "time": "2026-09-07 21:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "So am de ban'.\nWen dee tell Doc' Hyar,\nWhar lib up dar\nEen ur mighty fine house on ur mighty\nfine\nAs the needle trembles to the waters of"
+ },
+ {
+  "time": "2026-09-16 15:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "And let us breathe the air is blowin'\nmighty\nLook farther back! Three centuries!\nTo me would never penetrate the prayers\nand"
  }
 ]

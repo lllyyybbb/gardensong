@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 00:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Shall be constrained to honor us\nthough\nWelcome children of the pathway\nunto\nFor blood shed in vain?\nThat war should close his wrathful"
- },
- {
   "time": "2026-09-08 01:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Dead to the warm and soft and quivering\nyour\n\"O, Doctah, come queeck, an' see Mr.\nB'ar;\nThe dew is on de gras'\nAn' da blackbird's voice it gits so"
+ },
+ {
+  "time": "2026-09-16 19:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "'Weh down Souf,\nAn' de profit it could bring,\nAnd for our foes let this suffice--\nWe've kept the faith. Our souls' high\ndreams\nWe placed upon my face"
  }
 ]

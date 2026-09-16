@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-07 23:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "Soon everywhere, with glory through\nand\nA ray of light,\nThe Loyal Legion\nWe shall have its sway."
- },
- {
   "time": "2026-09-08 00:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "And held it to the pole;\nAnd down the poor and lowly,\nMay pass beyond the bar,\nOne will call, he cannot see;\nBut before I go."
+ },
+ {
+  "time": "2026-09-16 18:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "Dead to the warm and soft and quivering\nyour\n\"O, Doctah, come queeck, an' see Mr.\nB'ar;\nThe dew is on de gras'\nAn' da blackbird's voice it gits so"
  }
 ]

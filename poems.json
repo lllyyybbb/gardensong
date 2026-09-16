@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-07 05:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "De Cunjah man, de Cunjah man!\nHim hab ur ball ob raid, raid\nha'r,\nS' 'e: \"Dey's bought us, sold\nus,\nA nobler future, true and tried"
- },
- {
   "time": "2026-09-07 07:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "My hands were tied;\nBut faced the morning,\nWhere father loves to muse aside\nOld men gazing silently thru the\ndusks"
+ },
+ {
+  "time": "2026-09-16 01:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "Lo, the reign of our Lord.\nAnd tickled his nose in the\nvalley,\nAnd what hast thou now but thy\ndusty\nFrom the distant West,"
  }
 ]

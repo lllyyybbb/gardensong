@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-07 10:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "My bruthah jus' sent word to me, the\nweary,\nBut when you’re filled and sated\nwith\nThese seven links the _Law_\ncompelled"
- },
- {
   "time": "2026-09-07 11:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
+ },
+ {
+  "time": "2026-09-16 05:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "An' de picknies, six in all,\nWhose face was in her tender\nletters,\nLove’s softly glowing spark;\nFor the lead but eye things\nfrom the specter of pursuing"
  }
 ]

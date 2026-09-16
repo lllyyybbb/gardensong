@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-07 09:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "Intimidated lest thy mighty\nbreath,\nThey shall see Him in white.\nWe laid tired bodies 'gainst\nThe stars too gloriously bright,\nAnd we sing aloud for gladness:"
- },
- {
   "time": "2026-09-07 10:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "To stir my fluent blood as never\nyour\nLinger along the garish street;\nAbove, a hundred shouting signs\nShed down their crowns\nIn the night for your listeners'"
+ },
+ {
+  "time": "2026-09-16 04:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
  }
 ]

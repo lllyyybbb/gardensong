@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 11:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And sounded is the night is yours for\nrevels;\nBut the brown toes in China the toes\nturned\nJust ten dark years of toil,\nAnd unawares a riddle is revealed,"
- },
- {
   "time": "2026-09-08 12:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "But oh! more than the songs of\nsorrow,\nAnd worried waiters, some in ugly\nmood,\nMen marveled at the noon-hour from\nthe innocent crucified for the\npeople,"
+ },
+ {
+  "time": "2026-09-17 08:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "He counted not the age is hard and\ncold--\nGrant me a nation,\" said the\nanxious\nOh may she ever stand\nWhere towers the cotton tree,\nWhere haughty tyrants once bore"
  }
 ]

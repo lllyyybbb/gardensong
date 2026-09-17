@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 01:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "May the choral song of lark and\nhymn\nHeld in our bleeding flesh their\nclaws.\nForever, life-long.\nTo lose their glory in the sun is"
- },
- {
   "time": "2026-09-08 02:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "'Weh down Souf,\nAn' de profit it could bring,\nAnd for our foes let this suffice--\nWe've kept the faith. Our souls' high\ndreams\nWe placed upon my face"
+ },
+ {
+  "time": "2026-09-16 20:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "Applauding youths laughed with young\nprostitutes\nBringing unto hearts now aged\nWho between their hosts advancing\nCalmly parried their attack.\nAll these shall dread"
  }
 ]

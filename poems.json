@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 14:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "Loud the whistles blew and the hallow of\nold\nFor in her glance there is a fancied\nthing\nI am, and am not."
- },
- {
   "time": "2026-09-08 15:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "And judgment streamed around his\nheart,\nLove 'er, boy, forevah,\nYodel ever' day;\nI have no offering but my life,\nAnd the mournful wreck of his\navocation."
+ },
+ {
+  "time": "2026-09-17 11:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "Soft-scented, redolent of my youth\nconsumes\nTo me more bright and solitary star\n(Perchance the one that ever leap\nupward,\nWhen ol' Sis' Judy pray,\nHa'd sinnahs trimble in dey seat"
  }
 ]

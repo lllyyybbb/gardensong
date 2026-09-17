@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 22:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "No woman in all the early floral\ntrain,\nHis people's gift of song,\nBreaks on our Father's hand.\nThe tribute paid by passersby to\ntombs"
- },
- {
   "time": "2026-09-09 00:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "And if they kill me it is wrong,\nIt seems a breath of life,\nAn' she answe'd, \"Cose I do\"--\nJump back, honey, jump back.\nRaised huh lips an' took a tase,\nJump back, honey, jump back."
+ },
+ {
+  "time": "2026-09-17 19:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "And tangerines and mangoes and grape\nfruit,\nYou may doubt it as you go\nYour sun-illumined way;\nI look into a shape of flame.\nYour eyes are dawning day;\nI feel the soft rain-kisses of the sun."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 12:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "For de lilly cash nea' done.\nThe bedded beauty of your haunting\nlays.\nNor her who dares\nTo give to thee\nMy friend and kinsman everywhere,"
- },
- {
   "time": "2026-09-08 13:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "He counted not the age is hard and\ncold--\nGrant me a nation,\" said the\nanxious\nOh may she ever stand\nWhere towers the cotton tree,\nWhere haughty tyrants once bore"
+ },
+ {
+  "time": "2026-09-17 09:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Cheery, clean an' bright,\nAnd sounded is the charge they\nmake),\nShould stop, e'en for a master's\nnose\nEvery well man is a lovely noise\nabout"
  }
 ]

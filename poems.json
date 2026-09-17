@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 06:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "An' de picknies, six in all,\nWhose face was in her tender\nletters,\nLove’s softly glowing spark;\nFor the lead but eye things\nfrom the specter of pursuing"
- },
- {
   "time": "2026-09-08 07:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "Voices the new dawn that is you,\nAnd they cry aloud\nWith the mingled fragrance of the\nground,\nOf severed hearts again made one,\nOf a new life and beauty yet unseen."
+ },
+ {
+  "time": "2026-09-17 02:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "Mammy an' pappy do' want stragglers\na-layin'\nBut oh, your scent is in the Night.\nO kinsmen! we must perish,\nPerish just in sight of clotted\nblood.\nSum one mus' be led,"
  }
 ]

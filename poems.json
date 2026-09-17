@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 02:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "It was something to her when that\nonly\nTo Garrison, valiant, true and\nstrong,\nWith looks of high desire,\nVain--as it is brief."
- },
- {
   "time": "2026-09-08 03:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "Applauding youths laughed with young\nprostitutes\nBringing unto hearts now aged\nWho between their hosts advancing\nCalmly parried their attack.\nAll these shall dread"
+ },
+ {
+  "time": "2026-09-16 21:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "If all our toilsome building is in\nits\nFor men to die,\nAnd catch the gleaming of a hill\nwhere\nBut in her sable sheet,"
  }
 ]

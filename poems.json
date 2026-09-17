@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 03:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "To stir my fluent blood as never\nyour\nLinger along the garish street;\nAbove, a hundred shouting signs\nShed down their crowns\nIn the night for your listeners'"
- },
- {
   "time": "2026-09-08 04:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "If all our toilsome building is in\nits\nFor men to die,\nAnd catch the gleaming of a hill\nwhere\nBut in her sable sheet,"
+ },
+ {
+  "time": "2026-09-16 23:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Too green the springing April grass,\nBut songs to thrill the hearts of\nstone\nThe lavrock lilts me mine;\nCome tender sleep, and fold me to\nthy"
  }
 ]

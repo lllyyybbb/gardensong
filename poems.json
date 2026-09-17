@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 10:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "Dedication Poem on the hill or in\nlove.\nMaking their mock at our greeting\nI want to die while you love me?\nWho-ah!\nThese signs are still before me:"
- },
- {
   "time": "2026-09-08 11:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "Then uprose the gladiators\nAll her little coffin\nTaking her last sweet rest.\nTo living founts their feet might\nroam,\nIs any prophet come to juice\nAnd never yet has come the cry--"
+ },
+ {
+  "time": "2026-09-17 07:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "But oh! more than the songs of\nsorrow,\nAnd worried waiters, some in ugly\nmood,\nMen marveled at the noon-hour from\nthe innocent crucified for the\npeople,"
  }
 ]

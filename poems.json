@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 15:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "Each one stretchin' out him han',\nLookin' to de big buggah-man;\nI almost think the angels,\nAnd smiled and uttered peace.\nSlight was the gallant faith, I trow,"
- },
- {
   "time": "2026-09-08 16:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "Soft-scented, redolent of my youth\nconsumes\nTo me more bright and solitary star\n(Perchance the one that ever leap\nupward,\nWhen ol' Sis' Judy pray,\nHa'd sinnahs trimble in dey seat"
+ },
+ {
+  "time": "2026-09-17 12:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Before they come to break and drink,\nHulky flesh nor fleshly spirit!\nI, thy King, teach you and I am\nconvinced\nThe Dawn's awake!\nWhispers of pent-up harmonies,"
  }
 ]

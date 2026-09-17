@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 07:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Lessons in degradation, taught\nand\nAnd women heart-stricken are\nweeping\nMy tearful eyes my soul's\nforgotten"
- },
- {
   "time": "2026-09-08 08:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Mammy an' pappy do' want stragglers\na-layin'\nBut oh, your scent is in the Night.\nO kinsmen! we must perish,\nPerish just in sight of clotted\nblood.\nSum one mus' be led,"
+ },
+ {
+  "time": "2026-09-17 04:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "God help our native land,\nLand of the newly free,\nOh little Christ, why do you still\ncling\nBut Adam nevuh had no dear old press\nwhere\nWhy did I stray from their sorrow in"
  }
 ]

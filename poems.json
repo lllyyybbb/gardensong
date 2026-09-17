@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 17:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "And planted far across the foam,\nNo light is there; none, save the boys.\nTake from your trembling throat.\nI’m afraid of your words,\nThey shall see His hand."
- },
- {
   "time": "2026-09-08 18:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "Theme ringing prominent,\nBass still repeating its one monotone,\nDouble notes crying,\nUp from the West,\nAnd wonder came and filled our night of\nterror"
+ },
+ {
+  "time": "2026-09-17 14:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Of the mysterious sea-line far away,\nRome had gathered beasts of prey.\nShe stirred again my mother's kiss,\nMah 'ittle Touzle Head.\nAn' da far off hills seems to be forever\nthere."
  }
 ]

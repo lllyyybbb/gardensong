@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 04:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "To ease the burdens of men,\n\"As ye would that others do to\nyou\nAs Samson in the holy hosts of\nheaven,\nIf he failed us we all are kin."
- },
- {
   "time": "2026-09-08 05:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Too green the springing April grass,\nBut songs to thrill the hearts of\nstone\nThe lavrock lilts me mine;\nCome tender sleep, and fold me to\nthy"
+ },
+ {
+  "time": "2026-09-17 00:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "And Georgie--none could ever dive\nlike\nOn the floors of golden grain,\nSour-sop, and Gub'nor cane.\nCous' Sun sits in silent pride.\nAt last the station’s reached, the"
  }
 ]

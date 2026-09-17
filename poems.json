@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-08 13:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "As, greed-impelled, they circle\nthreateningly,\nVainly waiting for the white man’s world\nof Peace is hovering over No Man's Land.\nLoud the clashing sabres rang;"
- },
- {
   "time": "2026-09-08 14:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Cheery, clean an' bright,\nAnd sounded is the charge they\nmake),\nShould stop, e'en for a master's\nnose\nEvery well man is a lovely noise\nabout"
+ },
+ {
+  "time": "2026-09-17 10:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "And judgment streamed around his\nheart,\nLove 'er, boy, forevah,\nYodel ever' day;\nI have no offering but my life,\nAnd the mournful wreck of his\navocation."
  }
 ]

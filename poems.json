@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 01:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Over their tortured and their tears;\nCan you blame the world has read of\nheroes\nThe portals of that black land where\nDixie's\nFair and lovely are your cheeks,"
- },
- {
   "time": "2026-09-09 02:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "And a pail slung from a funeral pyre;\nI'll make me a true release--\nGives place to lay his head.\nBruised and bleeding martyrs trod\nHis seed should own that land,\nLand of the hills we heard a theme\nNobler than \"Go down, Moses.\" Mark its"
+ },
+ {
+  "time": "2026-09-17 21:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "'Dough mutton chops is splendid, an'\ndem\nYour burning coffee-colored eyes keen\nglancing\nHis spirit must have nightly floated\nfree,\nThey passed to freedom through a storm."
  }
 ]

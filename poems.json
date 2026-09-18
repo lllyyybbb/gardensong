@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 09:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "Voices the new dawn that is you,\nAnd they cry aloud\nWith the mingled fragrance of the\nground,\nOf severed hearts again made one,\nOf a new life and beauty yet unseen."
- },
- {
   "time": "2026-09-09 10:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Strong drink, like a spell;\nHe knew my heart\nAnd quicker than God could drop His\nhand,\nAll her little trampled corner of\nthe innocent crucified for the foe\nof Peace hovering over No Man's"
+ },
+ {
+  "time": "2026-09-18 06:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Until it fell in the flame-heart's\nshade:\nHave courage to insist?\nThen the green bank of a tear.\nSad suffering face, from parting\ngrown\nBut nevermore the May!\nOh, with our love the immortal music"
  }
 ]

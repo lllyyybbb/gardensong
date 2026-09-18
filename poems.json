@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 00:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "\"When you notice da air it Stan's\nstock\nThe tides, the wharves, the dens I\ncontemplate,\n'Tis the judgment of God possessed.\nPrinces and kings had palaces,"
- },
- {
   "time": "2026-09-09 01:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "And tangerines and mangoes and grape\nfruit,\nYou may doubt it as you go\nYour sun-illumined way;\nI look into a shape of flame.\nYour eyes are dawning day;\nI feel the soft rain-kisses of the sun."
+ },
+ {
+  "time": "2026-09-17 20:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "And a pail slung from a funeral pyre;\nI'll make me a true release--\nGives place to lay his head.\nBruised and bleeding martyrs trod\nHis seed should own that land,\nLand of the hills we heard a theme\nNobler than \"Go down, Moses.\" Mark its"
  }
 ]

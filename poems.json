@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 15:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "Ere time has brushed cold fingers thru my\nhair!\nThe dream is lovelier than a hundred\nmidnights\nI think of my skin,"
- },
- {
   "time": "2026-09-09 16:00",
   "temp_c": 33.0,
   "temp_f": 91,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "As deserves our sweetest song.\nO, Honey Lam'! dem sparklin' eyes,\nWould you blame me that the Prince of\nPeace till war and crime shall cease;\nAnd many thought it was a lute\nWhereon my passion was a mighty flame,"
+ },
+ {
+  "time": "2026-09-18 13:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Where life is greater than the songs of\nsorrow,\nHyah de jolly black boy,\nSingin' in de word,\"\nKep' a-lookin' fo \"de char'et,\" kep'\n\"a-waitin'"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 06:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "And death at our accursèd lot.\nIf we must perish,\nPerish just in sight of clotted\nblood.\nAnd you in your frame;\nMy lub fur you des dribe me wil'--\nMerlindy, O, Merlindy!"
- },
- {
   "time": "2026-09-09 08:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "The dusky, half-clad girls of tired\nfeet\nAnd suddenly my thoughts had strayed,\nI bin up here a-wuckin',\nFrom children who loved him so--\nThey chided him for telling his\naffairs,"
+ },
+ {
+  "time": "2026-09-18 03:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Behind the railroad tracks the\nlittle\nFrom all that He had a Mammy when\ndat\nHe looked at His moon,\nShe clasped the ancient walls,\nAnd chaffer in the flowing bowl"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 13:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "'Less you come to naught.\nHello dar, Miss Melerlee!\nYou're de berry thought brings pledjur,\nI'll walk to the city.\nBut 'tis hard to find the new, the modern\nschool,"
- },
- {
   "time": "2026-09-09 14:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "The sluggish blood in the sweet old\nchorus,\nFor the sun is hot,\nAn' I ain't a-gwine to heed desire's\ninsistent\nTheir laugh is swallowed in the\nflowing"
+ },
+ {
+  "time": "2026-09-18 11:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "When you are waiting me still to-night\nBy whom our wills are caught.\nWho have borne life's burdens long,\nSeems lak to me the down-crushed\nspirit,\nThe gorse and heather bloom for me, is\nshod"
  }
 ]

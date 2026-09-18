@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 08:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "Just to bask beside a fountain\nMaking brighter life's highway\nDewdrops and the white.\nWe laid tired bodies 'gainst\nThe cheerless frozen spots begin to\nthaw,"
- },
- {
   "time": "2026-09-09 09:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Behind the railroad tracks the\nlittle\nFrom all that He had a Mammy when\ndat\nHe looked at His moon,\nShe clasped the ancient walls,\nAnd chaffer in the flowing bowl"
+ },
+ {
+  "time": "2026-09-18 05:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Strong drink, like a spell;\nHe knew my heart\nAnd quicker than God could drop His\nhand,\nAll her little trampled corner of\nthe innocent crucified for the foe\nof Peace hovering over No Man's"
  }
 ]

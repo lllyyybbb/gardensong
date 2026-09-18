@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 12:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "I see a part of some great plan.\n* The Temperance Band,\nThis I ask to clasp their hands and\naching\nFo' mah ol' gran'ma always said\nCruelly they fiercely showered"
- },
- {
   "time": "2026-09-09 13:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Enfolded by your soft vermilion robe,\nAmorous of sweets, for but one\nperfect\nWaved so long dat he know ebbry tings\n'Bout Adam in da scripchuh long ago.\nDa lady folks all 'bused him, sed, he\nknowed\nAll yesterday it poured, and all its"
+ },
+ {
+  "time": "2026-09-18 10:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "The sluggish blood in the sweet old\nchorus,\nFor the sun is hot,\nAn' I ain't a-gwine to heed desire's\ninsistent\nTheir laugh is swallowed in the\nflowing"
  }
 ]

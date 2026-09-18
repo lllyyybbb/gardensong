@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 02:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Where the farthest stars sink down,\nSing, my bawnjer, ring!\nUr ol' Hyar lib in ur house on de\ngras'\nWhere softness all the Ages;\nWith the light again."
- },
- {
   "time": "2026-09-09 03:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "'Dough mutton chops is splendid, an'\ndem\nYour burning coffee-colored eyes keen\nglancing\nHis spirit must have nightly floated\nfree,\nThey passed to freedom through a storm."
+ },
+ {
+  "time": "2026-09-17 23:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "Melting with elements high overhead,\nWhile dem pickny belly full.\"\nAn' de co'n pone's hot.\nWhen my mammy says de blessin',\nAn' deir t'oughts were not his peers.\nThey knew the wild and bright\nThe shivering birds beneath the blow,"
  }
 ]

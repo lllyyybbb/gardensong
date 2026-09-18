@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 11:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "Unique proposition\nIs it because I am Persia's Queen,\nAnd drink our share of ardent love and\nwine,\nTo be merciful and just.\nWhere the Nile in kingly bounty"
- },
- {
   "time": "2026-09-09 12:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "A love so fugitive and so complete.\nUpon your hearts this vow record\nThat buried you beneath its strong\nembrace,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! that in the East. Then,\nhigher,"
+ },
+ {
+  "time": "2026-09-18 09:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Enfolded by your soft vermilion robe,\nAmorous of sweets, for but one\nperfect\nWaved so long dat he know ebbry tings\n'Bout Adam in da scripchuh long ago.\nDa lady folks all 'bused him, sed, he\nknowed\nAll yesterday it poured, and all its"
  }
 ]

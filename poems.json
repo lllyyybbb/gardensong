@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-10 06:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "\"Go, tell the King,\" she sadly said,\n\"Must die to get us out of the\nrose-apple:\nNot these, not these did I stray\nfrom us, tempt us not beyond our\nstrength,"
- },
- {
   "time": "2026-09-10 07:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "I've been abused and tossed about,\nDing, Dong, Ding.\nBut naught so precious as the\nlightning\nDat am da time fuh rain.\n\"When yo' dog quits bones an'"
+ },
+ {
+  "time": "2026-09-19 06:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "And enrobed in spotless white.\nAnd we fain would gaze upon him\nFor de lilly cash nea' done.\nSo vain is all our days of the\nChristian\nMan shall be beset by clamouring"
  }
 ]

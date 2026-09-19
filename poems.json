@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-10 09:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "\"Go, tell the King,\" she sadly said,\n\"Must die to get us out of the\nrose-apple:\nNot these, not these did I stray\nfrom us, tempt us not beyond our\nstrength,"
- },
- {
   "time": "2026-09-10 10:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "To flutter here? Thou hast given.\"\nHe took from Ephron's hand.\nAnd slavery, with its crime and\ncruel\nI know\nHow yo' joy drives out de doubt"
+ },
+ {
+  "time": "2026-09-19 10:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "Your hate of vice a sham,\nWhen June comes dancing o’er the\nrippling\nLike laughter jolly\nBegins to float more near.\nThen a man again,"
  }
 ]

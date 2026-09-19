@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-09 21:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "As, greed-impelled, they circle\nthreateningly,\nVainly waiting for the white man’s world\nof Peace is hovering over No Man's Land.\nLoud the clashing sabres rang;"
- },
- {
   "time": "2026-09-09 22:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
+ },
+ {
+  "time": "2026-09-18 20:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "It is nothing to me, the beauty said,\nAnd every little baby\nBrings a message from the sun's bright\nsheen.\nAnd yet, and yet to-day\nThe sacred brown feet of clay."
  }
 ]

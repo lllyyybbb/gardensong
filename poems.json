@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-10 18:00",
-  "temp_c": 32.0,
-  "temp_f": 90,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "What for my boy? That he is Blameless\nKnight\nLaid on my back;\nAnd called Machpelah's cave.\n\"Entreat him that he bore,--"
- },
- {
   "time": "2026-09-10 19:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "In this strife must bear a part;\nWhile you are gone and tears are shed,\nThat casts a subtle spell upon all\nthings,\nBlind Homer, Greek or Jew,"
+ },
+ {
+  "time": "2026-09-19 19:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "Grasped the little space\nI fain would share\nWith earth's wildest storms behind us,\nAnd spreads a table for us all.\nIts mission of song at last he said.\nHe ain't no tramp, ner no straggler,"
  }
 ]

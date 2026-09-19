@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-10 12:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "Theme ringing prominent,\nBass still repeating its one monotone,\nDouble notes crying,\nUp from the West,\nAnd wonder came and filled our night of\nterror"
- },
- {
   "time": "2026-09-10 13:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Bring surcease to her heart,\nFor loving hearts to usher in\nThe agony and terror in his eye!\nIf we must die--oh, let us nobly die,\nAnd He looked on His ears,\nWho in his fields of strife,"
+ },
+ {
+  "time": "2026-09-19 13:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "I wear the brand of shame;\nWhilst he amid the malodorous\nMechanics of this perfect day\nA shifting shadow goes.\nThe pine tree pointed his finger to\nthe home for aged colored people,"
  }
 ]

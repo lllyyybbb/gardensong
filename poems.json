@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-10 00:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "To be a man grown old in life's\ndreaming\nThese men who have woven\nFrom Moslem hands did strive to clutch\nThe city’s hate, the city’s dirty\nbasement"
- },
- {
   "time": "2026-09-10 01:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "No woman in all the early floral\ntrain,\nHis people's gift of song,\nBreaks on our Father's hand.\nThe tribute paid by passersby to\ntombs"
+ },
+ {
+  "time": "2026-09-18 23:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Still must one succor those who love\nhonest\nI hold my head as proudly high\nUplighting all his lurking sin was\nbare\nNathless a Negro in a book of"
  }
 ]

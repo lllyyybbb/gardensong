@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 01:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "As the hours in toil this day.\nSateday, de marnin' of deir life\nLike laughter jolly\nBegins the finale;\nAgain I stood beside the gate.\nMy friend and I."
- },
- {
   "time": "2026-09-11 02:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "Po' centipede am dead;\nSo Ah got scared an' sent for you.--\nNow, through the wide and broad,\nHe clapped His hands,\nAnd bids us run with willing feet\nGo work in my humbled heart you\nground"
+ },
+ {
+  "time": "2026-09-20 01:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "For the farmer reaping his whitened\nfields,\nThis thing they plainly see,\nAn' da folks wid rheumatics--dare\njints\nIf this dark Passion that fills my\nevery"
  }
 ]

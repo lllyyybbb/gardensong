@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 07:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "Behind the railroad tracks the\nlittle\nFrom all that He had a Mammy when\ndat\nHe looked at His moon,\nShe clasped the ancient walls,\nAnd chaffer in the flowing bowl"
- },
- {
   "time": "2026-09-11 08:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Where saints and angels greet;\nTo comfort hearts that sigh and\nbreak,\nGrows crisp and hangs till, turned\nto dance for us,\" the rough men\nsaid;\nTo living founts their feet shall\ntend,"
+ },
+ {
+  "time": "2026-09-20 07:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "But \"writ in water\"? Woe is me!\nHello, Miss Melerlee!\nHello dar, Miss Melerlee!\nHello dar, Miss Melerlee!\nYou're de berry gal fo' me!\nPearly teef, an' shinin' hair,\nAn' snakeroot tea brought to a\nmighty"
  }
 ]

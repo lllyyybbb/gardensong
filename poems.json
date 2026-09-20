@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 00:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "I marveled at the prison door,\n\"Ho, keeper, do not stay!\nWe lift up our hearts with anguish wild\nKneels and implores that her darling\nchild\nAnd the proud old \"turk\" of the men of"
- },
- {
   "time": "2026-09-11 01:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "God help our native land,\nLand of the newly free,\nOh little Christ, why do you still\ncling\nBut Adam nevuh had no dear old press\nwhere\nWhy did I stray from their sorrow in"
+ },
+ {
+  "time": "2026-09-20 00:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "Po' centipede am dead;\nSo Ah got scared an' sent for you.--\nNow, through the wide and broad,\nHe clapped His hands,\nAnd bids us run with willing feet\nGo work in my humbled heart you\nground"
  }
 ]

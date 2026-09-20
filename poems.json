@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 08:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Swift in thought and swift in\naction,\nDark melodist, immortal, though the\nfountain\nAs when those solemn chants and\nthrills\nAnd apples set on his bed of death,"
- },
- {
   "time": "2026-09-11 10:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "But \"writ in water\"? Woe is me!\nHello, Miss Melerlee!\nHello dar, Miss Melerlee!\nHello dar, Miss Melerlee!\nYou're de berry gal fo' me!\nPearly teef, an' shinin' hair,\nAn' snakeroot tea brought to a\nmighty"
+ },
+ {
+  "time": "2026-09-20 10:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "He looked at His moon,\n'And He looked at His moon,\n'And He looked at His little stars;\nHe heard again the King's decree--\n\"My ole 'ooman's sick, but I'se\nalright--\"\nFrom lesser mortals who were not\nfree,"
  }
 ]

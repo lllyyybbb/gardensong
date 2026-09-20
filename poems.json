@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 13:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "My hungry body’s burning for a snob.\nThey'll call me poetry monger and then\nforget\nS' 'e: \"Dey's bought us, sold us, beat\nus;\nBut Adam nevuh had no map:"
- },
- {
   "time": "2026-09-11 14:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "The squirrel, full of mischief and of\nsin.\nThe Prophets told.\nSilence and love and watch his nimble\nflight\nAnd browse about our ancient place,\nAnd ev'ry lip was blanched with"
+ },
+ {
+  "time": "2026-09-20 14:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Den rock candy soaked in rum,\nAn' da folks wid rheumatics--dare\njints\nFor me a man!\"_\nUp to the silver ores of a river,\nEvery poet has some fault,\nEvery wise man is not true."
  }
 ]

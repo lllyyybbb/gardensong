@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 14:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "Unique proposition\nIs it because I am Persia's Queen,\nAnd drink our share of ardent love and\nwine,\nTo be merciful and just.\nWhere the Nile in kingly bounty"
- },
- {
   "time": "2026-09-11 15:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Den rock candy soaked in rum,\nAn' da folks wid rheumatics--dare\njints\nFor me a man!\"_\nUp to the silver ores of a river,\nEvery poet has some fault,\nEvery wise man is not true."
+ },
+ {
+  "time": "2026-09-20 15:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "When you are waiting me still to-night\nBy whom our wills are caught.\nWho have borne life's burdens long,\nSeems lak to me the down-crushed\nspirit,\nThe gorse and heather bloom for me, is\nshod"
  }
 ]

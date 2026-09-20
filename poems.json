@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-10 22:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "They may faithful and true remain.\nI do not shame to turn myself away\nThe wretched day was theirs, the night\nto dance for us,\" the rough men said;\n\"I am here, oh! God,\nLike the sun-kissed shadows depart."
- },
- {
   "time": "2026-09-11 00:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "And Georgie--none could ever dive\nlike\nOn the floors of golden grain,\nSour-sop, and Gub'nor cane.\nCous' Sun sits in silent pride.\nAt last the station’s reached, the"
+ },
+ {
+  "time": "2026-09-19 23:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "God help our native land,\nLand of the newly free,\nOh little Christ, why do you still\ncling\nBut Adam nevuh had no dear old press\nwhere\nWhy did I stray from their sorrow in"
  }
 ]

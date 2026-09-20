@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 02:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "I'm folding up my little dreams\nUntouched by bondage and its rod,\nBurn on! and on! It seems\nWe cheated school to have your wish.\nBut if we have more than this,\nAnd tickled his nose in Orion's hair."
- },
- {
   "time": "2026-09-11 04:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "For the farmer reaping his whitened\nfields,\nThis thing they plainly see,\nAn' da folks wid rheumatics--dare\njints\nIf this dark Passion that fills my\nevery"
+ },
+ {
+  "time": "2026-09-20 02:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "There as gentle friends ye smile,\nBut think in what sweet month\nThe sea-king lay on his devoted\nhead.\n\"Ho, keeper, do not shame to turn\nmyself\nWhen all that He had longed to gain"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 11:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Des awaitin', honey,\nCozy fixt fur you;\nDown in the earth--\nAnd tread it 'neath my feet,\nAnd you'll see into my heart.\nDo not cheer, for aged colored\npeople,"
- },
- {
   "time": "2026-09-11 12:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "Oh, people chastened in the frowning\ncloud,\nWho came their gifts to all her\ndiscords--\nAn' de co'n pone's hot.\nLay the victims of the endless\nfight,\nIn wistful April days, when lovers"
+ },
+ {
+  "time": "2026-09-20 12:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Though it is wrong,\nWhen dem know him couldn' pay;\nAlso what about de mill\nWhe' him hire from ole Bill;\nSo far from my mind of long, long\nline\nAnd the mystic symbols glow--\nLiberty! Fraternity!"
  }
 ]

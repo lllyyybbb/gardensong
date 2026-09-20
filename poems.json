@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-10 20:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "That bore me o’er the rippling stream,\nTell me, ghoulish, grinning skull,\nToothless, eyeless, hollow, dull,\nWhy your smirk and smile\nEre time has brushed cold fingers thru my\nhair!"
- },
- {
   "time": "2026-09-10 21:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "Among the leaves of the world has\nread\nEagerly the crowd were waiting,\nLoud the clashing sabres rang;\nWhen \"Peace on earth, good will to\nthe innocent crucified for the heavy"
+ },
+ {
+  "time": "2026-09-19 21:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "\"When you notice da air it Stan's\nstock\nThe tides, the wharves, the dens I\ncontemplate,\n'Tis the judgment of God possessed.\nPrinces and kings had palaces,"
  }
 ]

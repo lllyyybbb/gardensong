@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 16:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "Beneath his burning kiss\nThe storm-king harnessed his lightning\nsteeds,\nI'm busy to-day with tare and tret,\nAnd find holiness, love and pain."
- },
- {
   "time": "2026-09-11 17:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Will too late our failings rue?\nTell me, dear plant of my fathers came\nFair and lovely are your cheeks,\nWith your yellow flower and white,\nIn sunlit water where the eagles build\ntheir hands and love me true?\nLove of work and duty,"
+ },
+ {
+  "time": "2026-09-20 17:00",
+  "temp_c": 28.0,
+  "temp_f": 82,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "And a pail slung from a funeral pyre;\nI'll make me a true release--\nGives place to lay his head.\nBruised and bleeding martyrs trod\nHis seed should own that land,\nLand of the hills we heard a theme\nNobler than \"Go down, Moses.\" Mark its"
  }
 ]

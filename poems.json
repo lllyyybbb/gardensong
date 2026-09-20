@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 18:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "As, greed-impelled, they circle\nthreateningly,\nVainly waiting for the white man’s world\nof Peace is hovering over No Man's Land.\nLoud the clashing sabres rang;"
- },
- {
   "time": "2026-09-11 19:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Of all the arching sky resumes,\nThe poinsettia's red, blood-red in warm\nDecember.\nThe painted beauty sings thy songs,\nAforetime, while they front the firing\nline.\nWouldn't a single breach of trust?"
+ },
+ {
+  "time": "2026-09-20 19:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "I'm folding up my little dreams\nUntouched by bondage and its rod,\nBurn on! and on! It seems\nWe cheated school to have your wish.\nBut if we have more than this,\nAnd tickled his nose in Orion's hair."
  }
 ]

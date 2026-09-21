@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 23:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "Or ere the first May flowers,\nThe long, vain waiting through the\nfields\nAnd Mary with the ears?\nHow dare I murmur at my lot,\nOr he may sit him down f'om his haid"
- },
- {
   "time": "2026-09-12 00:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "The dusky, half-clad girls of tired\nfeet\nAnd suddenly my thoughts had strayed,\nI bin up here a-wuckin',\nFrom children who loved him so--\nThey chided him for telling his\naffairs,"
+ },
+ {
+  "time": "2026-09-21 00:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "In sculptured worship now he lives,\nHis humblest children have a problem\nall\nPearly teef, an' shinin' hair,\nWhether the strands be dark or fair,\nDrop down the street,\nBearing their strangely-ghostly\nburdens"
  }
 ]

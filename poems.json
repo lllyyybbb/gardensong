@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 03:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Behold the path-traced, peaceful\nwood,\nLike rivers of the Carnival-Tank!\nLittle Diver, Destiny for you,\nThough still about his hands\nTo serve the Crucified.\nAnd lay down with a mother's"
- },
- {
   "time": "2026-09-12 04:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "He looked at His moon,\n'And He looked at His moon,\n'And He looked at His little stars;\nHe heard again the King's decree--\n\"My ole 'ooman's sick, but I'se\nalright--\"\nFrom lesser mortals who were not\nfree,"
+ },
+ {
+  "time": "2026-09-21 06:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "The wild and bright was the\ngallant\nMy hands were tied;\nBut would please the weak frail\nflesh;\nSharers of a thousand dusky\ntoilers\nWhere the old oak-tree;"
  }
 ]

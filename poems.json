@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 13:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "And watched her perfect, half-clothed\nbody\nI am as welcome as the Spartan, proud\nto dance for the people,\nAs sickness grips a soul in wretched\nweather."
- },
- {
   "time": "2026-09-12 14:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "Just to bask beside a fountain\nMaking brighter life's highway\nDewdrops and the white.\nWe laid tired bodies 'gainst\nThe cheerless frozen spots begin to\nthaw,"
+ },
+ {
+  "time": "2026-09-21 15:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "An' da moon ain't nevah been\ndiscovahed,\nOf evil forces and the yellow yam,\nFor the stallèd ox and the fruitful\nvine,\nYour scent is here--jasmines that\ngrow"
  }
 ]

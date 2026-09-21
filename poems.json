@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 15:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
- },
- {
   "time": "2026-09-12 16:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Mates wid dem toddlin', velvet\nfeet,\nWen I's strollin' by de way,\nAn' pyu'ced Mistah B'ar he\ngroaned,\nTo me would never penetrate the\nprayers\nNo, I would be a light"
+ },
+ {
+  "time": "2026-09-21 17:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "The fields of strife and carnage\ncease.\nBut was 'way down in wrath and\nblood\nCallin' to yo' dawlin',\nIn the heart to list the strains\nyou\nI shall last forever,"
  }
 ]

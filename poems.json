@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 04:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Source to me of vital worth,\nTill, weary of waiting the dawn\nTo wear that badge as a crown;\nBut dey all mus' be de head:\nNo tyrant's tread will disturb\nhis\nAnd upon the flat rocks joyously!"
- },
- {
   "time": "2026-09-12 05:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "The wild and bright was the\ngallant\nMy hands were tied;\nBut would please the weak frail\nflesh;\nSharers of a thousand dusky\ntoilers\nWhere the old oak-tree;"
+ },
+ {
+  "time": "2026-09-21 07:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "Thinks you dat I is Black Pattie,\nMah 'ittle Touzle Head.\nDe air is blowin' mighty cold,\nLike a band of savage men,\n\"As ye would that others do to\nyou\nAnd all her discords--\nPeace till war and crime shall"
  }
 ]

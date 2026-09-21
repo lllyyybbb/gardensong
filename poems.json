@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 17:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "They may faithful and true remain.\nI do not shame to turn myself away\nThe wretched day was theirs, the night\nto dance for us,\" the rough men said;\n\"I am here, oh! God,\nLike the sun-kissed shadows depart."
- },
- {
   "time": "2026-09-12 18:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "And how the herald angels sang\nThe choral song of peace,\nThat you would live at any\nprice?\nAnd the leader laughs low down\nin crime and fed them on\nThe brightest blooms and fairest\nleaves."
+ },
+ {
+  "time": "2026-09-21 19:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 91,
+  "lines": 8,
+  "poem": "Set on no diversion save that my\nsoul\nThen uprose the gladiators\nArmed for conflict unto death,\nhow\nThrough purple lips of the\nskies,\nAnd joy and grace."
  }
 ]

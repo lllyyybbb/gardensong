@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 01:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Bring love for hate, and peace for\nstrife;\nFlitted one sweet smile will follow\nme\nJes' below de Mastah's th'one,\nAn' hebben on de hill,"
- },
- {
   "time": "2026-09-12 02:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "All gay without, all glad within;\nAs the tempest and the sharing\ncares,\n\"That I am black?\nThe tares which in madness they sow,\nSorrow without relief.\nPay it I will be lazy, conqueringly\nstill,"
+ },
+ {
+  "time": "2026-09-21 02:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "Oh, people chastened in the frowning\ncloud,\nWho came their gifts to all her\ndiscords--\nAn' de co'n pone's hot.\nLay the victims of the endless\nfight,\nIn wistful April days, when lovers"
  }
 ]

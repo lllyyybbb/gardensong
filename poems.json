@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 05:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "I freely give to them a hope or\nfear.\n(Perchance the one that ever\nguided\nBut I cannot bring back to mind\njust\nTo lay at Jesus' feet."
- },
- {
   "time": "2026-09-12 06:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "Thinks you dat I is Black Pattie,\nMah 'ittle Touzle Head.\nDe air is blowin' mighty cold,\nLike a band of savage men,\n\"As ye would that others do to\nyou\nAnd all her discords--\nPeace till war and crime shall"
+ },
+ {
+  "time": "2026-09-21 08:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "How bright and fair.\nAgain, I feel in the order\nThe rasping noise of cars\ntogether\nAs sickness grips a soul in\nwretched\nOur eyes with tears so holden\nSaw a sparkling Christmas tree."
  }
 ]

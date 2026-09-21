@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 08:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "Like nursery children you shall\nnever\nOf the bright and solitary star\n(Perchance the one that ever\nspeaks\nUnknown to every urge,\nWith loud and long;\nBut for us his life."
- },
- {
   "time": "2026-09-12 10:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Shall not be torn from her home in\nthe innocent crucified for the\npoor\nSnatched from their shelter and\ngrow\nBut de sick wife kissed his brow:\n\"Sun, don't get down-hearted now;"
+ },
+ {
+  "time": "2026-09-21 11:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "And death at our accursèd lot.\nIf we must perish,\nPerish just in sight of clotted\nblood.\nAnd you in your frame;\nMy lub fur you des dribe me wil'--\nMerlindy, O, Merlindy!"
  }
 ]

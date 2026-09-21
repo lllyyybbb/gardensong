@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 14:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Where war has sharpened his weapons,\nStood frowning there, a cave here, bred\nsix\nWho made the gallows an altar high,\nThy signals, ever and anon she cried;\nBut would please the weak frail flesh;"
- },
- {
   "time": "2026-09-12 15:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "An' da moon ain't nevah been\ndiscovahed,\nOf evil forces and the yellow yam,\nFor the stallèd ox and the fruitful\nvine,\nYour scent is here--jasmines that\ngrow"
+ },
+ {
+  "time": "2026-09-21 16:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Mates wid dem toddlin', velvet\nfeet,\nWen I's strollin' by de way,\nAn' pyu'ced Mistah B'ar he\ngroaned,\nTo me would never penetrate the\nprayers\nNo, I would be a light"
  }
 ]

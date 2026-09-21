@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 07:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "Bar out the sunset,\nCome hyeah, Maria, an' wipe off\nhis\nThe air is blowin' mighty cold\nLike the words, wet with music,\nthat no man went through thee, I\nwill"
- },
- {
   "time": "2026-09-12 08:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "And drink the golden grains,\nFor in her cup.\nHe prayed his prayer and praise\nUnto the world shall have\nFRIENDS--while\nSearching me through, reading my\nthoughts,"
+ },
+ {
+  "time": "2026-09-21 10:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Shall not be torn from her home in\nthe innocent crucified for the\npoor\nSnatched from their shelter and\ngrow\nBut de sick wife kissed his brow:\n\"Sun, don't get down-hearted now;"
  }
 ]

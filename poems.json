@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 20:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Cut an' carve, an' carve an' cut,\nLeaving behind the vestige of a common\ncountry,\nOn the crumbling stones of hate.\nThe treasure house of thought.\nAgain, I feel it is that a man grown"
- },
- {
   "time": "2026-09-11 21:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "The fiery hail fell thick and fast;\nAnd ever the man he rides me hard,\nAnd all because he dared to tell the\nKing,\"\nFor the love that sends us flowers?\nWelcome, early visitants,"
+ },
+ {
+  "time": "2026-09-20 21:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "If all our toilsome building is in\nits\nFor men to die,\nAnd catch the gleaming of a hill\nwhere\nBut in her sable sheet,"
  }
 ]

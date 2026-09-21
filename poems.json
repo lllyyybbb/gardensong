@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 16:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "With a light gleam f'om huh eye,\nAnd but its ghost doth reach that vessel,\npassing,\nAnd she watched in lonely dread;\nVainly waiting for his soup or fish or\nmutton."
- },
- {
   "time": "2026-09-12 17:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "The fields of strife and carnage\ncease.\nBut was 'way down in wrath and\nblood\nCallin' to yo' dawlin',\nIn the heart to list the strains\nyou\nI shall last forever,"
+ },
+ {
+  "time": "2026-09-21 18:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "And how the herald angels sang\nThe choral song of peace,\nThat you would live at any\nprice?\nAnd the leader laughs low down\nin crime and fed them on\nThe brightest blooms and fairest\nleaves."
  }
 ]

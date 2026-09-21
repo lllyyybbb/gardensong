@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 12:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "And from her cheek grow deathly pale,\nAnd nestled soft against the earth’s\nwhite\nIs this composition.\n(Alas! for the House of Fame!\nThey shall see Him when the fields of\ngolden"
- },
- {
   "time": "2026-09-12 13:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Bring love for hate, and peace for\nstrife;\nFlitted one sweet smile will follow\nme\nJes' below de Mastah's th'one,\nAn' hebben on de hill,"
+ },
+ {
+  "time": "2026-09-21 14:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "Just to bask beside a fountain\nMaking brighter life's highway\nDewdrops and the white.\nWe laid tired bodies 'gainst\nThe cheerless frozen spots begin to\nthaw,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 02:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "Grandma, he said, must be\nhappening\nThe brave old man cried,\n\"I was fashioned by His hand\nGod of Peace.\nEngland and Russia face to face"
- },
- {
   "time": "2026-09-12 03:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "Oh, people chastened in the frowning\ncloud,\nWho came their gifts to all her\ndiscords--\nAn' de co'n pone's hot.\nLay the victims of the endless\nfight,\nIn wistful April days, when lovers"
+ },
+ {
+  "time": "2026-09-21 04:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "He looked at His moon,\n'And He looked at His moon,\n'And He looked at His little stars;\nHe heard again the King's decree--\n\"My ole 'ooman's sick, but I'se\nalright--\"\nFrom lesser mortals who were not\nfree,"
  }
 ]

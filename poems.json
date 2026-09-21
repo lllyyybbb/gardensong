@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-11 21:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And sounded is the night is yours for\nrevels;\nBut the brown toes in China the toes\nturned\nJust ten dark years of toil,\nAnd unawares a riddle is revealed,"
- },
- {
   "time": "2026-09-11 22:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "If all our toilsome building is in\nits\nFor men to die,\nAnd catch the gleaming of a hill\nwhere\nBut in her sable sheet,"
+ },
+ {
+  "time": "2026-09-20 22:00",
+  "temp_c": 25.0,
+  "temp_f": 77,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "From the Gulf and the world-end\nthings\nTo me she has seen your strong young\nlimbs,\nAnd sinks into my blood,\n'Till darkness shrinks from light;\n\"Now bring me here my warrior robes,"
  }
 ]

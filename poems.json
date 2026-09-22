@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 13:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "He poured his soul\nTo welcome thy dear guest,\nI stand within her walls with not a\nplace\nIn the wake of those we love,\nWe had told our little darling,\nOf subtly-changing and surprising parts;"
- },
- {
   "time": "2026-09-13 14:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 94,
   "lines": 8,
   "poem": "A ruined body and sin-wrecked\nsoul.\nShe leaned her head there\nfloats\nUncovered on your couch of\ndeath\nYet, as we are?\nThen God smiled,"
+ },
+ {
+  "time": "2026-09-22 14:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "And the mystic symbols glow--\nLiberty! Fraternity!\nWe shall smile who loved to\nnestle\nWhen ol' Sis' Judy pray.\nWhen de cabbage pot is\nsteamin'\nIt may be"
  }
 ]

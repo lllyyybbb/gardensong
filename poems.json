@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 09:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 79,
-  "lines": 8,
-  "poem": "Devoured her shape with eager,\npassionate\nAnd his eyes were drenched with\nburning\n'And He looked at His sun,\nThe Lord had given me.\nHear me as I cry\nOf morning's early light,"
- },
- {
   "time": "2026-09-13 10:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "I need not gloom my days with\nfutile\nInto the sadness that\nfollows--to\nA rock, for ages, stern and\nhigh,\nAll his hope of life sold to\nme"
+ },
+ {
+  "time": "2026-09-22 10:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 91,
+  "lines": 8,
+  "poem": "Where I can write the stuff\nthe innocent crucified for\nthe men of dusk and the\nfattened\nOnly the swallow-twittering\neaves.\nBut the reapers had left in\nthe men of dusk and the"
  }
 ]

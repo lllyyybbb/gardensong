@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 12:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Hit fill de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nDo not cheer until each nation\nSheathes the sword and blunts the\nspear,\nLet's hear these motley pilgrims wile\naway\nGod bless our native land,"
- },
- {
   "time": "2026-09-13 13:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 96,
   "lines": 8,
   "poem": "To plant the roots of coming\nyears\nAnd I was an outcast from thy\nhand\nServants of him who cannot\nlie\nHer _soul_, proud fool, her\n_soul_"
+ },
+ {
+  "time": "2026-09-22 13:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 94,
+  "lines": 8,
+  "poem": "A ruined body and sin-wrecked\nsoul.\nShe leaned her head there\nfloats\nUncovered on your couch of\ndeath\nYet, as we are?\nThen God smiled,"
  }
 ]

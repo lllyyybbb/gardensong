@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-12 19:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Whither? To life? But not the slightest\nurge\nWhen ol' Sis' Judy pray.\nO, de moon\nThat weakness stalks in pride;\nI have forgot\nWhat seemed before a heaven-fed"
- },
- {
   "time": "2026-09-12 20:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 85,
   "lines": 8,
   "poem": "Whose meaning, charlatan\nhistory,\nWhat is your word? What question\nwould\nEnslaved and lynched, denied a\nhuman\nAn' de wo'ds I hyeah an' say\n'Long de lovah's lane;"
+ },
+ {
+  "time": "2026-09-21 21:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 86,
+  "lines": 8,
+  "poem": "And split the air with chimes\nSweet with the dawn,\nAs they halt my trunk beside.\nOh, heart! this one thing should\nnot\nThe golden lyre's delights bring\nlittle\nFor you were sweet and brief"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 11:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "An' da moon ain't nevah been\ndiscovahed,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! Lord God, what evil have we\ndone?\nOf love; and sing, nor one kind act\nwithhold."
- },
- {
   "time": "2026-09-13 12:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 93,
   "lines": 8,
   "poem": "And God stepped out on the\nother,\nHow to solve life's saddest\nproblems,\n\"Must die to get us out of\nthe men knocked him\nThings he ought to see.\nI still must be,"
+ },
+ {
+  "time": "2026-09-22 12:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 96,
+  "lines": 8,
+  "poem": "To plant the roots of coming\nyears\nAnd I was an outcast from thy\nhand\nServants of him who cannot\nlie\nHer _soul_, proud fool, her\n_soul_"
  }
 ]

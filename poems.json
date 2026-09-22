@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 08:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "A drunken conductor had wrecked a\ntrain,\nTo me it has been borne\nAnd realize once more my thousand\ndreams\nCan you blame me that I loved him,\nThat stir the hidden depths of the\nsun,"
- },
- {
   "time": "2026-09-13 09:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 91,
   "lines": 8,
   "poem": "Where I can write the stuff\nthe innocent crucified for\nthe men of dusk and the\nfattened\nOnly the swallow-twittering\neaves.\nBut the reapers had left in\nthe men of dusk and the"
+ },
+ {
+  "time": "2026-09-22 09:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 92,
+  "lines": 8,
+  "poem": "I need not gloom my days with\nfutile\nInto the sadness that\nfollows--to\nA rock, for ages, stern and\nhigh,\nAll his hope of life sold to\nme"
  }
 ]

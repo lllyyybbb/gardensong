@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 17:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Among the leaves of the heat.\nI paused because I am so sunny,\n'Weh down Souf,\nAn' drew back deir han's wid shame!\nBut high o'er all the cark of time had\nflown,"
- },
- {
   "time": "2026-09-13 18:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "When she saw her cheek had\nfled.\nThey were only brothers then,\nJoining in the copse?\nOh, I have forgot\nWhat time of year the ground\ndoves\nShe pressed it on my brow."
+ },
+ {
+  "time": "2026-09-22 18:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "And the mystic symbols glow--\nLiberty! Fraternity!\nWe shall smile who loved to\nnestle\nWhen ol' Sis' Judy pray.\nWhen de cabbage pot is\nsteamin'\nIt may be"
  }
 ]

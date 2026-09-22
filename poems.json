@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 18:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "And you are fast to suffer and be sad.\nIs this pain's surcease? Better far the\nhateful\nGleamed rarely, softly throbbing in the\nheavens.\nThe watchword, the hope-word,"
- },
- {
   "time": "2026-09-13 20:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 93,
   "lines": 8,
   "poem": "And the mystic symbols glow--\nLiberty! Fraternity!\nWe shall smile who loved to\nnestle\nWhen ol' Sis' Judy pray.\nWhen de cabbage pot is\nsteamin'\nIt may be"
+ },
+ {
+  "time": "2026-09-22 19:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 94,
+  "lines": 8,
+  "poem": "And each succeeding day now\nlonger\nWho march to war with visions\nin crime and fed them on\nthe men who would care to\nlive\nBeauty, beauty, beauty!\nI have no care for his"
  }
 ]

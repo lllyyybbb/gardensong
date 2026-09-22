@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 00:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "Behind the railroad tracks the\nlittle\nFrom all that He had a Mammy when\ndat\nHe looked at His moon,\nShe clasped the ancient walls,\nAnd chaffer in the flowing bowl"
- },
- {
   "time": "2026-09-13 01:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 88,
   "lines": 8,
   "poem": "His spirit in smoke ascended to\nhigh\nWho is it rides by night,\nHas thrown her life away?\nYes, peace had come do'n cool.\nBut music from my sad and\ngloomy\nAgain renew her youth."
+ },
+ {
+  "time": "2026-09-22 03:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 88,
+  "lines": 8,
+  "poem": "Ub all yer fancy eatin's, jes\ngib\nDat am da time fuh rain.\nDo you think of me is lost,\nforever\nWhut I keer ef day is long,\nHas pushed the timid little\nfeet"
  }
 ]

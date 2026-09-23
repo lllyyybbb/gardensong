@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 05:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "All gay without, all glad within;\nAs the tempest and the sharing\ncares,\n\"That I am black?\nThe tares which in madness they sow,\nSorrow without relief.\nPay it I will be lazy, conqueringly\nstill,"
- },
- {
   "time": "2026-09-14 06:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 85,
   "lines": 8,
   "poem": "'Till she reached the\nrestful\nThen uprose the gladiators\nAll night, through the\ncity’s\nAn' now huh hens woan' lay\nno\nO Brother! be it better"
+ },
+ {
+  "time": "2026-09-23 07:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "But he our comrade good and\ngrand,\nFlushed with the drape\nOf thy Saviour, Lord and\nGideon.\"\nI have no offering but my\nlife,\nWhile dem pickny belly"
  }
 ]

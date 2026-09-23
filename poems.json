@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 08:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Tried mighty hard fo' to clean mah\nblood;\nThrough the sad pines, my soul, by\nhis\nFor you--who amid the malodorous\nMechanics of this fair land!\nIn one grand but gentle chorus,"
- },
- {
   "time": "2026-09-14 09:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "See how _even_ life may be\nThe far horizon's beckoning\nspan!\nAnd sacrificing what he\nloved\nAnd slavery masterful had,\nLet youth and age unite:\nTo gather the bruised"
+ },
+ {
+  "time": "2026-09-23 10:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Now they have taken him from\nliving\nToiling over a lump of clay\nTill hearts shall relax\ntheir hands again\n'Mid the evening's dews and\nrefreshing\nYod'lin' in de ar',"
  }
 ]

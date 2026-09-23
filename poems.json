@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 07:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "For the farmer reaping his whitened\nfields,\nThis thing they plainly see,\nAn' da folks wid rheumatics--dare\njints\nIf this dark Passion that fills my\nevery"
- },
- {
   "time": "2026-09-14 08:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "Natalie pondering all\nthat's\nBut I am black?\nWhy did I stray from their\nsorrow\nWhat days our wine-thrilled\nbodies\nIn agony searching for"
+ },
+ {
+  "time": "2026-09-23 09:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "See how _even_ life may be\nThe far horizon's beckoning\nspan!\nAnd sacrificing what he\nloved\nAnd slavery masterful had,\nLet youth and age unite:\nTo gather the bruised"
  }
 ]

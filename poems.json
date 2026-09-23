@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 13:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "For truth and right\nAn' she answe'd, \"Cose I do\"--\nJump back, honey, jump back.\nLittle children, blow your trumpets!\nFrom our world henceforth depart."
- },
- {
   "time": "2026-09-14 14:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "What should I ask to clasp\ntheir hands\nTo find another, better home.\nYou bet! he dues it, too.\nW'en dat brass stick he twirls,\nOle maids an' lub-sick gurls\nLooks on wid longin' eyes,"
+ },
+ {
+  "time": "2026-09-23 16:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "Unto Christ the living way.\nHere where a few asleep,\nSome pulling up the weeds, some\nplucking\nUpon the shingled roof like a\nsouthern"
  }
 ]

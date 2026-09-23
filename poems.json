@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 22:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "In the mem'ry of each home.\nThe wine-flushed, bold-eyed boys, and\neven\n(While all de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nLove glorious in his hands\nDid I a single grain destroy;"
- },
- {
   "time": "2026-09-13 23:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 96,
   "lines": 8,
   "poem": "To plant the roots of coming\nyears\nAnd I was an outcast from thy\nhand\nServants of him who cannot\nlie\nHer _soul_, proud fool, her\n_soul_"
+ },
+ {
+  "time": "2026-09-22 23:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "And God stepped out on the\nother,\nHow to solve life's saddest\nproblems,\n\"Must die to get us out of\nthe men knocked him\nThings he ought to see.\nI still must be,"
  }
 ]

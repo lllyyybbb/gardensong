@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 20:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Darkness covered everything,\nBlacker than a day!\nYour peace takes hold upon my brow\nThe birds a gladder music have begun,\nOut of the farmer's barn,\nFor my mood.\nHere and there a growing note"
- },
- {
   "time": "2026-09-13 21:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 94,
   "lines": 8,
   "poem": "And each succeeding day now\nlonger\nWho march to war with visions\nin crime and fed them on\nthe men who would care to\nlive\nBeauty, beauty, beauty!\nI have no care for his"
+ },
+ {
+  "time": "2026-09-22 20:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 95,
+  "lines": 8,
+  "poem": "My voice falls dead a foot\nfrom the paths of pain.\nI only ask their lives may be\nbare\nTo flutter here? Thou hast\ngiven.\"\nWho came to me dat ev'ything\nis"
  }
 ]

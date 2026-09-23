@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-13 21:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "I wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah how)\nYou danced and sang a race to wonder\nand\nBut ye can not render\nMy heart, my heart beat glad and free,\nWhen pestilence clasps hands with"
- },
- {
   "time": "2026-09-13 22:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 95,
   "lines": 8,
   "poem": "My voice falls dead a foot\nfrom the paths of pain.\nI only ask their lives may be\nbare\nTo flutter here? Thou hast\ngiven.\"\nWho came to me dat ev'ything\nis"
+ },
+ {
+  "time": "2026-09-22 21:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 96,
+  "lines": 8,
+  "poem": "To plant the roots of coming\nyears\nAnd I was an outcast from thy\nhand\nServants of him who cannot\nlie\nHer _soul_, proud fool, her\n_soul_"
  }
 ]

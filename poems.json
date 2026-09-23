@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 03:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "In sculptured worship now he lives,\nHis humblest children have a problem\nall\nPearly teef, an' shinin' hair,\nWhether the strands be dark or fair,\nDrop down the street,\nBearing their strangely-ghostly\nburdens"
- },
- {
   "time": "2026-09-14 05:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 89,
   "lines": 8,
   "poem": "An' er acre o' groun',\nVines agrowin' on it,\nKaze it jes won't be denied;\nIts love, its joy, and rosy\nlight,\nOut in the\neucharis\nBefore sex tamed your"
+ },
+ {
+  "time": "2026-09-23 06:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 85,
+  "lines": 8,
+  "poem": "'Till she reached the\nrestful\nThen uprose the gladiators\nAll night, through the\ncity’s\nAn' now huh hens woan' lay\nno\nO Brother! be it better"
  }
 ]

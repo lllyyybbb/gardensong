@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 09:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "And Georgie--none could ever dive\nlike\nOn the floors of golden grain,\nSour-sop, and Gub'nor cane.\nCous' Sun sits in silent pride.\nAt last the station’s reached, the"
- },
- {
   "time": "2026-09-14 10:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Now they have taken him from\nliving\nToiling over a lump of clay\nTill hearts shall relax\ntheir hands again\n'Mid the evening's dews and\nrefreshing\nYod'lin' in de ar',"
+ },
+ {
+  "time": "2026-09-23 12:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "And he placed the little\nchildren\nBut oh! more than one man's\nshare.\nUnder the southern sun, I\nlanguid\nToo faintly sweet the first"
  }
 ]

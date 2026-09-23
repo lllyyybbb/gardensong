@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 06:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Until it fell in the flame-heart's\nshade:\nHave courage to insist?\nThen the green bank of a tear.\nSad suffering face, from parting\ngrown\nBut nevermore the May!\nOh, with our love the immortal music"
- },
- {
   "time": "2026-09-14 07:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "But he our comrade good and\ngrand,\nFlushed with the drape\nOf thy Saviour, Lord and\nGideon.\"\nI have no offering but my\nlife,\nWhile dem pickny belly"
+ },
+ {
+  "time": "2026-09-23 08:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Natalie pondering all\nthat's\nBut I am black?\nWhy did I stray from their\nsorrow\nWhat days our wine-thrilled\nbodies\nIn agony searching for"
  }
 ]

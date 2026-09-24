@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-15 06:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "Did he against their fiercest\nfoes,\nAnd he raised his hand\nAnd the mournful wreck of his\nloss"
- },
- {
   "time": "2026-09-15 07:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "For such atoms as we look\nback\nHe floundered in a day\nlike\nThe tired cars go\ngrumbling\nLet holy horror blanch"
+ },
+ {
+  "time": "2026-09-24 10:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "I shall desire to build his\nfortunes\nOh! Church of Christ arise!\narise!\nFar from this foreign\nEaster\nMen have died that men reap"
  }
 ]

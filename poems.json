@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-15 05:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "Would shine a Star of Morn.\nAn endless panorama of\nthings--\nWith bated breath and useless\nthing?"
- },
- {
   "time": "2026-09-15 06:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Like nursery children you\nhave\nIn our defence had\nbravely\nA ray of light,\nWould you blame the world\ntheir hands again"
+ },
+ {
+  "time": "2026-09-24 09:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "For such atoms as we look\nback\nHe floundered in a day\nlike\nThe tired cars go\ngrumbling\nLet holy horror blanch"
  }
 ]

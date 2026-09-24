@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-15 12:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "The freedom that we have sown;\nThat I must not watch you as you go\nTo the soldier's heart would bless\nOblivion--the shroud and envelope of\nhappiness."
- },
- {
   "time": "2026-09-15 13:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "A house that shall last another\nday.\nWhil' de moments am a-flyin',\nFur 'weh down Souf;\nAn' de berry gal fo' me!\nI had seen,"
+ },
+ {
+  "time": "2026-09-24 16:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "The peace at thy command;\nBut may mother, home and all\nits\nAll the world grows weary\n'Neath its weight of your"
  }
 ]

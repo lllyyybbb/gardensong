@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 18:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 39,
-  "lines": 4,
-  "poem": "Can bring true rest to cool my body’s\nfever,\n\"Down with him,\" cried out the grist\nof Peace hovering over No Man's Land"
- },
- {
   "time": "2026-09-14 19:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Lessons in degradation, taught\nand\nAnd women heart-stricken are\nweeping\nMy tearful eyes my soul's\nforgotten"
+ },
+ {
+  "time": "2026-09-23 21:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "The dying words of \"Home,\nSweet scented with a new\nfreedom,\nAnd held it with a smile,\nThere as gentle friends ye\nsmile,"
  }
 ]

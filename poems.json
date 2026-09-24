@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-14 21:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 44,
-  "lines": 4,
-  "poem": "It makes my sky piece like a\nsphar-rib,\nThen tenderly the sons of far\nCathay"
- },
- {
   "time": "2026-09-14 22:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "An' w'en I's a-layin' low,\nWhen ol' Sis' Judy pray,\nDe Cunjah man, de Cunjah man,\nde\nRippling around my dying bed,\nAnd myself answer: Till the\nprefect"
+ },
+ {
+  "time": "2026-09-24 00:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "A house that will firmly\nstand.\nO whisper, O my brothers,\nhow\nThat they had forgotten\ntheir hands again\n'Mid the dreadful blast."
  }
 ]

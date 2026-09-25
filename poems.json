@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 03:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "To stir my fluent blood as never\nyour\nLinger along the garish street;\nAbove, a hundred shouting signs\nShed down their crowns\nIn the night for your listeners'"
- },
- {
   "time": "2026-09-16 04:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "They shall see Him in the\ngreat\nEvery fool has got a\nhobby,\nFor the silver break\nOf subtly-changing and"
+ },
+ {
+  "time": "2026-09-25 09:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "At noon and evening in the\nbabbling\nShrink not from\nThat he'd done set his own\ndesire.\nYou sang far better than all"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 08:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Searching me through, reading my\nthoughts,\nBring love for bird and beast\nand\nHim hide it un' de kitchen\nsta'r,"
- },
- {
   "time": "2026-09-16 09:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 47,
   "lines": 5,
   "poem": "The squirrel, full of light;\nAcross your breast and rugged\npeaks.\nAnd underneath the street,\nBearing their strangely-ghostly"
+ },
+ {
+  "time": "2026-09-25 14:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "Jes' a-rattlin' down creation,\nLak an ocean's overflow;\nWhen a voice rang sadly through\nmy songs of the river\nGod thought and swift in action,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-15 18:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 42,
-  "lines": 4,
-  "poem": "\"Don't put it in the hollow of his\nown,\nKneels and implores that her darling\nchild"
- },
- {
   "time": "2026-09-15 19:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "'Tain't gwine tuh be no\nmore.\nOr upward roll as\nsacrificial\nRose the song that fills my\nevery\nFrom all that He had clasped"
+ },
+ {
+  "time": "2026-09-24 23:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "\"Some one,\" our hero firmly\nsaid,\nWan ashes. Still, from\nmemory's\nForgetting that I am a\nstranger\nLove me truly, Who-ah!"
  }
 ]

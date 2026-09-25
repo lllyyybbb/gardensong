@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 01:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "Lo, the reign of our Lord.\nAnd tickled his nose in the\nvalley,\nAnd what hast thou now but thy\ndusty\nFrom the distant West,"
- },
- {
   "time": "2026-09-16 02:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "They shall see Him in the\ngreat\nEvery fool has got a\nhobby,\nFor the silver break\nOf subtly-changing and"
+ },
+ {
+  "time": "2026-09-25 07:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "I wist sum magic w'u'd\nellow,\nA downful pillow for your\nsons\nAdam nevuh had no home,\nthey\nHe sowed in his fold."
  }
 ]

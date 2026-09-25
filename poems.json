@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-15 20:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 44,
-  "lines": 4,
-  "poem": "And we have faltered or have failed.\nWe've kept the faith. Our souls'\nhigh\nI fain would gaze upon him"
- },
- {
   "time": "2026-09-15 21:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Once more to ask\nAnd never again be felt.\nNo more across the seas.\nAnd ferns that never fade.\nO my brothers and my\npleasure\nSing, my bawnjer, sing!\nWe's gwine ter dawnce dis"
+ },
+ {
+  "time": "2026-09-25 01:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "I shall desire to build his\nfortunes\nOh! Church of Christ arise!\narise!\nFar from this foreign\nEaster\nMen have died that men reap"
  }
 ]

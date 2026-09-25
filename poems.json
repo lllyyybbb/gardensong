@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 13:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Yes, blame me that the ship I seek is\npassing,\nUpon each lip my name!--\nWhy, de 'lectric light o' Heaven\nSeems lak to me of vital worth,\nMy bruthah jus' sent word to me,"
- },
- {
   "time": "2026-09-16 14:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 39,
   "lines": 4,
   "poem": "\"I've shown the treasures of my\nhouse,\nMy weary feet the paths of pain.\nIt could not drift beyond His sight"
+ },
+ {
+  "time": "2026-09-25 19:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 42,
+  "lines": 4,
+  "poem": "In the now glaring, and now\nshifting\nLittle brown baby wif spa'klin'\neyes!"
  }
 ]

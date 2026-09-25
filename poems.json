@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 04:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
- },
- {
   "time": "2026-09-16 05:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "At noon and evening in the\nbabbling\nShrink not from\nThat he'd done set his own\ndesire.\nYou sang far better than all"
+ },
+ {
+  "time": "2026-09-25 10:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "\"Tim Thompson, a little on\nThe Black Heritage Library\nCollection\nBurn on! and on! It seems a\nbreath\nHer eyes said: I shall say--"
  }
 ]

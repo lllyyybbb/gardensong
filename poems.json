@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 09:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "Who returned to his side, oh! may\nI must never heed\nThe sacred brown feet of Judas!\nYet the garden is very quiet\nto-night,\nGo prowling through the eternity"
- },
- {
   "time": "2026-09-16 10:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "Jes' a-rattlin' down creation,\nLak an ocean's overflow;\nWhen a voice rang sadly through\nmy songs of the river\nGod thought and swift in action,"
+ },
+ {
+  "time": "2026-09-25 15:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 41,
+  "lines": 4,
+  "poem": "Gi' me some'n' to he'p me quick,\nDon't,--Ah'll die!\n\"I cannot for the player who\nhasn't"
  }
 ]

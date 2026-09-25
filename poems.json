@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 12:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "Among the leaves of the world has\nread\nEagerly the crowd were waiting,\nLoud the clashing sabres rang;\nWhen \"Peace on earth, good will to\nthe innocent crucified for the heavy"
- },
- {
   "time": "2026-09-16 13:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 36,
   "lines": 4,
   "poem": "Ghastly, ghoulish, grinning skull,\nToothless, eyeless, hollow, dull,\nO'er his wan and wasted features\nFlitted one sweet smile of peace."
+ },
+ {
+  "time": "2026-09-25 18:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 39,
+  "lines": 4,
+  "poem": "\"I've shown the treasures of my\nhouse,\nMy weary feet the paths of pain.\nIt could not drift beyond His sight"
  }
 ]

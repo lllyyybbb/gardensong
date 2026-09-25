@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-15 21:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 47,
-  "lines": 5,
-  "poem": "O dawn! O let us still be brave,\nAnd fill me with tales\nof Peace hovering over No Man's\nLand of the truth!\nI feel it is that clamoring and"
- },
- {
   "time": "2026-09-15 22:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "I shall desire to build his\nfortunes\nOh! Church of Christ arise!\narise!\nFar from this foreign\nEaster\nMen have died that men reap"
+ },
+ {
+  "time": "2026-09-25 03:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Tell me why you smirk and\nsmile\nInto whose gilded snares I\nfell.\nA silken gown;\nThen leaped upon the air.\nFor the tubers large and"
  }
 ]

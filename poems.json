@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 21:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "If all our toilsome building is in\nits\nFor men to die,\nAnd catch the gleaming of a hill\nwhere\nBut in her sable sheet,"
- },
- {
   "time": "2026-09-16 23:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "From that hour Rome, grown\nmore\nAt the\nSickle comes and leaves us\nstunned\nThrust the strange intruder"
+ },
+ {
+  "time": "2026-09-26 04:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "The tired cars go grumbling\nby,\nLeaving behind the vestige of\na\nLike softening to a mighty\ntrumpet-call"
  }
 ]

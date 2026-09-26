@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 15:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "And let us breathe the air is blowin'\nmighty\nLook farther back! Three centuries!\nTo me would never penetrate the prayers\nand"
- },
- {
   "time": "2026-09-16 16:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 47,
   "lines": 5,
   "poem": "The squirrel, full of light;\nAcross your breast and rugged\npeaks.\nAnd underneath the street,\nBearing their strangely-ghostly"
+ },
+ {
+  "time": "2026-09-25 21:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 50,
+  "lines": 5,
+  "poem": "Passin' 'long de market is so\nsweet.\nShall more wise and thoughtful\ngrow\nAn unhorizoned range,"
  }
 ]

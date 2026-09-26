@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 23:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Too green the springing April grass,\nBut songs to thrill the hearts of\nstone\nThe lavrock lilts me mine;\nCome tender sleep, and fold me to\nthy"
- },
- {
   "time": "2026-09-17 00:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "The tired cars go grumbling\nby,\nLeaving behind the vestige of\na\nLike softening to a mighty\ntrumpet-call"
+ },
+ {
+  "time": "2026-09-26 05:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Where lofty fanes in grandeur\nrose,\nFade in everlasting light.\nHow sound the depths\nOf the fountains of\nrefreshment"
  }
 ]

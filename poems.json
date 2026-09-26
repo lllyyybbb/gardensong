@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 18:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "Dead to the warm and soft and quivering\nyour\n\"O, Doctah, come queeck, an' see Mr.\nB'ar;\nThe dew is on de gras'\nAn' da blackbird's voice it gits so"
- },
- {
   "time": "2026-09-16 19:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "The peace at thy command;\nBut may mother, home and all\nits\nAll the world grows weary\n'Neath its weight of your"
+ },
+ {
+  "time": "2026-09-26 01:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Life may renew the Autumn\ntime,\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling lips\nI want the night wind wail?\nHe ain't no tramp, ner no"
  }
 ]

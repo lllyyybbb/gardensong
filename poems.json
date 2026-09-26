@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-17 02:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Mammy an' pappy do' want stragglers\na-layin'\nBut oh, your scent is in the Night.\nO kinsmen! we must perish,\nPerish just in sight of clotted\nblood.\nSum one mus' be led,"
- },
- {
   "time": "2026-09-17 04:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "And grind in our midst a grist\nof fortune that came at\nlength;\nKep' a-lookin' fo \"de\nchar'et,\"\nFrom this harsh life of"
+ },
+ {
+  "time": "2026-09-26 09:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "O'er the nations holds its\nsway,\nAnd we would not listen, yet\nshudder\nDon't yo' love a co'n song?\nThe dream is lovelier than the"
  }
 ]

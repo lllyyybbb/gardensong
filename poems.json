@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 20:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "Applauding youths laughed with young\nprostitutes\nBringing unto hearts now aged\nWho between their hosts advancing\nCalmly parried their attack.\nAll these shall dread"
- },
- {
   "time": "2026-09-16 21:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "And in the very dead are\nwaking,\nMistah Bush he shek his fis',\nDown in a dim unknown land,\nThat I may lay my dead.\"\nAnd telling tales of lovers"
+ },
+ {
+  "time": "2026-09-26 03:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "From that hour Rome, grown\nmore\nAt the\nSickle comes and leaves us\nstunned\nThrust the strange intruder"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-16 19:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "'Weh down Souf,\nAn' de profit it could bring,\nAnd for our foes let this suffice--\nWe've kept the faith. Our souls' high\ndreams\nWe placed upon my face"
- },
- {
   "time": "2026-09-16 20:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "Life may renew the Autumn\ntime,\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling lips\nI want the night wind wail?\nHe ain't no tramp, ner no"
+ },
+ {
+  "time": "2026-09-26 02:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "And in the very dead are\nwaking,\nMistah Bush he shek his fis',\nDown in a dim unknown land,\nThat I may lay my dead.\"\nAnd telling tales of lovers"
  }
 ]

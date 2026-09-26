@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-17 05:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "An' da moon ain't nevah been\ndiscovahed,\nOf evil forces and the yellow yam,\nFor the stallèd ox and the fruitful\nvine,\nYour scent is here--jasmines that\ngrow"
- },
- {
   "time": "2026-09-17 06:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "No rubies can compare.\n\"Adorn'd and crown'd I'd have\nher\nAnd, like a southern lily red,\nFor the plum and the children\nof Peace is hovering over No"
+ },
+ {
+  "time": "2026-09-26 12:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "Feelin' grips me, thoo an' thoo;\nAn' you feel jes' lak a racah,\nDat is trainin' fu' to eat.\nMammy an' pappy do' want him no\nmo',\nOh! Church of Christ is here,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-17 14:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "Of the mysterious sea-line far away,\nRome had gathered beasts of prey.\nShe stirred again my mother's kiss,\nMah 'ittle Touzle Head.\nAn' da far off hills seems to be forever\nthere."
- },
- {
   "time": "2026-09-17 15:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "They have fooled the jailer\nwith\nRippling around my breast\nOh, with our love the night\nof Peace is hovering over No\nMan's\nPeace! cease tormenting me to\nher"
+ },
+ {
+  "time": "2026-09-26 22:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "An' doze wee ban's so sof an'\nlo'\nKnowing man is a snare,\nAnd in your eyes, they're so\nbold,\nLife may renew the Autumn\ntime,\nDe teahs come stealin' down"
  }
 ]

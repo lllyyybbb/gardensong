@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-17 15:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "That bore me o’er the rippling stream,\nTell me, ghoulish, grinning skull,\nToothless, eyeless, hollow, dull,\nWhy your smirk and smile\nEre time has brushed cold fingers thru my\nhair!"
- },
- {
   "time": "2026-09-17 16:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "An' doze wee ban's so sof an'\nlo'\nKnowing man is a snare,\nAnd in your eyes, they're so\nbold,\nLife may renew the Autumn\ntime,\nDe teahs come stealin' down"
+ },
+ {
+  "time": "2026-09-26 23:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "Luxuriant, clustered round the\nglowing\nShall be filled with love and\nwine,\nWhere towers the cotton tree,\nAnd quicker than God could see\nBeneath the poinsettia’s red\nin crime and wrong."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-18 08:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "A love so fugitive and so complete.\nUpon your hearts this vow record\nThat buried you beneath its strong\nembrace,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! that in the East. Then,\nhigher,"
- },
- {
   "time": "2026-09-18 09:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "Seems lak to me\nFor the flag of peace and joy\nand\nThe thought of violets of\nlate,\nGleaming Girl, how intimately\npure\nFor truth and self-control."
+ },
+ {
+  "time": "2026-09-27 15:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "Refute our wilding minstrelsy.\nAlas! Lord God, deaf to\ncheers;\nTo enrol his name in golden\nsmiles\nThe great white witch you have\npassed\nJump back, honey, jump back."
  }
 ]

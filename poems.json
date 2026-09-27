@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-18 05:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Strong drink, like a spell;\nHe knew my heart\nAnd quicker than God could drop His\nhand,\nAll her little trampled corner of\nthe innocent crucified for the foe\nof Peace hovering over No Man's"
- },
- {
   "time": "2026-09-18 06:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 88,
   "lines": 8,
   "poem": "Feeling the ancient rock\naround,\nRing, my bawnjer, ring!\nDen hits roun' de hill an'\nfroo\nAnd furl the banners of\ndestruction\nAnd now we ask of thee our"
+ },
+ {
+  "time": "2026-09-27 13:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "Then, younger brothers mine,\ntake\n\"This one shall be their\nguide,\nWere loving her so much.\nSay not the gathered laurels,\nFading slowly from his fancy\ntake"
  }
 ]

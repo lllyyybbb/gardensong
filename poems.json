@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-18 11:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "When you are waiting me still to-night\nBy whom our wills are caught.\nWho have borne life's burdens long,\nSeems lak to me the down-crushed\nspirit,\nThe gorse and heather bloom for me, is\nshod"
- },
- {
   "time": "2026-09-18 12:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "Refute our wilding minstrelsy.\nAlas! Lord God, deaf to\ncheers;\nTo enrol his name in golden\nsmiles\nThe great white witch you have\npassed\nJump back, honey, jump back."
+ },
+ {
+  "time": "2026-09-27 19:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 82,
+  "lines": 8,
+  "poem": "From clear Nyanzas and\nmysterious\nThat I ask to clasp their\nhands\nAnd catch the gleaming of a\nrobin’s\nNot mortal, a flower, a fairy,\ntoo"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-17 16:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "He clapped His hands,\nFor truth and justice stand.\n\"I pray thee let me rest\nMore calm than its mother's downy breast\nOh, restless heart, learn thou to trust\nWhen fields are fresh and free."
- },
- {
   "time": "2026-09-17 17:00",
   "temp_c": 31.0,
   "temp_f": 88,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "Luxuriant, clustered round the\nglowing\nShall be filled with love and\nwine,\nWhere towers the cotton tree,\nAnd quicker than God could see\nBeneath the poinsettia’s red\nin crime and wrong."
+ },
+ {
+  "time": "2026-09-27 00:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Where the cocks are crowing,\ncrowing,\nBut in all the glowing\nfire-place\nWhen he told me in the dell,\nOr where the thunder of thy\nfarm,\nFor this no metal was too"
  }
 ]

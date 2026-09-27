@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-17 17:00",
-  "temp_c": 31.0,
-  "temp_f": 88,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "Next Ah tried was castor oil,\nAn' doze wee ban's so sof an' sweet,\nMates wid dem toddlin', velvet feet,\nUpon a dead man's door.\nNo tyrant's tread will disturb his rest\nWhere haughty tyrants once bore rule"
- },
- {
   "time": "2026-09-17 18:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Where the cocks are crowing,\ncrowing,\nBut in all the glowing\nfire-place\nWhen he told me in the dell,\nOr where the thunder of thy\nfarm,\nFor this no metal was too"
+ },
+ {
+  "time": "2026-09-27 01:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Oh may she ever stand\nClasping by faith our\nSaviour's\nNo more across the seas.\nAnd others breaking up the\nweeds,\nAnd he may sit him down f'om\nhis"
  }
 ]

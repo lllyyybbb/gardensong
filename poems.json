@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-17 19:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "And tangerines and mangoes and grape\nfruit,\nYou may doubt it as you go\nYour sun-illumined way;\nI look into a shape of flame.\nYour eyes are dawning day;\nI feel the soft rain-kisses of the sun."
- },
- {
   "time": "2026-09-17 20:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "But the wild goat bounding on\nthe lips of men\nI worship at your shallow\nmystery,\nWhere the sea gave up its dead\nShe drove the sap and broke\nthe lips of the people."
+ },
+ {
+  "time": "2026-09-27 04:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Oh may she ever stand\nClasping by faith our\nSaviour's\nNo more across the seas.\nAnd others breaking up the\nweeds,\nAnd he may sit him down f'om\nhis"
  }
 ]

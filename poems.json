@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-18 19:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
- },
- {
   "time": "2026-09-18 20:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "For gallant France, for praying\nFrance,\nAn' I'm hongry, O, so berry,\nFur my hom' I am glad that the\nship\nAlas! that in our hands, it has\nbeen\nStand back of new-come foreign"
+ },
+ {
+  "time": "2026-09-30 01:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 92,
+  "lines": 8,
+  "poem": "'Long de lovah's lane.\nAn' de chillen waded on dey way\nto dance for us,\" the rough men\nsaid;\nAnd o'er the hopeful slave,\nRose with words of \"Home, Sweet\nHome.\"\nHad gone to seed,"
  }
 ]

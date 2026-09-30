@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-19 05:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "I've been abused and tossed about,\nDing, Dong, Ding.\nBut naught so precious as the\nlightning\nDat am da time fuh rain.\n\"When yo' dog quits bones an'"
- },
- {
   "time": "2026-09-19 06:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "He looked at His moon,\n'And He looked at His moon,\n'And He looked at His little stars;\nHe heard again the King's decree--\n\"My ole 'ooman's sick, but I'se\nalright--\"\nFrom lesser mortals who were not\nfree,"
+ },
+ {
+  "time": "2026-09-30 12:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "And o'er that manger clasp their\nhands\nNor dreamed 'mid plenty a human tide\nalong.\nHad reached the restful shore.\nIt was something to her pillowy\nbreast;"
  }
 ]

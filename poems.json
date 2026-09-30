@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-18 17:00",
-  "temp_c": 30.0,
-  "temp_f": 86,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "Should stop, e'en for a maiden sin.\n'Twas as the even shadows came, blew cold.\nWhat turns your cheek so white?\nOh little, lovely Christ--you smile!\nWhat Socrates with his broken chain,\nAnd strike their tongues of blasphemy"
- },
- {
   "time": "2026-09-18 18:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "Weave your garments fair and\nbeautiful\nWhen we saw a lofty purpose\nLighting the purple apples come\nto dance for us,\" the rough men\nsaid;\nIn sculptured worship now he\nlives,"
+ },
+ {
+  "time": "2026-09-29 23:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "\"In the tempest's wing along.\nHaughty dames and blooming\nmaidens,\nTo speak for freedom an earnest\nword;\nAnd two more yet of coddling\nsize,\nA boy came running up with"
  }
 ]

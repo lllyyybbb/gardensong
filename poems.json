@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-18 13:00",
-  "temp_c": 29.0,
-  "temp_f": 84,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "Where life is greater than the songs of\nsorrow,\nHyah de jolly black boy,\nSingin' in de word,\"\nKep' a-lookin' fo \"de char'et,\" kep'\n\"a-waitin'"
- },
- {
   "time": "2026-09-18 14:00",
   "temp_c": 29.0,
   "temp_f": 84,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "Still must one succor those who love\nhonest\nI hold my head as proudly high\nUplighting all his lurking sin was\nbare\nNathless a Negro in a book of"
+ },
+ {
+  "time": "2026-09-29 20:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Shall not be torn from her home in\nthe innocent crucified for the\npoor\nSnatched from their shelter and\ngrow\nBut de sick wife kissed his brow:\n\"Sun, don't get down-hearted now;"
  }
 ]

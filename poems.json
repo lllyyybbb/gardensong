@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-19 16:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "For one brief golden moment rare like\nwine,\nAnd worried waiters, some in ugly mood,\nAnd this is peace, this dead and leaden\nthing,"
- },
- {
   "time": "2026-09-19 17:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "And slavery, with its morning\nlay;\nThey had met in deadly strife;\nMen to say \"Dis is yo' las'\"--\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling throat;\nI have forgot\nThe people will not quiver in the"
+ },
+ {
+  "time": "2026-09-30 22:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 85,
+  "lines": 8,
+  "poem": "But I would be wandering in\ndistant\n'Mid the dangers and alarms.\nOh! from its yoke!\nI have seen the queer in queer\nplaces,\nWho lit the sun which ripens the\ngolden"
  }
 ]

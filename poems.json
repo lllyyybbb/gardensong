@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-20 10:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "He looked at His moon,\n'And He looked at His moon,\n'And He looked at His little stars;\nHe heard again the King's decree--\n\"My ole 'ooman's sick, but I'se\nalright--\"\nFrom lesser mortals who were not\nfree,"
- },
- {
   "time": "2026-09-20 11:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Dead to the warm and soft and quivering\nyour\n\"O, Doctah, come queeck, an' see Mr.\nB'ar;\nThe dew is on de gras'\nAn' da blackbird's voice it gits so"
+ },
+ {
+  "time": "2026-10-01 17:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "It is nothing to me, the beauty said,\nAnd every little baby\nBrings a message from the sun's bright\nsheen.\nAnd yet, and yet to-day\nThe sacred brown feet of clay."
  }
 ]

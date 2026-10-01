@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-19 18:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "In this strife must bear a part;\nWhile you are gone and tears are shed,\nThat casts a subtle spell upon all\nthings,\nBlind Homer, Greek or Jew,"
- },
- {
   "time": "2026-09-19 19:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "When one arose upon whose brow\nWith only a breath betwixt tub\nand\nThey flap their hideous wings in\ngrim\nIn me the precious token,\nThat was never spoken,\nBut dem wu'ds so sweetly murmured"
+ },
+ {
+  "time": "2026-10-01 00:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 88,
+  "lines": 8,
+  "poem": "Heard they aright? Did that\nbrave\nThe far horizon's beckoning\nspan!\nGives song a nightless day,\nYour eyes are too sadly kind\nTo us the Plan; give us\nundisturbed"
  }
 ]

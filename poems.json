@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-19 14:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Cut an' carve, an' carve an' cut,\nLeaving behind the vestige of a common\ncountry,\nOn the crumbling stones of hate.\nThe treasure house of thought.\nAgain, I feel it is that a man grown"
- },
- {
   "time": "2026-09-19 15:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Too green the springing April grass,\nBut songs to thrill the hearts of\nstone\nThe lavrock lilts me mine;\nCome tender sleep, and fold me to\nthy"
+ },
+ {
+  "time": "2026-09-30 20:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "Of healthy children you have torn a\nnerve\nThe lady riding at thy command;\nAgainst the plea thy grief hath\nmade\nAn' stops dis ha't f'um sighin'!\nO my good Lamb,"
  }
 ]

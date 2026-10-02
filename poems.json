@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-21 11:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "And death at our accursèd lot.\nIf we must perish,\nPerish just in sight of clotted\nblood.\nAnd you in your frame;\nMy lub fur you des dribe me wil'--\nMerlindy, O, Merlindy!"
- },
- {
   "time": "2026-09-21 12:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "This awful key to my sight.\nMen whose hearts\nOf sorrow, pain, and wrong.\nThe secret that he bore,--\nAnd laughing lips o'er teeth of pearl.\nI sound the elusive reed so seldom blown,"
+ },
+ {
+  "time": "2026-10-02 18:00",
+  "temp_c": 29.0,
+  "temp_f": 84,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "And down within your scented heart, fair\nflower,\nCome home with its morning lay;\n'Twas mine to gather the young man cried:\nIn and out does the night lets fall\nIts mission of song at last to Fate's"
  }
 ]

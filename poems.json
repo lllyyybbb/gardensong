@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-20 23:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "The dusky, half-clad girls of tired\nfeet\nAnd suddenly my thoughts had strayed,\nI bin up here a-wuckin',\nFrom children who loved him so--\nThey chided him for telling his\naffairs,"
- },
- {
   "time": "2026-09-21 00:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 96,
   "lines": 8,
   "poem": "On roads that wind around the\nfoothills\nAnd makes its burden less to\nbear.\nThe staggering force of brutish\nmight,\nA noble purpose strong and he\nwas"
+ },
+ {
+  "time": "2026-10-02 06:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 97,
+  "lines": 8,
+  "poem": "Had left its evil trace.\nIt was the faith that taught\nMy four walls shield me from\nthe home for aged fathers\nBend above their staves and\nweep,\nWhen under alien sod my bones\nlie"
  }
 ]

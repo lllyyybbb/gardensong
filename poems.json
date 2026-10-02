@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-20 13:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "The squirrel, full of mischief and of\nsin.\nThe Prophets told.\nSilence and love and watch his nimble\nflight\nAnd browse about our ancient place,\nAnd ev'ry lip was blanched with"
- },
- {
   "time": "2026-09-20 14:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "From the Gulf and the world-end\nthings\nTo me she has seen your strong young\nlimbs,\nAnd sinks into my blood,\n'Till darkness shrinks from light;\n\"Now bring me here my warrior robes,"
+ },
+ {
+  "time": "2026-10-01 20:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "In sculptured worship now he lives,\nHis humblest children have a problem\nall\nPearly teef, an' shinin' hair,\nWhether the strands be dark or fair,\nDrop down the street,\nBearing their strangely-ghostly\nburdens"
  }
 ]

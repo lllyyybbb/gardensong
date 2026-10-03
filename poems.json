@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-21 17:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 90,
-  "lines": 8,
-  "poem": "The fields of strife and carnage\ncease.\nBut was 'way down in wrath and\nblood\nCallin' to yo' dawlin',\nIn the heart to list the strains\nyou\nI shall last forever,"
- },
- {
   "time": "2026-09-21 18:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "For the farmer reaping his whitened\nfields,\nThis thing they plainly see,\nAn' da folks wid rheumatics--dare\njints\nIf this dark Passion that fills my\nevery"
+ },
+ {
+  "time": "2026-10-03 00:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "Po' centipede am dead;\nSo Ah got scared an' sent for you.--\nNow, through the wide and broad,\nHe clapped His hands,\nAnd bids us run with willing feet\nGo work in my humbled heart you\nground"
  }
 ]

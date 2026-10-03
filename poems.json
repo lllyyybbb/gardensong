@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-22 01:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Heard they aright? Did that\nbrave\nThe far horizon's beckoning\nspan!\nGives song a nightless day,\nYour eyes are too sadly kind\nTo us the Plan; give us\nundisturbed"
- },
- {
   "time": "2026-09-22 02:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "Jump back, honey, jump back.\nHyeahd huh sigh a little tiahed\nAn' da folks wid\nrheumatics--dare\nTwo little children sit by my\nside,\nLay the victims of the Lord and"
+ },
+ {
+  "time": "2026-10-03 07:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "And Mary with the drape\nOf you. Nor you of the tear\nThat I ask that in the trenches\nof Peace hovering over No Man's\nLand,\nFor the sturdy oaks and the\nLakes"
  }
 ]

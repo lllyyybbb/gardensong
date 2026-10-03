@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-21 16:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Mates wid dem toddlin', velvet\nfeet,\nWen I's strollin' by de way,\nAn' pyu'ced Mistah B'ar he\ngroaned,\nTo me would never penetrate the\nprayers\nNo, I would be a light"
- },
- {
   "time": "2026-09-21 17:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Though it is wrong,\nWhen dem know him couldn' pay;\nAlso what about de mill\nWhe' him hire from ole Bill;\nSo far from my mind of long, long\nline\nAnd the mystic symbols glow--\nLiberty! Fraternity!"
+ },
+ {
+  "time": "2026-10-02 23:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "For the farmer reaping his whitened\nfields,\nThis thing they plainly see,\nAn' da folks wid rheumatics--dare\njints\nIf this dark Passion that fills my\nevery"
  }
 ]

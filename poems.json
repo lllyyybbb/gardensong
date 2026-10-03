@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-22 10:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 91,
-  "lines": 8,
-  "poem": "Where I can write the stuff\nthe innocent crucified for\nthe men of dusk and the\nfattened\nOnly the swallow-twittering\neaves.\nBut the reapers had left in\nthe men of dusk and the"
- },
- {
   "time": "2026-09-22 11:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "There is no part of the minstrel's\nlyre?\nHas come, has come!\nA love so fugitive and so fair.\nAgain, I feel your glad\nChiding from the blaze of the"
+ },
+ {
+  "time": "2026-10-03 19:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "I'll make me a house,\" said the\nMaster,\nA crusade for the veils of my\nhome\nAnd ever another rides his soul\nwas"
  }
 ]

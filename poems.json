@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-22 21:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 96,
-  "lines": 8,
-  "poem": "To plant the roots of coming\nyears\nAnd I was an outcast from thy\nhand\nServants of him who cannot\nlie\nHer _soul_, proud fool, her\n_soul_"
- },
- {
   "time": "2026-09-22 23:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "Refute our wilding minstrelsy.\nAlas! Lord God, deaf to\ncheers;\nTo enrol his name in golden\nsmiles\nThe great white witch you have\npassed\nJump back, honey, jump back."
+ },
+ {
+  "time": "2026-10-04 08:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 83,
+  "lines": 8,
+  "poem": "Her eyes said: I shall will\nthat no man went through thee,\nI see her sitting bowed and\nblack,\nThe awful sin remained still\nunforgiven.\nAnd there forever will we\nrest,"
  }
 ]

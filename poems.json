@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-24 00:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "A house that will firmly\nstand.\nO whisper, O my brothers,\nhow\nThat they had forgotten\ntheir hands again\n'Mid the dreadful blast."
- },
- {
   "time": "2026-09-24 01:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 40,
   "lines": 4,
   "poem": "Must bear and bear alone.\nThey'd charged him with the night,\nWhere their fallen children sleep.\nDo not cheer till arbitration"
+ },
+ {
+  "time": "2026-10-05 16:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 40,
+  "lines": 4,
+  "poem": "Windways, will sweep me into utter\nnight.\nMy love comes lagging far behind.\nAnd there forever will we rest,"
  }
 ]

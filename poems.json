@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-25 10:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "\"Tim Thompson, a little on\nThe Black Heritage Library\nCollection\nBurn on! and on! It seems a\nbreath\nHer eyes said: I shall say--"
- },
- {
   "time": "2026-09-25 11:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "For the new dawn that is\nyou,\nIs a fiery steed.\nAnd in the sky,\nThe flames laugh high\nand\nStill shines the gate,\nall"
+ },
+ {
+  "time": "2026-10-07 00:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "You must staunch these\nwounds\nThat ye will try the\nboys\nShake our land from\nshore\nWhile to its alien gods\nI have given up myself"
  }
 ]

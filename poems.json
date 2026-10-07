@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-25 11:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Life may renew the Autumn\ntime,\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling lips\nI want the night wind wail?\nHe ain't no tramp, ner no"
- },
- {
   "time": "2026-09-25 12:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "You must staunch these\nwounds\nThat ye will try the\nboys\nShake our land from\nshore\nWhile to its alien gods\nI have given up myself"
+ },
+ {
+  "time": "2026-10-07 01:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "And view the earth came\ndown,\nWhen his daughter\nbecame\nAnd I explored it to\nthe lips of the\ntrumpet-tree,\nWe mus' try mek two"
  }
 ]

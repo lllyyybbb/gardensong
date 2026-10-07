@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-25 13:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 47,
-  "lines": 5,
-  "poem": "The squirrel, full of light;\nAcross your breast and rugged\npeaks.\nAnd underneath the street,\nBearing their strangely-ghostly"
- },
- {
   "time": "2026-09-25 14:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "Your straight air and\nradiant\nAnd you'll see into my\nblood,\nCome tender sleep, and\nfold\nLet peace at last had\nfound"
+ },
+ {
+  "time": "2026-10-07 03:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "Blown by black players\nupon\nAnd climbing up with\nchildish\nAnd mating thrushes\nushering\nAnd if they kill me it\nhas"
  }
 ]

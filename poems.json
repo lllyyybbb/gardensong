@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-25 17:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 36,
-  "lines": 4,
-  "poem": "Ghastly, ghoulish, grinning skull,\nToothless, eyeless, hollow, dull,\nO'er his wan and wasted features\nFlitted one sweet smile of peace."
- },
- {
   "time": "2026-09-25 18:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 97,
   "lines": 8,
   "poem": "The dusk has long gone\nwith\nAnd the moon\nFrom the cup pass\nTo whisper soft and\nquivering\nWhat guerdon is in its\nwondering"
+ },
+ {
+  "time": "2026-10-07 07:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 98,
+  "lines": 8,
+  "poem": "\"I will bring to this\nearth\nIn which he sang of\nall\nRacin' ober pastur'\nlan',\nIt could not tell\ntheir hands"
  }
 ]

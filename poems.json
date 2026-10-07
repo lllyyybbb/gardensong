@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-25 19:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 42,
-  "lines": 4,
-  "poem": "In the now glaring, and now\nshifting\nLittle brown baby wif spa'klin'\neyes!"
- },
- {
   "time": "2026-09-25 20:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 97,
   "lines": 8,
   "poem": "The dusk has long gone\nwith\nAnd the moon\nFrom the cup pass\nTo whisper soft and\nquivering\nWhat guerdon is in its\nwondering"
+ },
+ {
+  "time": "2026-10-07 09:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 92,
+  "lines": 8,
+  "poem": "As night grows old.\nDe Cunjah man, de\nCunjah\nA wealth of household\ntreasures\nDevoured her with their\ncurious\nclawing within, to"
  }
 ]

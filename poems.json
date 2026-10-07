@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-25 14:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "Jes' a-rattlin' down creation,\nLak an ocean's overflow;\nWhen a voice rang sadly through\nmy songs of the river\nGod thought and swift in action,"
- },
- {
   "time": "2026-09-25 15:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 93,
   "lines": 8,
   "poem": "Blown by black players\nupon\nAnd climbing up with\nchildish\nAnd mating thrushes\nushering\nAnd if they kill me it\nhas"
+ },
+ {
+  "time": "2026-10-07 04:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 94,
+  "lines": 8,
+  "poem": "In wistful April days,\nwhen\nSweeping round each\nwar-crushed\nThat he should stand\nFor the plum and the\nbirds\nAnd men repent and then"
  }
 ]

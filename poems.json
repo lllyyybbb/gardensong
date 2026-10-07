@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-25 09:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "At noon and evening in the\nbabbling\nShrink not from\nThat he'd done set his own\ndesire.\nYou sang far better than all"
- },
- {
   "time": "2026-09-25 10:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Like nursery children you\nhave\nIn our defence had\nbravely\nA ray of light,\nWould you blame the world\ntheir hands again"
+ },
+ {
+  "time": "2026-10-06 23:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "For the new dawn that is\nyou,\nIs a fiery steed.\nAnd in the sky,\nThe flames laugh high\nand\nStill shines the gate,\nall"
  }
 ]

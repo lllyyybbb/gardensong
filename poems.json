@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-26 22:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "An' doze wee ban's so sof an'\nlo'\nKnowing man is a snare,\nAnd in your eyes, they're so\nbold,\nLife may renew the Autumn\ntime,\nDe teahs come stealin' down"
- },
- {
   "time": "2026-09-26 23:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "In me the down-crushed\nspirit,\nAn' I've hyeahd o' lots o'\nprayers,\nAll the force they could not\nmove;\nMid the wreck and roar of\nbattle"
+ },
+ {
+  "time": "2026-10-08 10:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Where the cocks are crowing,\ncrowing,\nBut in all the glowing\nfire-place\nWhen he told me in the dell,\nOr where the thunder of thy\nfarm,\nFor this no metal was too"
  }
 ]

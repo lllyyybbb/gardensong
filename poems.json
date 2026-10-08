@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-26 12:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Feelin' grips me, thoo an' thoo;\nAn' you feel jes' lak a racah,\nDat is trainin' fu' to eat.\nMammy an' pappy do' want him no\nmo',\nOh! Church of Christ is here,"
- },
- {
   "time": "2026-09-26 13:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Oh may she ever stand\nClasping by faith our\nSaviour's\nNo more across the seas.\nAnd others breaking up the\nweeds,\nAnd he may sit him down f'om\nhis"
+ },
+ {
+  "time": "2026-10-08 00:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Down in lovah's lane,\nMerlindy! Merlindy!\nMy heart was all but weaned\naway\nWhen ol' Sis' Judy pray.\nO, Miss 'Lindy, doan' you\nhyuh\nFell on his sword,"
  }
 ]

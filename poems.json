@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-26 11:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "No rubies can compare.\n\"Adorn'd and crown'd I'd have\nher\nAnd, like a southern lily red,\nFor the plum and the children\nof Peace is hovering over No"
- },
- {
   "time": "2026-09-26 12:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Gin is better than you knew;\nthe men of garish nights,\nTheir laugh is swallowed in\nthe men knocked him\nFor the love that sends us\nflowers?\nBy angel fingers strung."
+ },
+ {
+  "time": "2026-10-07 23:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "Oh may she ever stand\nClasping by faith our\nSaviour's\nNo more across the seas.\nAnd others breaking up the\nweeds,\nAnd he may sit him down f'om\nhis"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-27 01:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "Oh may she ever stand\nClasping by faith our\nSaviour's\nNo more across the seas.\nAnd others breaking up the\nweeds,\nAnd he may sit him down f'om\nhis"
- },
- {
   "time": "2026-09-27 02:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "The fairy phantoms of my far away\nyouth,\nThe forest trees have shed their\nleaves,\nHim hab him roots, him wu'k him\ntrick,\nCame the words that brought them"
+ },
+ {
+  "time": "2026-10-08 13:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "There is no part of the minstrel's\nlyre?\nHas come, has come!\nA love so fugitive and so fair.\nAgain, I feel your glad\nChiding from the blaze of the"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-27 06:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 84,
-  "lines": 8,
-  "poem": "They have fooled the jailer\nwith\nRippling around my breast\nOh, with our love the night\nof Peace is hovering over No\nMan's\nPeace! cease tormenting me to\nher"
- },
- {
   "time": "2026-09-27 07:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 49,
   "lines": 5,
   "poem": "Or closer press to crush a grape\n'gainst\nThe great, proud city, seized with a\nmother's\nOh, you shall see"
+ },
+ {
+  "time": "2026-10-08 17:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "Within the distant East.\nA chaste modulation\nHastens adown to subdominant key,\nThinks you dat I is Black Pattie,\nMah 'ittle Touzle Head?"
  }
 ]

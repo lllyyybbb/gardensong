@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-27 00:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Where the cocks are crowing,\ncrowing,\nBut in all the glowing\nfire-place\nWhen he told me in the dell,\nOr where the thunder of thy\nfarm,\nFor this no metal was too"
- },
- {
   "time": "2026-09-27 01:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Of the mysterious sea-line far\naway,\nCame oracles divine;\nNow they have taken him from\nthe men who would be at dawn.\nThe mists will vanish before\nHis eyes grew dim, and I were"
+ },
+ {
+  "time": "2026-10-08 12:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "The fairy phantoms of my far away\nyouth,\nThe forest trees have shed their\nleaves,\nHim hab him roots, him wu'k him\ntrick,\nCame the words that brought them"
  }
 ]

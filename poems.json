@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-27 13:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "Then, younger brothers mine,\ntake\n\"This one shall be their\nguide,\nWere loving her so much.\nSay not the gathered laurels,\nFading slowly from his fancy\ntake"
- },
- {
   "time": "2026-09-27 14:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "I must reap as we are?\nThen he got up an' began\nPickin' up him sugar-pan:\nIn the great ships pass,\nThe factory where they shape\nnew"
+ },
+ {
+  "time": "2026-10-08 23:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "From that hour Rome, grown\nmore\nAt the\nSickle comes and leaves us\nstunned\nThrust the strange intruder"
  }
 ]

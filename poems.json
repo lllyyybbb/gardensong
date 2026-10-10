@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-09-30 19:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Too green the springing April grass,\nBut songs to thrill the hearts of\nstone\nThe lavrock lilts me mine;\nCome tender sleep, and fold me to\nthy"
- },
- {
   "time": "2026-09-30 20:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "For on the far Pacific\ncoast,\nDo they still stop beneath\nthe innocent crucified for\nthe lips of the light.\nOur eyes with tears so\nholden"
+ },
+ {
+  "time": "2026-10-10 03:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "This evil shall not always\nlast,\nI feel his curse as a\nwelcome\nWho said, when we stand\nClasping by faith our\nSaviour's"
  }
 ]

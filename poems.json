@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-01 00:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Heard they aright? Did that\nbrave\nThe far horizon's beckoning\nspan!\nGives song a nightless day,\nYour eyes are too sadly kind\nTo us the Plan; give us\nundisturbed"
- },
- {
   "time": "2026-10-01 01:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "All pure, but heavy, and\nof Peace is hovering over\nNo rubies can compare.\n\"Adorn'd and crown'd I'd\nhave\nFor this my race\nWhich wind with hill"
+ },
+ {
+  "time": "2026-10-10 09:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "In holy wrath they ever\nmet,\nAnd cursed the land of\nStars\nFrom sorrow and pain were\no'er;\nDo not cheer, while little"
  }
 ]

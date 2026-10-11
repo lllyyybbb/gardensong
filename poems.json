@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-01 20:00",
-  "temp_c": 24.0,
-  "temp_f": 75,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "In sculptured worship now he lives,\nHis humblest children have a problem\nall\nPearly teef, an' shinin' hair,\nWhether the strands be dark or fair,\nDrop down the street,\nBearing their strangely-ghostly\nburdens"
- },
- {
   "time": "2026-10-01 21:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "And when he soars, his fine\nfalsetto\ncrimson in my grain,\nSour-sop, and Gub'nor cane.\nCous' Sun sits in hired dray,\nDrivin' 'long de market way;\nI plucked my soul I cry to"
+ },
+ {
+  "time": "2026-10-11 02:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "The wine-flushed, bold-eyed\nboys,\nI felt like puttin' in,\nAnd over the hills,\nManhattan’s roofs and spires\nand\nWhen Hera's gardens gleamed,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-01 15:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "I see a part of some great plan.\n* The Temperance Band,\nThis I ask to clasp their hands and\naching\nFo' mah ol' gran'ma always said\nCruelly they fiercely showered"
- },
- {
   "time": "2026-10-01 16:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Then, younger brothers mine,\nbeware!\nHit fill de chu'ch des sob an'\nweep)\n\"Should the ocean sings the\nrequiem"
+ },
+ {
+  "time": "2026-10-10 21:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "Where cold and gray,\nThey may faithful and true\nremain.\nprostrate form. He then shot\nthe men of dusk and the gleam\nof Peace hovering over No Man's"
  }
 ]

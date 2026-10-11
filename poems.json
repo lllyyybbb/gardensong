@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-01 18:00",
-  "temp_c": 27.0,
-  "temp_f": 81,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "I marveled at the prison door,\n\"Ho, keeper, do not stay!\nWe lift up our hearts with anguish wild\nKneels and implores that her darling\nchild\nAnd the proud old \"turk\" of the men of"
- },
- {
   "time": "2026-10-01 19:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "An' de picknies, six in all,\nWhose face was in her tender\nletters,\nLove’s softly glowing spark;\nFor the lead but eye things\nfrom the specter of pursuing"
+ },
+ {
+  "time": "2026-10-11 00:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "From their distant homes in\npain;\nHim roll him eye, him mek you\nsick--\nIt was not fate which overtook\nme,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-01 16:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "Dead to the warm and soft and quivering\nyour\n\"O, Doctah, come queeck, an' see Mr.\nB'ar;\nThe dew is on de gras'\nAn' da blackbird's voice it gits so"
- },
- {
   "time": "2026-10-01 17:00",
   "temp_c": 27.0,
   "temp_f": 81,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "Where cold and gray,\nThey may faithful and true\nremain.\nprostrate form. He then shot\nthe men of dusk and the gleam\nof Peace hovering over No Man's"
+ },
+ {
+  "time": "2026-10-10 22:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Lives to brighten life.\nIt makes my heaven in the\nmeadow\nWith rigid brow and silent\ntread,\nI traced a path"
  }
 ]

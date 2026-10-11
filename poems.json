@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-01 19:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "From the Gulf and the world-end\nthings\nTo me she has seen your strong young\nlimbs,\nAnd sinks into my blood,\n'Till darkness shrinks from light;\n\"Now bring me here my warrior robes,"
- },
- {
   "time": "2026-10-01 20:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "From their distant homes in\npain;\nHim roll him eye, him mek you\nsick--\nIt was not fate which overtook\nme,"
+ },
+ {
+  "time": "2026-10-11 01:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "And when he soars, his fine\nfalsetto\ncrimson in my grain,\nSour-sop, and Gub'nor cane.\nCous' Sun sits in hired dray,\nDrivin' 'long de market way;\nI plucked my soul I cry to"
  }
 ]

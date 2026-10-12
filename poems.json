@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-02 13:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "The fiery hail fell thick and fast;\nAnd ever the man he rides me hard,\nAnd all because he dared to tell the\nKing,\"\nFor the love that sends us flowers?\nWelcome, early visitants,"
- },
- {
   "time": "2026-10-02 14:00",
   "temp_c": 28.0,
   "temp_f": 82,
@@ -1598,5 +1590,13 @@
   "humidity": 94,
   "lines": 8,
   "poem": "He goes seekin' his reward,\nWhile the cohorts of death\nTo nobler, grander things\naspire;\nSlid slowly, silently, the\nwraith-like\nAnd its lovely glow.\nI plucked my soul must be"
+ },
+ {
+  "time": "2026-10-12 03:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 94,
+  "lines": 8,
+  "poem": "A ruined body and sin-wrecked\nsoul.\nShe leaned her head there\nfloats\nUncovered on your couch of\ndeath\nYet, as we are?\nThen God smiled,"
  }
 ]

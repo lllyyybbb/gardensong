@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-02 14:00",
-  "temp_c": 28.0,
-  "temp_f": 82,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Life's heavy, wearisome burdens\nWill some kind one direct me to face the\nmurderous,\n'Mid swirling spangles, gauze and lace,\nHer homes and swept them downward,\nSuddenly to yawning graves."
- },
- {
   "time": "2026-10-02 15:00",
   "temp_c": 30.0,
   "temp_f": 86,
@@ -1598,5 +1590,13 @@
   "humidity": 94,
   "lines": 8,
   "poem": "A ruined body and sin-wrecked\nsoul.\nShe leaned her head there\nfloats\nUncovered on your couch of\ndeath\nYet, as we are?\nThen God smiled,"
+ },
+ {
+  "time": "2026-10-12 04:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "And the mystic symbols glow--\nLiberty! Fraternity!\nWe shall smile who loved to\nnestle\nWhen ol' Sis' Judy pray.\nWhen de cabbage pot is\nsteamin'\nIt may be"
  }
 ]

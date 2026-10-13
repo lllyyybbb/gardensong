@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-03 15:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Your sun-illumined way;\nI have kissed her red, red lips\nTo feebler ones than mine,\nRide on, young lord, thou ridest\nby\nNo! Once again the hard, the ugly"
- },
- {
   "time": "2026-10-03 16:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "When she saw her birth;\nThe stars were clustered\nabout\nOf wilting plants and\nfainting\nHow dare you laff et me,\nWaiting for the rights of man\nBut the beat of onward feet,"
+ },
+ {
+  "time": "2026-10-13 05:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "The barrier that loomed\nbetween\nDar's a lazy, sortah hazy\nFeelin' grips me, thoo an'\nthoo;\nJump back, honey, jump back.\nHyeahd huh sigh a little\nbarefoot"
  }
 ]

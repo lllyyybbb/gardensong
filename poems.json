@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-04 07:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "Refute our wilding minstrelsy.\nAlas! Lord God, deaf to\ncheers;\nTo enrol his name in golden\nsmiles\nThe great white witch you have\npassed\nJump back, honey, jump back."
- },
- {
   "time": "2026-10-04 08:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "They may not ask me e'er to prove\nThe thunder's roll is their trump's\npeal,\nAs with thumbs unbent they glared,\nTill her footsteps cease to be.\nWould still be brave,\nAnd the light around in vain you"
+ },
+ {
+  "time": "2026-10-13 19:00",
+  "temp_c": 24.0,
+  "temp_f": 75,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "I am, and am not.\nThen should we speak but servile\nwords,\nTekin' out de doubt\nHow tired unto death,\nHis walls may be\nThe wild, shy kind that spring"
  }
 ]

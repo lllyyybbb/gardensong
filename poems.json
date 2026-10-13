@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-03 18:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "There is no part of the minstrel's\nlyre?\nHas come, has come!\nA love so fugitive and so fair.\nAgain, I feel your glad\nChiding from the blaze of the"
- },
- {
   "time": "2026-10-03 19:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "The barrier that loomed\nbetween\nDar's a lazy, sortah hazy\nFeelin' grips me, thoo an'\nthoo;\nJump back, honey, jump back.\nHyeahd huh sigh a little\nbarefoot"
+ },
+ {
+  "time": "2026-10-13 08:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "Lolled and with the promise\nin March; there is a red\nand\nAnd though my passion was a\nsacred\nTo roam with her the\nglory-land\nIt saps its pillars proud"
  }
 ]

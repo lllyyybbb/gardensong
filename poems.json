@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-05 15:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 40,
-  "lines": 4,
-  "poem": "Must bear and bear alone.\nThey'd charged him with the night,\nWhere their fallen children sleep.\nDo not cheer till arbitration"
- },
- {
   "time": "2026-10-05 16:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Seen my lady home las' night,\nJump back, honey, jump back.\nMockin'-bird was singin' fine,\nTo dat res'less, wretchit fevah evah\nSprin'.\nAnd I'm a grown man now.\nIt's lain there in the hollow of his"
+ },
+ {
+  "time": "2026-10-14 19:00",
+  "temp_c": 26.0,
+  "temp_f": 79,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Hit fill de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nDo not cheer until each nation\nSheathes the sword and blunts the\nspear,\nLet's hear these motley pilgrims wile\naway\nGod bless our native land,"
  }
 ]

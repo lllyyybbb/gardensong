@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-05 12:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "As on a low guitar\nAbruptly from a funeral pyre--\nA goodly friend.\nThe zest of life a hell.\nI'm busy to-day with tare and\ntret,\nTheir eyes wine-weakened and"
- },
- {
   "time": "2026-10-05 13:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Seen my lady home las' night,\nJump back, honey, jump back.\nMockin'-bird was singin' fine,\nTo dat res'less, wretchit fevah evah\nSprin'.\nAnd I'm a grown man now.\nIt's lain there in the hollow of his"
+ },
+ {
+  "time": "2026-10-14 16:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "When you are waiting me still to-night\nBy whom our wills are caught.\nWho have borne life's burdens long,\nSeems lak to me the down-crushed\nspirit,\nThe gorse and heather bloom for me, is\nshod"
  }
 ]

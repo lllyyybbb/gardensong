@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-05 13:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Your sun-illumined way;\nI have kissed her red, red lips\nTo feebler ones than mine,\nRide on, young lord, thou ridest\nby\nNo! Once again the hard, the ugly"
- },
- {
   "time": "2026-10-05 14:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "When you are waiting me still to-night\nBy whom our wills are caught.\nWho have borne life's burdens long,\nSeems lak to me the down-crushed\nspirit,\nThe gorse and heather bloom for me, is\nshod"
+ },
+ {
+  "time": "2026-10-14 17:00",
+  "temp_c": 27.0,
+  "temp_f": 81,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Love is but desire and thy purpose\nfulfillment;\nWould learn to labor, live and die a\nslave?\nOf some wild animal caught in the\nsoul-toned\nIn night, O God of Peace."
  }
 ]

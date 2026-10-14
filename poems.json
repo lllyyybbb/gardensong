@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-04 20:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "Stood frowning 'gainst the\nearth\nSo dey k'lated eberyt'ing;\nAn' stops dis ha't f'um\nsighin'!\nFor Thy tender mercies,\nabiding\nNo rubies can compare."
- },
- {
   "time": "2026-10-04 21:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 82,
   "lines": 8,
   "poem": "You say it is a-sighin',\nWhil' de win' up here's\na-blowin',\nTo noble friends of darker days;\nTo Lundy, whose heart was early\nwon,\nWhen ol' Sis' Judy pray,\nDe whole house hit des rock an'"
+ },
+ {
+  "time": "2026-10-14 02:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 83,
+  "lines": 8,
+  "poem": "mocked and murdered people;\nstraining\nTo Jamie it seemed more clear;\nGrandma, he said, \"to buy a\nlittle\n\"I bled to free all men,\" you\nsay\nAnd I am not fiend and savage"
  }
 ]

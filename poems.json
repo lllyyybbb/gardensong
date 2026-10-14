@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-04 19:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Ub all yer fancy eatin's, jes\ngib\nDat am da time fuh rain.\nDo you think of me is lost,\nforever\nWhut I keer ef day is long,\nHas pushed the timid little\nfeet"
- },
- {
   "time": "2026-10-04 20:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "Forgot that one's heart must be\nhappening\nWhere there shall be no rain\nto-day,\nGives song a nightless day,\nWhose face was as flint against\nour\nTo laugh and love me"
+ },
+ {
+  "time": "2026-10-14 01:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 82,
+  "lines": 8,
+  "poem": "You say it is a-sighin',\nWhil' de win' up here's\na-blowin',\nTo noble friends of darker days;\nTo Lundy, whose heart was early\nwon,\nWhen ol' Sis' Judy pray,\nDe whole house hit des rock an'"
  }
 ]

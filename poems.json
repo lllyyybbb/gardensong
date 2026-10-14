@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-04 13:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 86,
-  "lines": 8,
-  "poem": "Men warred against their\nfiercest\nThe ghastly body swaying in the\nshadow\nTo side with justice, truth and\nright\nAs Israel through the\nwindowpane,"
- },
- {
   "time": "2026-10-04 16:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "The wild and bright was the\ngallant\nMy hands were tied;\nBut would please the weak frail\nflesh;\nSharers of a thousand dusky\ntoilers\nWhere the old oak-tree;"
+ },
+ {
+  "time": "2026-10-13 23:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "When she knew her self was not in\nthat no wrong this side the gate\nof fortune that came at length;\nBut what shall you say?\nWhy quit the open spaces I could\nnot\nFur 'weh down Souf;\nAn' half a century sweeps our ken,"
  }
 ]

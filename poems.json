@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 08:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "On all that He had\nclasped\nAvert the doom that\ncrime\nFor blood shed in vain?\nThat earth's substance\nturns\nThe freedom of the"
- },
- {
   "time": "2026-10-06 09:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Searching me through, reading my\nthoughts,\nBring love for bird and beast\nand\nHim hide it un' de kitchen\nsta'r,"
+ },
+ {
+  "time": "2026-10-15 13:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
  }
 ]

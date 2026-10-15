@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-05 21:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "A goodly friend.\nThe fields will spread with\nevery\nI worship at your breast. The\nflower\nHollyhawks a-bloomin'"
- },
- {
   "time": "2026-10-05 22:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "Gazed on the lips of the ground,\nWhere labor faints and bows her\nhead,\nWill see the playful snow,\nLike a band of Gideon yet will come\nout,\nAnd God stepped over to the Oceans'\nbanks--"
+ },
+ {
+  "time": "2026-10-15 02:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 83,
+  "lines": 8,
+  "poem": "Uncovered on your trembling throat.\nI’m afraid of your life,\nAn' de shadow lef' him face,\nI want the night wind wail?\nHe builded his cabin far away,\nWhere sleep our kindred dead,\nLet me be a Negro in a thousand\nmiles"
  }
 ]

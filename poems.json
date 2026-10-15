@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 10:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Sence you went away.\nFor oh, I only wish that I\nwas\nThey chided him for\ntelling\nfrom us, tempt us not"
- },
- {
   "time": "2026-10-06 11:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "Oh, for the dawn’s great star\n(Perchance the one that ever\nspeaks\nImpotent atom with desolate gaze\nThreading the tumult of hazardous\nways--"
+ },
+ {
+  "time": "2026-10-15 15:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
  }
 ]

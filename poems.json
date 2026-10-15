@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 09:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "He found me poor and\npale\nThe spell of half\ntears,\nThe herald angel's\nrefrain,\nLove’s softly glowing"
- },
- {
   "time": "2026-10-06 10:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
+ },
+ {
+  "time": "2026-10-15 14:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Oh, for the dawn’s great star\n(Perchance the one that ever\nspeaks\nImpotent atom with desolate gaze\nThreading the tumult of hazardous\nways--"
  }
 ]

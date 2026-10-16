@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 19:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "In agony searching for their\nbartered\nDe whole house hit des rock\nan'\nTo serve the Crucified."
- },
- {
   "time": "2026-10-06 20:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "Refute our wilding minstrelsy.\nAlas! Lord God, deaf to\ncheers;\nTo enrol his name in golden\nsmiles\nThe great white witch you have\npassed\nJump back, honey, jump back."
+ },
+ {
+  "time": "2026-10-16 03:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 82,
+  "lines": 8,
+  "poem": "From clear Nyanzas and\nmysterious\nThat I ask to clasp their\nhands\nAnd catch the gleaming of a\nrobin’s\nNot mortal, a flower, a fairy,\ntoo"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-07 08:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 97,
-  "lines": 8,
-  "poem": "The dusk has long gone\nwith\nAnd the moon\nFrom the cup pass\nTo whisper soft and\nquivering\nWhat guerdon is in its\nwondering"
- },
- {
   "time": "2026-10-07 09:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Over their tortured and their tears;\nCan you blame the world has read of\nheroes\nThe portals of that black land where\nDixie's\nFair and lovely are your cheeks,"
+ },
+ {
+  "time": "2026-10-16 19:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "In vain; then even the girls, they\nwin\nGod of nations,\nHaste! oh, haste the glorious day\nHis chosen seed should tread,\nThe sea is crossed, the longed-for\nport"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 23:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "For the new dawn that is\nyou,\nIs a fiery steed.\nAnd in the sky,\nThe flames laugh high\nand\nStill shines the gate,\nall"
- },
- {
   "time": "2026-10-07 00:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "From the Gulf and the apple\nred,\nAnd the light with an air\nThat it pleases nevermore?\nWhence your joy through sun\nand\n\"And the children of the sea,\nIn sculptured worship now he"
+ },
+ {
+  "time": "2026-10-16 10:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 91,
+  "lines": 8,
+  "poem": "If this dark Passion that\nfills\nOnly le' me lis'n,\nAs the tempest as it swung.\nI had was a sacred cell\nalways,\nAnd then demanded of the\nstifled"
  }
 ]

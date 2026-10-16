@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-07 07:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 98,
-  "lines": 8,
-  "poem": "\"I will bring to this\nearth\nIn which he sang of\nall\nRacin' ober pastur'\nlan',\nIt could not tell\ntheir hands"
- },
- {
   "time": "2026-10-07 08:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "My bruthah jus' sent word to me, the\nweary,\nBut when you’re filled and sated\nwith\nThese seven links the _Law_\ncompelled"
+ },
+ {
+  "time": "2026-10-16 18:00",
+  "temp_c": 23.0,
+  "temp_f": 73,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Over their tortured and their tears;\nCan you blame the world has read of\nheroes\nThe portals of that black land where\nDixie's\nFair and lovely are your cheeks,"
  }
 ]

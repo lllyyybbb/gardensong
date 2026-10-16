@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 22:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Like nursery children you\nhave\nIn our defence had\nbravely\nA ray of light,\nWould you blame the world\ntheir hands again"
- },
- {
   "time": "2026-10-06 23:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 86,
   "lines": 8,
   "poem": "An' a smile and\nthe lips of wrath--\n\"What means this badge?\" said\nher\nFrom sorrow and regret,\nNor in an earthly urn,\nThe bolts unbar, the locks are\ndrawn,"
+ },
+ {
+  "time": "2026-10-16 09:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 92,
+  "lines": 8,
+  "poem": "From the Gulf and the apple\nred,\nAnd the light with an air\nThat it pleases nevermore?\nWhence your joy through sun\nand\n\"And the children of the sea,\nIn sculptured worship now he"
  }
 ]

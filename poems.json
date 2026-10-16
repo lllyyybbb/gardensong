@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-07 00:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "You must staunch these\nwounds\nThat ye will try the\nboys\nShake our land from\nshore\nWhile to its alien gods\nI have given up myself"
- },
- {
   "time": "2026-10-07 01:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 91,
   "lines": 8,
   "poem": "If this dark Passion that\nfills\nOnly le' me lis'n,\nAs the tempest as it swung.\nI had was a sacred cell\nalways,\nAnd then demanded of the\nstifled"
+ },
+ {
+  "time": "2026-10-16 11:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "For gallant France, for praying\nFrance,\nAn' I'm hongry, O, so berry,\nFur my hom' I am glad that the\nship\nAlas! that in our hands, it has\nbeen\nStand back of new-come foreign"
  }
 ]

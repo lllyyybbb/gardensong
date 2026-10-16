@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 21:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "I wist sum magic w'u'd\nellow,\nA downful pillow for your\nsons\nAdam nevuh had no home,\nthey\nHe sowed in his fold."
- },
- {
   "time": "2026-10-06 22:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 83,
   "lines": 8,
   "poem": "Knelt by that badge in prayer.\nSewanee Hills of dear delight,\nAnd God walked, and where He\ncould\nOr do you moan,\nWhat is a sick man,\nEvery man has got a hobby,\nEvery sweet contains its"
+ },
+ {
+  "time": "2026-10-16 08:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 86,
+  "lines": 8,
+  "poem": "An' a smile and\nthe lips of wrath--\n\"What means this badge?\" said\nher\nFrom sorrow and regret,\nNor in an earthly urn,\nThe bolts unbar, the locks are\ndrawn,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 15:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 37,
-  "lines": 4,
-  "poem": "Or do you think those precious\ndrops\nFor bags and wraps the red-caps\ncircle"
- },
- {
   "time": "2026-10-06 16:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Along, above, and God is God!\n(_To Robert Gould Shaw_)\nFlushed with the new era of\nyour\nThe sea-king's dying bed,\nE'er the dimly lighted valley\nI marveled at the Queen's"
+ },
+ {
+  "time": "2026-10-15 20:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "Long nights, long nights and\nthe lips of health,\nBreath the olive-pink of\nsandaled\nThe hungry heart was glad and\nfree;\nWith fell relentless art--\nI'm longing to see"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-06 18:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 41,
-  "lines": 4,
-  "poem": "I teach them POWER to will and\ndo,\nSingin', \"Sleep, my honey, tek\nyo'"
- },
- {
   "time": "2026-10-06 19:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "And realize once more my\nthousand\nLuxuriant, clustered round\nyour\nAre darling of spirit and\nform.\nCome, children, hear the\njoyful"
+ },
+ {
+  "time": "2026-10-16 02:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "Refute our wilding minstrelsy.\nAlas! Lord God, deaf to\ncheers;\nTo enrol his name in golden\nsmiles\nThe great white witch you have\npassed\nJump back, honey, jump back."
  }
 ]

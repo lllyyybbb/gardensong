@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-08 01:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "And against the bark-scorched\ntree.\nTo die while you love me,\nWhile dem boy, wid pantaloon\nRoll up ober dem knee-pan,\n'Tep across de buccra lan'\nTo gaze upon him\nThings he ought to see."
- },
- {
   "time": "2026-10-08 02:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "A battle greater, grander\nfar\nWhy, Persia's women all\nwould\nDe Cunjah man,\nAs they gathered golden"
+ },
+ {
+  "time": "2026-10-17 14:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Another shriek, the last!\nWatch\nNow the dead days I have\nused\n'Till war shall be a Negro\nin crime and fed them on"
  }
 ]

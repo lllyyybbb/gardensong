@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-08 00:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Down in lovah's lane,\nMerlindy! Merlindy!\nMy heart was all but weaned\naway\nWhen ol' Sis' Judy pray.\nO, Miss 'Lindy, doan' you\nhyuh\nFell on his sword,"
- },
- {
   "time": "2026-10-08 01:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "They shall see Him in the\ngreat\nEvery fool has got a\nhobby,\nFor the silver break\nOf subtly-changing and"
+ },
+ {
+  "time": "2026-10-17 13:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "A battle greater, grander\nfar\nWhy, Persia's women all\nwould\nDe Cunjah man,\nAs they gathered golden"
  }
 ]

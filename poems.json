@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-07 11:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "A house that will firmly\nstand.\nO whisper, O my brothers,\nhow\nThat they had forgotten\ntheir hands again\n'Mid the dreadful blast."
- },
- {
   "time": "2026-10-07 12:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 88,
   "lines": 8,
   "poem": "An' er acre o' groun',\nAn' seem to say\nWhen de cocks crow on de way,\nDown through the shade you throw,\nRuns a shudder over me?\nCan bring true rest to cool my\nbody’s\nThis morning. I have"
+ },
+ {
+  "time": "2026-10-16 22:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "Her voice was gone,\nSave where a few asleep,\nSome withered women desolate and\nmean,\nWeep not, oh my well-sheltered\nsisters,\nHis lonely agonizing pain,\nA ruined body and lust of power"
  }
 ]

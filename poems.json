@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-07 22:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Gin is better than you knew;\nthe men of garish nights,\nTheir laugh is swallowed in\nthe men knocked him\nFor the love that sends us\nflowers?\nBy angel fingers strung."
- },
- {
   "time": "2026-10-07 23:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "Tekin' out de doubt\nWhen ol' Sis' Judy pray,\nSalvation's present plan?\nA conscience, dumb to\nbrooding\nO dawn! O let me buy the\nplace"
+ },
+ {
+  "time": "2026-10-17 11:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "I wist sum magic w'u'd\nellow,\nA downful pillow for your\nsons\nAdam nevuh had no home,\nthey\nHe sowed in his fold."
  }
 ]

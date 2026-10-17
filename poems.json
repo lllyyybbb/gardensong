@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-07 17:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "Farewell, Miss Melerlee!\nOh, foolish man, why weep you\nnow?\nCan you blame me if I've learned\nto dance for the night,\nAnd of the deep;"
- },
- {
   "time": "2026-10-07 18:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 89,
   "lines": 8,
   "poem": "An' er acre o' groun',\nVines agrowin' on it,\nKaze it jes won't be denied;\nIts love, its joy, and rosy\nlight,\nOut in the\neucharis\nBefore sex tamed your"
+ },
+ {
+  "time": "2026-10-17 07:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "Or talk of sorrow, pain and\nloss,\nThat war should close his\nwrathful\nAnd why, when I wake, alone,\nBut may mother, home and\nHeaven, the other upon the\nearth"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-08 23:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "From that hour Rome, grown\nmore\nAt the\nSickle comes and leaves us\nstunned\nThrust the strange intruder"
- },
- {
   "time": "2026-10-09 00:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 45,
   "lines": 4,
   "poem": "And He looked at His sun,\nShe sang and danced on\ngracefully\nHots de coffee for de lads"
+ },
+ {
+  "time": "2026-10-18 15:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 40,
+  "lines": 4,
+  "poem": "Seven-fold months in Flanders\nslain!\nWhat bows your childish head\nso"
  }
 ]

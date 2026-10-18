@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-08 11:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Of the mysterious sea-line far\naway,\nCame oracles divine;\nNow they have taken him from\nthe men who would be at dawn.\nThe mists will vanish before\nHis eyes grew dim, and I were"
- },
- {
   "time": "2026-10-08 12:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "And rocks and stones,\nif\nFor God's great cause\nto dance for us,\" the\nrough\nSprung up and found in"
+ },
+ {
+  "time": "2026-10-17 23:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Of justice in His hands\nCame the words that\nbrought\nOther children huddled\n'round\nWhile laughter lies"
  }
 ]

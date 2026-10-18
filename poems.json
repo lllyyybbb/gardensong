@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-08 10:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Where the cocks are crowing,\ncrowing,\nBut in all the glowing\nfire-place\nWhen he told me in the dell,\nOr where the thunder of thy\nfarm,\nFor this no metal was too"
- },
- {
   "time": "2026-10-08 11:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "To damn the other is\nWill.\nI must not gaze at them\nalthough\nWhen every street with\nsnares"
+ },
+ {
+  "time": "2026-10-17 22:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "And rocks and stones,\nif\nFor God's great cause\nto dance for us,\" the\nrough\nSprung up and found in"
  }
 ]

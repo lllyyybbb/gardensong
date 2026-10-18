@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-08 18:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "Stand back of new-come foreign\nhordes,\nJoy to you it gave.\nThese souls that grandly rise\nAbove the short brown grass asleep."
- },
- {
   "time": "2026-10-08 19:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "Go spread the glad\nDecember\nTransfigured, bathed\nin March; there is a\ngood\nHyah 'im scol' 'is"
+ },
+ {
+  "time": "2026-10-18 10:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "An' I'm hongry, O, so\nberry,\nThan to staunch a\nstream\nWith all its living\nthings,"
  }
 ]

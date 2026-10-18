@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-08 09:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "In me the down-crushed\nspirit,\nAn' I've hyeahd o' lots o'\nprayers,\nAll the force they could not\nmove;\nMid the wreck and roar of\nbattle"
- },
- {
   "time": "2026-10-08 10:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "Gole braid ercross de\nches';\nHe could not drift beyond\nHis journeying was o'er,\nThe fire leaps out and\nlicks"
+ },
+ {
+  "time": "2026-10-17 21:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "To damn the other is\nWill.\nI must not gaze at them\nalthough\nWhen every street with\nsnares"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-08 22:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "I must reap as we are?\nThen he got up an' began\nPickin' up him sugar-pan:\nIn the great ships pass,\nThe factory where they shape\nnew"
- },
- {
   "time": "2026-10-08 23:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 49,
   "lines": 5,
   "poem": "By angel fingers strung.\nDo not cheer: once joyous\nmaidens,\nLike rivers of the sea,\nIn which the sun comes"
+ },
+ {
+  "time": "2026-10-18 14:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 45,
+  "lines": 4,
+  "poem": "And He looked at His sun,\nShe sang and danced on\ngracefully\nHots de coffee for de lads"
  }
 ]

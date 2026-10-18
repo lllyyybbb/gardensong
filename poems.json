@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-09 00:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "The tired cars go grumbling\nby,\nLeaving behind the vestige of\na\nLike softening to a mighty\ntrumpet-call"
- },
- {
   "time": "2026-10-09 01:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 40,
   "lines": 4,
   "poem": "Seven-fold months in Flanders\nslain!\nWhat bows your childish head\nso"
+ },
+ {
+  "time": "2026-10-18 16:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 40,
+  "lines": 4,
+  "poem": "For Christless men, with eager\nhands\nWith bated breath and useless\nthing?"
  }
 ]

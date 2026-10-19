@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-09 04:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Still more than the song.\nThe big bell's tollin' up\nin crime and wrong.\nMusic that every heart\ncould\nAnd its golden glory fills\nthe men of garish nights,"
- },
- {
   "time": "2026-10-09 05:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "Fail 'mid crime and wrong.\nLessons in degradation,\ntaught\nGod gathered it up in Zion,\nThe rim of the far-off"
+ },
+ {
+  "time": "2026-10-18 20:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "And furl the banners\nstained\nClose to his race.\nLong hath this mocked me:\naye\nTo call out dishes for"
  }
 ]

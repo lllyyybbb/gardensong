@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-09 13:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "I'm frum 'weh down Souf;\nAn' loud de chu'ch des sob an'\nweep)\nThen He stopped and looked and\nsaw\nUntil my latest breath I'll crave"
- },
- {
   "time": "2026-10-09 14:00",
   "temp_c": 22.0,
   "temp_f": 72,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Is there no hope for\nme?\nWindways, will sweep\nme\nIs a fiery steed.\nAnd swarthy children\nin crime and shame,"
+ },
+ {
+  "time": "2026-10-19 08:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "Deze eatin' folks may\ntell\nO, brothers mine,\ntake\nTelling us we all\ntread.\n'Long de lovah's"
  }
 ]

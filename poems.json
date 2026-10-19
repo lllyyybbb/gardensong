@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-09 20:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "What time the purple flowers of\nfragrant\nOn the margin let me rest!\nWeary my veins, my brain, my\nlife,--have\nRose with words of \"Home, Sweet"
- },
- {
   "time": "2026-10-09 21:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "A canopy of shady leaves.\nHer clinging was a mighty\nflame,\nclawing within, to whose voice\nafar"
+ },
+ {
+  "time": "2026-10-19 15:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "Loud the whistles blew and the\nfruitful\nAnd charm our cares away.\nI have embalmed the days,\nEven the sacred fire?"
  }
 ]

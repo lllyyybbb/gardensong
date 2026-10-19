@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-09 23:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Where lofty fanes in grandeur\nrose,\nFade in everlasting light.\nHow sound the depths\nOf the fountains of\nrefreshment"
- },
- {
   "time": "2026-10-10 00:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "To gi'e baby when she appears,\nMy heart was stilled at last;\nIts a mos' pursistin' stubbern\nsortah\nHer sons are lifting up their"
+ },
+ {
+  "time": "2026-10-19 18:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 50,
+  "lines": 5,
+  "poem": "With sudden vigor stirred.\n\"I will take the crown from\noff\nHe nevuh had no dear old Ned\nis"
  }
 ]

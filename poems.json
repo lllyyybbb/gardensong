@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-10 12:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "In the downward path of flame\nand\nSoft-scented, redolent of my\nsoul\nWhen my thought burns through\neverything"
- },
- {
   "time": "2026-10-10 13:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Among the sons of men:--\nBut Adam nevuh had no dear\nold\nIngenious grows the\nmightier,\nJasmines, night jasmines,"
+ },
+ {
+  "time": "2026-10-20 11:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "In God, so tender, strong\nand\nSeas cooling warm where\nnative\nConspires to rob me of vital\nworth,"
  }
 ]

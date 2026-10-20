@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-10 10:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "I hear the halting footsteps\nof Peace hovering over No\nMan's\nIn vain for help to me.\nO black men, simple slaves of\nruthless\nBut I should taste with my"
- },
- {
   "time": "2026-10-10 11:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 55,
   "lines": 6,
   "poem": "To lead me unto my\nnoblest\nGhosts are turned flesh,\nthrowing\nWild May that cantered\nby"
+ },
+ {
+  "time": "2026-10-20 09:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "A woman who would give\nHer voice was gone,\nWith not a word of jeer.\nDarkly I gaze into the\npregnant\n\"Shall He for France do"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-10 13:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "I'm frum 'weh down Souf;\nAn' loud de chu'ch des sob an'\nweep)\nThen He stopped and looked and\nsaw\nUntil my latest breath I'll crave"
- },
- {
   "time": "2026-10-10 14:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "In God, so tender, strong\nand\nSeas cooling warm where\nnative\nConspires to rob me of vital\nworth,"
+ },
+ {
+  "time": "2026-10-20 12:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "A goodly friend.\nThe fields will spread with\nevery\nI worship at your breast. The\nflower\nHollyhawks a-bloomin'"
  }
 ]

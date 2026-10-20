@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-10 18:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "The pine tree pointed his finger\nto dance for us,\" the rough men\nsaid;\nAnd quiet for the night,\nToo blue the silver-speckled sky,"
- },
- {
   "time": "2026-10-10 19:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "My tongue is aching dry, my\nthroat\nThen tenderly the sons of earth,\na\nHave ye not, oh, my favored"
+ },
+ {
+  "time": "2026-10-20 16:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 45,
+  "lines": 4,
+  "poem": "The portals of that steamer\nWhen I declare I am that which\ncomes\nFathers! torn and numb,--"
  }
 ]

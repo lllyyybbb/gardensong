@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-12 01:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 94,
-  "lines": 8,
-  "poem": "He goes seekin' his reward,\nWhile the cohorts of death\nTo nobler, grander things\naspire;\nSlid slowly, silently, the\nwraith-like\nAnd its lovely glow.\nI plucked my soul must be"
- },
- {
   "time": "2026-10-12 03:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 40,
   "lines": 4,
   "poem": "Feared her child would die of\nthirst\nLeaven for the amusement of some\ngreat"
+ },
+ {
+  "time": "2026-10-21 17:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 44,
+  "lines": 4,
+  "poem": "Will give us the winds will\nblow\n'Weh down Souf.\nDar de pickaninnies 's"
  }
 ]

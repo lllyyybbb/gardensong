@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-11 20:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 93,
-  "lines": 8,
-  "poem": "With not a shred\nOf the maddened beasts of prey.\nShe calmly met her fate,\nNor yield herself to thee,\nThe fire, lest it should press\nOn to the noble spirit of\nSpace,\n'Weh down Souf;"
- },
- {
   "time": "2026-10-11 21:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "To gi'e baby when she appears,\nMy heart was stilled at last;\nIts a mos' pursistin' stubbern\nsortah\nHer sons are lifting up their"
+ },
+ {
+  "time": "2026-10-21 15:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 44,
+  "lines": 4,
+  "poem": "Weave your garments fair and\ngreen,\nThe darkness swallowed thee\nagain."
  }
 ]

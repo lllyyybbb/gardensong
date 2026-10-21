@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-11 05:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "\"I was fashioned by His side.\nThe gorse and heather bloom\nfor\nMah 'ittle Touzle Head?\nO, Honey Lam'! dem sparklin'\neyes,\nEach black cloud\nIs like a living coal;"
- },
- {
   "time": "2026-10-11 06:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "For I have forgotten\nmuch,\nBut with it came the\nglorious\nThe color of a babe\nThat helped make history"
+ },
+ {
+  "time": "2026-10-21 04:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "And furl the banners\nstained\nClose to his race.\nLong hath this mocked me:\naye\nTo call out dishes for"
  }
 ]

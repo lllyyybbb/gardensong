@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-11 07:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 85,
-  "lines": 8,
-  "poem": "Pulsing through his sleep.\nHe lifted up his darkened\nface.\n\"Merely a Negro\"--in a day\nlike\nBut weep for Vashti's shame!\n\"Go back!\" she cried, and\nwaved"
- },
- {
   "time": "2026-10-11 08:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Brown bees that murmur\nsounds\nIn mountain fastnesses\nausterely\nHim set do'n an' begin\ncount"
+ },
+ {
+  "time": "2026-10-21 07:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "For fainting France, for\npraying\nSoared like a mighty\nwave\nFur summer days is been\nan'"
  }
 ]

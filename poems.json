@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-11 01:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "And when he soars, his fine\nfalsetto\ncrimson in my grain,\nSour-sop, and Gub'nor cane.\nCous' Sun sits in hired dray,\nDrivin' 'long de market way;\nI plucked my soul I cry to"
- },
- {
   "time": "2026-10-11 02:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Another shriek, the last!\nWatch\nNow the dead days I have\nused\n'Till war shall be a Negro\nin crime and fed them on"
+ },
+ {
+  "time": "2026-10-20 23:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Wan ashes. Still, from\nmemory's\n\"Ef pahsons git wu's,\nMoney got ter come een de\nOl'\nYour voice is stilled,"
  }
 ]

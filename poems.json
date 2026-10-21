@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-11 21:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 94,
-  "lines": 8,
-  "poem": "And the moon\nThat stretches to the waters\ndownward\nBy a flood of crimson rain.\n\"When da ole log cabin do',\nDat am da time fuh rain.\nDo not cheer until each nation\nShall more wise and thoughtful"
- },
- {
   "time": "2026-10-12 01:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 44,
   "lines": 4,
   "poem": "Weave your garments fair and\ngreen,\nThe darkness swallowed thee\nagain."
+ },
+ {
+  "time": "2026-10-21 16:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 40,
+  "lines": 4,
+  "poem": "Feared her child would die of\nthirst\nLeaven for the amusement of some\ngreat"
  }
 ]

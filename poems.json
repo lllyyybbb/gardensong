@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-11 10:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 93,
-  "lines": 8,
-  "poem": "And the mystic symbols glow--\nLiberty! Fraternity!\nWe shall smile who loved to\nnestle\nWhen ol' Sis' Judy pray.\nWhen de cabbage pot is\nsteamin'\nIt may be"
- },
- {
   "time": "2026-10-11 13:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Brown bees that murmur\nsounds\nIn mountain fastnesses\nausterely\nHim set do'n an' begin\ncount"
+ },
+ {
+  "time": "2026-10-21 10:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "For I have forgotten\nmuch,\nBut with it came the\nglorious\nThe color of a babe\nThat helped make history"
  }
 ]

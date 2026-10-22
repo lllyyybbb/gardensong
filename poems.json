@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-12 10:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 90,
-  "lines": 8,
-  "poem": "I a single grain destroy;\nAnd from her lap\nAnd, 'mid my lords and mighty\nmen,\nOh water, water, when the lips\nof Peace hovering over No\nMan's\nAnd He looked at His sun,"
- },
- {
   "time": "2026-10-12 11:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "Swells from a riven chain;\nFreedom your native land\nto dance for us,\" the\nrough\nMen may tread down the"
+ },
+ {
+  "time": "2026-10-21 23:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 55,
+  "lines": 6,
+  "poem": "Gole braid ercross de\nches';\nHe could not drift beyond\nHis journeying was o'er,\nThe fire leaps out and\nlicks"
  }
 ]

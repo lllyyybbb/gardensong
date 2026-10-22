@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-12 06:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 95,
-  "lines": 8,
-  "poem": "My voice falls dead a foot\nfrom the paths of pain.\nI only ask their lives may be\nbare\nTo flutter here? Thou hast\ngiven.\"\nWho came to me dat ev'ything\nis"
- },
- {
   "time": "2026-10-12 08:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "In agony searching for their\nbartered\nDe whole house hit des rock\nan'\nTo serve the Crucified."
+ },
+ {
+  "time": "2026-10-21 20:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "An' she'd a come an' drink\nan'\nWhen de cabbage pot is\nsteamin'\nHer all was dancing--save"
  }
 ]

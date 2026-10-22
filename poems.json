@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-12 08:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 94,
-  "lines": 8,
-  "poem": "And each succeeding day now\nlonger\nWho march to war with visions\nin crime and fed them on\nthe men who would care to\nlive\nBeauty, beauty, beauty!\nI have no care for his"
- },
- {
   "time": "2026-10-12 09:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "An' she'd a come an' drink\nan'\nWhen de cabbage pot is\nsteamin'\nHer all was dancing--save"
+ },
+ {
+  "time": "2026-10-21 21:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "Fail 'mid crime and wrong.\nLessons in degradation,\ntaught\nGod gathered it up in Zion,\nThe rim of the far-off"
  }
 ]

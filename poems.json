@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-12 18:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "A love so fugitive and so complete.\nUpon your hearts this vow record\nThat buried you beneath its strong\nembrace,\nThe lingering blossoms tenderly\nRefute our wilding minstrelsy.\nAlas! that in the East. Then,\nhigher,"
- },
- {
   "time": "2026-10-12 19:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Now sits with those\naround\n\"Cease your bloodshed,\"\ncried\nSweet as a rebel fronts\na"
+ },
+ {
+  "time": "2026-10-22 07:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "That suddenly and\nquiveringly\nA twitching body\nquivering\nWhich we have been with\nthee"
  }
 ]

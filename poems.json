@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-12 23:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Ub all yer fancy eatin's, jes\ngib\nDat am da time fuh rain.\nDo you think of me is lost,\nforever\nWhut I keer ef day is long,\nHas pushed the timid little\nfeet"
- },
- {
   "time": "2026-10-13 00:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 50,
   "lines": 5,
   "poem": "Who the mazy dance did\ntread,\nThe band of Gideon roam the\nsky\nThe black, the brown"
+ },
+ {
+  "time": "2026-10-22 13:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 44,
+  "lines": 4,
+  "poem": "Have bared my body through,\nBut weep for your listeners'\nhungry\nWhen yo' mammy says de"
  }
 ]

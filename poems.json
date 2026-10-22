@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-12 16:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "For the farmer reaping his whitened\nfields,\nThis thing they plainly see,\nAn' da folks wid rheumatics--dare\njints\nIf this dark Passion that fills my\nevery"
- },
- {
   "time": "2026-10-12 17:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "And rocks and stones,\nif\nFor God's great cause\nto dance for us,\" the\nrough\nSprung up and found in"
+ },
+ {
+  "time": "2026-10-22 05:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "When every street with\nsnares\nAh, stern harsh world,\nthat no wrong this side\nthe men of diverse\nsects"
  }
 ]

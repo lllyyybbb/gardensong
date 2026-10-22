@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-12 12:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "Forget not, O my soul!--the\nafternoon\nYou went with Dawn. You left me\nwhat\nWho thinks that he was\nbringing.\nFor there’s the barrier of\nrace,"
- },
- {
   "time": "2026-10-12 13:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "A woman who would give\nHer voice was gone,\nWith not a word of jeer.\nDarkly I gaze into the\npregnant\n\"Shall He for France do"
+ },
+ {
+  "time": "2026-10-22 01:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "For the dim regions\nwhence\nAnd in some safe archive\nI am hated.\nI see the shapes of girls\nwho"
  }
 ]

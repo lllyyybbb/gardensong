@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-13 00:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "Then, younger brothers mine,\ntake\n\"This one shall be their\nguide,\nWere loving her so much.\nSay not the gathered laurels,\nFading slowly from his fancy\ntake"
- },
- {
   "time": "2026-10-13 02:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 44,
   "lines": 4,
   "poem": "Have bared my body through,\nBut weep for your listeners'\nhungry\nWhen yo' mammy says de"
+ },
+ {
+  "time": "2026-10-22 14:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 39,
+  "lines": 4,
+  "poem": "Now a whispered murmur,\nNow they have taken him from\nthe innocent crucified for the\nnight,"
  }
 ]

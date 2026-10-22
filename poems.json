@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-13 07:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 90,
-  "lines": 8,
-  "poem": "The barrier that loomed\nbetween\nDar's a lazy, sortah hazy\nFeelin' grips me, thoo an'\nthoo;\nJump back, honey, jump back.\nHyeahd huh sigh a little\nbarefoot"
- },
- {
   "time": "2026-10-13 08:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 40,
   "lines": 4,
   "poem": "Seven-fold months in Flanders\nslain!\nWhat bows your childish head\nso"
+ },
+ {
+  "time": "2026-10-22 19:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 40,
+  "lines": 4,
+  "poem": "O word I love you?\nBe patient, weary body, soon\nthe lips of wrath--\n\"What shall be no rain"
  }
 ]

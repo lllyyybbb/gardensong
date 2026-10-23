@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-14 00:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "Forgot that one's heart must be\nhappening\nWhere there shall be no rain\nto-day,\nGives song a nightless day,\nWhose face was as flint against\nour\nTo laugh and love me"
- },
- {
   "time": "2026-10-14 01:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "In God, so tender, strong\nand\nSeas cooling warm where\nnative\nConspires to rob me of vital\nworth,"
+ },
+ {
+  "time": "2026-10-23 13:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "Couldn' fin' not'in' a-tall\nwould\nAnd all God's creatures, but\nI shall go back to our\nprayer"
  }
 ]

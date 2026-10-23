@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-14 07:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 85,
-  "lines": 8,
-  "poem": "The night is dark but, one by\nwhich\n(_A Negro Sermon_)\nAnd the moon was on His world\nAnd lights are in my veins, my\nbrain,\nAnd it's, oh, for a holiday.\nFrom the Sinai that faces"
- },
- {
   "time": "2026-10-14 09:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 52,
   "lines": 5,
   "poem": "Ah expec' to hyah a story,\nan'\nDown through the Red sea\ntrod,\nAnd we would bring our meed"
+ },
+ {
+  "time": "2026-10-23 19:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 54,
+  "lines": 5,
+  "poem": "Couldn' fin' not'in' a-tall\nwould\nAnd all God's creatures, but\nI shall go back to our\nprayer"
  }
 ]

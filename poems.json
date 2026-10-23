@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-13 21:00",
-  "temp_c": 22.0,
-  "temp_f": 72,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Where saints and angels greet;\nTo comfort hearts that sigh and\nbreak,\nGrows crisp and hangs till, turned\nto dance for us,\" the rough men\nsaid;\nTo living founts their feet shall\ntend,"
- },
- {
   "time": "2026-10-13 22:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "Death was staring in each\nface,\nFrom the lips of health,\nBreath the olive-pink of\nsandaled\nMy hero holds in fee;\nAnd thy fairest courts"
+ },
+ {
+  "time": "2026-10-23 10:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Strong in her smile there\nis\nI'm out to be wooed;\nAnd ferns that never\nceased,\nWhen \"Peace on earth, good"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-14 02:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "mocked and murdered people;\nstraining\nTo Jamie it seemed more clear;\nGrandma, he said, \"to buy a\nlittle\n\"I bled to free all men,\" you\nsay\nAnd I am not fiend and savage"
- },
- {
   "time": "2026-10-14 03:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 51,
   "lines": 5,
   "poem": "And clearer light touched\ngolden\nWho battled against our wrong.\nThe great white throne,\nHis seed should tread,"
+ },
+ {
+  "time": "2026-10-23 15:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 46,
+  "lines": 5,
+  "poem": "Loud the whistles blew and the\nfruitful\nAnd charm our cares away.\nI have embalmed the days,\nEven the sacred fire?"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-13 09:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "But high o'er all the cark\nof Peace hovering over No\nMan's\nWaiting for the guilt of the\ntruth,\nAnd she has seen your strong\nyoung\nWith bated breath and"
- },
- {
   "time": "2026-10-13 10:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 46,
   "lines": 5,
   "poem": "'Tis the judgment of God\nshall\nAnd lured her from her eye,\nAs Israel through the day,\nSo many cares to vex the"
+ },
+ {
+  "time": "2026-10-22 21:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 51,
+  "lines": 5,
+  "poem": "The conies had their\nhiding-place,\nIn warning or in love.\nHow that mother's hand they\nmiss!"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-14 20:00",
-  "temp_c": 25.0,
-  "temp_f": 77,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "The sharp sickles of God's\nretribution\nBefore sex tamed your spirit, made\nyou\nMy manhood as a haunted bough\nOn that Roman holiday.\nFrom that hour Rome, grown more\nthoughtful,"
- },
- {
   "time": "2026-10-14 21:00",
   "temp_c": 24.0,
   "temp_f": 75,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "The tenant of thy\npower.\nMen may tread down the\nstreet,\nEach well remembered\nchime.\nTo call out dishes for\neach"
+ },
+ {
+  "time": "2026-10-24 11:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Mechanics of this\nperfect\nThe music of all the\nfetters\nEver'body list'nin',\nIn the tents of princely\nAbram"
  }
 ]

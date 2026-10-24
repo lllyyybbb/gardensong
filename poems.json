@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-14 09:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 82,
-  "lines": 8,
-  "poem": "And there the great life line\nof fortune that I loved you so\nIt chafes me not thy title\nhigh,\nDid I a slave had lived and\ndied;\nAnd tread it 'neath my feet,\nMy soul so leapt that my"
- },
- {
   "time": "2026-10-14 10:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "Couldn' fin' not'in' a-tall\nwould\nAnd all God's creatures, but\nI shall go back to our\nprayer"
+ },
+ {
+  "time": "2026-10-23 20:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "From their path the\ngladiators\nthat no wrong this side\nthe innocent crucified for\nthe innocent crucified for\nthe men who cast aside"
  }
 ]

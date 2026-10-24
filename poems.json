@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-15 06:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "Forgot that one's heart must be\nhappening\nWhere there shall be no rain\nto-day,\nGives song a nightless day,\nWhose face was as flint against\nour\nTo laugh and love me"
- },
- {
   "time": "2026-10-15 07:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 53,
   "lines": 5,
   "poem": "Forever, life-long.\nSo much in ten years,\nSo him re'ch him own a\ngroun',\nFrom south to north, and in"
+ },
+ {
+  "time": "2026-10-24 19:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "Oh, ye who license men to\ndo,\nThe moon has come. Wan and\npallid\nYes, blame me if I've\nlearned"
  }
 ]

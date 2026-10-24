@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-14 18:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "Seen my lady home las' night,\nJump back, honey, jump back.\nMockin'-bird was singin' fine,\nTo dat res'less, wretchit fevah evah\nSprin'.\nAnd I'm a grown man now.\nIt's lain there in the hollow of his"
- },
- {
   "time": "2026-10-14 19:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 88,
   "lines": 8,
   "poem": "Oh how little seems\nthe men who cast\naside\nAnd cruel face so\nwhite\nThy blood of oldest\nstrain.\nNeeds music, pure and"
+ },
+ {
+  "time": "2026-10-24 09:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 84,
+  "lines": 8,
+  "poem": "But I should be\nFor the bearing toils\nand\nIn this strife must\nbear\n\"Sun, don't get\ndown-hearted\nAnd wonder came and"
  }
 ]

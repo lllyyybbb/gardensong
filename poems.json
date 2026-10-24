@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-14 19:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Hit fill de chu'ch des sob an' weep)\n\"O mah dawlin'! Who-ah!\nDo not cheer until each nation\nSheathes the sword and blunts the\nspear,\nLet's hear these motley pilgrims wile\naway\nGod bless our native land,"
- },
- {
   "time": "2026-10-14 20:00",
   "temp_c": 25.0,
   "temp_f": 77,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "But I should be\nFor the bearing toils\nand\nIn this strife must\nbear\n\"Sun, don't get\ndown-hearted\nAnd wonder came and"
+ },
+ {
+  "time": "2026-10-24 10:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "The tenant of thy\npower.\nMen may tread down the\nstreet,\nEach well remembered\nchime.\nTo call out dishes for\neach"
  }
 ]

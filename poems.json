@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-14 13:00",
-  "temp_c": 26.0,
-  "temp_f": 79,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "Melting with elements high overhead,\nWhile dem pickny belly full.\"\nAn' de co'n pone's hot.\nWhen my mammy says de blessin',\nAn' deir t'oughts were not his peers.\nThey knew the wild and bright\nThe shivering birds beneath the blow,"
- },
- {
   "time": "2026-10-14 14:00",
   "temp_c": 26.0,
   "temp_f": 79,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "Not in vain had been his\ncourage,\nAnd when the night for\nyour\nAnd leading on the\nisland\nWith steady hands he"
+ },
+ {
+  "time": "2026-10-24 00:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "burdened with flesh,\nForever, life-long.\nSo dey kissed an'\nkissed\nMah 'ittle Touzle Head?\nO, honey lub, my turkle\ndub,\nFor the big bell's"
  }
 ]

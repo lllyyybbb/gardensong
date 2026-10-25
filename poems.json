@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-16 09:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 92,
-  "lines": 8,
-  "poem": "From the Gulf and the apple\nred,\nAnd the light with an air\nThat it pleases nevermore?\nWhence your joy through sun\nand\n\"And the children of the sea,\nIn sculptured worship now he"
- },
- {
   "time": "2026-10-16 10:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Children of the earth with\nfluttering\nThe yawning oven spits forth\nfiery\nI den begin\nrejoicin'--hog-killin'"
+ },
+ {
+  "time": "2026-10-25 18:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "From that hour Rome, grown\nmore\nAt the\nSickle comes and leaves us\nstunned\nThrust the strange intruder"
  }
 ]

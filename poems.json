@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-15 21:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 79,
-  "lines": 8,
-  "poem": "Upon the exit of a peace\ndivine.\nGod thought and thought,\nPoor was the silver,\nheart-enveloping\nDo not cheer, for men are\ndying\nIs there no hope for full"
- },
- {
   "time": "2026-10-16 01:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Merlindy! Merlindy!\nMy spirit, bondaged by\nthe innocent crucified\nfor\nOf their chief was\nalmost\nOf severed hearts again"
+ },
+ {
+  "time": "2026-10-25 12:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "For such atoms as we look\nback\nHe floundered in a day\nlike\nThe tired cars go\ngrumbling\nLet holy horror blanch"
  }
 ]

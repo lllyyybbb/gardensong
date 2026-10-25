@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-15 19:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "Along, above, and God is God!\n(_To Robert Gould Shaw_)\nFlushed with the new era of\nyour\nThe sea-king's dying bed,\nE'er the dimly lighted valley\nI marveled at the Queen's"
- },
- {
   "time": "2026-10-15 20:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 88,
   "lines": 8,
   "poem": "Oh how little seems\nthe men who cast\naside\nAnd cruel face so\nwhite\nThy blood of oldest\nstrain.\nNeeds music, pure and"
+ },
+ {
+  "time": "2026-10-25 10:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "For I am as welcome as\nthe innocent crucified\nfor\nTell me, ghoulish,\ngrinning\nEnough to live\nIs a prayer or a tear,\nFor in her little"
  }
 ]

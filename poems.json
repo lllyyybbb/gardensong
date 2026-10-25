@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-15 18:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "And speak their tongue?\nIs a fiery steed.\nAnd the earth and sun.\nHere, passing lonely down this\nquiet\nThe custom of her hair.\nThe coroner should say,"
- },
- {
   "time": "2026-10-15 19:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "Saw a sparkling\nChristmas\nNigh enough to hyeah\nde\nTo save from\nignorance\nMy sword and shield\nThe paltry acres"
+ },
+ {
+  "time": "2026-10-25 09:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 88,
+  "lines": 8,
+  "poem": "Oh how little seems\nthe men who cast\naside\nAnd cruel face so\nwhite\nThy blood of oldest\nstrain.\nNeeds music, pure and"
  }
 ]

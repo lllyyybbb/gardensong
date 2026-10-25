@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-15 20:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "Long nights, long nights and\nthe lips of health,\nBreath the olive-pink of\nsandaled\nThe hungry heart was glad and\nfree;\nWith fell relentless art--\nI'm longing to see"
- },
- {
   "time": "2026-10-15 21:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "For I am as welcome as\nthe innocent crucified\nfor\nTell me, ghoulish,\ngrinning\nEnough to live\nIs a prayer or a tear,\nFor in her little"
+ },
+ {
+  "time": "2026-10-25 11:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Merlindy! Merlindy!\nMy spirit, bondaged by\nthe innocent crucified\nfor\nOf their chief was\nalmost\nOf severed hearts again"
  }
 ]

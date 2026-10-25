@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-15 15:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
- },
- {
   "time": "2026-10-15 16:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "Before their\nfootsteps\nOf agony, hatred and\nfear?\nThey had no home,\nthey\nOh! wild and fitful\nlife"
+ },
+ {
+  "time": "2026-10-25 05:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 88,
+  "lines": 8,
+  "poem": "Oh how little seems\nthe men who cast\naside\nAnd cruel face so\nwhite\nThy blood of oldest\nstrain.\nNeeds music, pure and"
  }
 ]

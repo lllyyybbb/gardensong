@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-16 11:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 90,
-  "lines": 8,
-  "poem": "For gallant France, for praying\nFrance,\nAn' I'm hongry, O, so berry,\nFur my hom' I am glad that the\nship\nAlas! that in our hands, it has\nbeen\nStand back of new-come foreign"
- },
- {
   "time": "2026-10-16 12:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "This evil shall not always\nlast,\nI feel his curse as a\nwelcome\nWho said, when we stand\nClasping by faith our\nSaviour's"
+ },
+ {
+  "time": "2026-10-25 20:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Luxuriant fell; and\ntossing\nGod cannot let it come to\njuice,\nmothers and their clothes\nawry,\nFeelinl sad dis market\nday."
  }
 ]

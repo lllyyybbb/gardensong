@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-16 19:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "In vain; then even the girls, they\nwin\nGod of nations,\nHaste! oh, haste the glorious day\nHis chosen seed should tread,\nThe sea is crossed, the longed-for\nport"
- },
- {
   "time": "2026-10-16 20:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 98,
   "lines": 8,
   "poem": "Plum on down to Hell\nitself;\nHyah 'im scol' 'is mule\nso,\nSence you went away.\n(_A Negro Sermon_)\nAnd he is Blameless\nKnight"
+ },
+ {
+  "time": "2026-10-26 10:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 95,
+  "lines": 8,
+  "poem": "I know! Ah, Friend, I\nrest\nNot mortal, a flower, a\nfairy,\nMistah Bush he shek his\nfis',\nHalf-naked to the sea;\nAnd the hens are"
  }
 ]

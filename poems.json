@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-16 22:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "Her voice was gone,\nSave where a few asleep,\nSome withered women desolate and\nmean,\nWeep not, oh my well-sheltered\nsisters,\nHis lonely agonizing pain,\nA ruined body and lust of power"
- },
- {
   "time": "2026-10-16 23:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "An' w'en I's a-layin' low,\nWhen ol' Sis' Judy pray,\nDe Cunjah man, de Cunjah man,\nde\nRippling around my dying bed,\nAnd myself answer: Till the\nprefect"
+ },
+ {
+  "time": "2026-10-26 13:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "And grind in our midst a grist\nof fortune that came at\nlength;\nKep' a-lookin' fo \"de\nchar'et,\"\nFrom this harsh life of"
  }
 ]

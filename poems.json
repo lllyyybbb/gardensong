@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-16 21:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "An' er acre o' groun',\nAn' seem to say\nWhen de cocks crow on de way,\nDown through the shade you throw,\nRuns a shudder over me?\nCan bring true rest to cool my\nbody’s\nThis morning. I have"
- },
- {
   "time": "2026-10-16 22:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 82,
   "lines": 8,
   "poem": "O I love the night from\nstreet\nA crusade for the weary,\nweary\nHyah de jolly black boy,\nSingin' in de road;\nFu' to be cross, er once\nloses"
+ },
+ {
+  "time": "2026-10-26 12:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "An' w'en I's a-layin' low,\nWhen ol' Sis' Judy pray,\nDe Cunjah man, de Cunjah man,\nde\nRippling around my dying bed,\nAnd myself answer: Till the\nprefect"
  }
 ]

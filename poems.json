@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-16 14:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "And down the poor will know\nshelter,\nBut de sick wife kissed his brow:\n\"Sun, don't get down-hearted now;\nNone rises, singing, from your\nrace\nTo me more bright and solitary\nstar"
- },
- {
   "time": "2026-10-16 15:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 89,
   "lines": 8,
   "poem": "The forest trees have\nshed\nIf this dark Passion\nthat no wrong this side\nthe lips of the exile\ndream?\nWere our vision clearer\nfar,"
+ },
+ {
+  "time": "2026-10-25 23:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 92,
+  "lines": 8,
+  "poem": "As night grows old.\nDe Cunjah man, de\nCunjah\nA wealth of household\ntreasures\nDevoured her with their\ncurious\nclawing within, to"
  }
 ]

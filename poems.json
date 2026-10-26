@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-16 18:00",
-  "temp_c": 23.0,
-  "temp_f": 73,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Over their tortured and their tears;\nCan you blame the world has read of\nheroes\nThe portals of that black land where\nDixie's\nFair and lovely are your cheeks,"
- },
- {
   "time": "2026-10-16 19:00",
   "temp_c": 23.0,
   "temp_f": 73,
@@ -1598,5 +1590,13 @@
   "humidity": 98,
   "lines": 8,
   "poem": "\"I will bring to this\nearth\nIn which he sang of\nall\nRacin' ober pastur'\nlan',\nIt could not tell\ntheir hands"
+ },
+ {
+  "time": "2026-10-26 09:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 98,
+  "lines": 8,
+  "poem": "Plum on down to Hell\nitself;\nHyah 'im scol' 'is mule\nso,\nSence you went away.\n(_A Negro Sermon_)\nAnd he is Blameless\nKnight"
  }
 ]

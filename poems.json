@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-18 03:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "My \"House of Golden\nLeaves\"\nAnd sound! ye with\nharp\nWhose 'nuff burdens\n'pon"
- },
- {
   "time": "2026-10-18 04:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Lo, the reign of our Lord.\nAnd tickled his nose in the\nvalley,\nAnd what hast thou now but thy\ndusty\nFrom the distant West,"
+ },
+ {
+  "time": "2026-10-27 15:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 53,
+  "lines": 5,
+  "poem": "Jump back, honey, jump back.\nHel' huh han' an' sque'z it tight,\nJump back, honey, jump back.\nLittle children, blow your\ntrumpets!"
  }
 ]

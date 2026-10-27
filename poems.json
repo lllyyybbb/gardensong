@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-17 20:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Gole braid ercross de\nches';\nHe could not drift beyond\nHis journeying was o'er,\nThe fire leaps out and\nlicks"
- },
- {
   "time": "2026-10-17 21:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "In holy wrath they ever\nmet,\nAnd cursed the land of\nStars\nFrom sorrow and pain were\no'er;\nDo not cheer, while little"
+ },
+ {
+  "time": "2026-10-27 09:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "Is precious in His hands,\nAre ballot-box and public\nschool.\nShall be precious in my\nhumbled\nMy brows men laureled and\nmy songs of sorrow, pain"
  }
 ]

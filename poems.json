@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-18 10:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "An' I'm hongry, O, so\nberry,\nThan to staunch a\nstream\nWith all its living\nthings,"
- },
- {
   "time": "2026-10-18 11:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "Where cold and gray,\nThey may faithful and true\nremain.\nprostrate form. He then shot\nthe men of dusk and the gleam\nof Peace hovering over No Man's"
+ },
+ {
+  "time": "2026-10-27 19:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "No rubies can compare.\n\"Adorn'd and crown'd I'd have\nher\nAnd, like a southern lily red,\nFor the plum and the children\nof Peace is hovering over No"
  }
 ]

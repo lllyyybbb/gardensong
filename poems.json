@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-17 18:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "Who the mazy dance did\ntread,\nThe band of Gideon roam the\nsky\nThe black, the brown"
- },
- {
   "time": "2026-10-17 19:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "That blew hot for awhile\nAnd the void consumes\nme,--all\nThough thorns may often\npierce\nHave ye not, oh, my favored\nsisters,"
+ },
+ {
+  "time": "2026-10-27 07:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Think you their work can be\nundone?\nAh, how poets sing and die!\nQuick! Chain him to the\nKing;\nAforehand knew and felt his\ntoil"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-17 19:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "Jump back, honey, jump\nback.\nHe looked around and said,\nAs he watched dem face\nfall"
- },
- {
   "time": "2026-10-17 20:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Think you their work can be\nundone?\nAh, how poets sing and die!\nQuick! Chain him to the\nKing;\nAforehand knew and felt his\ntoil"
+ },
+ {
+  "time": "2026-10-27 08:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "In holy wrath they ever\nmet,\nAnd cursed the land of\nStars\nFrom sorrow and pain were\no'er;\nDo not cheer, while little"
  }
 ]

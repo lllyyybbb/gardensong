@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-18 09:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "Go spread the glad\nDecember\nTransfigured, bathed\nin March; there is a\ngood\nHyah 'im scol' 'is"
- },
- {
   "time": "2026-10-18 10:00",
   "temp_c": 8.0,
   "temp_f": 46,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Lo, the reign of our Lord.\nAnd tickled his nose in the\nvalley,\nAnd what hast thou now but thy\ndusty\nFrom the distant West,"
+ },
+ {
+  "time": "2026-10-27 18:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "Where cold and gray,\nThey may faithful and true\nremain.\nprostrate form. He then shot\nthe men of dusk and the gleam\nof Peace hovering over No Man's"
  }
 ]

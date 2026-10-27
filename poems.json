@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-17 14:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Another shriek, the last!\nWatch\nNow the dead days I have\nused\n'Till war shall be a Negro\nin crime and fed them on"
- },
- {
   "time": "2026-10-17 15:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Won't I lub you to de poor\nsad\nBut I cannot bring back to\nmind\nBefore the sun was on His\nleft;\nThat Vashti doth not heed"
+ },
+ {
+  "time": "2026-10-27 02:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "That blew hot for awhile\nAnd the void consumes\nme,--all\nThough thorns may often\npierce\nHave ye not, oh, my favored\nsisters,"
  }
 ]

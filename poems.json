@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-18 00:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Now sits with those\naround\n\"Cease your bloodshed,\"\ncried\nSweet as a rebel fronts\na"
- },
- {
   "time": "2026-10-18 02:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "And grind in our midst a grist\nof fortune that came at\nlength;\nKep' a-lookin' fo \"de\nchar'et,\"\nFrom this harsh life of"
+ },
+ {
+  "time": "2026-10-27 13:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "From their exclusive\nhaven--birds\ntheir hands\nTo be a child at heart.\nMy lands are coveted.\nI gaze into the days when men"
  }
 ]

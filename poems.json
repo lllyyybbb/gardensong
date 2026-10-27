@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-17 16:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 49,
-  "lines": 5,
-  "poem": "Des a little sigh,\nSeems lak to me de stars\ndon't\nWeep not, oh my\nwell-sheltered"
- },
- {
   "time": "2026-10-17 17:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Think you their work can be\nundone?\nAh, how poets sing and die!\nQuick! Chain him to the\nKing;\nAforehand knew and felt his\ntoil"
+ },
+ {
+  "time": "2026-10-27 04:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "Still more than the song.\nThe big bell's tollin' up\nin crime and wrong.\nMusic that every heart\ncould\nAnd its golden glory fills\nthe men of garish nights,"
  }
 ]

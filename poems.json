@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-19 00:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Well I know you are\nhere;\nDo not cheer, for lips\nare the Free,\nThese bloodshot eyes\nwere\nMaker-of-Sevens in the"
- },
- {
   "time": "2026-10-19 01:00",
   "temp_c": 8.0,
   "temp_f": 46,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "That you are fast to suffer\nand\nUnder the dying man,\nO dawn! O dreaded dawn! O let\nme\nWith a child within her walls\nwith"
+ },
+ {
+  "time": "2026-10-28 13:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Fell early on the rose,\nAnd the tempest's wing along.\nThere is music in me, the\nmother\nThat all the dead days I have\ntried"
  }
 ]

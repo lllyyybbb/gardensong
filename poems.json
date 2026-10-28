@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-19 02:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "Years may seep into\nyour\n'Weh down Souf\nDe nothe'n win' is\nblowin'\nA higher freedom ye\nmay"
- },
- {
   "time": "2026-10-19 05:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "All de time is fas' a-comin'\nfur\nIn the packed cars the fans\nthe lips of the Manger-King,\nOr freely pass the kindly joke\nTo where a few cars groaning"
+ },
+ {
+  "time": "2026-10-28 15:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 52,
+  "lines": 5,
+  "poem": "And why does the melody\ntwist--\nI gaze into the choking sigh,\nthe men of garish nights,\nTheir laugh is swallowed in"
  }
 ]

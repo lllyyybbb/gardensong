@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-18 17:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "A thought is wedded to the\nEast\nThy blood of oldest strain.\nThe dream is lovelier than\nthe home for aged fathers"
- },
- {
   "time": "2026-10-18 18:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 93,
   "lines": 8,
   "poem": "The laughing grasses\nheaven’s\nEen ur mighty high hill.\nMistah Ba'r fall\nsick--dee\nNor will your glory seek\nmy songs of the old\noak-tree;"
+ },
+ {
+  "time": "2026-10-28 02:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 96,
+  "lines": 8,
+  "poem": "An' de toofsumnis ub\ntuckey\nWould learn to scorn our\nname,\nPerchance within that\nfateful\nTo grieve o'er flowerful\nfaëry."
  }
 ]

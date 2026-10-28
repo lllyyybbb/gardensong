@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-18 19:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "Fail 'mid crime and wrong.\nLessons in degradation,\ntaught\nGod gathered it up in Zion,\nThe rim of the far-off"
- },
- {
   "time": "2026-10-18 20:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 98,
   "lines": 8,
   "poem": "To ease my heart he'd a\nlet\nMake dat little hall;\nDes awaitin', honey,\nCozy fixt fur you;\nDown dah by de road,\n'Long de lovah's lane,\nBefore my cottage door"
+ },
+ {
+  "time": "2026-10-28 06:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 98,
+  "lines": 8,
+  "poem": "No! stand erect and\nwithout\nOf de loved wife sick\nin March; there is a\nblight.\nMen who should have\nbeen\nAnd schoolboys, from"
  }
 ]

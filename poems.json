@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-18 20:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And furl the banners\nstained\nClose to his race.\nLong hath this mocked me:\naye\nTo call out dishes for"
- },
- {
   "time": "2026-10-18 21:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 98,
   "lines": 8,
   "poem": "No! stand erect and\nwithout\nOf de loved wife sick\nin March; there is a\nblight.\nMen who should have\nbeen\nAnd schoolboys, from"
+ },
+ {
+  "time": "2026-10-28 09:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 96,
+  "lines": 8,
+  "poem": "Kase here am facts dat's\nmighty\nAs on a gleaming\ngold-white\nWith three brown\nbeauties\nOf Summer promises and\ntender"
  }
 ]

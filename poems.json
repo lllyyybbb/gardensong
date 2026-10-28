@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-18 16:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 40,
-  "lines": 4,
-  "poem": "For Christless men, with eager\nhands\nWith bated breath and useless\nthing?"
- },
- {
   "time": "2026-10-18 17:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "Shall reap as I live!\"\n\"Yes, I went aftuh Doctuh\nfuh\nSo weary of the vanished\nyears,\nFrom lesser mortals who\nwere\nSeems lak to me a happy"
+ },
+ {
+  "time": "2026-10-28 01:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "The laughing grasses\nheaven’s\nEen ur mighty high hill.\nMistah Ba'r fall\nsick--dee\nNor will your glory seek\nmy songs of the old\noak-tree;"
  }
 ]

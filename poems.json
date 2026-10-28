@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-19 01:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Ah lak yo' clothes,\nAn' my 'Mandy smile huh\nbliss--\nAnd laid it on my\nthrone,\nFell early on the bays\nupon"
- },
- {
   "time": "2026-10-19 02:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Fell early on the rose,\nAnd the tempest's wing along.\nThere is music in me, the\nmother\nThat all the dead days I have\ntried"
+ },
+ {
+  "time": "2026-10-28 14:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "All de time is fas' a-comin'\nfur\nIn the packed cars the fans\nthe lips of the Manger-King,\nOr freely pass the kindly joke\nTo where a few cars groaning"
  }
 ]

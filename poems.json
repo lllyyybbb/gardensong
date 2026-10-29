@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-19 19:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "A thought is wedded to the\nEast\nThy blood of oldest strain.\nThe dream is lovelier than\nthe home for aged fathers"
- },
- {
   "time": "2026-10-19 20:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 98,
   "lines": 8,
   "poem": "Why, de 'lectric light o'\nHeaven\nWhat matters it? The night\nmust\nAn' de children scamper\nroun',\nHis blood cries from the\nwoodland"
+ },
+ {
+  "time": "2026-10-29 09:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 98,
+  "lines": 8,
+  "poem": "This sin-crushed heart was\ntempest-tossed,\nCrumble and fall away;\nAnd we will seek the light\nof fortune that I loved\nyou,\nIs 't because of loss of a\npeasant"
  }
 ]

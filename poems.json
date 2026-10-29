@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-19 17:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "To gi'e baby when she appears,\nMy heart was stilled at last;\nIts a mos' pursistin' stubbern\nsortah\nHer sons are lifting up their"
- },
- {
   "time": "2026-10-19 18:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 98,
   "lines": 8,
   "poem": "To ease my heart he'd a\nlet\nMake dat little hall;\nDes awaitin', honey,\nCozy fixt fur you;\nDown dah by de road,\n'Long de lovah's lane,\nBefore my cottage door"
+ },
+ {
+  "time": "2026-10-29 05:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 98,
+  "lines": 8,
+  "poem": "For de lilly cash nea'\ndone.\nAbove, a hundred\nmidnights\nBeyond my power to\nexpress,\nNo music like the dew on\nThe Dawn's awake!"
  }
 ]

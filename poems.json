@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-19 15:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "Loud the whistles blew and the\nfruitful\nAnd charm our cares away.\nI have embalmed the days,\nEven the sacred fire?"
- },
- {
   "time": "2026-10-19 16:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 96,
   "lines": 8,
   "poem": "An' de toofsumnis ub\ntuckey\nWould learn to scorn our\nname,\nPerchance within that\nfateful\nTo grieve o'er flowerful\nfaëry."
+ },
+ {
+  "time": "2026-10-29 01:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 97,
+  "lines": 8,
+  "poem": "He's pappy's pa'dner an'\nplaymate\nWith Val against me\nlanguid\nManhattan’s roofs and\nspires\nCrumble and fall\ntriumphant"
  }
 ]

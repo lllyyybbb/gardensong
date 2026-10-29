@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-19 14:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "A canopy of shady leaves.\nHer clinging was a mighty\nflame,\nclawing within, to whose voice\nafar"
- },
- {
   "time": "2026-10-19 15:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "Through the long tattoo--\nGod, the Great Musician,\nCalling life anew.\nI feel that what makes\nThe grace that changes\nhearts\nLighting up his darkened\nface."
+ },
+ {
+  "time": "2026-10-29 00:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 96,
+  "lines": 8,
+  "poem": "An' de toofsumnis ub\ntuckey\nWould learn to scorn our\nname,\nPerchance within that\nfateful\nTo grieve o'er flowerful\nfaëry."
  }
 ]

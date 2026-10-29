@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-19 16:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 44,
-  "lines": 4,
-  "poem": "Weave your garments fair and\ngreen,\nThe darkness swallowed thee\nagain."
- },
- {
   "time": "2026-10-19 17:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 97,
   "lines": 8,
   "poem": "He's pappy's pa'dner an'\nplaymate\nWith Val against me\nlanguid\nManhattan’s roofs and\nspires\nCrumble and fall\ntriumphant"
+ },
+ {
+  "time": "2026-10-29 02:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 98,
+  "lines": 8,
+  "poem": "To ease my heart he'd a\nlet\nMake dat little hall;\nDes awaitin', honey,\nCozy fixt fur you;\nDown dah by de road,\n'Long de lovah's lane,\nBefore my cottage door"
  }
 ]

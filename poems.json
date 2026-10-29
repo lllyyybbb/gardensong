@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-20 07:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "Wilt thou return to\nloiter\nWatching the toilers\nwith\nWhat visions of warm"
- },
- {
   "time": "2026-10-20 08:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Your faun-like form, your fond\nface;\nBeheld that little sparrow's fall.\n’Tis dawn, dawn in New York.\nAnd bows and pins, and perfumed\npapers"
+ },
+ {
+  "time": "2026-10-29 16:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "I've been abused and tossed about,\nDing, Dong, Ding.\nBut naught so precious as the\nlightning\nDat am da time fuh rain.\n\"When yo' dog quits bones an'"
  }
 ]

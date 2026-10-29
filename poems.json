@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-20 03:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "To lead me unto my\nnoblest\nGhosts are turned flesh,\nthrowing\nWild May that cantered\nby"
- },
- {
   "time": "2026-10-20 07:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "The fairy phantoms of my far away\nyouth,\nThe forest trees have shed their\nleaves,\nHim hab him roots, him wu'k him\ntrick,\nCame the words that brought them"
+ },
+ {
+  "time": "2026-10-29 15:00",
+  "temp_c": 22.0,
+  "temp_f": 72,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Your faun-like form, your fond\nface;\nBeheld that little sparrow's fall.\n’Tis dawn, dawn in New York.\nAnd bows and pins, and perfumed\npapers"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-20 16:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 45,
-  "lines": 4,
-  "poem": "The portals of that steamer\nWhen I declare I am that which\ncomes\nFathers! torn and numb,--"
- },
- {
   "time": "2026-10-20 17:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 96,
   "lines": 8,
   "poem": "Among the sons of far\nCathay\n\"Give to me\nFor the \"Lord of Paradise.\"\nAnd wander through the\nland;\nFor the sunset wings and\nthe innocent crucified for"
+ },
+ {
+  "time": "2026-10-30 01:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 98,
+  "lines": 8,
+  "poem": "Why, de 'lectric light o'\nHeaven\nWhat matters it? The night\nmust\nAn' de children scamper\nroun',\nHis blood cries from the\nwoodland"
  }
 ]

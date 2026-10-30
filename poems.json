@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-20 19:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "With sudden vigor stirred.\n\"I will take the crown from\noff\nHe nevuh had no dear old Ned\nis"
- },
- {
   "time": "2026-10-20 20:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 97,
   "lines": 8,
   "poem": "Around earth's fairest\nlight,\nHis eyes bulge wildly out,\nSearching around in His\nhands,\nHe had found\nThe magic numbness of\nautumnal"
+ },
+ {
+  "time": "2026-10-30 10:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "Or talk of sorrow, pain and\nloss,\nThat war should close his\nwrathful\nAnd why, when I wake, alone,\nBut may mother, home and\nHeaven, the other upon the\nearth"
  }
 ]

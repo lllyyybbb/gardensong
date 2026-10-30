@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-21 04:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And furl the banners\nstained\nClose to his race.\nLong hath this mocked me:\naye\nTo call out dishes for"
- },
- {
   "time": "2026-10-21 05:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 33,
   "lines": 3,
   "poem": "All our hopes and the dimes of\nthose\nThoo de hazy air,"
+ },
+ {
+  "time": "2026-10-30 18:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 33,
+  "lines": 3,
+  "poem": "Twas a night of dull despair,\nShowed sorrow in her heart;\nMen grew wild with wrathful"
  }
 ]

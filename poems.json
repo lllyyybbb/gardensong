@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-20 14:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 52,
-  "lines": 5,
-  "poem": "Of the black, for his color's\nsake,\nWho between their hosts\nadvancing\nWithin His love I know which"
- },
- {
   "time": "2026-10-20 15:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 91,
   "lines": 8,
   "poem": "\"Thou shalt be a skeleton, a\nshell,\nLife may renew the Autumn\ntime,\nAny time you hears da cheers\nan'\nDrop down the dale,\nScornful of teacher’s rod"
+ },
+ {
+  "time": "2026-10-29 23:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 94,
+  "lines": 8,
+  "poem": "And wander over moor and\nmere\nAnd you'll see into my\nheart.\nO'er the world has scattered\nround\nArms go out to be free,\nThough it is a-sighin',"
  }
 ]

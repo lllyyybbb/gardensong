@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-20 11:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "In God, so tender, strong\nand\nSeas cooling warm where\nnative\nConspires to rob me of vital\nworth,"
- },
- {
   "time": "2026-10-20 12:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "But I whispahs low lak dis,\nAn' de shadow lef' him face,\nI have hyeahd o' lots o'\nsermons,\nFrom the distant West,\nFrom that hour of strife;\nUpon a guilty land;\nStrong drink, like a mighty"
+ },
+ {
+  "time": "2026-10-29 20:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 83,
+  "lines": 8,
+  "poem": "Her eyes said: I shall will\nthat no man went through thee,\nI see her sitting bowed and\nblack,\nThe awful sin remained still\nunforgiven.\nAnd there forever will we\nrest,"
  }
 ]

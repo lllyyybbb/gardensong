@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-20 18:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "Where there shall be bound with\nyou\nBut oh! more than faithful race\nwhich\nThen let the balmy rest of"
- },
- {
   "time": "2026-10-20 19:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 98,
   "lines": 8,
   "poem": "For de lilly cash nea'\ndone.\nAbove, a hundred\nmidnights\nBeyond my power to\nexpress,\nNo music like the dew on\nThe Dawn's awake!"
+ },
+ {
+  "time": "2026-10-30 09:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 97,
+  "lines": 8,
+  "poem": "Around earth's fairest\nlight,\nHis eyes bulge wildly out,\nSearching around in His\nhands,\nHe had found\nThe magic numbness of\nautumnal"
  }
 ]

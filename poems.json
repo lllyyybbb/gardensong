@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-22 03:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "For fainting France, for\npraying\nSoared like a mighty\nwave\nFur summer days is been\nan'"
- },
- {
   "time": "2026-10-22 04:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 48,
   "lines": 5,
   "poem": "Still live,--but more than\npaid\nSought their own so well,\nWithin your homes you press\nthe innocent crucified for the"
+ },
+ {
+  "time": "2026-10-31 16:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 45,
+  "lines": 4,
+  "poem": "Save where a thousand dreams.\nYour words dropped into my\nheart\nThrough many a hot-breath'd"
  }
 ]

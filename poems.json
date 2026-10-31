@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-21 08:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "And rocks and stones,\nif\nFor God's great cause\nto dance for us,\" the\nrough\nSprung up and found in"
- },
- {
   "time": "2026-10-21 09:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 40,
   "lines": 4,
   "poem": "For Christless men, with eager\nhands\nWith bated breath and useless\nthing?"
+ },
+ {
+  "time": "2026-10-30 21:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 44,
+  "lines": 4,
+  "poem": "Have bared my body through,\nBut weep for your listeners'\nhungry\nWhen yo' mammy says de"
  }
 ]

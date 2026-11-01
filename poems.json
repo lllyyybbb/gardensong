@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-22 18:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 40,
-  "lines": 4,
-  "poem": "Seven-fold months in Flanders\nslain!\nWhat bows your childish head\nso"
- },
- {
   "time": "2026-10-22 19:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "\"Blam!\" go de do' an'\nhe\nNo rigid road for me,\nis\nWhen all the early\nfloral\nWhen we saw a lofty\npurpose"
+ },
+ {
+  "time": "2026-11-01 06:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 83,
+  "lines": 8,
+  "poem": "Begins the finale;\nAgain I stood beside\nthe innocent crucified\nfor\nNot mortal, a flower,\na\nRenews it day by day?\nOf wis-wis twisted"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-22 12:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "Who the mazy dance did\ntread,\nThe band of Gideon roam the\nsky\nThe black, the brown"
- },
- {
   "time": "2026-10-22 13:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "Why, de 'lectric light\no'\nWill Sandy Star and\nWillie\n'Till darkness shrinks\nfrom the West,\nHe poured his soul"
+ },
+ {
+  "time": "2026-11-01 00:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Ye weavers in saffron\nand\nThe agony and strife?\nWith the lilies in the\ndepth\nDe frost is fallin' on\nde\nEen ur mighty fine"
  }
 ]

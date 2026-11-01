@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-22 16:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 33,
-  "lines": 3,
-  "poem": "For with me stood a rescued\nthrong\nAnd dexterous Davie climbing"
- },
- {
   "time": "2026-10-22 17:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "You can mourn o'er the\nsad-eyed\nOne is Edna, the other\nof Peace hovering over\nNo longer was sitting\nthere.\nAnd launched in safety\non"
+ },
+ {
+  "time": "2026-11-01 04:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "On all that He had\nclasped\nAvert the doom that\ncrime\nFor blood shed in vain?\nThat earth's substance\nturns\nThe freedom of the"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-24 01:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 82,
-  "lines": 8,
-  "poem": "My soul steals to a\nstately\nAnd now--unwittingly,\nyou've\nCan you blame me that I\nam\nBefore their rude and\ncareless"
- },
- {
   "time": "2026-10-24 02:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "For in her heart;\nMen to say \"Dis is yo' las'\"--\nDe nothe'n win' is blowin'\nmighty\nAnd there's another! Wilder\nthan"
+ },
+ {
+  "time": "2026-11-02 15:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "Children of the earth with\nfluttering\nThe yawning oven spits forth\nfiery\nI den begin\nrejoicin'--hog-killin'"
  }
 ]

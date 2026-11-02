@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-23 19:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "Couldn' fin' not'in' a-tall\nwould\nAnd all God's creatures, but\nI shall go back to our\nprayer"
- },
- {
   "time": "2026-10-23 20:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 95,
   "lines": 8,
   "poem": "O my good Lamb,\nO my brothers,\ndreaming\nFull well I know!\nRufus Green, who\ncalled me a nation,\"\nsaid\nBut only now to learn"
+ },
+ {
+  "time": "2026-11-02 09:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 85,
+  "lines": 8,
+  "poem": "And the old milk carts\ngo\nMy lute, must to the\nrose\nPassin' 'long de\ncandy-shop\nWith fell relentless\nart--"
  }
 ]

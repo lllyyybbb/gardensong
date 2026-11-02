@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-23 17:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "Still live,--but more than\npaid\nSought their own so well,\nWithin your homes you press\nthe innocent crucified for the"
- },
- {
   "time": "2026-10-23 18:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 95,
   "lines": 8,
   "poem": "O my good Lamb,\nO my brothers,\ndreaming\nFull well I know!\nRufus Green, who\ncalled me a nation,\"\nsaid\nBut only now to learn"
+ },
+ {
+  "time": "2026-11-02 07:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 96,
+  "lines": 8,
+  "poem": "First to weave for\nEarth has no sex and\nyet\nMy manhood as a\nmatin's\nWhen he was a mighty\ntrumpet-call\nWhich will bring to"
  }
 ]

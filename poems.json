@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-24 10:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "The tenant of thy\npower.\nMen may tread down the\nstreet,\nEach well remembered\nchime.\nTo call out dishes for\neach"
- },
- {
   "time": "2026-10-24 11:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "Freedom your native land to\nbless\nSmall was the carnage\nShake our land from shore to\nshore;\nWaiting for windy waves the\nkeels\nFor your low voice too loud"
+ },
+ {
+  "time": "2026-11-02 20:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Now they have taken him from\nliving\nToiling over a lump of clay\nTill hearts shall relax\ntheir hands again\n'Mid the evening's dews and\nrefreshing\nYod'lin' in de ar',"
  }
 ]

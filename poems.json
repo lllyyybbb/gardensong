@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-24 22:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Ye weavers in saffron\nand\nThe agony and strife?\nWith the lilies in the\ndepth\nDe frost is fallin' on\nde\nEen ur mighty fine"
- },
- {
   "time": "2026-10-24 23:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "An' doze wee ban's so sof an'\nlo'\nKnowing man is a snare,\nAnd in your eyes, they're so\nbold,\nLife may renew the Autumn\ntime,\nDe teahs come stealin' down"
+ },
+ {
+  "time": "2026-11-03 12:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Gin is better than you knew;\nthe men of garish nights,\nTheir laugh is swallowed in\nthe men knocked him\nFor the love that sends us\nflowers?\nBy angel fingers strung."
  }
 ]

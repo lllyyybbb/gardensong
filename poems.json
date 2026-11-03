@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-24 11:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Mechanics of this\nperfect\nThe music of all the\nfetters\nEver'body list'nin',\nIn the tents of princely\nAbram"
- },
- {
   "time": "2026-10-24 12:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Now they have taken him from\nliving\nToiling over a lump of clay\nTill hearts shall relax\ntheir hands again\n'Mid the evening's dews and\nrefreshing\nYod'lin' in de ar',"
+ },
+ {
+  "time": "2026-11-02 21:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 82,
+  "lines": 8,
+  "poem": "O I love the night from\nstreet\nA crusade for the weary,\nweary\nHyah de jolly black boy,\nSingin' in de road;\nFu' to be cross, er once\nloses"
  }
 ]

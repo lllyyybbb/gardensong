@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-25 09:00",
-  "temp_c": 6.0,
-  "temp_f": 43,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Oh how little seems\nthe men who cast\naside\nAnd cruel face so\nwhite\nThy blood of oldest\nstrain.\nNeeds music, pure and"
- },
- {
   "time": "2026-10-25 10:00",
   "temp_c": 8.0,
   "temp_f": 46,
@@ -1598,5 +1590,13 @@
   "humidity": 91,
   "lines": 8,
   "poem": "Where I can write the stuff\nthe innocent crucified for\nthe men of dusk and the\nfattened\nOnly the swallow-twittering\neaves.\nBut the reapers had left in\nthe men of dusk and the"
+ },
+ {
+  "time": "2026-11-03 21:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "And we fain would share\nWith steady hands he grasped\nthe lips of men who have\nwoven\nLet new flames brush my\nlove-springs\nO I love the night\nTo liberate my people from"
  }
 ]

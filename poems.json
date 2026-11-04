@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-25 22:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "The forest trees have\nshed\nIf this dark Passion\nthat no wrong this side\nthe lips of the exile\ndream?\nWere our vision clearer\nfar,"
- },
- {
   "time": "2026-10-25 23:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "And death at our accursèd lot.\nIf we must perish,\nPerish just in sight of clotted\nblood.\nAnd you in your frame;\nMy lub fur you des dribe me wil'--\nMerlindy, O, Merlindy!"
+ },
+ {
+  "time": "2026-11-04 15:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "Behold the path-traced, peaceful\nwood,\nLike rivers of the Carnival-Tank!\nLittle Diver, Destiny for you,\nThough still about his hands\nTo serve the Crucified.\nAnd lay down with a mother's"
  }
 ]

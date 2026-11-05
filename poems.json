@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-27 00:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "That blew hot for awhile\nAnd the void consumes\nme,--all\nThough thorns may often\npierce\nHave ye not, oh, my favored\nsisters,"
- },
- {
   "time": "2026-10-27 01:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 83,
   "lines": 8,
   "poem": "And down the poor will know\nshelter,\nBut de sick wife kissed his brow:\n\"Sun, don't get down-hearted now;\nNone rises, singing, from your\nrace\nTo me more bright and solitary\nstar"
+ },
+ {
+  "time": "2026-11-05 15:00",
+  "temp_c": 21.0,
+  "temp_f": 70,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "Before their footsteps stray,\nSweet fife an' piccalo,\nBofe warblin' sof an' sweet,\nMates wid dem toddlin', velvet\nfeet,\nWhat is it all de day nevah once\nbeen\nWhy does the night with the star's"
  }
 ]

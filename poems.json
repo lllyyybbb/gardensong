@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-26 22:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "A house that shall last\nforever,\nOur hearts his lyric\nthrone;\nThis stern but just decree,\nThat suddenly and\nquiveringly"
- },
- {
   "time": "2026-10-26 23:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 85,
   "lines": 8,
   "poem": "But I would be wandering in\ndistant\n'Mid the dangers and alarms.\nOh! from its yoke!\nI have seen the queer in queer\nplaces,\nWho lit the sun which ripens the\ngolden"
+ },
+ {
+  "time": "2026-11-05 13:00",
+  "temp_c": 20.0,
+  "temp_f": 68,
+  "humidity": 84,
+  "lines": 8,
+  "poem": "When one arose upon whose brow\nWith only a breath betwixt tub\nand\nThey flap their hideous wings in\ngrim\nIn me the precious token,\nThat was never spoken,\nBut dem wu'ds so sweetly murmured"
  }
 ]

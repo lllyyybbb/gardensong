@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-26 19:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "And in the very dead are\nwaking,\nMistah Bush he shek his fis',\nDown in a dim unknown land,\nThat I may lay my dead.\"\nAnd telling tales of lovers"
- },
- {
   "time": "2026-10-26 20:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "Stood frowning 'gainst the\nearth\nSo dey k'lated eberyt'ing;\nAn' stops dis ha't f'um\nsighin'!\nFor Thy tender mercies,\nabiding\nNo rubies can compare."
+ },
+ {
+  "time": "2026-11-05 09:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "And never a night stays he;\nFor the flocks which feed on a\nlow\ntheir hands again\nHis fireside the lowliest\nplace;\nAs in the hills that softly\nflow"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-27 19:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "No rubies can compare.\n\"Adorn'd and crown'd I'd have\nher\nAnd, like a southern lily red,\nFor the plum and the children\nof Peace is hovering over No"
- },
- {
   "time": "2026-10-27 20:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "Weave your garments fair and\nbeautiful\nWhen we saw a lofty purpose\nLighting the purple apples come\nto dance for us,\" the rough men\nsaid;\nIn sculptured worship now he\nlives,"
+ },
+ {
+  "time": "2026-11-06 14:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 81,
+  "lines": 8,
+  "poem": "The yellow by-road mazing from\nthe innocent crucified for the\ngift\nI wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah\nhow)\nStop! to each heart!\nBrown bees that murmur sounds of"
  }
 ]

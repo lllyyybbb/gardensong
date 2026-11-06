@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-27 18:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "Where cold and gray,\nThey may faithful and true\nremain.\nprostrate form. He then shot\nthe men of dusk and the gleam\nof Peace hovering over No Man's"
- },
- {
   "time": "2026-10-27 19:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "For gallant France, for praying\nFrance,\nAn' I'm hongry, O, so berry,\nFur my hom' I am glad that the\nship\nAlas! that in our hands, it has\nbeen\nStand back of new-come foreign"
+ },
+ {
+  "time": "2026-11-06 13:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 84,
+  "lines": 8,
+  "poem": "Weave your garments fair and\nbeautiful\nWhen we saw a lofty purpose\nLighting the purple apples come\nto dance for us,\" the rough men\nsaid;\nIn sculptured worship now he\nlives,"
  }
 ]

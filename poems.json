@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-27 15:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 53,
-  "lines": 5,
-  "poem": "Jump back, honey, jump back.\nHel' huh han' an' sque'z it tight,\nJump back, honey, jump back.\nLittle children, blow your\ntrumpets!"
- },
- {
   "time": "2026-10-27 16:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "'Long de lovah's lane.\nAn' de chillen waded on dey way\nto dance for us,\" the rough men\nsaid;\nAnd o'er the hopeful slave,\nRose with words of \"Home, Sweet\nHome.\"\nHad gone to seed,"
+ },
+ {
+  "time": "2026-11-06 10:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 90,
+  "lines": 8,
+  "poem": "For gallant France, for praying\nFrance,\nAn' I'm hongry, O, so berry,\nFur my hom' I am glad that the\nship\nAlas! that in our hands, it has\nbeen\nStand back of new-come foreign"
  }
 ]

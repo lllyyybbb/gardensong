@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-27 16:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "Old memories, to walk the way is\nlong!\nAnd to that college\nWhere bamboos spire the shafted\ngrove"
- },
- {
   "time": "2026-10-27 17:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 90,
   "lines": 8,
   "poem": "For gallant France, for praying\nFrance,\nAn' I'm hongry, O, so berry,\nFur my hom' I am glad that the\nship\nAlas! that in our hands, it has\nbeen\nStand back of new-come foreign"
+ },
+ {
+  "time": "2026-11-06 11:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 91,
+  "lines": 8,
+  "poem": "But no, not so; the witch\nappears\nHow distant seems our starting\nplace!\nOur mother, so loved and white\npeople's\nAnd the passers-by come few and\nfar"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-28 19:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "An' w'en I's a-layin' low,\nWhen ol' Sis' Judy pray,\nDe Cunjah man, de Cunjah man,\nde\nRippling around my dying bed,\nAnd myself answer: Till the\nprefect"
- },
- {
   "time": "2026-10-28 20:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "'Bout de beas'ses dat walks\nan'\nOn roads that wind around\nthe home for aged colored\npeople,\nTell me why you smirk and"
+ },
+ {
+  "time": "2026-11-07 13:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Men have died that men reap\nThe fiery hail fell thick\nand\nAnd the little children sit\nby\nYour clean brown body,"
  }
 ]

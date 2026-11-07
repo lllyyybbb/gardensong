@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-28 21:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "My own great weakness\nthrough\nThe castaways of life, I\nwill\nFrom this low-lying valley;\nOh, why does the 'cello its\ntones\n\"I am free!\" at last is"
- },
- {
   "time": "2026-10-28 22:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "\"Tim Thompson, a little on\nThe Black Heritage Library\nCollection\nBurn on! and on! It seems a\nbreath\nHer eyes said: I shall say--"
+ },
+ {
+  "time": "2026-11-07 16:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "When dem wait an' nuttin'\ncame\nWhere dey'd wedded in deir\nyout',\nTo-day, but I--\nAh, little dark girls who"
  }
 ]

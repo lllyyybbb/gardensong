@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-28 20:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "\"Some one,\" our hero firmly\nsaid,\nWan ashes. Still, from\nmemory's\nForgetting that I am a\nstranger\nLove me truly, Who-ah!"
- },
- {
   "time": "2026-10-28 21:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "Men have died that men reap\nThe fiery hail fell thick\nand\nAnd the little children sit\nby\nYour clean brown body,"
+ },
+ {
+  "time": "2026-11-07 14:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "\"Tim Thompson, a little on\nThe Black Heritage Library\nCollection\nBurn on! and on! It seems a\nbreath\nHer eyes said: I shall say--"
  }
 ]

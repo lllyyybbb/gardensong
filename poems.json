@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-28 14:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "All de time is fas' a-comin'\nfur\nIn the packed cars the fans\nthe lips of the Manger-King,\nOr freely pass the kindly joke\nTo where a few cars groaning"
- },
- {
   "time": "2026-10-28 15:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "The magic numbness of\nautumnal\nSquawking in joy of the\nuntouched\nAnd in the fields of\nstrife,\nFrom the East a fair,\nyoung"
+ },
+ {
+  "time": "2026-11-07 08:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "The hands whose touch\nsent\nBlow your blast that\nPeace till war and crime\nshall\nHis eyes were drenched\nwith\nWhence in the Night!"
  }
 ]

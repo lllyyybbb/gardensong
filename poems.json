@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-29 22:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 91,
-  "lines": 8,
-  "poem": "\"Thou shalt be a skeleton, a\nshell,\nLife may renew the Autumn\ntime,\nAny time you hears da cheers\nan'\nDrop down the dale,\nScornful of teacher’s rod"
- },
- {
   "time": "2026-10-29 23:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "By the miraculous sun turned\nglad\nThat docile, child-like,\ntender-hearted\nWhen ol' Sis' Judy pray.\nWhen La Paloma on a low"
+ },
+ {
+  "time": "2026-11-08 17:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "And from his sacred fires\nBeside an open glade,\nWith highest gift of song,\nAnd down within your scented\nheart,\nMy soul so leapt that my"
  }
 ]

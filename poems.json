@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-29 13:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Till our hearts with life\nimmortal,\nDe Jussey cow huh done fall\nsick,\nAnd though my passion played his\nfevered\nOn such devotion long ago"
- },
- {
   "time": "2026-10-29 14:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "And thinks not of his\nheart\nOh! the horror of\nthose\nOh, save the boys.\nYe well might melt to\ntears.\nAnd buy me chains of"
+ },
+ {
+  "time": "2026-11-08 08:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "Can set my chilly\nblood\nWho made these devils?\nWho plead our cause\nwith\nBy the lack of anvil\nand"
  }
 ]

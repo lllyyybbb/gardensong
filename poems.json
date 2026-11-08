@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-29 18:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Now God be praised from sea to\nsea,\nMy loved and precious,\nNo rubies can compare.\n\"Adorn'd and crown'd I'd have\nher\nThat helped make history when"
- },
- {
   "time": "2026-10-29 19:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Strong in her smile there\nis\nI'm out to be wooed;\nAnd ferns that never\nceased,\nWhen \"Peace on earth, good"
+ },
+ {
+  "time": "2026-11-08 13:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "At noon and evening in the\nbabbling\nShrink not from\nThat he'd done set his own\ndesire.\nYou sang far better than all"
  }
 ]

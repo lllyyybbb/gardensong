@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-29 20:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 83,
-  "lines": 8,
-  "poem": "Her eyes said: I shall will\nthat no man went through thee,\nI see her sitting bowed and\nblack,\nThe awful sin remained still\nunforgiven.\nAnd there forever will we\nrest,"
- },
- {
   "time": "2026-10-29 21:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "\"Tim Thompson, a little on\nThe Black Heritage Library\nCollection\nBurn on! and on! It seems a\nbreath\nHer eyes said: I shall say--"
+ },
+ {
+  "time": "2026-11-08 15:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "In the splendor of the seer\nshould\nIs a fiery steed.\nAnd works the droning bee.\nAnd bids us run with willing\nfeet"
  }
 ]

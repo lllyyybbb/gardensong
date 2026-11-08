@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-29 17:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "The words you sang to me dat\nev'ything\nThe infant planets saw her cheek\nhad\nFrom the margin let me buy the\nplace"
- },
- {
   "time": "2026-10-29 18:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "Men warred against their\nfiercest\nHe floundered in a day\nlike\nNo light is there; none,\nsave\nBeauty, beauty, beauty!"
+ },
+ {
+  "time": "2026-11-08 12:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Strong in her smile there\nis\nI'm out to be wooed;\nAnd ferns that never\nceased,\nWhen \"Peace on earth, good"
  }
 ]

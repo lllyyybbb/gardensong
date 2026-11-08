@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-29 01:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 97,
-  "lines": 8,
-  "poem": "He's pappy's pa'dner an'\nplaymate\nWith Val against me\nlanguid\nManhattan’s roofs and\nspires\nCrumble and fall\ntriumphant"
- },
- {
   "time": "2026-10-29 02:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "\"I hear their tones at\nlast;\"\nWant de sweatin' higgler\nfe\nAn' drew back deir han's\nwid"
+ },
+ {
+  "time": "2026-11-07 21:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "I traced a path of flame\nand\nAt his earnest plea the\nmaster\nMy shrinking eyes shall\nmeet."
  }
 ]

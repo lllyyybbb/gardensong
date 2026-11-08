@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-29 11:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Feeling the ancient rock\naround,\nRing, my bawnjer, ring!\nDen hits roun' de hill an'\nfroo\nAnd furl the banners of\ndestruction\nAnd now we ask of thee our"
- },
- {
   "time": "2026-10-29 12:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "For in her smile there\nis\nOh little Christ, why\ndo\nFor the sturdy oaks and\nthe lips of the sun,\nWeave your garments"
+ },
+ {
+  "time": "2026-11-08 05:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "The pea-dove sings, and\neach\nAn' now de man he sho'\nam\nCruelly they fiercely\nshowered\nIt could not win in"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-30 17:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 33,
-  "lines": 3,
-  "poem": "All our hopes and the dimes of\nthose\nThoo de hazy air,"
- },
- {
   "time": "2026-10-30 18:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "clawing within, to\nwhose\nThere is a blight.\nEternities before the\nfirst-born\n(While all de day nevah\nonce"
+ },
+ {
+  "time": "2026-11-09 10:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "Men warred against their\nfiercest\nHe floundered in a day\nlike\nNo light is there; none,\nsave\nBeauty, beauty, beauty!"
  }
 ]

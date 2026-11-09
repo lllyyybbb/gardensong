@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-30 20:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 40,
-  "lines": 4,
-  "poem": "For Christless men, with eager\nhands\nWith bated breath and useless\nthing?"
- },
- {
   "time": "2026-10-30 21:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "Men have died that men reap\nThe fiery hail fell thick\nand\nAnd the little children sit\nby\nYour clean brown body,"
+ },
+ {
+  "time": "2026-11-09 13:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "When dem wait an' nuttin'\ncame\nWhere dey'd wedded in deir\nyout',\nTo-day, but I--\nAh, little dark girls who"
  }
 ]

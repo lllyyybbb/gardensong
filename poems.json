@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-30 19:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 36,
-  "lines": 4,
-  "poem": "And they cry aloud\nWith her husband to make my\ndream-children\nIn man's cannot be right."
- },
- {
   "time": "2026-10-30 20:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Strong in her smile there\nis\nI'm out to be wooed;\nAnd ferns that never\nceased,\nWhen \"Peace on earth, good"
+ },
+ {
+  "time": "2026-11-09 12:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Men have died that men reap\nThe fiery hail fell thick\nand\nAnd the little children sit\nby\nYour clean brown body,"
  }
 ]

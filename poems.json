@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-30 09:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 97,
-  "lines": 8,
-  "poem": "Around earth's fairest\nlight,\nHis eyes bulge wildly out,\nSearching around in His\nhands,\nHe had found\nThe magic numbness of\nautumnal"
- },
- {
   "time": "2026-10-30 10:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "Buggah-man, buggah-man,\ncome\nWith highest gift of\nsong,\nTo be a Negro in a sea\nof Peace hovering over\nNo more across the sky,"
+ },
+ {
+  "time": "2026-11-08 22:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "The wretched day was\ntheirs,\nAn' my heart o'erflows\nwith\nI want to die while you\nare the Free,\nThese chains, O brothers"
  }
 ]

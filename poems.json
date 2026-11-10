@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-31 15:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 48,
-  "lines": 5,
-  "poem": "Still live,--but more than\npaid\nSought their own so well,\nWithin your homes you press\nthe innocent crucified for the"
- },
- {
   "time": "2026-10-31 16:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "And never, never\nagain\nBecause he had no\nmap:\nFrom every lure of\nold\nDiminuendo ad molto"
+ },
+ {
+  "time": "2026-11-10 09:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Almost broken was his\nchain.\nTo warm me when I'm\ndead.\nDey's a lovah's lane.\nAn' de way Ah love\nyou,--goodness"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-31 18:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 46,
-  "lines": 5,
-  "poem": "In agony searching for their\nbartered\nDe whole house hit des rock\nan'\nTo serve the Crucified."
- },
- {
   "time": "2026-10-31 19:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "We are children of his\ngrace.\n\"Thy house shall be their\nguide,\nAs in Trout Valley where\nupon"
+ },
+ {
+  "time": "2026-11-10 12:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Another shriek, the last!\nWatch\nNow the dead days I have\nused\n'Till war shall be a Negro\nin crime and fed them on"
  }
 ]

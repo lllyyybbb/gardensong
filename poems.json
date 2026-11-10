@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-10-31 22:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Then God arose in\ndreadful\n'Twell it seems about to\nslop,\nO my brothers and my\npleasure\nWith showy head-cloth"
- },
- {
   "time": "2026-10-31 23:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 54,
   "lines": 5,
   "poem": "I, thy lord, like not manna\nfor\nCount 'em two, you make 'em\nthree:\nO Earth, O Sky, O Ocean, both"
+ },
+ {
+  "time": "2026-11-10 16:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "All de time is fas' a-comin'\nfur\nIn the packed cars the fans\nthe lips of the Manger-King,\nOr freely pass the kindly joke\nTo where a few cars groaning"
  }
 ]

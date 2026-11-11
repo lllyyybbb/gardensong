@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 15:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 50,
-  "lines": 5,
-  "poem": "Kaze it jes won't be denied;\nIts glamour was too rare,\nThat Vashti doth not heed thy\nwill\nHis lonely agonizing pain,"
- },
- {
   "time": "2026-11-01 17:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "The wretched day was\ntheirs,\nAn' my heart o'erflows\nwith\nI want to die while you\nare the Free,\nThese chains, O brothers"
+ },
+ {
+  "time": "2026-11-11 11:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "I wist sum magic w'u'd\nellow,\nA downful pillow for your\nsons\nAdam nevuh had no home,\nthey\nHe sowed in his fold."
  }
 ]

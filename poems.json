@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 18:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "And never more shall leaves\ncome\nFor the love that sends us\nflowers?\nAnd grief was in her eyes\nin March; there is always"
- },
- {
   "time": "2026-11-01 19:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "When the gates of day,\nThe victim of grim care,\nWith each strong deed,\n\"The sword of the city\nclear,\nNow the dead days I have"
+ },
+ {
+  "time": "2026-11-11 13:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Of his beloved bell.\nAnd laughs away the mystery\nnow--\nTo buy drops fe las'y son,\nWas enrolled among the dead.\nOh some I know!"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 05:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "\"Blam!\" go de do' an'\nhe\nNo rigid road for me,\nis\nWhen all the early\nfloral\nWhen we saw a lofty\npurpose"
- },
- {
   "time": "2026-11-01 06:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "For the river\nGod help our native land,\nAnd give me--meekly to do\nmy songs of love and\nlife,\nContemplating the\nstrange,"
+ },
+ {
+  "time": "2026-11-10 23:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Mechanics of this\nperfect\nThe music of all the\nfetters\nEver'body list'nin',\nIn the tents of princely\nAbram"
  }
 ]

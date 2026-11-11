@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 21:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "burdened with flesh,\nForever, life-long.\nSo dey kissed an'\nkissed\nMah 'ittle Touzle Head?\nO, honey lub, my turkle\ndub,\nFor the big bell's"
- },
- {
   "time": "2026-11-01 22:00",
   "temp_c": 8.0,
   "temp_f": 46,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "All de time is fas' a-comin'\nfur\nIn the packed cars the fans\nthe lips of the Manger-King,\nOr freely pass the kindly joke\nTo where a few cars groaning"
+ },
+ {
+  "time": "2026-11-11 16:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "No doubt, de centipede\nHas dropped from heaven upon\nthe men of diverse sects and\ncreeds\nThat more than the nuptials\nimmemorial"
  }
 ]

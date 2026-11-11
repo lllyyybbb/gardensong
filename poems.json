@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 10:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "From their path the\ngladiators\nthat no wrong this side\nthe innocent crucified for\nthe innocent crucified for\nthe men who cast aside"
- },
- {
   "time": "2026-11-01 11:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Sure and strong,\nAnd the void consumes\nme,--all\nTo the soldier's heart\nwould\nCould never be so dear\nAs they fought and rent"
+ },
+ {
+  "time": "2026-11-11 04:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "And thinks not of his\nheart\nOh! the horror of\nthose\nOh, save the boys.\nYe well might melt to\ntears.\nAnd buy me chains of"
  }
 ]

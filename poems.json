@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 23:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "Sence you went away.\nI traced a path of sin\nand\nThe sea-king's dying\nbed,\nFading slowly from his\nvillage\nQuiescent by you in a"
- },
- {
   "time": "2026-11-02 00:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "Of his beloved bell.\nAnd laughs away the mystery\nnow--\nTo buy drops fe las'y son,\nWas enrolled among the dead.\nOh some I know!"
+ },
+ {
+  "time": "2026-11-11 18:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "At noon and evening in the\nbabbling\nShrink not from\nThat he'd done set his own\ndesire.\nYou sang far better than all"
  }
 ]

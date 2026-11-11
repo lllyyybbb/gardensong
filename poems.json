@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 17:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 51,
-  "lines": 5,
-  "poem": "Will wrap thee gently in her\neyes,\nI desire a prisoned ache;\nIf she evah had to quavah of\nde"
- },
- {
   "time": "2026-11-01 18:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "I wist sum magic w'u'd\nellow,\nA downful pillow for your\nsons\nAdam nevuh had no home,\nthey\nHe sowed in his fold."
+ },
+ {
+  "time": "2026-11-11 12:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "When the gates of day,\nThe victim of grim care,\nWith each strong deed,\n\"The sword of the city\nclear,\nNow the dead days I have"
  }
 ]

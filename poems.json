@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 22:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 84,
-  "lines": 8,
-  "poem": "And o'er your happy\nsongs\nStood the old man's\nveins\nDeze eatin' folks may\ntell\nAnd tries to forget it\nhas"
- },
- {
   "time": "2026-11-01 23:00",
   "temp_c": 8.0,
   "temp_f": 46,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "No doubt, de centipede\nHas dropped from heaven upon\nthe men of diverse sects and\ncreeds\nThat more than the nuptials\nimmemorial"
+ },
+ {
+  "time": "2026-11-11 17:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Of his beloved bell.\nAnd laughs away the mystery\nnow--\nTo buy drops fe las'y son,\nWas enrolled among the dead.\nOh some I know!"
  }
 ]

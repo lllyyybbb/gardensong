@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 12:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "No engines shrieking rescue\nstorm\nBy this narcotic thought: I\nknow\nYour guarded life too\nexquisitely"
- },
- {
   "time": "2026-11-01 13:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "And Phillips now are\ncold\nIf we must meet the\ncommon\nRemember, remember\nThe poles and spires\nand\nAnd I am a-cryin',"
+ },
+ {
+  "time": "2026-11-11 07:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "He never knew nor\nshared.\nIn Olivet, beneath the\niron\nWhen the cannon's lips\nwere\nTo lead me unto his\nbosom"
  }
 ]

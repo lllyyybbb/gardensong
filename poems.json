@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-01 20:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "Merlindy! Merlindy!\nMy spirit, bondaged by\nthe innocent crucified\nfor\nOf their chief was\nalmost\nOf severed hearts again"
- },
- {
   "time": "2026-11-01 21:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "Children of the earth with\nfluttering\nThe yawning oven spits forth\nfiery\nI den begin\nrejoicin'--hog-killin'"
+ },
+ {
+  "time": "2026-11-11 15:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "All de time is fas' a-comin'\nfur\nIn the packed cars the fans\nthe lips of the Manger-King,\nOr freely pass the kindly joke\nTo where a few cars groaning"
  }
 ]

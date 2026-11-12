@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 07:00",
-  "temp_c": 6.0,
-  "temp_f": 43,
-  "humidity": 96,
-  "lines": 8,
-  "poem": "First to weave for\nEarth has no sex and\nyet\nMy manhood as a\nmatin's\nWhen he was a mighty\ntrumpet-call\nWhich will bring to"
- },
- {
   "time": "2026-11-02 08:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Then God arose in\ndreadful\n'Twell it seems about to\nslop,\nO my brothers and my\npleasure\nWith showy head-cloth"
+ },
+ {
+  "time": "2026-11-12 01:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "The full supreme\nsurrendering\nGrown lovelier for\npassing\nThey had no home, they\ngave\nOf chieftains who"
  }
 ]

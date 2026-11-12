@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 19:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "Freedom your native land to\nbless\nSmall was the carnage\nShake our land from shore to\nshore;\nWaiting for windy waves the\nkeels\nFor your low voice too loud"
- },
- {
   "time": "2026-11-02 20:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 81,
   "lines": 8,
   "poem": "I will go naked in--for thus\n’tis\nThe rasping noise of cars\ntogether\nFor the Hand which guides us\nfrom the sands\nAnd why does the slant-envy\nof fortune that I could no"
+ },
+ {
+  "time": "2026-11-12 13:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "Down in lovah's lane,\nMerlindy! Merlindy!\nMy heart was all but weaned\naway\nWhen ol' Sis' Judy pray.\nO, Miss 'Lindy, doan' you\nhyuh\nFell on his sword,"
  }
 ]

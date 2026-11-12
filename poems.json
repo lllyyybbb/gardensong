@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 03:00",
-  "temp_c": 6.0,
-  "temp_f": 43,
-  "humidity": 94,
-  "lines": 8,
-  "poem": "You--you alone, of\nall\nBut if we have known\nthree\nFlitted one sweet\nsmile\nWe won't mind de haul\nan'"
- },
- {
   "time": "2026-11-02 04:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "Tekin' out de doubt\nWhen ol' Sis' Judy pray,\nSalvation's present plan?\nA conscience, dumb to\nbrooding\nO dawn! O let me buy the\nplace"
+ },
+ {
+  "time": "2026-11-11 22:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "And feel the heavy\nburdens\nThe torture of their\nstrain.\nAnd there's a sweet sob\nin March; there is a\nlovely"
  }
 ]

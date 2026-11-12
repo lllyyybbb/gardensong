@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 02:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 93,
-  "lines": 8,
-  "poem": "But have become the\nvictim\nThat more than the\nsong.\nThat storm and throng\nthe men knocked him\nThings he ought to\nsee."
- },
- {
   "time": "2026-11-02 03:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "\"Yes, I went aftuh Doctuh\nfuh\nThe Dawn's awake!\nWhispers of pent-up\nharmonies,\nWhat days our\nwine-thrilled"
+ },
+ {
+  "time": "2026-11-11 21:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "Tekin' out de doubt\nWhen ol' Sis' Judy pray,\nSalvation's present plan?\nA conscience, dumb to\nbrooding\nO dawn! O let me buy the\nplace"
  }
 ]

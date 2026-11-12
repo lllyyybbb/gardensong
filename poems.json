@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 09:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 85,
-  "lines": 8,
-  "poem": "And the old milk carts\ngo\nMy lute, must to the\nrose\nPassin' 'long de\ncandy-shop\nWith fell relentless\nart--"
- },
- {
   "time": "2026-11-02 10:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Like nursery children you\nhave\nIn our defence had\nbravely\nA ray of light,\nWould you blame the world\ntheir hands again"
+ },
+ {
+  "time": "2026-11-12 03:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "With a light gleam f'om\nhuh\nOn a windy autumn morn,\nI muse my life-long\nhate,\nDonkey, harse too, an'\nde\nCan tell a romance of"
  }
 ]

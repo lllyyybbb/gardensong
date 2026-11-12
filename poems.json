@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 16:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "I must reap as we are?\nThen he got up an' began\nPickin' up him sugar-pan:\nIn the great ships pass,\nThe factory where they shape\nnew"
- },
- {
   "time": "2026-11-02 17:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "The weary, restless\nwanderer\n\"I've come,\" he said,\nmust\nThe brave old man writing\nin crime and shame,\nAnd saw afar the glorious\nday"
+ },
+ {
+  "time": "2026-11-12 10:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "Weep not, oh my\nwell-sheltered\nAnd Phillips now are cold\nand\nThe plodder glad is good;\nand\nBreath vigor through each\nvein"
  }
 ]

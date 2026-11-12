@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 23:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 91,
-  "lines": 8,
-  "poem": "Of some wild animal\ncaught\nThe one bard of women\nand\nheard the word,\nTender listening for\nwind-songs\nThat his life a ghost"
- },
- {
   "time": "2026-11-03 00:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "Its restless, baffled yearning\nceased.\nWhy this agony and terror in\nhis\nWhy, de 'lectric light o'\nHeaven\nFair and lovely are your"
+ },
+ {
+  "time": "2026-11-12 17:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "For the love that sends us\nflowers?\nAn' de vizhuns ub de gloriz\nub\nWhile we lie loving,\npassionate\nI know my soul."
  }
 ]

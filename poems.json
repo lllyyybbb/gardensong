@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 15:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "Children of the earth with\nfluttering\nThe yawning oven spits forth\nfiery\nI den begin\nrejoicin'--hog-killin'"
- },
- {
   "time": "2026-11-02 16:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "Beneath the poinsettia’s\nred\nShrink not from their\nsorrow\nThis Great God,\nHe bared his brow would\ncome\nAnd build up one instead"
+ },
+ {
+  "time": "2026-11-12 09:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "The weary, restless\nwanderer\n\"I've come,\" he said,\nmust\nThe brave old man writing\nin crime and shame,\nAnd saw afar the glorious\nday"
  }
 ]

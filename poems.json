@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 20:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Now they have taken him from\nliving\nToiling over a lump of clay\nTill hearts shall relax\ntheir hands again\n'Mid the evening's dews and\nrefreshing\nYod'lin' in de ar',"
- },
- {
   "time": "2026-11-02 21:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Down in lovah's lane,\nMerlindy! Merlindy!\nMy heart was all but weaned\naway\nWhen ol' Sis' Judy pray.\nO, Miss 'Lindy, doan' you\nhyuh\nFell on his sword,"
+ },
+ {
+  "time": "2026-11-12 14:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Lis'n to 'im now!--\nHyah 'im scol' 'is mule so,\nW'en dat brass stick he\ntwirls,\nI bent me down to hell.\nI'm frum 'weh down Souf;\nBut evil days came on apace,"
  }
 ]

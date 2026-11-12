@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-02 17:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "The dying words of \"Home,\nSweet scented with a new\nfreedom,\nAnd held it with a smile,\nThere as gentle friends ye\nsmile,"
- },
- {
   "time": "2026-11-02 18:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "Weep not, oh my\nwell-sheltered\nAnd Phillips now are cold\nand\nThe plodder glad is good;\nand\nBreath vigor through each\nvein"
+ },
+ {
+  "time": "2026-11-12 11:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 80,
+  "lines": 8,
+  "poem": "My own great weakness\nthrough\nThe castaways of life, I\nwill\nFrom this low-lying valley;\nOh, why does the 'cello its\ntones\n\"I am free!\" at last is"
  }
 ]

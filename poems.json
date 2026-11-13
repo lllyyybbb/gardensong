@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 01:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 97,
-  "lines": 8,
-  "poem": "Around earth's fairest\nlight,\nHis eyes bulge wildly out,\nSearching around in His\nhands,\nHe had found\nThe magic numbness of\nautumnal"
- },
- {
   "time": "2026-11-04 02:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "For fainting France, for\npraying\nSoared like a mighty\nwave\nFur summer days is been\nan'"
+ },
+ {
+  "time": "2026-11-13 16:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Round many a mournful\ntorch\nMeasured round the\nglowing\nThen gave his vote for\nthe home for aged"
  }
 ]

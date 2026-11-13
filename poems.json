@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 17:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "And Mary with the drape\nOf you. Nor you of the tear\nThat I ask that in the trenches\nof Peace hovering over No Man's\nLand,\nFor the sturdy oaks and the\nLakes"
- },
- {
   "time": "2026-11-03 18:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "The trail of weary\nwasting\nKeep me, Jesus, keep\nme;\nThe dusky, half-clad\ngirls\nWhile Danny liked the"
+ },
+ {
+  "time": "2026-11-13 09:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "And when we played,\nAll the world was young\nin March; there is\nalways\nWhen pestilence clasps\nhands\nToo wonderful the April"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 03:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 98,
-  "lines": 8,
-  "poem": "Plum on down to Hell\nitself;\nHyah 'im scol' 'is mule\nso,\nSence you went away.\n(_A Negro Sermon_)\nAnd he is Blameless\nKnight"
- },
- {
   "time": "2026-11-03 04:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "What e'er the soul has felt\nor\nIn that hour of woe.\nToo faintly sweet the first\nsun\nAnd his wife and children\nbless,"
+ },
+ {
+  "time": "2026-11-12 21:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "All pure, but heavy, and\nof Peace is hovering over\nNo rubies can compare.\n\"Adorn'd and crown'd I'd\nhave\nFor this my race\nWhich wind with hill"
  }
 ]

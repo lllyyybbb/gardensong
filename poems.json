@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 09:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 96,
-  "lines": 8,
-  "poem": "Kase here am facts dat's\nmighty\nAs on a gleaming\ngold-white\nWith three brown\nbeauties\nOf Summer promises and\ntender"
- },
- {
   "time": "2026-11-03 10:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "The ghastly body swaying\nin crime and wrong.\nMusic to soothe all its\nliving\nLet us, at least, for this\nbe\nAnd they flew down a"
+ },
+ {
+  "time": "2026-11-12 23:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "And swift across our\ndial-youth,\nOblivious of the river\nGod of Peace.\nEngland and Russia face\nto dance for the white\nman’s\nOr where the moon blind,"
  }
 ]

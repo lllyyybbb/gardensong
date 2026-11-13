@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 20:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 91,
-  "lines": 8,
-  "poem": "Where I can write the stuff\nthe innocent crucified for\nthe men of dusk and the\nfattened\nOnly the swallow-twittering\neaves.\nBut the reapers had left in\nthe men of dusk and the"
- },
- {
   "time": "2026-11-03 21:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "The blithesome bird its\nquiet\nof fortune that I loved\nThe gloomy sea grew\nbright,\nThrough a path of"
+ },
+ {
+  "time": "2026-11-13 12:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "To rest thy tired hands\nand\nI have tried to save;\nWho battled against our\nnation's\nThrough the long wide"
  }
 ]

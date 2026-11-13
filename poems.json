@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 11:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "An' doze wee ban's so sof an'\nlo'\nKnowing man is a snare,\nAnd in your eyes, they're so\nbold,\nLife may renew the Autumn\ntime,\nDe teahs come stealin' down"
- },
- {
   "time": "2026-11-03 12:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "That salts my choicest\ndrink\nFeasting upon\nblackberries\nAnd burnt you yielding in\nmy songs of sorrow, love\nand\nWhen my mammy says de"
+ },
+ {
+  "time": "2026-11-13 01:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Not in vain had been his\ncourage,\nAnd when the night for\nyour\nAnd leading on the\nisland\nWith steady hands he"
  }
 ]

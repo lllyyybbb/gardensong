@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 10:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "So he journeys on de road\nan'\nCame with a terrible\ntension\nSongs to stir like a\nspell;\nBrought to us white\nfreedom's"
- },
- {
   "time": "2026-11-03 11:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "And swift across our\ndial-youth,\nOblivious of the river\nGod of Peace.\nEngland and Russia face\nto dance for the white\nman’s\nOr where the moon blind,"
+ },
+ {
+  "time": "2026-11-13 00:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "That salts my choicest\ndrink\nFeasting upon\nblackberries\nAnd burnt you yielding in\nmy songs of sorrow, love\nand\nWhen my mammy says de"
  }
 ]

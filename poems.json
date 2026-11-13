@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 04:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 98,
-  "lines": 8,
-  "poem": "\"I will bring to this\nearth\nIn which he sang of\nall\nRacin' ober pastur'\nlan',\nIt could not tell\ntheir hands"
- },
- {
   "time": "2026-11-03 09:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "All pure, but heavy, and\nof Peace is hovering over\nNo rubies can compare.\n\"Adorn'd and crown'd I'd\nhave\nFor this my race\nWhich wind with hill"
+ },
+ {
+  "time": "2026-11-12 22:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "The ghastly body swaying\nin crime and wrong.\nMusic to soothe all its\nliving\nLet us, at least, for this\nbe\nAnd they flew down a"
  }
 ]

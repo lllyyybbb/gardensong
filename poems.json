@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 22:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 95,
-  "lines": 8,
-  "poem": "I know my soul.\nTheir sweet imagining;\nNot a soul to share her\nfate;\nThe weary, restless\nwanderer\nDarkness covered\neverything,"
- },
- {
   "time": "2026-11-03 23:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "For fainting France, for\npraying\nSoared like a mighty\nwave\nFur summer days is been\nan'"
+ },
+ {
+  "time": "2026-11-13 14:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "And furl the banners\nstained\nClose to his race.\nLong hath this mocked me:\naye\nTo call out dishes for"
  }
 ]

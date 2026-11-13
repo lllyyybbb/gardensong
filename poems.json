@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-03 13:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "Fed our dear wives and nursed\nyour\nWhere the light broke,\nAnd thinks not of his own,\nBut cannot recollect the high\ndays after his insurance\nexpired."
- },
- {
   "time": "2026-11-03 14:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "He found me poor and\npale\nThe spell of half\ntears,\nThe herald angel's\nrefrain,\nLove’s softly glowing"
+ },
+ {
+  "time": "2026-11-13 03:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "Of sullen stupor. Mark\nhim\nIt changed my sad and\ngloomy\nThat for which tens of\nthousands\nNo servile little fear"
  }
 ]

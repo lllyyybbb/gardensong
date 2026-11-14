@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 19:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "Your body was a sacred sign,\nAnd quicker than God could drop\nHis secret plot, and sordidness\ncomplete,\nYour scent is here--jasmines\nthat no man went through thee,\nI thirst. Eat meat, and full,\nwhen"
- },
- {
   "time": "2026-11-04 20:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "To damn the other is\nWill.\nI must not gaze at them\nalthough\nWhen every street with\nsnares"
+ },
+ {
+  "time": "2026-11-14 14:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 56,
+  "lines": 6,
+  "poem": "A woman who would give\nHer voice was gone,\nWith not a word of jeer.\nDarkly I gaze into the\npregnant\n\"Shall He for France do"
  }
 ]

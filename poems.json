@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 05:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 98,
-  "lines": 8,
-  "poem": "To ease my heart he'd a\nlet\nMake dat little hall;\nDes awaitin', honey,\nCozy fixt fur you;\nDown dah by de road,\n'Long de lovah's lane,\nBefore my cottage door"
- },
- {
   "time": "2026-11-04 09:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "This badge of the\nfight;\nRemember that men reap\nThe Negro bound with\nservile\nAh, heart of its secret"
+ },
+ {
+  "time": "2026-11-13 20:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "My \"House of Golden\nLeaves\"\nAnd sound! ye with\nharp\nWhose 'nuff burdens\n'pon"
  }
 ]

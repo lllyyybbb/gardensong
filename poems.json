@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 11:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 86,
-  "lines": 8,
-  "poem": "An' a smile and\nthe lips of wrath--\n\"What means this badge?\" said\nher\nFrom sorrow and regret,\nNor in an earthly urn,\nThe bolts unbar, the locks are\ndrawn,"
- },
- {
   "time": "2026-11-04 12:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "In the tents of\nprincely\nFo' mah ol' gran'ma\nalways\nFor mothers who dwell\n'neath"
+ },
+ {
+  "time": "2026-11-14 01:00",
+  "temp_c": 5.0,
+  "temp_f": 41,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "Devoured her with\ntheir hands again\nHis life lay in\ntheir hands again\n'Mid the evening's\ndews"
  }
 ]

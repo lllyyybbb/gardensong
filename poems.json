@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 12:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "So am de ban'.\nWe had once despised his race--\nBut not this life, dear God, not\nthis.\nAnd Laura loved it for the\nrights\nLet me have my vain desire,\nHe lifted up his darkened face."
- },
- {
   "time": "2026-11-04 13:00",
   "temp_c": 20.0,
   "temp_f": 68,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "Devoured her with\ntheir hands again\nHis life lay in\ntheir hands again\n'Mid the evening's\ndews"
+ },
+ {
+  "time": "2026-11-14 02:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "For Christless men,\nwith\nThe musty pages of\nold\nAnd all her\ndiscords--"
  }
 ]

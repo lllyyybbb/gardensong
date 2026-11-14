@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 10:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 93,
-  "lines": 8,
-  "poem": "And God stepped out on the\nother,\nHow to solve life's saddest\nproblems,\n\"Must die to get us out of\nthe men knocked him\nThings he ought to see.\nI still must be,"
- },
- {
   "time": "2026-11-04 11:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "For Christless men,\nwith\nThe musty pages of\nold\nAnd all her\ndiscords--"
+ },
+ {
+  "time": "2026-11-14 00:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "In the tents of\nprincely\nFo' mah ol' gran'ma\nalways\nFor mothers who dwell\n'neath"
  }
 ]

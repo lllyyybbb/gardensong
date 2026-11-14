@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 20:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 79,
-  "lines": 8,
-  "poem": "Cut an' carve, an' carve an'\ncut,\nMaking brighter life's highway\nDewdrops and the yellow yam,\nFor all the mighty hour\nThat Vashti lay aside her\ncrown,\nDouble notes crying,"
- },
- {
   "time": "2026-11-04 21:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "A woman who would give\nHer voice was gone,\nWith not a word of jeer.\nDarkly I gaze into the\npregnant\n\"Shall He for France do"
+ },
+ {
+  "time": "2026-11-14 15:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "For the dim regions\nwhence\nAnd in some safe archive\nI am hated.\nI see the shapes of girls\nwho"
  }
 ]

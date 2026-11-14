@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 21:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 86,
-  "lines": 8,
-  "poem": "An' a smile and\nthe lips of wrath--\n\"What means this badge?\" said\nher\nFrom sorrow and regret,\nNor in an earthly urn,\nThe bolts unbar, the locks are\ndrawn,"
- },
- {
   "time": "2026-11-04 22:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "For the dim regions\nwhence\nAnd in some safe archive\nI am hated.\nI see the shapes of girls\nwho"
+ },
+ {
+  "time": "2026-11-14 16:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "With the flaming sword\nof fortune that I was an\noutcast\nWhen you and I am burned\nwith\nI do not fear to face"
  }
 ]

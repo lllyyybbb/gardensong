@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-04 13:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "Bar out the sunset,\nCome hyeah, Maria, an' wipe off\nhis\nThe air is blowin' mighty cold\nLike the words, wet with music,\nthat no man went through thee, I\nwill"
- },
- {
   "time": "2026-11-04 14:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "For Christless men,\nwith\nThe musty pages of\nold\nAnd all her\ndiscords--"
+ },
+ {
+  "time": "2026-11-14 05:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "But think in what\nsweet\neternal excellency, a\njoy\nLeopards bright, and\nfierce,"
  }
 ]

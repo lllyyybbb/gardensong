@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-05 23:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 89,
-  "lines": 8,
-  "poem": "Her voice was gone,\nSave where a few asleep,\nSome withered women desolate and\nmean,\nWeep not, oh my well-sheltered\nsisters,\nHis lonely agonizing pain,\nA ruined body and lust of power"
- },
- {
   "time": "2026-11-06 01:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "For the dim regions\nwhence\nAnd in some safe archive\nI am hated.\nI see the shapes of girls\nwho"
+ },
+ {
+  "time": "2026-11-15 17:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Which hang on the\ngrasses,\nHello, Miss Melerlee!\nYou're de berry thought\nbrings\nWere nailed unto the Lord"
  }
 ]

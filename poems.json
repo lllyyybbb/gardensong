@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-05 16:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 82,
-  "lines": 8,
-  "poem": "She was weary, he was a mighty\nwave\nRich carpets were hushing her\ntread;\nThe freedom that we never knew\nupon\n\"I'll tek 'long meh lawnce, an'\nlawnce"
- },
- {
   "time": "2026-11-05 17:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "And for our need,\nBut I don't wake the\ntown\nWe do' want stragglers\na-layin'\nEvery fat man is a"
+ },
+ {
+  "time": "2026-11-15 11:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Before my ravished sight\nWho but you can mek it\nthoo,\nFeared her child would\ndie\nAnd of the Loyal Legion"
  }
 ]

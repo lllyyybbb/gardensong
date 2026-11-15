@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-05 13:00",
-  "temp_c": 20.0,
-  "temp_f": 68,
-  "humidity": 84,
-  "lines": 8,
-  "poem": "When one arose upon whose brow\nWith only a breath betwixt tub\nand\nThey flap their hideous wings in\ngrim\nIn me the precious token,\nThat was never spoken,\nBut dem wu'ds so sweetly murmured"
- },
- {
   "time": "2026-11-05 14:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "Or Plato's dialogue\nrehearse\nThe full supreme\nsurrendering\nAnd saw afar the\nglorious\nI hold my head"
+ },
+ {
+  "time": "2026-11-15 08:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "Deze eatin' folks may\ntell\nO, brothers mine,\ntake\nTelling us we all\ntread.\n'Long de lovah's"
  }
 ]

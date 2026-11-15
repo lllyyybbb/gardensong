@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-05 15:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "Before their footsteps stray,\nSweet fife an' piccalo,\nBofe warblin' sof an' sweet,\nMates wid dem toddlin', velvet\nfeet,\nWhat is it all de day nevah once\nbeen\nWhy does the night with the star's"
- },
- {
   "time": "2026-11-05 16:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "There passes across my\nceiling\nSuch a gift that even\nheaven\nTill our world, so\nworn\nLost in death dimmed"
+ },
+ {
+  "time": "2026-11-15 10:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "And for our need,\nBut I don't wake the\ntown\nWe do' want stragglers\na-layin'\nEvery fat man is a"
  }
 ]

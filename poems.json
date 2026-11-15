@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-05 17:00",
-  "temp_c": 21.0,
-  "temp_f": 70,
-  "humidity": 84,
-  "lines": 8,
-  "poem": "So long we pore, 'mid murmurings\ndull,\nWherefore do we pray? Is not the\nage\nTo-night caress your wind-swept\nface,\nBecause I loved\nHe builded his cabin far away, I"
- },
- {
   "time": "2026-11-05 18:00",
   "temp_c": 21.0,
   "temp_f": 70,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Before my ravished sight\nWho but you can mek it\nthoo,\nFeared her child would\ndie\nAnd of the Loyal Legion"
+ },
+ {
+  "time": "2026-11-15 12:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "Round many a mournful\ntorch\nMeasured round the\nglowing\nThen gave his vote for\nthe home for aged"
  }
 ]

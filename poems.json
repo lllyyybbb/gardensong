@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-05 22:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 88,
-  "lines": 8,
-  "poem": "Heard they aright? Did that\nbrave\nThe far horizon's beckoning\nspan!\nGives song a nightless day,\nYour eyes are too sadly kind\nTo us the Plan; give us\nundisturbed"
- },
- {
   "time": "2026-11-05 23:00",
   "temp_c": 19.0,
   "temp_f": 66,
@@ -1598,5 +1590,13 @@
   "humidity": 56,
   "lines": 6,
   "poem": "Among the sons of men:--\nBut Adam nevuh had no dear\nold\nIngenious grows the\nmightier,\nJasmines, night jasmines,"
+ },
+ {
+  "time": "2026-11-15 16:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 57,
+  "lines": 6,
+  "poem": "For the dim regions\nwhence\nAnd in some safe archive\nI am hated.\nI see the shapes of girls\nwho"
  }
 ]

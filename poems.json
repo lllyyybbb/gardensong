@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-06 14:00",
-  "temp_c": 19.0,
-  "temp_f": 66,
-  "humidity": 81,
-  "lines": 8,
-  "poem": "The yellow by-road mazing from\nthe innocent crucified for the\ngift\nI wist sum magic w'u'd ellow,\n(By charm or craf'--doan mattah\nhow)\nStop! to each heart!\nBrown bees that murmur sounds of"
- },
- {
   "time": "2026-11-06 15:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "Over the gloom of\nslavery's\nAnd in the grassy\nlane;\nPanting with\npassion,\nI thirst. Eat meat,"
+ },
+ {
+  "time": "2026-11-16 08:00",
+  "temp_c": 3.0,
+  "temp_f": 37,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Whut I keer ef day\nis\nNo more from out the\nseven\nThinks you dat I is\nBlack brother, think\nyou"
  }
 ]

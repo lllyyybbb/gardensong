@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-06 17:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "Stood frowning 'gainst the\nearth\nSo dey k'lated eberyt'ing;\nAn' stops dis ha't f'um\nsighin'!\nFor Thy tender mercies,\nabiding\nNo rubies can compare."
- },
- {
   "time": "2026-11-06 18:00",
   "temp_c": 16.0,
   "temp_f": 61,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "Deze eatin' folks may\ntell\nO, brothers mine,\ntake\nTelling us we all\ntread.\n'Long de lovah's"
+ },
+ {
+  "time": "2026-11-16 11:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "There passes across my\nceiling\nSuch a gift that even\nheaven\nTill our world, so\nworn\nLost in death dimmed"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-07 01:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 90,
-  "lines": 8,
-  "poem": "Lolled and with the promise\nin March; there is a red\nand\nAnd though my passion was a\nsacred\nTo roam with her the\nglory-land\nIt saps its pillars proud"
- },
- {
   "time": "2026-11-07 02:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 57,
   "lines": 6,
   "poem": "And never more shall leaves\ncome\nFor the love that sends us\nflowers?\nAnd grief was in her eyes\nin March; there is always"
+ },
+ {
+  "time": "2026-11-16 16:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Or where the poor will\nknow\nIn the packed cars the\nfans\nAnd a fair and I hear the\nhalting"
  }
 ]

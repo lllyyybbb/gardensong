@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-06 18:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 90,
-  "lines": 8,
-  "poem": "I a single grain destroy;\nAnd from her lap\nAnd, 'mid my lords and mighty\nmen,\nOh water, water, when the lips\nof Peace hovering over No\nMan's\nAnd He looked at His sun,"
- },
- {
   "time": "2026-11-06 19:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 66,
   "lines": 7,
   "poem": "There passes across my\nceiling\nSuch a gift that even\nheaven\nTill our world, so\nworn\nLost in death dimmed"
+ },
+ {
+  "time": "2026-11-16 12:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "And for our need,\nBut I don't wake the\ntown\nWe do' want stragglers\na-layin'\nEvery fat man is a"
  }
 ]

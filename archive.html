@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>gardensong — archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#23282a; --glass:rgba(233,237,238,.80); --edge:rgba(255,255,255,.30);
+    --muted:#697073; --rule:rgba(35,40,42,.18); --col:38em;
+    --mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;min-height:100vh;color:var(--ink);font-family:var(--mono);font-weight:400;
+    background:url('bg.jpg') center/cover fixed no-repeat;}
+  body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:0;
+    background:linear-gradient(180deg,rgba(16,22,16,.48),rgba(16,22,16,.18) 34%,rgba(16,22,16,.52));}
+  .page{position:relative;z-index:1;max-width:var(--col);margin:0 auto;
+    padding:clamp(2.4rem,7vw,4.2rem) 1.15rem 4.5rem}
+  header{margin:0 0 1.6rem;color:#f2f4f1;text-shadow:0 1px 10px rgba(8,12,8,.6)}
+  .mark{font-size:.82rem;font-weight:500;letter-spacing:.24em;text-transform:lowercase}
+  .mark a{color:inherit;text-decoration:none}
+  .mark a:hover{text-decoration:underline}
+  .tagline{font-size:.78rem;line-height:1.6;max-width:30em;margin:.6rem 0 0;color:rgba(242,244,241,.9)}
+  /* month picker */
+  .months{display:flex;flex-wrap:wrap;gap:.45rem;margin:1.4rem 0 0;padding:0;list-style:none}
+  .months a{display:block;padding:.42rem .7rem;border:1px solid rgba(242,244,241,.45);border-radius:2px;
+    font-size:.7rem;letter-spacing:.08em;color:#f2f4f1;text-decoration:none;
+    background:rgba(16,22,16,.28);text-shadow:none}
+  .months a:hover{background:rgba(16,22,16,.5)}
+  .months a[aria-current="true"]{background:rgba(233,237,238,.9);color:var(--ink);border-color:transparent}
+  .months .n{opacity:.65;margin-left:.45em}
+  .tools{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:.6rem;
+    margin:1.6rem 0 0;font-size:.66rem;letter-spacing:.05em;
+    color:rgba(242,244,241,.82);text-shadow:0 1px 10px rgba(8,12,8,.6)}
+  .tools button{font:inherit;color:#dbe7c4;background:none;border:0;padding:0;cursor:pointer;
+    text-decoration:underline;text-shadow:inherit}
+  /* poems: same cards as the front page, without the blur so a whole month scrolls smoothly */
+  .card{background:var(--glass);border:1px solid var(--edge);border-radius:2px;
+    padding:1.6rem 1.5rem 1.2rem;margin:0 0 1.1rem;box-shadow:0 8px 22px -15px rgba(6,10,6,.6);}
+  .verse{white-space:pre-line;font-size:.95rem;line-height:1.62;margin:0}
+  .rule{border:0;height:1px;width:1.8rem;background:var(--rule);margin:1.25rem 0 .7rem}
+  .label{font-size:.68rem;letter-spacing:.05em;color:var(--muted);margin:0}
+  .eyebrow{font-size:.66rem;letter-spacing:.22em;text-transform:uppercase;
+    color:rgba(242,244,241,.85);margin:2rem 0 1rem;text-shadow:0 1px 10px rgba(8,12,8,.6)}
+  .note{color:#f2f4f1;font-size:.78rem;line-height:1.6;text-shadow:0 1px 10px rgba(8,12,8,.6)}
+  footer{margin-top:2.6rem;color:rgba(242,244,241,.82);font-size:.68rem;line-height:1.7;
+    letter-spacing:.02em;text-shadow:0 1px 10px rgba(8,12,8,.6)}
+  .by{display:block;margin-top:1rem}
+  a{color:#dbe7c4}
+  a:focus-visible,button:focus-visible{outline:2px solid #e9dfbc;outline-offset:3px}
+  @media(max-width:420px){ .card{padding:1.35rem 1.15rem 1rem} }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div class="mark"><a href="./">gardensong</a> / archive</div>
+    <p class="tagline" id="summary">Every poem the garden has written, month by month.</p>
+    <ul class="months" id="months" aria-label="months"></ul>
+    <div class="tools">
+      <span id="range"></span>
+      <button type="button" id="order"></button>
+    </div>
+  </header>
+  <main id="poems" aria-live="polite">
+    <noscript><p class="note">The archive needs JavaScript to load. The newest poems are on the <a href="./">front page</a>.</p></noscript>
+  </main>
+  <footer>
+    <a href="./">&larr; back to the newest poem</a><br><br>
+    assembled by a markov chain from public-domain poetry &mdash;<br>
+    james weldon johnson's the book of american negro poetry (1922)<br>
+    claude mckay's harlem shadows, and frances e. w. harper's poems.<br>
+    <span class="by">made by <a href="https://www.lillianyvonnebertram.com">lillianyvonnebertram.com</a></span>
+  </footer>
+</div>
+<script>
+(function(){
+  var MONTHS=['january','february','march','april','may','june','july','august','september','october','november','december'];
+  var DAYS=['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+  var monthsEl=document.getElementById('months'), poemsEl=document.getElementById('poems'),
+      rangeEl=document.getElementById('range'), orderBtn=document.getElementById('order'),
+      summaryEl=document.getElementById('summary');
+  var index=[], cache={}, current=null, newestFirst=true;
+
+  // "2026-08" -> "august 2026"
+  function monthName(key){ return MONTHS[parseInt(key.slice(5,7),10)-1]+' '+key.slice(0,4); }
+  // "2026-08-11 17:00" -> "tuesday, august 11"
+  function dayName(t){
+    var y=+t.slice(0,4), m=+t.slice(5,7), d=+t.slice(8,10);
+    return DAYS[new Date(Date.UTC(y,m-1,d)).getUTCDay()]+', '+MONTHS[m-1]+' '+d;
+  }
+  function el(tag,cls,text){ var e=document.createElement(tag); if(cls)e.className=cls; if(text!=null)e.textContent=text; return e; }
+  function note(msg){ poemsEl.textContent=''; poemsEl.appendChild(el('p','note',msg)); }
+  function getJSON(url){ return fetch(url,{cache:'no-cache'}).then(function(r){ if(!r.ok) throw new Error(url); return r.json(); }); }
+
+  function drawMonths(){
+    monthsEl.textContent='';
+    index.slice().reverse().forEach(function(m){          // newest month first
+      var li=el('li'), a=el('a',null,monthName(m.month));
+      a.href='#'+m.month;
+      if(m.month===current) a.setAttribute('aria-current','true');
+      a.appendChild(el('span','n',String(m.count)));
+      li.appendChild(a); monthsEl.appendChild(li);
+    });
+  }
+
+  function drawPoems(list){
+    var poems=newestFirst ? list.slice().reverse() : list;   // files are stored oldest first
+    var frag=document.createDocumentFragment(), day='';
+    poems.forEach(function(p){
+      var d=p.time.slice(0,10);
+      if(d!==day){ day=d; frag.appendChild(el('p','eyebrow',dayName(p.time))); }
+      var card=el('article','card');
+      card.appendChild(el('p','verse',p.poem));
+      card.appendChild(el('hr','rule'));
+      card.appendChild(el('p','label',p.temp_f+'°F  ·  '+p.humidity+'% RH  ·  '+p.time));
+      frag.appendChild(card);
+    });
+    poemsEl.textContent=''; poemsEl.appendChild(frag);
+    rangeEl.textContent=list.length+' poems in '+monthName(current);
+    orderBtn.textContent=newestFirst ? 'read oldest first' : 'read newest first';
+  }
+
+  function show(key){
+    if(!index.some(function(m){return m.month===key;})) key=index[index.length-1].month;
+    current=key; drawMonths();
+    if(cache[key]) return drawPoems(cache[key]);
+    note('loading '+monthName(key)+'…');
+    getJSON('archive/'+key+'.json').then(function(list){
+      cache[key]=list; if(current===key) drawPoems(list);
+    }).catch(function(){ note('That month could not be loaded. Try again in a moment.'); });
+  }
+
+  orderBtn.addEventListener('click',function(){ newestFirst=!newestFirst; if(cache[current]) drawPoems(cache[current]); });
+  window.addEventListener('hashchange',function(){ show(location.hash.slice(1)); window.scrollTo(0,0); });
+
+  getJSON('archive/months.json').then(function(list){
+    index=list;
+    var total=list.reduce(function(n,m){return n+m.count;},0);
+    summaryEl.textContent='Every poem the garden has written — '+total.toLocaleString('en-US')+' so far, since '+monthName(list[0].month)+'.';
+    show(location.hash.slice(1));
+  }).catch(function(){ note('The archive could not be loaded. Try again in a moment.'); });
+})();
+</script>
+</body>
+</html>

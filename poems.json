@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-06 19:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 92,
-  "lines": 8,
-  "poem": "I need not gloom my days with\nfutile\nInto the sadness that\nfollows--to\nA rock, for ages, stern and\nhigh,\nAll his hope of life sold to\nme"
- },
- {
   "time": "2026-11-06 20:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "And for our need,\nBut I don't wake the\ntown\nWe do' want stragglers\na-layin'\nEvery fat man is a"
+ },
+ {
+  "time": "2026-11-16 13:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Before my ravished sight\nWho but you can mek it\nthoo,\nFeared her child would\ndie\nAnd of the Loyal Legion"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-07 02:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "Of wingèd dreams, is in the\ntree\nAnother shriek, the last!\nWatch\nI feel your glad\nChiding from the sight,\nThe pregnant hour is near;\nAn' de water cocoanut"
- },
- {
   "time": "2026-11-07 03:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Or where the poor will\nknow\nIn the packed cars the\nfans\nAnd a fair and I hear the\nhalting"
+ },
+ {
+  "time": "2026-11-16 17:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "The pea-dove sings, and\neach\nThen began the dreadful\nthing\nGestured assignations,\nand"
  }
 ]

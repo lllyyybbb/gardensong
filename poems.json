@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-06 09:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 92,
-  "lines": 8,
-  "poem": "'Long de lovah's lane.\nAn' de chillen waded on dey way\nto dance for us,\" the rough men\nsaid;\nAnd o'er the hopeful slave,\nRose with words of \"Home, Sweet\nHome.\"\nHad gone to seed,"
- },
- {
   "time": "2026-11-06 10:00",
   "temp_c": 18.0,
   "temp_f": 64,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "Cradle of Power! Yet\nall\nHow that mother's\nhand\nSearching me\nthrough,\nEven the sacred"
+ },
+ {
+  "time": "2026-11-16 00:00",
+  "temp_c": 5.0,
+  "temp_f": 41,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "And thought of\nviolets\nWhil' de moments am\na-flyin',\nSo him think, an'\nthink\nLed by the Mersey,"
  }
 ]

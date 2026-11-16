@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-06 16:00",
-  "temp_c": 18.0,
-  "temp_f": 64,
-  "humidity": 87,
-  "lines": 8,
-  "poem": "And never a night stays he;\nFor the flocks which feed on a\nlow\ntheir hands again\nHis fireside the lowliest\nplace;\nAs in the hills that softly\nflow"
- },
- {
   "time": "2026-11-06 17:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "Will some kind one\ndirect\nI am a thing not\nnew,\nSometimes the north\nwind\nAnd God walked, and"
+ },
+ {
+  "time": "2026-11-16 10:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "Deze eatin' folks may\ntell\nO, brothers mine,\ntake\nTelling us we all\ntread.\n'Long de lovah's"
  }
 ]

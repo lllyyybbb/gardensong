@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-07 18:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "Her days were bowers rife\nwith\nWe mus' wuk we\ncommon-sense,\nThat even I was an alien\nguest,"
- },
- {
   "time": "2026-11-07 20:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "Yet, as we look back\no'er\n\"When you notice da\nair\nBut me whom radiant\nbeauty\nTo wear it in the"
+ },
+ {
+  "time": "2026-11-17 12:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "For the bearing toils\nand\nBreak loose in a day\nlike\nNo alien airs had\ncrossed;\nAgainst the daggers of"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-07 23:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "Twel you hyuh me,\nchil',\nGod bless our native\nland,\nWhy must this horror be\nPure water from a riven\nchain;"
- },
- {
   "time": "2026-11-08 00:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 58,
   "lines": 6,
   "poem": "No engines shrieking rescue\nstorm\nBy this narcotic thought: I\nknow\nYour guarded life too\nexquisitely"
+ },
+ {
+  "time": "2026-11-17 16:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "Her days were bowers rife\nwith\nWe mus' wuk we\ncommon-sense,\nThat even I was an alien\nguest,"
  }
 ]

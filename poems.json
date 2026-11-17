@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-07 16:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "When dem wait an' nuttin'\ncame\nWhere dey'd wedded in deir\nyout',\nTo-day, but I--\nAh, little dark girls who"
- },
- {
   "time": "2026-11-07 17:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Stand back of\nnew-come\nJoining in the\nstarlit\nWe shall smile who\nloved\nMah 'ittle Touzle\nHead."
+ },
+ {
+  "time": "2026-11-17 10:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "For the bearded wheat\nand\nFor this my race that\nfed\nI must not watch you\nas\nThe cup allures and"
  }
 ]

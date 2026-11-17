@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-07 13:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 61,
-  "lines": 6,
-  "poem": "Men have died that men reap\nThe fiery hail fell thick\nand\nAnd the little children sit\nby\nYour clean brown body,"
- },
- {
   "time": "2026-11-07 14:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "The feet that\ntravelled\nI turned, and saw\nbehind\nOf the pimento’s\nflowering\nHow, in your frame;\nMy soul of things"
+ },
+ {
+  "time": "2026-11-17 06:00",
+  "temp_c": 3.0,
+  "temp_f": 37,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "But Adam nevuh had\nno\nI know there's room\nFor the peace of God\nand\nIn the night is\nmine;\nShielding my heart"
  }
 ]

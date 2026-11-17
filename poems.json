@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-07 20:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "\"I hear their tones at\nlast;\"\nWant de sweatin' higgler\nfe\nAn' drew back deir han's\nwid"
- },
- {
   "time": "2026-11-07 21:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "For the bearing toils\nand\nBreak loose in a day\nlike\nNo alien airs had\ncrossed;\nAgainst the daggers of"
+ },
+ {
+  "time": "2026-11-17 13:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "I traced a path of flame\nand\nAt his earnest plea the\nmaster\nMy shrinking eyes shall\nmeet."
  }
 ]

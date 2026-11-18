@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-08 16:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "By the miraculous sun turned\nglad\nThat docile, child-like,\ntender-hearted\nWhen ol' Sis' Judy pray.\nWhen La Paloma on a low"
- },
- {
   "time": "2026-11-08 17:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "Stand back of\nnew-come\nJoining in the\nstarlit\nWe shall smile who\nloved\nMah 'ittle Touzle\nHead."
+ },
+ {
+  "time": "2026-11-18 07:00",
+  "temp_c": 4.0,
+  "temp_f": 39,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "May pass beyond the\npale,\nA rock, for ages,\nstern\nOh! earnest hearts!\ntoil\nAnd hard and cold--\nI shall say--"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-08 11:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Men warred against their\nfiercest\nHe floundered in a day\nlike\nNo light is there; none,\nsave\nBeauty, beauty, beauty!"
- },
- {
   "time": "2026-11-08 12:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "For the bearded wheat\nand\nFor this my race that\nfed\nI must not watch you\nas\nThe cup allures and"
+ },
+ {
+  "time": "2026-11-18 01:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "And never, never\nagain\nBecause he had no\nmap:\nFrom every lure of\nold\nDiminuendo ad molto"
  }
 ]

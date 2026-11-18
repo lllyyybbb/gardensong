@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-08 13:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "At noon and evening in the\nbabbling\nShrink not from\nThat he'd done set his own\ndesire.\nYou sang far better than all"
- },
- {
   "time": "2026-11-08 14:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "There is a lovely\nnoise\nBut oh, your scent\nis\nWithout a single\nbreach\nIn silence, O Silent"
+ },
+ {
+  "time": "2026-11-18 04:00",
+  "temp_c": 5.0,
+  "temp_f": 41,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "God hid the secret\nchambers\nVain--as it is\ndeath.\nThey hounded him,\nthey\nDown in lovah's\nlane."
  }
 ]

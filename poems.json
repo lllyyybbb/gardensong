@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-08 17:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 60,
-  "lines": 6,
-  "poem": "And from his sacred fires\nBeside an open glade,\nWith highest gift of song,\nAnd down within your scented\nheart,\nMy soul so leapt that my"
- },
- {
   "time": "2026-11-08 18:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "May pass beyond the\npale,\nA rock, for ages,\nstern\nOh! earnest hearts!\ntoil\nAnd hard and cold--\nI shall say--"
+ },
+ {
+  "time": "2026-11-18 08:00",
+  "temp_c": 3.0,
+  "temp_f": 37,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "But Adam nevuh had\nno\nI know there's room\nFor the peace of God\nand\nIn the night is\nmine;\nShielding my heart"
  }
 ]

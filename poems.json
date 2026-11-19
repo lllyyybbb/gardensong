@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-09 10:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "Men warred against their\nfiercest\nHe floundered in a day\nlike\nNo light is there; none,\nsave\nBeauty, beauty, beauty!"
- },
- {
   "time": "2026-11-09 11:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "clawing within, to\nwhose\nThere is a blight.\nEternities before the\nfirst-born\n(While all de day nevah\nonce"
+ },
+ {
+  "time": "2026-11-18 21:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Do not cheer till\narbitration\nHis moods are storms\nthat no physician can\nreplace,\nAnd browse about our\nancient"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-09 17:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 56,
-  "lines": 6,
-  "poem": "In God, so tender, strong\nand\nSeas cooling warm where\nnative\nConspires to rob me of vital\nworth,"
- },
- {
   "time": "2026-11-09 18:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "Break through that\nfiery\nSo we laid it on my\nthrone,\nThey shall see Him\nin crime and wrong.\nFor the big round\nmoon"
+ },
+ {
+  "time": "2026-11-19 09:00",
+  "temp_c": 4.0,
+  "temp_f": 39,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "The moaning,\ngroaning\nBy hand and\nthought,\"\nDo not cheer, for\nlips\nWhereon my passion"
  }
 ]

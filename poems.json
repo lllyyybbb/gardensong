@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-09 15:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Life may renew the Autumn\ntime,\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling lips\nI want the night wind wail?\nHe ain't no tramp, ner no"
- },
- {
   "time": "2026-11-09 16:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "crucified Christ:\n_What\nWashing windows and\nscrubbing\nLife as tender as\nyoung\nAn' w'en I's"
+ },
+ {
+  "time": "2026-11-19 05:00",
+  "temp_c": 4.0,
+  "temp_f": 39,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "But de sick wife\nkissed\nWill welcome me....\nAnd the restless sea\nis\nBy beating on some\npoet's\nMy tearful eyes my"
  }
 ]

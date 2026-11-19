@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-09 18:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "Oh, ye who license men to\ndo,\nThe moon has come. Wan and\npallid\nYes, blame me if I've\nlearned"
- },
- {
   "time": "2026-11-09 19:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 73,
   "lines": 7,
   "poem": "The moaning,\ngroaning\nBy hand and\nthought,\"\nDo not cheer, for\nlips\nWhereon my passion"
+ },
+ {
+  "time": "2026-11-19 10:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 69,
+  "lines": 7,
+  "poem": "Is there no hope for\nme?\nWindways, will sweep\nme\nIs a fiery steed.\nAnd swarthy children\nin crime and shame,"
  }
 ]

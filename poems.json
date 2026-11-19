@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-09 14:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 57,
-  "lines": 6,
-  "poem": "In the splendor of the seer\nshould\nIs a fiery steed.\nAnd works the droning bee.\nAnd bids us run with willing\nfeet"
- },
- {
   "time": "2026-11-09 15:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "There is a lovely\nnoise\nBut oh, your scent\nis\nWithout a single\nbreach\nIn silence, O Silent"
+ },
+ {
+  "time": "2026-11-19 03:00",
+  "temp_c": 4.0,
+  "temp_f": 39,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "crucified Christ:\n_What\nWashing windows and\nscrubbing\nLife as tender as\nyoung\nAn' w'en I's"
  }
 ]

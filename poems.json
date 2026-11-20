@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-10 17:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "For in her heart;\nMen to say \"Dis is yo' las'\"--\nDe nothe'n win' is blowin'\nmighty\nAnd there's another! Wilder\nthan"
- },
- {
   "time": "2026-11-10 18:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 69,
   "lines": 7,
   "poem": "At golden noon the\nforest\nWhen peace descends\nlike\nDe milyuns on dem vines\nam\nPurtty white satin"
+ },
+ {
+  "time": "2026-11-20 11:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Each rise of sun or star.\nThey have no offering but\nmy songs of the gods;\nUnloosen them and let his\nfeet\n'Mid the holy glow of"
  }
 ]

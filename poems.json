@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-10 09:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Almost broken was his\nchain.\nTo warm me when I'm\ndead.\nDey's a lovah's lane.\nAn' de way Ah love\nyou,--goodness"
- },
- {
   "time": "2026-11-10 10:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "And thinks not of his\nheart\nOh! the horror of\nthose\nOh, save the boys.\nYe well might melt to\ntears.\nAnd buy me chains of"
+ },
+ {
+  "time": "2026-11-20 01:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "And Phillips now are\ncold\nIf we must meet the\ncommon\nRemember, remember\nThe poles and spires\nand\nAnd I am a-cryin',"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-10 14:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 55,
-  "lines": 6,
-  "poem": "Life may renew the Autumn\ntime,\nDe thun'ers ur Mount Sin-a-i\nComes from your trembling lips\nI want the night wind wail?\nHe ain't no tramp, ner no"
- },
- {
   "time": "2026-11-10 15:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "God hid the secret\nchambers\nVain--as it is\ndeath.\nThey hounded him,\nthey\nDown in lovah's\nlane."
+ },
+ {
+  "time": "2026-11-20 08:00",
+  "temp_c": 5.0,
+  "temp_f": 41,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "There is a lovely\nnoise\nBut oh, your scent\nis\nWithout a single\nbreach\nIn silence, O Silent"
  }
 ]

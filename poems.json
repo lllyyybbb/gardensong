@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 00:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "The wretched day was\ntheirs,\nAn' my heart o'erflows\nwith\nI want to die while you\nare the Free,\nThese chains, O brothers"
- },
- {
   "time": "2026-11-11 01:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 61,
   "lines": 6,
   "poem": "From that hour Rome, grown\nmore\nAt the\nSickle comes and leaves us\nstunned\nThrust the strange intruder"
+ },
+ {
+  "time": "2026-11-20 18:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "For the pumpkin sweet and\nbrief\nPeace to silence all her\nqueenly\nPile not so fast or high! or\nwe"
  }
 ]

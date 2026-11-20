@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-10 15:00",
-  "temp_c": 17.0,
-  "temp_f": 63,
-  "humidity": 54,
-  "lines": 5,
-  "poem": "I, thy lord, like not manna\nfor\nCount 'em two, you make 'em\nthree:\nO Earth, O Sky, O Ocean, both"
- },
- {
   "time": "2026-11-10 16:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "There is a lovely\nnoise\nBut oh, your scent\nis\nWithout a single\nbreach\nIn silence, O Silent"
+ },
+ {
+  "time": "2026-11-20 09:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "For the bearded wheat\nand\nFor this my race that\nfed\nI must not watch you\nas\nThe cup allures and"
  }
 ]

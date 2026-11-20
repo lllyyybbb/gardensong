@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-10 19:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "'Bout de beas'ses dat walks\nan'\nOn roads that wind around\nthe home for aged colored\npeople,\nTell me why you smirk and"
- },
- {
   "time": "2026-11-10 20:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "So dey kissed an' kissed\nagain,\nPurtty white satin ves',\nGole braid ercross de\nches';\nAnd I have some startling"
+ },
+ {
+  "time": "2026-11-20 13:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 58,
+  "lines": 6,
+  "poem": "\"Tim Thompson, a little on\nThe Black Heritage Library\nCollection\nBurn on! and on! It seems a\nbreath\nHer eyes said: I shall say--"
  }
 ]

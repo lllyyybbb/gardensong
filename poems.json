@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 22:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "And feel the heavy\nburdens\nThe torture of their\nstrain.\nAnd there's a sweet sob\nin March; there is a\nlovely"
- },
- {
   "time": "2026-11-11 23:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 65,
   "lines": 6,
   "poem": "The dying words of \"Home,\nSweet scented with a new\nfreedom,\nAnd held it with a smile,\nThere as gentle friends ye\nsmile,"
+ },
+ {
+  "time": "2026-11-21 18:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 71,
+  "lines": 7,
+  "poem": "Refute our wilding\nminstrelsy.\nSave me, Jesus, keep me.\nOh, the judge, he wore a\nmask\nSingin' in de track\nWhere the widow weeps in"
  }
 ]

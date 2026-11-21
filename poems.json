@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 05:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "And Phillips now are\ncold\nIf we must meet the\ncommon\nRemember, remember\nThe poles and spires\nand\nAnd I am a-cryin',"
- },
- {
   "time": "2026-11-11 07:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Merlindy! Merlindy!\nMy spirit, bondaged by\nthe innocent crucified\nfor\nOf their chief was\nalmost\nOf severed hearts again"
+ },
+ {
+  "time": "2026-11-20 23:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "But you have gentle\ncompassion;\nOf severed hearts again\nmade\nI want to die while you\nlove\nFrom the leagued lying\nof Peace hovering over"
  }
 ]

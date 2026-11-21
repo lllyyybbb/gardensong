@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 21:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "Tekin' out de doubt\nWhen ol' Sis' Judy pray,\nSalvation's present plan?\nA conscience, dumb to\nbrooding\nO dawn! O let me buy the\nplace"
- },
- {
   "time": "2026-11-11 22:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "No rubies can compare.\n\"Adorn'd and crown'd I'd have\nher\nAnd, like a southern lily red,\nFor the plum and the children\nof Peace is hovering over No"
+ },
+ {
+  "time": "2026-11-21 17:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 65,
+  "lines": 6,
+  "poem": "The dying words of \"Home,\nSweet scented with a new\nfreedom,\nAnd held it with a smile,\nThere as gentle friends ye\nsmile,"
  }
 ]

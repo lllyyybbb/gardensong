@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 10:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "The wretched day was\ntheirs,\nAn' my heart o'erflows\nwith\nI want to die while you\nare the Free,\nThese chains, O brothers"
- },
- {
   "time": "2026-11-11 11:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "On all that He had\nclasped\nAvert the doom that\ncrime\nFor blood shed in vain?\nThat earth's substance\nturns\nThe freedom of the"
+ },
+ {
+  "time": "2026-11-21 03:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 77,
+  "lines": 8,
+  "poem": "He never knew nor\nshared.\nIn Olivet, beneath the\niron\nWhen the cannon's lips\nwere\nTo lead me unto his\nbosom"
  }
 ]

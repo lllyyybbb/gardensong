@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 16:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 59,
-  "lines": 6,
-  "poem": "No doubt, de centipede\nHas dropped from heaven upon\nthe men of diverse sects and\ncreeds\nThat more than the nuptials\nimmemorial"
- },
- {
   "time": "2026-11-11 17:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "And suddenly my thoughts\nthen\nWith anxious hearts, but\nfailing\nAnd yet he stood unmoved\nand\nI bent me down beneaf de"
+ },
+ {
+  "time": "2026-11-21 12:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 66,
+  "lines": 7,
+  "poem": "Won't I lub you to de poor\nsad\nBut I cannot bring back to\nmind\nBefore the sun was on His\nleft;\nThat Vashti doth not heed"
  }
 ]

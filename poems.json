@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 11:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "I wist sum magic w'u'd\nellow,\nA downful pillow for your\nsons\nAdam nevuh had no home,\nthey\nHe sowed in his fold."
- },
- {
   "time": "2026-11-11 12:00",
   "temp_c": 14.0,
   "temp_f": 57,
@@ -1598,5 +1590,13 @@
   "humidity": 77,
   "lines": 8,
   "poem": "He never knew nor\nshared.\nIn Olivet, beneath the\niron\nWhen the cannon's lips\nwere\nTo lead me unto his\nbosom"
+ },
+ {
+  "time": "2026-11-21 05:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "\"Blam!\" go de do' an'\nhe\nNo rigid road for me,\nis\nWhen all the early\nfloral\nWhen we saw a lofty\npurpose"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 20:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "\"Yes, I went aftuh Doctuh\nfuh\nThe Dawn's awake!\nWhispers of pent-up\nharmonies,\nWhat days our\nwine-thrilled"
- },
- {
   "time": "2026-11-11 21:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "O'er the nations holds its\nsway,\nAnd we would not listen, yet\nshudder\nDon't yo' love a co'n song?\nThe dream is lovelier than the"
+ },
+ {
+  "time": "2026-11-21 16:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "No rubies can compare.\n\"Adorn'd and crown'd I'd have\nher\nAnd, like a southern lily red,\nFor the plum and the children\nof Peace is hovering over No"
  }
 ]

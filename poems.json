@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 02:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "The pea-dove sings, and\neach\nAn' now de man he sho'\nam\nCruelly they fiercely\nshowered\nIt could not win in"
- },
- {
   "time": "2026-11-11 03:00",
   "temp_c": 8.0,
   "temp_f": 46,
@@ -1598,5 +1590,13 @@
   "humidity": 67,
   "lines": 7,
   "poem": "\"Yes, I went aftuh Doctuh\nfuh\nThe Dawn's awake!\nWhispers of pent-up\nharmonies,\nWhat days our\nwine-thrilled"
+ },
+ {
+  "time": "2026-11-20 20:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "And feel the heavy\nburdens\nThe torture of their\nstrain.\nAnd there's a sweet sob\nin March; there is a\nlovely"
  }
 ]

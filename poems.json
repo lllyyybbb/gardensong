@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 12:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "When the gates of day,\nThe victim of grim care,\nWith each strong deed,\n\"The sword of the city\nclear,\nNow the dead days I have"
- },
- {
   "time": "2026-11-11 13:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 78,
   "lines": 8,
   "poem": "\"Blam!\" go de do' an'\nhe\nNo rigid road for me,\nis\nWhen all the early\nfloral\nWhen we saw a lofty\npurpose"
+ },
+ {
+  "time": "2026-11-21 07:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Will welcome me....\nAnd the light of God\naround\nShe \"kep' lookin'\novah\nThe benediction fell;\nAnd the old\ndraft-horse"
  }
 ]

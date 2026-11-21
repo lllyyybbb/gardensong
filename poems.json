@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-11 18:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "At noon and evening in the\nbabbling\nShrink not from\nThat he'd done set his own\ndesire.\nYou sang far better than all"
- },
- {
   "time": "2026-11-11 19:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "And earth shall answer with\ngladness,\nWhen one arose upon whose\nbrow\nAnd then demanded of the Lord\nand"
+ },
+ {
+  "time": "2026-11-21 14:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "The tired cars go grumbling\nby,\nLeaving behind the vestige of\na\nLike softening to a mighty\ntrumpet-call"
  }
 ]

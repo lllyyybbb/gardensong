@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-12 06:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 78,
-  "lines": 8,
-  "poem": "Oh little, lovely\nChrist--you\nAnd whirling suns shall\nblaze\nIf we must die, let it\nnot\nAnd never bowed his\nsorrowing"
- },
- {
   "time": "2026-11-12 07:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "I touched your flesh with\nreverential\nAnd Lincoln, our martyred\nPresident,\nThe ghastly frame against\nthe innocent crucified for\nthe lips of the world\nThe mists will shroud me"
+ },
+ {
+  "time": "2026-11-22 02:00",
+  "temp_c": 12.0,
+  "temp_f": 54,
+  "humidity": 76,
+  "lines": 8,
+  "poem": "An' so Ah sent fo' you.\nUncovered on your\ntrembling\nWith a courage grand and\nbrave,\nKeep me, Jesus, keep me;\nHelp me praise Thy Holy\nname,"
  }
 ]

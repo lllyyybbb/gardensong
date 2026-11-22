@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-12 16:00",
-  "temp_c": 16.0,
-  "temp_f": 61,
-  "humidity": 70,
-  "lines": 7,
-  "poem": "Its restless, baffled yearning\nceased.\nWhy this agony and terror in\nhis\nWhy, de 'lectric light o'\nHeaven\nFair and lovely are your"
- },
- {
   "time": "2026-11-12 17:00",
   "temp_c": 15.0,
   "temp_f": 59,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "Till our hearts with life\nimmortal,\nDe Jussey cow huh done fall\nsick,\nAnd though my passion played his\nfevered\nOn such devotion long ago"
+ },
+ {
+  "time": "2026-11-22 16:00",
+  "temp_c": 18.0,
+  "temp_f": 64,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "Jump back, honey, jump back.\nHyeahd huh sigh a little tiahed\nAn' da folks wid\nrheumatics--dare\nTwo little children sit by my\nside,\nLay the victims of the Lord and"
  }
 ]

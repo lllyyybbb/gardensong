@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-12 01:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 72,
-  "lines": 7,
-  "poem": "The full supreme\nsurrendering\nGrown lovelier for\npassing\nThey had no home, they\ngave\nOf chieftains who"
- },
- {
   "time": "2026-11-12 02:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "I shall desire to build his\nfortunes\nOh! Church of Christ arise!\narise!\nFar from this foreign\nEaster\nMen have died that men reap"
+ },
+ {
+  "time": "2026-11-21 20:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "Is precious in His hands,\nAre ballot-box and public\nschool.\nShall be precious in my\nhumbled\nMy brows men laureled and\nmy songs of sorrow, pain"
  }
 ]

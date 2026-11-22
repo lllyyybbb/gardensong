@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-12 13:00",
-  "temp_c": 15.0,
-  "temp_f": 59,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Down in lovah's lane,\nMerlindy! Merlindy!\nMy heart was all but weaned\naway\nWhen ol' Sis' Judy pray.\nO, Miss 'Lindy, doan' you\nhyuh\nFell on his sword,"
- },
- {
   "time": "2026-11-12 14:00",
   "temp_c": 17.0,
   "temp_f": 63,
@@ -1598,5 +1590,13 @@
   "humidity": 84,
   "lines": 8,
   "poem": "One was singing of its secret\nplace,\nA prize bunch of bananas on\nhis\nUpon the exit of a vacant\nchair.\nThat cruelty and crime\nShould come to know"
+ },
+ {
+  "time": "2026-11-22 12:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 78,
+  "lines": 8,
+  "poem": "I touched your flesh with\nreverential\nAnd all God's creatures, but I\nmust\nGoing to valorous deeds; such\ntones\nAnd the mournful wreck of his\ngrace."
  }
 ]

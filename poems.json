@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-12 10:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 80,
-  "lines": 8,
-  "poem": "Weep not, oh my\nwell-sheltered\nAnd Phillips now are cold\nand\nThe plodder glad is good;\nand\nBreath vigor through each\nvein"
- },
- {
   "time": "2026-11-12 11:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 79,
   "lines": 8,
   "poem": "Luxuriant fell; and\ntossing\nGod cannot let it come to\njuice,\nmothers and their clothes\nawry,\nFeelinl sad dis market\nday."
+ },
+ {
+  "time": "2026-11-22 09:00",
+  "temp_c": 13.0,
+  "temp_f": 55,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "Natalie pondering all\nthat's\nBut I am black?\nWhy did I stray from their\nsorrow\nWhat days our wine-thrilled\nbodies\nIn agony searching for"
  }
 ]

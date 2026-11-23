@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-13 04:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "O! whut a ban'!\nCose, we all clasped\nhands\nSo oft our hearts,\nAnd live in arrogance,\nsin\nAnd scanned each cruel"
- },
- {
   "time": "2026-11-13 05:00",
   "temp_c": 8.0,
   "temp_f": 46,
@@ -1598,5 +1590,13 @@
   "humidity": 86,
   "lines": 8,
   "poem": "The dream is lovelier than\nthe home for aged fathers\nBend above their staves and\nweep,\nThey still shall see Him in\nthe lips of men\nI look far out into the\npregnant"
+ },
+ {
+  "time": "2026-11-23 11:00",
+  "temp_c": 16.0,
+  "temp_f": 61,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "As precious pearls I'll clasp\nher\nWould you blame me for a day\nlike\nLittle brown baby wif\nspa'klin'\nI am hated.\nI have a share."
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-13 00:00",
-  "temp_c": 11.0,
-  "temp_f": 52,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "That salts my choicest\ndrink\nFeasting upon\nblackberries\nAnd burnt you yielding in\nmy songs of sorrow, love\nand\nWhen my mammy says de"
- },
- {
   "time": "2026-11-13 01:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 89,
   "lines": 8,
   "poem": "An' er acre o' groun',\nVines agrowin' on it,\nKaze it jes won't be denied;\nIts love, its joy, and rosy\nlight,\nOut in the\neucharis\nBefore sex tamed your"
+ },
+ {
+  "time": "2026-11-23 02:00",
+  "temp_c": 14.0,
+  "temp_f": 57,
+  "humidity": 91,
+  "lines": 8,
+  "poem": "\"Thou shalt be a skeleton, a\nshell,\nLife may renew the Autumn\ntime,\nAny time you hears da cheers\nan'\nDrop down the dale,\nScornful of teacher’s rod"
  }
 ]

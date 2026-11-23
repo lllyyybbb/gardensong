@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-12 19:00",
-  "temp_c": 13.0,
-  "temp_f": 55,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "Once more to ask\nAnd never again be felt.\nNo more across the seas.\nAnd ferns that never fade.\nO my brothers and my\npleasure\nSing, my bawnjer, sing!\nWe's gwine ter dawnce dis"
- },
- {
   "time": "2026-11-12 20:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 80,
   "lines": 8,
   "poem": "And realize once more my\nthousand\nLuxuriant, clustered round\nyour\nAre darling of spirit and\nform.\nCome, children, hear the\njoyful"
+ },
+ {
+  "time": "2026-11-22 19:00",
+  "temp_c": 17.0,
+  "temp_f": 63,
+  "humidity": 85,
+  "lines": 8,
+  "poem": "The night is dark but, one by\nwhich\n(_A Negro Sermon_)\nAnd the moon was on His world\nAnd lights are in my veins, my\nbrain,\nAnd it's, oh, for a holiday.\nFrom the Sinai that faces"
  }
 ]

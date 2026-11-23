@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-12 22:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 74,
-  "lines": 7,
-  "poem": "The ghastly body swaying\nin crime and wrong.\nMusic to soothe all its\nliving\nLet us, at least, for this\nbe\nAnd they flew down a"
- },
- {
   "time": "2026-11-12 23:00",
   "temp_c": 11.0,
   "temp_f": 52,
@@ -1598,5 +1590,13 @@
   "humidity": 87,
   "lines": 8,
   "poem": "Stole my morning song!\nAh, how poets sing and shout\nit;\nPappy do' know you--I\nb'lieves\nWho tend life's garden fair,\nFor the velvet sponge and the\nlambkin"
+ },
+ {
+  "time": "2026-11-22 23:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 88,
+  "lines": 8,
+  "poem": "Feeling the ancient rock\naround,\nRing, my bawnjer, ring!\nDen hits roun' de hill an'\nfroo\nAnd furl the banners of\ndestruction\nAnd now we ask of thee our"
  }
 ]

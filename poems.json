@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-13 10:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "Ah lak yo' clothes,\nAn' my 'Mandy smile huh\nbliss--\nAnd laid it on my\nthrone,\nFell early on the bays\nupon"
- },
- {
   "time": "2026-11-13 11:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 62,
   "lines": 6,
   "poem": "De voice ur God widin me speak';\nI heed not the dreadful roar of\nbattle\nAnd I trod the soil in pain.\nIt is nothing to me, the weary,\nweary"
+ },
+ {
+  "time": "2026-11-23 16:00",
+  "temp_c": 19.0,
+  "temp_f": 66,
+  "humidity": 61,
+  "lines": 6,
+  "poem": "To ease the burdens of men,\n\"As ye would that others do to\nyou\nAs Samson in the holy hosts of\nheaven,\nIf he failed us we all are kin."
  }
 ]

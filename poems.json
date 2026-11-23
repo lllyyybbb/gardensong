@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-12 21:00",
-  "temp_c": 12.0,
-  "temp_f": 54,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "All pure, but heavy, and\nof Peace is hovering over\nNo rubies can compare.\n\"Adorn'd and crown'd I'd\nhave\nFor this my race\nWhich wind with hill"
- },
- {
   "time": "2026-11-12 22:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 85,
   "lines": 8,
   "poem": "Pulsing through his sleep.\nHe lifted up his darkened\nface.\n\"Merely a Negro\"--in a day\nlike\nBut weep for Vashti's shame!\n\"Go back!\" she cried, and\nwaved"
+ },
+ {
+  "time": "2026-11-22 22:00",
+  "temp_c": 15.0,
+  "temp_f": 59,
+  "humidity": 87,
+  "lines": 8,
+  "poem": "Stole my morning song!\nAh, how poets sing and shout\nit;\nPappy do' know you--I\nb'lieves\nWho tend life's garden fair,\nFor the velvet sponge and the\nlambkin"
  }
 ]

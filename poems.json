@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-14 06:00",
-  "temp_c": 6.0,
-  "temp_f": 43,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "For Christless men,\nwith\nThe musty pages of\nold\nAnd all her\ndiscords--"
- },
- {
   "time": "2026-11-14 10:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 64,
   "lines": 6,
   "poem": "The drops refused to\nfall.\nBut looking at her\nfalsely-smiling\nOf the saints all\ncrowned"
+ },
+ {
+  "time": "2026-11-24 07:00",
+  "temp_c": 6.0,
+  "temp_f": 43,
+  "humidity": 64,
+  "lines": 6,
+  "poem": "No ca' how dem boy\nmight\nHis people's gift of\nsong.\nThe strength go\nebbing"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-14 01:00",
-  "temp_c": 5.0,
-  "temp_f": 41,
-  "humidity": 64,
-  "lines": 6,
-  "poem": "Devoured her with\ntheir hands again\nHis life lay in\ntheir hands again\n'Mid the evening's\ndews"
- },
- {
   "time": "2026-11-14 02:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "Our swaying forms and\nsteals\nHis itching flesh sees\nform\nThan to staunch a\nstream"
+ },
+ {
+  "time": "2026-11-24 04:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 63,
+  "lines": 6,
+  "poem": "Now sits with those\naround\n\"Cease your bloodshed,\"\ncried\nSweet as a rebel fronts\na"
  }
 ]

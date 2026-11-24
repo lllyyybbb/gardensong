@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-13 20:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 62,
-  "lines": 6,
-  "poem": "My \"House of Golden\nLeaves\"\nAnd sound! ye with\nharp\nWhose 'nuff burdens\n'pon"
- },
- {
   "time": "2026-11-13 22:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 63,
   "lines": 6,
   "poem": "From their path the\ngladiators\nthat no wrong this side\nthe innocent crucified for\nthe innocent crucified for\nthe men who cast aside"
+ },
+ {
+  "time": "2026-11-24 01:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 62,
+  "lines": 6,
+  "poem": "Of de loved though ailin'\nwife,\nAnd you are\nSits-by-the-fire in my\ncrown,\nWith her husband to make"
  }
 ]

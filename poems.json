@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-15 11:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Before my ravished sight\nWho but you can mek it\nthoo,\nFeared her child would\ndie\nAnd of the Loyal Legion"
- },
- {
   "time": "2026-11-15 12:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "Our world, so sad\nand\nWas the warm and\npassing\nWhere sorrow would\nnever"
+ },
+ {
+  "time": "2026-11-25 10:00",
+  "temp_c": 5.0,
+  "temp_f": 41,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Stop! Stop! How dare\nI shall go swiftly\nto dance for us,\"\nthe men who have\nwoven\nBut heaven grows"
  }
 ]

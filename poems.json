@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-15 09:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "There passes across my\nceiling\nSuch a gift that even\nheaven\nTill our world, so\nworn\nLost in death dimmed"
- },
- {
   "time": "2026-11-15 10:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 60,
   "lines": 6,
   "poem": "And a fair blue\nstream,\nHe's pappy's pa'dner\nan'\nShe pointed to the\nwaters"
+ },
+ {
+  "time": "2026-11-25 08:00",
+  "temp_c": 3.0,
+  "temp_f": 37,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Elaine with\ncomprehending\nClose to the pool.\nOh what new purpose\nshall\nFor you, more"
  }
 ]

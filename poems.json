@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-15 03:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "Of hungry and\nimportunate\nDem pantry bottles was\nput\n\"Entreat him that he\nsell"
- },
- {
   "time": "2026-11-15 04:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "For Christless men,\nwith\nfought the fight of\nothers\nFor comfort, peace\nand"
+ },
+ {
+  "time": "2026-11-25 02:00",
+  "temp_c": 3.0,
+  "temp_f": 37,
+  "humidity": 59,
+  "lines": 6,
+  "poem": "It chafes me not thy\ntitle\nBringing surcease to\nher\nBut may mother, home\nand"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-14 22:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "There passes across my\nceiling\nSuch a gift that even\nheaven\nTill our world, so\nworn\nLost in death dimmed"
- },
- {
   "time": "2026-11-14 23:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 59,
   "lines": 6,
   "poem": "Sugar sell fe\ntwo-an'-six!\nBy you will never,\nnever\nAnd rape their souls\nfor"
+ },
+ {
+  "time": "2026-11-24 22:00",
+  "temp_c": 5.0,
+  "temp_f": 41,
+  "humidity": 60,
+  "lines": 6,
+  "poem": "Stop! Stop! How dare\nI shall go swiftly\nto dance for us,\"\nthe men who have\nwoven\nBut heaven grows"
  }
 ]

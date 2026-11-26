@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-15 23:00",
-  "temp_c": 5.0,
-  "temp_f": 41,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "Cradle of Power! Yet\nall\nHow that mother's\nhand\nSearching me\nthrough,\nEven the sacred"
- },
- {
   "time": "2026-11-16 00:00",
   "temp_c": 5.0,
   "temp_f": 41,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "And when we played,\nAll the world was young\nin March; there is\nalways\nWhen pestilence clasps\nhands\nToo wonderful the April"
+ },
+ {
+  "time": "2026-11-26 03:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 70,
+  "lines": 7,
+  "poem": "The trail of weary\nwasting\nKeep me, Jesus, keep\nme;\nThe dusky, half-clad\ngirls\nWhile Danny liked the"
  }
 ]

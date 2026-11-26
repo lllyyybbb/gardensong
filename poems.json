@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-16 00:00",
-  "temp_c": 5.0,
-  "temp_f": 41,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "And thought of\nviolets\nWhil' de moments am\na-flyin',\nSo him think, an'\nthink\nLed by the Mersey,"
- },
- {
   "time": "2026-11-16 01:00",
   "temp_c": 5.0,
   "temp_f": 41,
@@ -1598,5 +1590,13 @@
   "humidity": 70,
   "lines": 7,
   "poem": "The trail of weary\nwasting\nKeep me, Jesus, keep\nme;\nThe dusky, half-clad\ngirls\nWhile Danny liked the"
+ },
+ {
+  "time": "2026-11-26 04:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "You can mourn o'er the\nsad-eyed\nOne is Edna, the other\nof Peace hovering over\nNo longer was sitting\nthere.\nAnd launched in safety\non"
  }
 ]

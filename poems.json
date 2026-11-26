@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-16 10:00",
-  "temp_c": 6.0,
-  "temp_f": 43,
-  "humidity": 68,
-  "lines": 7,
-  "poem": "Deze eatin' folks may\ntell\nO, brothers mine,\ntake\nTelling us we all\ntread.\n'Long de lovah's"
- },
- {
   "time": "2026-11-16 11:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "Your straight air and\nradiant\nAnd you'll see into my\nblood,\nCome tender sleep, and\nfold\nLet peace at last had\nfound"
+ },
+ {
+  "time": "2026-11-26 12:00",
+  "temp_c": 8.0,
+  "temp_f": 46,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "Blown by black players\nupon\nAnd climbing up with\nchildish\nAnd mating thrushes\nushering\nAnd if they kill me it\nhas"
  }
 ]

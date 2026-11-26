@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-16 13:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 63,
-  "lines": 6,
-  "poem": "Before my ravished sight\nWho but you can mek it\nthoo,\nFeared her child would\ndie\nAnd of the Loyal Legion"
- },
- {
   "time": "2026-11-16 14:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 94,
   "lines": 8,
   "poem": "\"Now bring me here ub\nfreedum,\nThey had met in deadly\nstrife;\nTo call it dancing;\nThere, oh there! on the\neternal excellency, a\njoy"
+ },
+ {
+  "time": "2026-11-26 15:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 95,
+  "lines": 8,
+  "poem": "I must not see as man;\nWhile the black man's\nmuscles\nFreedom your native\nland\nBy an avalanche of woe.\nDo not cheer while maid\nand"
  }
 ]

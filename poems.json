@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-16 11:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 66,
-  "lines": 7,
-  "poem": "There passes across my\nceiling\nSuch a gift that even\nheaven\nTill our world, so\nworn\nLost in death dimmed"
- },
- {
   "time": "2026-11-16 12:00",
   "temp_c": 9.0,
   "temp_f": 48,
@@ -1598,5 +1590,13 @@
   "humidity": 93,
   "lines": 8,
   "poem": "Blown by black players\nupon\nAnd climbing up with\nchildish\nAnd mating thrushes\nushering\nAnd if they kill me it\nhas"
+ },
+ {
+  "time": "2026-11-26 13:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 93,
+  "lines": 8,
+  "poem": "That each the burden of\ntheir hands\nIn the star lit realms\nof Peace hovering over\nNo more across the\nwindy\nTo heed, and watch his\nnimble"
  }
 ]

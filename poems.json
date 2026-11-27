@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-17 09:00",
-  "temp_c": 4.0,
-  "temp_f": 39,
-  "humidity": 76,
-  "lines": 8,
-  "poem": "Stand back of\nnew-come\nJoining in the\nstarlit\nWe shall smile who\nloved\nMah 'ittle Touzle\nHead."
- },
- {
   "time": "2026-11-17 10:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 72,
   "lines": 7,
   "poem": "The full supreme\nsurrendering\nGrown lovelier for\npassing\nThey had no home, they\ngave\nOf chieftains who"
+ },
+ {
+  "time": "2026-11-27 17:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 73,
+  "lines": 7,
+  "poem": "Not in vain had been his\ncourage,\nAnd when the night for\nyour\nAnd leading on the\nisland\nWith steady hands he"
  }
 ]

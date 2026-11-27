@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-16 20:00",
-  "temp_c": 8.0,
-  "temp_f": 46,
-  "humidity": 69,
-  "lines": 7,
-  "poem": "At golden noon the\nforest\nWhen peace descends\nlike\nDe milyuns on dem vines\nam\nPurtty white satin"
- },
- {
   "time": "2026-11-16 21:00",
   "temp_c": 7.0,
   "temp_f": 45,
@@ -1598,5 +1590,13 @@
   "humidity": 93,
   "lines": 8,
   "poem": "The laughing grasses\nheaven’s\nEen ur mighty high hill.\nMistah Ba'r fall\nsick--dee\nNor will your glory seek\nmy songs of the old\noak-tree;"
+ },
+ {
+  "time": "2026-11-27 07:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 92,
+  "lines": 8,
+  "poem": "Its veil. I see myse'f so\npo'\nI cried for bread,\nAnd when he published his\nChilde\nWhen Christ was in the\nlong\nAnd nestle close to his"
  }
 ]

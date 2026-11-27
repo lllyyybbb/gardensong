@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-17 06:00",
-  "temp_c": 3.0,
-  "temp_f": 37,
-  "humidity": 77,
-  "lines": 8,
-  "poem": "But Adam nevuh had\nno\nI know there's room\nFor the peace of God\nand\nIn the night is\nmine;\nShielding my heart"
- },
- {
   "time": "2026-11-17 09:00",
   "temp_c": 4.0,
   "temp_f": 39,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "Like nursery children you\nhave\nIn our defence had\nbravely\nA ray of light,\nWould you blame the world\ntheir hands again"
+ },
+ {
+  "time": "2026-11-27 16:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 72,
+  "lines": 7,
+  "poem": "The full supreme\nsurrendering\nGrown lovelier for\npassing\nThey had no home, they\ngave\nOf chieftains who"
  }
 ]

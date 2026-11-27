@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-16 21:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 71,
-  "lines": 7,
-  "poem": "Almost broken was his\nchain.\nTo warm me when I'm\ndead.\nDey's a lovah's lane.\nAn' de way Ah love\nyou,--goodness"
- },
- {
   "time": "2026-11-16 22:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 92,
   "lines": 8,
   "poem": "Its veil. I see myse'f so\npo'\nI cried for bread,\nAnd when he published his\nChilde\nWhen Christ was in the\nlong\nAnd nestle close to his"
+ },
+ {
+  "time": "2026-11-27 08:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 89,
+  "lines": 8,
+  "poem": "The forest trees have\nshed\nIf this dark Passion\nthat no wrong this side\nthe lips of the exile\ndream?\nWere our vision clearer\nfar,"
  }
 ]

@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-17 22:00",
-  "temp_c": 6.0,
-  "temp_f": 43,
-  "humidity": 75,
-  "lines": 8,
-  "poem": "'Weh down Souf.\nI would rather die.\"\nThey shall see Him\nwhen\nGod of a fair blue\nstream,\nTo gaze upon earth's\nglorious"
- },
- {
   "time": "2026-11-17 23:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 68,
   "lines": 7,
   "poem": "Buggah-man, buggah-man,\ncome\nWith highest gift of\nsong,\nTo be a Negro in a sea\nof Peace hovering over\nNo more across the sky,"
+ },
+ {
+  "time": "2026-11-28 12:00",
+  "temp_c": 11.0,
+  "temp_f": 52,
+  "humidity": 67,
+  "lines": 7,
+  "poem": "For the river\nGod help our native land,\nAnd give me--meekly to do\nmy songs of love and\nlife,\nContemplating the\nstrange,"
  }
 ]

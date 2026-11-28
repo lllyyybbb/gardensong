@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-17 12:00",
-  "temp_c": 9.0,
-  "temp_f": 48,
-  "humidity": 67,
-  "lines": 7,
-  "poem": "For the bearing toils\nand\nBreak loose in a day\nlike\nNo alien airs had\ncrossed;\nAgainst the daggers of"
- },
- {
   "time": "2026-11-17 13:00",
   "temp_c": 10.0,
   "temp_f": 50,
@@ -1598,5 +1590,13 @@
   "humidity": 75,
   "lines": 8,
   "poem": "But you have gentle\ncompassion;\nOf severed hearts again\nmade\nI want to die while you\nlove\nFrom the leagued lying\nof Peace hovering over"
+ },
+ {
+  "time": "2026-11-27 20:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 74,
+  "lines": 7,
+  "poem": "She drove the sap and\nbroke\nHe wouldn't his Lord\ndeny.\nWhose meaning,\ncharlatan\nWeep not for the gift"
  }
 ]

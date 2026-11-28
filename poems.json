@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-17 21:00",
-  "temp_c": 7.0,
-  "temp_f": 45,
-  "humidity": 73,
-  "lines": 7,
-  "poem": "Dey simpley idolize\nDat offen laffs an'\nselem\nWhen you set down at\nde\nThe wine-flushed,\nbold-eyed"
- },
- {
   "time": "2026-11-17 22:00",
   "temp_c": 6.0,
   "temp_f": 43,
@@ -1598,5 +1590,13 @@
   "humidity": 71,
   "lines": 7,
   "poem": "O! whut a ban'!\nCose, we all clasped\nhands\nSo oft our hearts,\nAnd live in arrogance,\nsin\nAnd scanned each cruel"
+ },
+ {
+  "time": "2026-11-28 11:00",
+  "temp_c": 10.0,
+  "temp_f": 50,
+  "humidity": 68,
+  "lines": 7,
+  "poem": "Buggah-man, buggah-man,\ncome\nWith highest gift of\nsong,\nTo be a Negro in a sea\nof Peace hovering over\nNo more across the sky,"
  }
 ]

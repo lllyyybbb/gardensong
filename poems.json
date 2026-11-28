@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-17 13:00",
-  "temp_c": 10.0,
-  "temp_f": 50,
-  "humidity": 65,
-  "lines": 6,
-  "poem": "I traced a path of flame\nand\nAt his earnest plea the\nmaster\nMy shrinking eyes shall\nmeet."
- },
- {
   "time": "2026-11-17 14:00",
   "temp_c": 13.0,
   "temp_f": 55,
@@ -1598,5 +1590,13 @@
   "humidity": 74,
   "lines": 7,
   "poem": "She drove the sap and\nbroke\nHe wouldn't his Lord\ndeny.\nWhose meaning,\ncharlatan\nWeep not for the gift"
+ },
+ {
+  "time": "2026-11-27 21:00",
+  "temp_c": 9.0,
+  "temp_f": 48,
+  "humidity": 75,
+  "lines": 8,
+  "poem": "But you have gentle\ncompassion;\nOf severed hearts again\nmade\nI want to die while you\nlove\nFrom the leagued lying\nof Peace hovering over"
  }
 ]

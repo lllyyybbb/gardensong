@@ -1,13 +1,5 @@
 [
  {
-  "time": "2026-11-17 15:00",
-  "temp_c": 14.0,
-  "temp_f": 57,
-  "humidity": 58,
-  "lines": 6,
-  "poem": "No engines shrieking rescue\nstorm\nBy this narcotic thought: I\nknow\nYour guarded life too\nexquisitely"
- },
- {
   "time": "2026-11-17 16:00",
   "temp_c": 12.0,
   "temp_f": 54,
@@ -1598,5 +1590,13 @@
   "humidity": 76,
   "lines": 8,
   "poem": "The tenant of thy\npower.\nMen may tread down the\nstreet,\nEach well remembered\nchime.\nTo call out dishes for\neach"
+ },
+ {
+  "time": "2026-11-27 23:00",
+  "temp_c": 7.0,
+  "temp_f": 45,
+  "humidity": 79,
+  "lines": 8,
+  "poem": "From distant Ind to\nEthiop,\n\"Now, gent'mens, make\nyo'selves\nWaiting for my girl?\nThat ye will try the\nboys\nGolden grain will"
  }
 ]
